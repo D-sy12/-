@@ -1,0 +1,199 @@
+@use '@/styles/variables.scss' as *;
+
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: $color-bg-page;
+}
+
+// ---------- 顶部分段 ----------
+.segmentBar {
+  display: flex;
+  padding: 16rpx $page-padding;
+  background: $color-bg-card;
+  box-shadow: $shadow-card;
+}
+
+.segmentItem {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 64rpx;
+  border-radius: $radius-button;
+  font-size: 26rpx;
+  color: $color-text-tertiary;
+
+  &:active {
+    opacity: 0.75;
+  }
+}
+
+.segmentActive {
+  background: $color-primary;
+  color: #fff;
+  font-weight: $font-weight-semibold;
+}
+
+.segmentBody {
+  flex: 1;
+  min-height: 0;
+}
+
+// ---------- 字母联动布局 ----------
+.letterLayout {
+  height: 100%;
+  display: flex;
+}
+
+.svContent {
+  flex: 1;
+  height: 100%;
+}
+
+.anchor {
+  display: block;
+}
+
+.listBottom {
+  height: 48rpx;
+}
+
+.letterBar {
+  width: 44rpx;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8rpx 0;
+}
+
+.letterItem {
+  font-size: 20rpx;
+  color: $color-text-tertiary;
+  padding: 4rpx 0;
+  line-height: 1.2;
+}
+
+.letterActive {
+  color: $color-primary;
+  font-weight: $font-weight-bold;
+}
+
+// ---------- 词根卡片 ----------
+.groupPad {
+  padding: 16rpx 20rpx 0;
+}
+
+.rootCard {
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  margin-bottom: 16rpx;
+  overflow: hidden;
+}
+
+.rootHeader {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 20rpx 24rpx;
+  border-bottom: 1rpx solid $color-divider;
+  background: rgba(79, 124, 255, 0.04);
+}
+
+.rootName {
+  font-size: 30rpx;
+  font-weight: $font-weight-bold;
+  color: $color-primary-dark;
+}
+
+.rootMeaning {
+  font-size: 22rpx;
+  color: $color-text-tertiary;
+}
+
+.rootWordList {
+  display: block;
+}
+
+// ---------- 全部词汇 ----------
+.letterHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20rpx 24rpx;
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  margin-bottom: 2rpx;
+  font-size: 26rpx;
+  color: $color-text-secondary;
+
+  &:active {
+    background: $color-bg-hover;
+  }
+}
+
+.letterArrow {
+  font-size: 22rpx;
+  color: $color-text-tertiary;
+}
+
+.flatGroup {
+  background: $color-bg-card;
+  border-radius: 0 0 $radius-md $radius-md;
+  overflow: hidden;
+  margin-bottom: 16rpx;
+  box-shadow: $shadow-card;
+}
+
+// ---------- 词缀 ----------
+.affixScroll {
+  height: 100%;
+  padding: 16rpx 20rpx 48rpx;
+}
+
+.affixCol {
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  padding: 20rpx 24rpx;
+  margin-bottom: 20rpx;
+}
+
+.affixColTitle {
+  display: block;
+  font-size: 28rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-primary-dark;
+  margin-bottom: 12rpx;
+}
+
+.affixItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14rpx 0;
+  border-bottom: 1rpx solid $color-divider;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.affixName {
+  font-size: 26rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-primary;
+}
+
+.affixMeaning {
+  flex: 1;
+  margin-left: 24rpx;
+  text-align: right;
+  font-size: 24rpx;
+  color: $color-text-secondary;
+}

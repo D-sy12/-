@@ -1,0 +1,670 @@
+{
+  "id": "2021-12-2",
+  "writing": "Directions: Suppose your university student union is planning to hold a speech contest. You are now to write a proposal for organizing the contest. The proposal may include the topic, aim , procedure and selection of contestants. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What was the woman's problem?",
+      "options": {
+        "A": "She was pierced by a chicken bone.",
+        "B": "She was coughing all the time.",
+        "C": "She suffered from lung cancer.",
+        "D": "She suffered from shock."
+      },
+      "stem_cn": "这位女士的问题是什么?",
+      "options_cn": {
+        "A": "她被鸡骨头刺伤了。",
+        "B": "她一直在咳嗽。",
+        "C": "她患有肺癌。",
+        "D": "她受到了惊吓。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "How was the woman's problem eventually solved?",
+      "options": {
+        "A": "By eating chicken soup daily.",
+        "B": "Through regular exercising.",
+        "C": "Through a surgical operation.",
+        "D": "By using traditional Chinese medicine."
+      },
+      "stem_cn": "这位女士的问题最终是如何解决的?",
+      "options_cn": {
+        "A": "通过每天喝鸡汤。",
+        "B": "通过定期锻炼。",
+        "C": "通过外科手术。",
+        "D": "通过使用中药。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What does the news report say about the white sheep Prickles?",
+      "options": {
+        "A": "It was born 13 years ago.",
+        "B": "It was Alice Gray's lovely pet.",
+        "C": "It got injured in a big bushfire.",
+        "D": "It ran away into a nearby forest."
+      },
+      "stem_cn": "新闻报道中关于白羊Prickles说了什么?",
+      "options_cn": {
+        "A": "它出生于13年前。",
+        "B": "它是Alice Gray心爱的宠物。",
+        "C": "它在一场大型丛林火灾中受伤。",
+        "D": "它跑进了附近的森林。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What did the family do after the bushfires?",
+      "options": {
+        "A": "They rebuilt the fencing around their farm.",
+        "B": "They spent seven years replanting their farm.",
+        "C": "They claimed damages for their heavy losses.",
+        "D": "They installed a camera to monitor sheep activity."
+      },
+      "stem_cn": "丛林火灾后这家人做了什么?",
+      "options_cn": {
+        "A": "他们重建了农场周围的围栏。",
+        "B": "他们花了七年时间重新种植农场。",
+        "C": "他们为重大损失索赔。",
+        "D": "他们安装了摄像头来监控羊的活动。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What is the news report mainly about?",
+      "options": {
+        "A": "The disappearance of some gold and diamonds.",
+        "B": "The transfer of tons of precious metal by air.",
+        "C": "The crash of a Russian cargo airplane.",
+        "D": "The loss of gold from an airplane."
+      },
+      "stem_cn": "这则新闻报道主要关于什么？",
+      "options_cn": {
+        "A": "一些黄金和钻石的失踪。",
+        "B": "数吨贵重金属的空运。",
+        "C": "一架俄罗斯货机的坠毁。",
+        "D": "飞机上黄金的丢失。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What did the aircraft do when the incident happened?",
+      "options": {
+        "A": "It made an emergency landing.",
+        "B": "It informed the local police at once.",
+        "C": "It contacted the goldmine company.",
+        "D": "It had a crew member fix the problem."
+      },
+      "stem_cn": "事件发生时飞机做了什么？",
+      "options_cn": {
+        "A": "它进行了紧急降落。",
+        "B": "它立即通知了当地警方。",
+        "C": "它联系了金矿公司。",
+        "D": "它让一名机组人员修理了问题。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What does the news report say about the technical engineers who worked on the plane before take-off?",
+      "options": {
+        "A": "They will cooperate with the police.",
+        "B": "They had checked the plane carefully.",
+        "C": "They will be questioned by the police.",
+        "D": "They took some gold bars and diamonds."
+      },
+      "stem_cn": "新闻报道对起飞前检修该飞机的技术工程师有何说法？",
+      "options_cn": {
+        "A": "他们将配合警方工作。",
+        "B": "他们曾仔细检查过飞机。",
+        "C": "他们将接受警方问询。",
+        "D": "他们拿走了一些金条和钻石。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "Why does the man have his conversation with the woman recorded?",
+      "options": {
+        "A": "For the company's records.",
+        "B": "For future training purposes.",
+        "C": "To follow the company's rule.",
+        "D": "To ensure information security."
+      },
+      "stem_cn": "男士为什么将他与女士的对话录音?",
+      "options_cn": {
+        "A": "为了公司的记录。",
+        "B": "为了将来的培训目的。",
+        "C": "为了遵守公司的规定。",
+        "D": "为了确保信息安全。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What is the woman's purpose of calling the furniture company?",
+      "options": {
+        "A": "To check her customer reference number.",
+        "B": "To inquire about the price of office chairs.",
+        "C": "To get her money back for the returned chair.",
+        "D": "To make complaints about its customer service."
+      },
+      "stem_cn": "女士致电家具公司的目的是什么?",
+      "options_cn": {
+        "A": "核查她的客户参考编号。",
+        "B": "询问办公椅的价格。",
+        "C": "为退回的椅子拿回她的钱。",
+        "D": "对其客户服务进行投诉。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What does the woman say about her bank card?",
+      "options": {
+        "A": "She had to update its information.",
+        "B": "She forgot where she had left it.",
+        "C": "She lost it about three days ago.",
+        "D": "She was issued a new card."
+      },
+      "stem_cn": "女士关于她的银行卡说了什么?",
+      "options_cn": {
+        "A": "她不得不更新其信息。",
+        "B": "她忘记把它落在哪里了。",
+        "C": "她大约三天前丢失了它。",
+        "D": "她获发了一张新卡。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the man advise the woman to do?",
+      "options": {
+        "A": "Reconsider her options for payment methods.",
+        "B": "Make a specific note on the company's system.",
+        "C": "Update her bank card details on the company's website.",
+        "D": "Upload her personal information to the company's website."
+      },
+      "stem_cn": "男士建议女士做什么?",
+      "options_cn": {
+        "A": "重新考虑她的支付方式选项。",
+        "B": "在公司的系统上做一个具体备注。",
+        "C": "在公司的网站上更新她的银行卡详细信息。",
+        "D": "将她的个人信息上传到公司的网站。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "Why isn't the man going to cook?",
+      "options": {
+        "A": "He is feeling exhausted.",
+        "B": "He is tired of cooking.",
+        "C": "He has to work late.",
+        "D": "He wants to try Asian foods."
+      },
+      "stem_cn": "男士为什么不打算做饭?",
+      "options_cn": {
+        "A": "他感到筋疲力尽。",
+        "B": "他厌倦了做饭。",
+        "C": "他必须工作到很晚。",
+        "D": "他想尝试亚洲食物。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What does the man say he'll do on his phone?",
+      "options": {
+        "A": "Book a table.",
+        "B": "Order a delivery.",
+        "C": "Download a menu.",
+        "D": "Locate a restaurant."
+      },
+      "stem_cn": "男士说他会在手机上做什么?",
+      "options_cn": {
+        "A": "预订餐位。",
+        "B": "订外卖。",
+        "C": "下载菜单。",
+        "D": "定位一家餐厅。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the woman think of Indian food?",
+      "options": {
+        "A": "It is not tasty.",
+        "B": "It is not healthy.",
+        "C": "It is too oily.",
+        "D": "It is too spicy."
+      },
+      "stem_cn": "女士认为印度食物怎么样?",
+      "options_cn": {
+        "A": "不好吃。",
+        "B": "不健康。",
+        "C": "太油腻。",
+        "D": "太辣。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the man think of the woman?",
+      "options": {
+        "A": "She is too concerned about money.",
+        "B": "She is too weight-conscious.",
+        "C": "She is too picky about food.",
+        "D": "She is too eager to please."
+      },
+      "stem_cn": "男士认为女士怎么样?",
+      "options_cn": {
+        "A": "她太在意钱。",
+        "B": "她太注重体重。",
+        "C": "她对食物太挑剔。",
+        "D": "她太急于取悦别人。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What do we learn from the new study by the University of Lincoln?",
+      "options": {
+        "A": "Owners' personalities affect their cats' behaviour and wellbeing.",
+        "B": "Parents' personalities can affect the personalities of their children.",
+        "C": "Parents and cat owners alike experience high levels of anxiety.",
+        "D": "More and more people are treating pet cats like their children."
+      },
+      "stem_cn": "我们从林肯大学的新研究中了解到什么？",
+      "options_cn": {
+        "A": "主人的性格会影响他们的猫的行为和健康状况。",
+        "B": "父母的性格会影响他们孩子的性格。",
+        "C": "父母和养猫者都经历高度焦虑。",
+        "D": "越来越多的人像对待孩子一样对待宠物猫。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does the passage say most pet owners want to do?",
+      "options": {
+        "A": "Give their pets behavioural training.",
+        "B": "Provide their pets with the best care.",
+        "C": "Know their pets' feelings and desires.",
+        "D": "Interact with their pets in novel ways."
+      },
+      "stem_cn": "文章说大多数宠物主人想做什么？",
+      "options_cn": {
+        "A": "给他们的宠物进行行为训练。",
+        "B": "为他们的宠物提供最好的照顾。",
+        "C": "了解他们宠物的感受和愿望。",
+        "D": "以新颖的方式与他们的宠物互动。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What does the passage say is still needed to understand the effects of owners' personalities on their pets?",
+      "options": {
+        "A": "More convincing explanation.",
+        "B": "More extensive sampling.",
+        "C": "Collection of more data.",
+        "D": "Further investigation."
+      },
+      "stem_cn": "文章说仍然需要什么来理解主人性格对其宠物的影响？",
+      "options_cn": {
+        "A": "更有说服力的解释。",
+        "B": "更广泛的取样。",
+        "C": "收集更多数据。",
+        "D": "进一步调查。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What did the new review of studies claim?",
+      "options": {
+        "A": "People should do more running than mere walking.",
+        "B": "Running is the best exercise for extending one's life.",
+        "C": "People should exercise at least 60 minutes every day.",
+        "D": "Running is the easiest form of exercise for most people."
+      },
+      "stem_cn": "新的研究综述声称了什么?",
+      "options_cn": {
+        "A": "人们应该多跑步而不是仅仅走路。",
+        "B": "跑步是延长寿命的最佳运动。",
+        "C": "人们每天至少应该运动60分钟。",
+        "D": "跑步是对大多数人来说最容易的运动形式。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What is one effect that running has on people according to recent research?",
+      "options": {
+        "A": "Improving their brain function.",
+        "B": "Regulating their breathing rate.",
+        "C": "Slowing down their ageing process.",
+        "D": "Accelerating their blood circulation."
+      },
+      "stem_cn": "根据近期研究,跑步对人们有什么影响?",
+      "options_cn": {
+        "A": "改善大脑功能。",
+        "B": "调节呼吸频率。",
+        "C": "减缓衰老过程。",
+        "D": "加速血液循环。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What did another study find about the participants after they had a 30-minute jog?",
+      "options": {
+        "A": "They found it easy to control their emotions.",
+        "B": "They struggled to handle negative emotions.",
+        "C": "They were more eager to enjoy a movie.",
+        "D": "They were less affected by sad movies."
+      },
+      "stem_cn": "另一项研究发现参与者在进行30分钟慢跑后有什么变化?",
+      "options_cn": {
+        "A": "他们发现控制情绪变得容易了。",
+        "B": "他们难以处理负面情绪。",
+        "C": "他们更渴望欣赏电影。",
+        "D": "他们受悲伤电影的影响更小。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What do we learn about the speaker?",
+      "options": {
+        "A": "He is a tour guide.",
+        "B": "He is a famous architect.",
+        "C": "He is a local entrepreneur.",
+        "D": "He is the owner of the Hill House."
+      },
+      "stem_cn": "关于说话者我们了解到什么?",
+      "options_cn": {
+        "A": "他是一名导游。",
+        "B": "他是一位著名建筑师。",
+        "C": "他是一位本地企业家。",
+        "D": "他是Hill House的主人。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What did the architect do before beginning his design?",
+      "options": {
+        "A": "He studied the blueprints of other famous buildings.",
+        "B": "He inquired about his client's family background.",
+        "C": "He observed his client's life and habits.",
+        "D": "He took a tour of his client's old home."
+      },
+      "stem_cn": "建筑师在开始设计之前做了什么?",
+      "options_cn": {
+        "A": "他研究了其他著名建筑的蓝图。",
+        "B": "他询问了客户的家庭背景。",
+        "C": "他观察了客户的生活和习惯。",
+        "D": "他参观了客户的旧居。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What did the architect's client mainly want?",
+      "options": {
+        "A": "A house made of timber and brick.",
+        "B": "A house with a lot of free space.",
+        "C": "A house of the current fashion.",
+        "D": "A house of a unique design."
+      },
+      "stem_cn": "建筑师的客户主要想要什么?",
+      "options_cn": {
+        "A": "一座木材和砖砌的房子。",
+        "B": "一座有大量自由空间的房子。",
+        "C": "一座符合当前时尚的房子。",
+        "D": "一座独特设计的房子。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What do we learn about the pieces of furniture in the children's bedrooms?",
+      "options": {
+        "A": "They are well preserved and in pretty good shape.",
+        "B": "They are copies built to the architect's designs.",
+        "C": "They were designed by another architect.",
+        "D": "They were badly damaged but restored."
+      },
+      "stem_cn": "关于儿童卧室里的家具我们了解到什么?",
+      "options_cn": {
+        "A": "它们保存完好,状况相当不错。",
+        "B": "它们是按照建筑师的设计建造的复制品。",
+        "C": "它们由另一位建筑师设计。",
+        "D": "它们曾严重损坏但已修复。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "captured",
+    "B": "classical",
+    "C": "conclusively",
+    "D": "emergence",
+    "E": "exact",
+    "F": "generated",
+    "G": "particular",
+    "H": "position",
+    "I": "precision",
+    "J": "probably",
+    "K": "quality",
+    "L": "scarcity",
+    "M": "senior",
+    "N": "separated",
+    "O": "systematically"
+  },
+  "cloze_passage": "It is commonly believed that the great English dramatist and poet William Shakespeare was born in Stratford-on-Avon on April 23, 1564. But it is impossible to know the 26 day on which he was born.\nChurch records show he was baptized(施洗礼) on April 26, and three days was a customary amount of time to wait before baptizing a newly born baby. Shakespeare's date of death is 27 known, however: it was April 23, 1616. He was 52 and had retired to Stratford three years before.\nAlthough few plays have been performed or analyzed as extensively as the 38 plays Shakespeare wrote, there are few surviving details about his life. This 28 of biographical information is due primarily to his social 29 ; he was not a noble, but the son of a leather trader.\nShakespeare 30 attended the grammar school in Stratford, where he would have studied Latin and read 31 literature. He did not go to university and at age 18 married Anne Hathaway, who was eight years his 32 . They had four children, including the twins, Hamnet and Judith. Nothing is known of the period between the birth of the twins and Shakespeare's 33 as a dramatist in London in the early 1590s.\nIn a million words written over 20 years, he 34 the full range of human emotions and conflicts with a 35 that remains sharp today. As his great contemporary the poet and dramatist Ben Jonson said, \"He was not of an age, but for all time.\"",
+  "long_reading_passage": "A) Humans are creatures of habit. We love to establish a routine and stick with it. Then we often put ourselves on auto-pilot. Routines can be incredibly useful in helping you get things done. However, too much of a routine can also make you incredibly boring. Nevertheless, many people live lives that are boringly predictable, or live a life where everything is outlined or planned.\nB) To tell the truth, interesting people are more popular among their friends. If you don't arouse someone's curiosity or brighten someone's day, you probably come across as being a little bit dull. But that doesn't mean your life has ended and you can't do anything to change it. If you find yourself searching for something to say beyond small talk, try these tactics to find more interesting approaches to conversation.\nC) Recently, I was at a gathering of colleagues when someone turned to me and asked, \"So, what's new with you?\" Ordinarily, I think I'm a good conversationalist. After all, it's literally my job to talk to people and tell their stories or share their advice. And that's not exactly an unexpected question. Still, the only \"new-to-me\" topics that came to mind were my daughter's basketball tournament(锦标赛) and my feelings about that morning's political headlines—neither amusing nor appropriate topics at that moment.\nD) Oh, no, I thought. Have I become boring? But sharing our experiences in an authentic way to connect with other people is what makes us interesting, says associate professor Michael Pirson. The hesitation I felt in not sharing the ordinary things that were happening in my life, and the wild mental search for something more interesting, may have backfired and made me seem less interesting.\nE) \"If someone is making up some conversation that might be interesting, it's probably not going to land well,\" says Pirson, whose expertise includes trust and well-being, mindfulness, and humanistic management. \"It's going to feel like a made-up conversation that people don't necessarily want to tune in to.\"\nF) The most interesting people aren't those who've gone on some Eat, Pray, Love journey to find themselves. Instead, Pirson says, they're those who examine the ordinary. \"Often, the 'boring things' may not be boring at all. Maybe they are actually little miracles,\" he says. Share your observations about the world around you—interesting stories you heard or things you noticed—and you may be surprised by the universal connection they inspire.\nG) This is essentially how Jessica Hagy starts her day. The author of How to Be Interesting: An Instruction Manual, Hagy spends a lot of time thinking about what's interesting to her. People who are interesting are persistently curious, she says.\nH) Think about the everyday things around you and ask questions about them. What is that roadside monument I see on my way to work every day? Who built that interesting building in my city? What nearby attractions haven't I visited? Why do people do things that way? Use what you find to ask more questions and learn more about the world around you. \"Having that sort of curiosity is almost like a protective gear from getting into boredom,\" she says. And when you find things that are truly interesting to you, share them.\nI) Television veteran Audrey Morrissey, executive producer of NBC's The Voice, is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality. \"Having a strong point of view, signature style, or being a super-enthusiast in a particular field makes someone interesting,\" she says. That means embracing what is truly interesting or unique about yourself. \"Many people are 'not boring' in the way that they can carry a conversation or can be good at a social gathering, etc. To be interesting means that you have lived life, taken risks, traveled, sought out experience to learn for yourself and share with others,\" she says.\nJ) Of course, it's possible to be a fountain of knowledge and a boring person, says public relations consultant Andrea Pass. Paying attention to the listener is an important part of having a conversation that's interesting to both parties. Talking on and on about what's interesting to you isn't going to make you an interesting person, she says.\nK) \"If the listener is not paying attention, it's your sign to shorten the story or change direction. Make sure to bring the audience into the conversation so that it is not one-sided,\" Pass says. Be a better listener yourself, and give others opportunities to participate in the conversation by inviting them with questions or requests to share their own experiences or thoughts. (e.g., \"Now, tell me about your favorite book,\" or \"Have you ever been to that attraction?\") Questions are a powerful tool, especially when they encourage others to disclose information about themselves. A 2012 study from the University of California, Santa Barbara, found that roughly 40% of the time we are talking, we're disclosing subjective information about our experience. And when we're doing so, our brains are more engaged. So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves.\nL) Being relatable is also essential, Morrissey says. \"The best entertainment and storytelling comes from people who are relatable-those who don't shy away from opening up but freely share who they are and what they care about. These are the people viewers most relate to and find interesting. Being authentic, honest, and vulnerable is always interesting.\"\nM) I have now come to realize that being boring, in actuality, is not only about who you are as a person, but also how you present yourself. No matter what, make sure you are having fun in life. Because when you are enjoying, people around you will begin to enjoy as well. Show some interest in them and they will definitely show some in you. If you are a very reserved person, this could be a little difficult at first. But with a little effort, you can definitely improve.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "With obesity now affecting 29% of the population in England, and expected to rise to 35% by 2030, should we now recognise it as a disease? Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, meets the dictionary definition of disease, argues Professor John Wilding. He points out that more than 200 genes influence weight. \"Thus body weight is strongly influenced by biology—it is not an individual's fault if they develop obesity.\" Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it. Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice \"should help reduce the stigma(耻辱) and discrimination experienced by many people with obesity,\" he adds.\nProfessor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, pointing out that other common diseases, such as high blood pressure and diabetes, require people to take action to manage their condition. He suggests that most people with obesity will eventually develop complications. \"But unless we accept that obesity is a disease, we are not going to be able to tackle it,\" he concludes.\nBut Dr. Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach \"could actually result in worse outcomes for individuals and society.\" He believes that the dictionary definition of disease \"is so vague that we can classify almost anything as a disease\" and says the question is not whether we can, but whether we should, and to what end.\nIf labelling obesity as a disease was harmless then it wouldn't really matter, he writes. But labelling obesity as a disease \"risks reducing autonomy, disempowering and robbing people of the intrinsic(内在的) motivation that is such an important enabler of change.\" What's more, making obesity a disease \"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical(制药的) industry when health insurance and clinical guidelines promote treatment with drugs and surgery,\" he warns.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "Its impact on society is expected to rise.",
+        "B": "It is now too widespread to be neglected.",
+        "C": "It should be regarded as a genetic disease.",
+        "D": "Its dictionary definition should be updated."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "It is difficult to define.",
+        "B": "It is a modern disease.",
+        "C": "It has much to do with one's genes.",
+        "D": "It results from a lack of self-control."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Obese people would not feel responsible to take any action.",
+        "B": "Obese people would not be able to afford the medical costs.",
+        "C": "Obese people would be overwhelmed with anxiety.",
+        "D": "Obese people would be discriminated against."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "It is of no use in understanding obesity.",
+        "B": "It is too inclusive and thus lacks clarity.",
+        "C": "It helps little to solve patients' problems.",
+        "D": "It matters little to the debate over obesity."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "It may affect obese people's quality of life.",
+        "B": "It may accelerate the spread of obesity.",
+        "C": "It may cause a shortage of doctors.",
+        "D": "It may do little good to patients."
+      }
+    }
+  ],
+  "reading_passage_2": "Nationwide, only about three percent of early childhood teachers are male in the U.S. Experts say this can have an impact on young children whose understanding of gender roles and identity are rapidly forming. Research has found that having access to diverse teachers is beneficial for children. For the youngest learners, it means they are more likely to get exposed to different varieties of play and communication. It also helps them develop healthy ideas around gender.\n\"In our world and our society, we have very specific stereotypes(模式化形象) of gender roles,\" said Mindi Reich-Shapiro, an assistant professor in the teacher education department of the Borough of Manhattan Community College, and one of the authors of a recent study. \"It's important for children to see other possibilities and other paths they can take.\"\nDespite mostly feeling supported by colleagues and family members, many of the male educators surveyed in the study reported facing social or cultural resistance in their careers as early education teachers. Some also reported that there were parents surprised or concerned that their child had a male teacher. And they had been advised by colleagues or other staff not to hug children.\nReich-Shapiro and fellow researchers made several recommendations to increase male representation in the field. Low pay has long been acknowledged as a major issue in the early childhood field. Over 70% of male educators who said they intended to stay in the early education workforce noted an increased salary was a major motivating factor for them to commit to the career long-term. The report suggests paying all early childhood educators the way elementary school teachers are paid.\nCities and programs should establish support groups for male early childhood educators and provide mentoring and professional development advice for male educators and their program leaders.\nThe authors also suggest that traditional recruitment approaches for early childhood educators \"do not address the gender gap in the field.\" They recommend providing young men opportunities to work with children through training and volunteer programs, targeting groups of men who are considering a career change, such as fathers.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "It helps raise children's awareness of gender roles.",
+        "B": "It exposes children to different ways of interaction.",
+        "C": "It is negatively impacted by a lack of male teachers.",
+        "D": "It clearly aims to form children's identity through play."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "The importance of broadening children's horizons.",
+        "B": "The responsibilities of fathers for children's growth.",
+        "C": "The urgency of creating teacher education programs.",
+        "D": "The role of teachers in motivating children to learn."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "Some of them find it awkward when hugging children.",
+        "B": "They feel pressured to keep up with female colleagues.",
+        "C": "They find it hard to meet the expectations of kids' parents.",
+        "D": "Many of them feel prejudiced against socially and culturally."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Higher pay.",
+        "B": "Job security.",
+        "C": "Social recognition.",
+        "D": "Better working conditions."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Recruiting young men who have a passion for educating young children.",
+        "B": "Taking measures to attract prospective male teachers to work in the field.",
+        "C": "Persuading prospective fathers to consider a change in their career.",
+        "D": "Providing male teachers with more opportunities for advancement."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2021年12月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 坎儿井(Karez)是新疆干旱地区的一种水利系统，由地下渠道将水井连接而成。该系统将春夏季节渗入 (seep into) 地下的大量雨水及积雪融水收集起来，通过山体的自然坡度引到地面，用于灌溉农田和满足人们的日常用水需求。坎儿井减少了水在地面的蒸发 (evaporation), 对地表破坏很小，因而有效地保护了自然资源与生态环境。坎儿井体现了我国人民与自然和谐共存的智慧，是对人类文明的一大贡献。",
+  "answers": {
+    "1": "B",
+    "2": "C",
+    "3": "D",
+    "4": "A",
+    "5": "D",
+    "6": "A",
+    "7": "C",
+    "8": "B",
+    "9": "C",
+    "10": "D",
+    "11": "C",
+    "12": "A",
+    "13": "B",
+    "14": "D",
+    "15": "C",
+    "16": "A",
+    "17": "B",
+    "18": "D",
+    "19": "B",
+    "20": "A",
+    "21": "D",
+    "22": "A",
+    "23": "C",
+    "24": "D",
+    "25": "B",
+    "26": "E",
+    "27": "C",
+    "28": "L",
+    "29": "H",
+    "30": "J",
+    "31": "B",
+    "32": "M",
+    "33": "D",
+    "34": "A",
+    "35": "I",
+    "36": "F",
+    "37": "J",
+    "38": "B",
+    "39": "I",
+    "40": "M",
+    "41": "C",
+    "42": "G",
+    "43": "A",
+    "44": "K",
+    "45": "E",
+    "46": "C",
+    "47": "D",
+    "48": "A",
+    "49": "B",
+    "50": "D",
+    "51": "C",
+    "52": "A",
+    "53": "D",
+    "54": "A",
+    "55": "B"
+  },
+  "listening_script": {
+    "en": "A 22-year-old Chinese woman who suffered from a persistent cough was shocked to learn that she had a piece of chicken bone lodged in her lung.\nThe unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old. For 14 years, she made numerous hospital visits. However, no doctor could identify any problem. Her uncontrollable coughing was a mystery.\nFinally, the woman got a full body scan at a hospital in the city of Qingdao. This special medical procedure revealed she had a chicken bone stuck in her lung. Doctors performed surgery and removed the bone. The simple procedure went smoothly and the woman has recovered fully. With the bone finally removed from her lung, the woman is very happy that she no longer suffers from that annoying cough.\nA white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires, recently returned home.\nAccording to farmer Alice Gray, Prickles was only a lamb when she ran away. The bushfires that hit the area back then destroyed a large part of her family's massive property. They thought Prickles had died in the fire. But instead, the young sheep escaped into a 200-acre forest near the farm. Once the fires were over, the family had to fix the damage done to the farm, as it was such a large property. This included rebuilding about 50 kilometers of fencing. It was this huge fencing that prevented Prickles from finding her way back. Over the years, the family spotted her a few times. They even recorded her with cameras installed to monitor deer activity. But while they knew Prickles was alive, they couldn't find her and never expected her to return by herself. Seven years later, they were proven wrong.\nTons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in midair this morning.\nThe aircraft was carrying 265 million pounds worth of gold and diamonds, when the door flew open—sending the precious metal back to earth.\nAccording to the official news agency, Russian authorities have recovered more than 170 gold bars weighing 20 kilograms each. The plane was traveling from Yakutsk Airport in a major diamond-producing region to the city Krasnoyarsk in Siberia.\nHowever, the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo.\nReports suggest some bars of gold were scattered up to 15 miles away from the airport. Nine tons of gold on plane AN-12 belonged to a goldmine company.\nPolice have sealed off the runway, and say it is unclear if it was an accident or an attempted robbery. Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police.\nM: Hello, you're through to customer service. This is Michael speaking. Before we continue, I just want to make you aware that this call is being recorded and may be used in the future for training purposes. What can I help you with today?\nW: Hi, my name is Jean Seimon. I recently bought an office chair from your company, but I returned it about a week ago. I'm just calling to inquire when I will be able to get my money back. It says on your website that your company will pay back the money within three working days of you receiving the returned item. But it's been five working days and I haven't received anything.\nM: I'm sorry to hear that, Miss Seimon. What's your customer reference number, please?\nW: It's 389460.\nM: Okay, 389460. I'm just looking on the system here. And according to our records, the chair you returned was received by our warehouse on Friday morning. The payment was made on Wednesday. But this seems to be a problem with your card number.\nW: My card number? Oh, maybe it has something to do with my new card. It was sent to me on Tuesday. Maybe the bank canceled my old one before you've made the payment.\nM: Well, you'll need to update your card details directly on our website. Just make sure you're logged in. And then under the description of your personal information, you should see an option for updating payment methods.\nW: I am logged in, and I'll give that a go.\nM: I'll make a note here on the system for you, so that the payment will be made tomorrow morning.\nW: Thank you very much.\nM: I'm getting a bit hungry.\nW: Yes, me too. I'm starving. Are you going to prepare a meal for us?\nM: No, sorry, I'm actually pretty worn out. Let's just go out somewhere close to eat.\nW: Well, I think we should stay in and save some cash. Can we get a meal delivered?\nM: Yeah, great. I'll use that food delivery app on my phone. What do you want, fried chicken, hamburgers, or fish and chips?\nW: Oh, can we stay away from the junk food? How about something healthy?\nM: Okay, well, there's a place that does salads.\nW: Let me have a look at that. Yeah, that looks delicious. But to be honest, I'd prefer something hot, not cold.\nM: How about Indian food?\nW: That's not the kind of hot I mean. I'm just not a fan of sauces. That made me sweat and cry. I need something mild.\nM: Okay. So would you consider Mexican? Oh no, sorry. There's also very hot pepper in that. Would you like some Italian food, perhaps? It's a bit heavy, but it's great food for a cold night like this.\nW: Pizza? Spaghetti with creamy sauce? I know it's really tasty and great comfort food, but it's too fattening for me. I'm trying to keep a slim figure, you know.\nM: Oh, you're really difficult to please. Well, there's a nice Chinese restaurant that delivers.\nW: Yes, I love Chinese food. Let me see. Oh, it's 15 kilometers away.\nM: That's a bit too far away. Do you feel like Vietnamese food then?\nW: Yeah, awesome. It's healthy, and we can afford it.\nM: Great. Let's order Vietnamese right away.\nA new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and wellbeing of their cats. The findings suggest that, just as a parent's personality can affect the personality of a child, the same is true for a cat and its owner.\nOwners—defined as individuals with high levels of anxiety, fear, anger, depression and loneliness—were more likely to have cats with behavioural issues.\nSuch cats displayed more aggressive and anxious behavioural styles as well as more stress-related sickness. They were also more likely to have an ongoing medical condition and be overweight.\nThe research also found that mentally well-adjusted owners had calmer, happier and healthier cats.\nThe researchers explained that \"Many owners regard their pets as a family member, and form close social bonds with them.\" The majority of owners want to provide the best care for their pets and it's therefore possible that pets could be affected by the way their owners interact with and manage them. The study highlights an important relationship between our personalities and the wellbeing of our pets. Further research is needed to investigate the causal nature of this relationship and to look at how owners' personalities are directly influencing their pets' behaviour and wellbeing.\nIt is possible that the wellbeing of pets is driven by the underlying nature of the owner, not simply by their conscious decisions and behaviours.\n\"One 60-minute run can add seven hours to your life.\" This was a claim made by The Times last week. The claim was based on a new review of studies about the effects of running. The review concluded that on average runners live three years longer than non-runners and that running does more to extend life than any other form of exercise. But there's more to running than its health benefits. Research published in recent years has shown that running changes your brain and mind in some fascinating ways, from increasing your brain function to regulating your emotions. However, the precise effects vary according to whether you engage in short, fast running or long-distance running.\nFor example, in one study, researchers compared participants' ability to learn new words after several minutes of intense running and after 40 minutes of gentle running. Participants were able to learn 20 percent faster after the intense running and they showed a superior memory when tested again a week later.\nIn another study, researchers asked volunteers to jog for 30 minutes and then showed them clips from a sad movie. Participants who usually struggled to handle negative emotions were more intensely affected by the sad clips, just as you'd expect. But crucially, this was less so if they had completed the 30-minute jog. The researchers said moderate exercise appears to have helped those participants to be less vulnerable to the impact of the sad movie.\nWelcome to the tour of the Hill House. This house built in 1904 is one of the most well-known works of Charles Hill, the famous architect. It was designed and built for a local entrepreneur and his family. Before starting the tour, let me give you a brief introduction about the design of this amazing building.\nPrior to beginning his design, the architect spent some time in the client's old home, observing their life and studying their habits. This meant that he could design the house according to the needs of the family.\nThe client's main desire was to have a home with the unique design, so the architect was given complete freedom. The building style is radically different from what was the fashion of the period. At the time, most large homes were constructed of timber and brick. This one, however, is made of concrete, a novel construction material in those days. The interior of the house, including fittings and furniture, was also designed by the same person. Most of the furniture you will see is original and in good condition. However, those pieces in the children's bedrooms are copies built to the designs of the architect. Fortunately, all the blueprints for both the building and its contents have been preserved, so we've been able to replace badly damaged furniture. Let's begin our tour, starting from the rooms.",
+    "cn": "一名22岁的中国女性因持续咳嗽而震惊地得知,她的肺部卡着一块鸡骨头。\n这名来自山东省的未透露姓名的女性,在7岁或8岁时开始出现咳嗽问题。14年来,她多次前往医院就诊。然而,没有一位医生能够发现任何问题。她无法控制的咳嗽一直是个谜。\n最终,这名女性在青岛市的一家医院进行了全身扫描。这项特殊的医疗检查显示她的肺部卡着一块鸡骨头。医生进行了手术并取出了骨头。这个简单的手术进行得很顺利,女性已完全康复。随着骨头最终从肺部取出,这名女性非常高兴,因为她不再遭受那恼人的咳嗽困扰。\n一只名叫Prickles的白羊在2013年丛林大火期间从澳大利亚一个农场逃跑,最近回家了。\n据农场主Alice Gray说,Prickles逃跑时还只是一只羊羔。当时袭击该地区的丛林大火摧毁了她家大片地产的很大一部分。他们以为Prickles在火灾中丧生了。但实际上,这只小羊逃进了农场附近一片200英亩的森林。火灾结束后,由于地产面积很大,这家人不得不修复农场遭受的损坏。这包括重建约50公里的围栏。正是这道巨大的围栏阻止了Prickles找到回家的路。多年来,这家人看到过她几次。他们甚至用安装来监测鹿类活动的相机拍到过她。但尽管他们知道Prickles还活着,却找不到她,也从未料到她会自己回来。七年后,事实证明他们错了。\n今天上午，一架货机在空中发生故障后，数吨黄金从俄罗斯天空坠落。\n这架飞机载有价值2.65亿英镑的黄金和钻石，当舱门突然打开时，贵重金属被抛回地面。\n据官方通讯社报道，俄罗斯当局已经回收了超过170根金条，每根重20公斤。该飞机从主要钻石产区的Yakutsk机场飞往西伯利亚的Krasnoyarsk市。\n然而，这架飞机在开始丢失部分贵重货物后，在Magan紧急降落。\n报道称，一些金条散落在距离机场15英里远的地方。AN-12飞机上的9吨黄金属于一家金矿公司。\n警方已经封锁了跑道，并表示尚不清楚这是一起事故还是抢劫未遂。据报道，起飞前在飞机上工作的技术工程师将接受警方问询。\nM: 您好,您已接通客户服务部。我是Michael。在我们继续之前,我想提醒您,本通话正在录音,未来可能用于培训目的。请问有什么可以帮您的?\nW: 您好,我叫Jean Seimon。我最近从贵公司买了一把办公椅,但大约一周前退了货。我打电话是想询问什么时候能拿到退款。贵公司网站上说,在收到退货后三个工作日内会退款。但已经过了五个工作日了,我还没收到任何款项。\nM: 很抱歉听到这个情况,Seimon女士。请问您的客户编号是多少?\nW: 是389460。\nM: 好的,389460。我这就在系统里查一下。根据我们的记录,您退回的椅子是周五上午被我们仓库收到的。退款是在周三处理的。但您的卡号似乎有问题。\nW: 我的卡号?哦,可能跟我的新卡有关。周二才寄给我的。也许银行在你们付款之前把我的旧卡注销了。\nM: 那您需要直接在我们网站上更新您的银行卡信息。确保您已经登录,然后在个人信息栏下面,应该能看到更新付款方式的选项。\nW: 我已经登录了,我试试看。\nM: 我会在系统里给您做个备注,这样明天上午就能给您退款。\nW: 非常感谢。\nM: 我有点饿了。\nW: 是啊,我也是。我快饿死了。你要给我们做饭吗?\nM: 不,抱歉,我实在太累了。我们还是出去找个近点的地方吃吧。\nW: 嗯,我觉得我们应该待在家里省点钱。我们可以叫外卖吗?\nM: 好啊,太好了。我用手机上的外卖app点。你想吃什么,炸鸡、汉堡还是炸鱼薯条?\nW: 哦,我们能不能别吃垃圾食品?来点健康的怎么样?\nM: 好吧,有家店做沙拉的。\nW: 让我看看。嗯,看起来挺好吃的。但说实话,我更想吃点热的,不要凉的。\nM: 印度菜怎么样?\nW: 我说的热不是那种辣。我就是不喜欢那种酱料,会让我出汗流泪。我要清淡点的。\nM: 好的。那你会考虑墨西哥菜吗?哦不,抱歉。那里面也有很辣的辣椒。那意大利菜怎么样?有点油腻,但在这么冷的晚上吃很不错。\nW: 披萨?奶油酱意大利面?我知道真的很好吃,是很棒的comfort food,但对我来说太容易发胖了。你知道的,我想保持苗条身材。\nM: 哦,你真是太难伺候了。嗯,有家不错的中餐馆可以送外卖。\nW: 好啊,我喜欢中国菜。让我看看。哦,有15公里远。\nM: 那有点太远了。那越南菜你觉得怎么样?\nW: 好啊,太棒了。健康,而且我们也吃得起。\nM: 太好了。我们马上点越南菜吧。\n林肯大学开展的一项新研究发现,猫主人的性格与其猫的行为和健康状况之间存在联系。研究结果表明,正如父母的性格会影响孩子的性格一样,猫和其主人之间也是如此。\n那些被定义为具有高度焦虑、恐惧、愤怒、抑郁和孤独感的主人,更有可能养出有行为问题的猫。\n这些猫表现出更具攻击性和焦虑的行为方式,以及更多与压力相关的疾病。它们也更有可能患有持续性疾病和超重。\n研究还发现,心理健康状况良好的主人养的猫更平静、更快乐、更健康。\n研究人员解释说,\"许多主人将他们的宠物视为家庭成员,并与它们建立了紧密的社会联系。\"大多数主人希望为他们的宠物提供最好的照顾,因此宠物可能会受到主人与它们互动和管理方式的影响。这项研究强调了我们的性格与宠物健康之间的重要关系。需要进一步研究来探讨这种关系的因果性质,以及主人的性格如何直接影响宠物的行为和健康状况。\n宠物的健康状况可能是由主人的内在本质驱动的,而不仅仅是由他们有意识的决定和行为驱动的。\n\"一次60分钟的跑步可以为你的生命增加7小时。\"这是《泰晤士报》上周提出的一项声明。该声明基于一项关于跑步效果的新研究综述。该综述得出结论,跑步者平均比不跑步者多活3年,并且跑步比任何其他形式的运动都更能延长寿命。但跑步的意义不仅仅在于其健康益处。近年来发表的研究表明,跑步以一些引人入胜的方式改变你的大脑和思维,从提高大脑功能到调节情绪。然而,具体效果因你从事短距离快速跑步还是长距离跑步而异。\n例如,在一项研究中,研究人员比较了参与者在几分钟高强度跑步后和40分钟温和跑步后学习新单词的能力。参与者在高强度跑步后学习速度提高了20%,并且在一周后再次测试时表现出更优异的记忆力。\n在另一项研究中,研究人员要求志愿者慢跑30分钟,然后向他们播放悲伤电影的片段。通常难以处理负面情绪的参与者受到悲伤片段的影响更为强烈,正如你所预期的那样。但关键的是,如果他们完成了30分钟的慢跑,这种影响会有所减轻。研究人员表示,适度运动似乎帮助这些参与者减少了对悲伤电影影响的脆弱性。\n欢迎参观Hill House。这座建于1904年的房子是著名建筑师Charles Hill最知名的作品之一。它是为一位当地企业家及其家人设计和建造的。在开始参观之前,让我简要介绍一下这座令人惊叹的建筑的设计。\n在开始设计之前,建筑师在客户的老房子里待了一段时间,观察他们的生活并研究他们的习惯。这意味着他可以根据这个家庭的需求来设计房子。\n客户的主要愿望是拥有一座设计独特的房子,因此建筑师获得了完全的自由。这座建筑的风格与当时的流行风格截然不同。那时,大多数大型住宅都是用木材和砖块建造的。然而,这座房子是用混凝土建造的,这在当时是一种新颖的建筑材料。房子的内部,包括装置和家具,也是由同一个人设计的。你将看到的大部分家具都是原件且保存完好。然而,儿童卧室里的那些家具是按照建筑师的设计建造的复制品。幸运的是,建筑及其内部陈设的所有蓝图都被保存了下来,所以我们能够更换严重损坏的家具。让我们开始参观吧,从这些房间开始。"
+  }
+}

@@ -1,0 +1,776 @@
+@use '@/styles/variables.scss' as *;
+
+// ============================================================
+// 通用容器
+// ============================================================
+.runPage {
+  min-height: 100vh;
+  padding: 20rpx $page-padding 60rpx;
+  background: $color-bg-page;
+  box-sizing: border-box;
+}
+
+.resultPage {
+  min-height: 100vh;
+  padding: 32rpx $page-padding 80rpx;
+  background: $color-bg-page;
+  box-sizing: border-box;
+}
+
+// ============================================================
+// 听力模式 · 顶部
+// ============================================================
+.listenTopBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20rpx;
+}
+
+.modeSeg {
+  display: flex;
+  align-items: center;
+  background: $color-bg-card;
+  border-radius: $radius-button;
+  padding: 6rpx;
+  box-shadow: $shadow-card;
+}
+
+.segBtn {
+  padding: 10rpx 24rpx;
+  font-size: $font-size-sm;
+  color: $color-text-secondary;
+  border-radius: $radius-button;
+  transition: all $transition-fast;
+  line-height: 1.4;
+}
+
+.segActive {
+  background: $color-primary;
+  color: #fff;
+  font-weight: $font-weight-semibold;
+}
+
+.listenScore {
+  font-size: $font-size-xs;
+  color: $color-text-tertiary;
+}
+
+// ============================================================
+// 音频播放条
+// ============================================================
+.audioBar {
+  display: flex;
+  align-items: center;
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  padding: 20rpx 24rpx;
+  margin-bottom: 20rpx;
+}
+
+.audioBtn {
+  width: 72rpx;
+  height: 72rpx;
+  border-radius: $radius-round;
+  background: $color-primary;
+  color: #fff;
+  font-size: 30rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+
+  &:active {
+    opacity: 0.8;
+  }
+}
+
+.audioInfo {
+  flex: 1;
+  min-width: 0;
+  margin-left: 20rpx;
+}
+
+.audioTitle {
+  display: block;
+  font-size: $font-size-sm;
+  color: $color-text-primary;
+  @include text-ellipsis;
+}
+
+.audioTime {
+  display: block;
+  margin-top: 6rpx;
+  font-size: $font-size-xs;
+  color: $color-text-tertiary;
+}
+
+// ============================================================
+// 辅助开关
+// ============================================================
+.toggleCard {
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  padding: 18rpx 24rpx;
+  margin-bottom: 20rpx;
+}
+
+.toggleRow {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.switchItem {
+  display: flex;
+  align-items: center;
+  margin: 8rpx 28rpx 8rpx 0;
+}
+
+.switchBox {
+  width: 34rpx;
+  height: 34rpx;
+  border-radius: $radius-xs;
+  border: 2rpx solid $color-border;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all $transition-fast;
+}
+
+.switchOn {
+  background: $color-primary;
+  border-color: $color-primary;
+}
+
+.switchTick {
+  color: #fff;
+  font-size: 22rpx;
+  line-height: 1;
+}
+
+.switchLabel {
+  margin-left: 10rpx;
+  font-size: $font-size-sm;
+  color: $color-text-secondary;
+}
+
+// ============================================================
+// 原文 / 段落
+// ============================================================
+.scriptBox {
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  padding: 24rpx;
+  margin-bottom: 20rpx;
+  border-left: 6rpx solid $color-primary;
+}
+
+.scriptTitle {
+  display: block;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-semibold;
+  color: $color-primary-dark;
+  margin-bottom: 12rpx;
+}
+
+.scriptNone {
+  display: block;
+  font-size: $font-size-xs;
+  color: $color-text-tertiary;
+}
+
+.passage {
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  padding: 20rpx 24rpx;
+  margin: 16rpx 0;
+}
+
+.passageP {
+  display: block;
+  font-size: $font-size-sm;
+  line-height: $line-height-loose;
+  color: $color-text-secondary;
+  margin-bottom: 12rpx;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// ============================================================
+// 题目卡（听力）
+// ============================================================
+.qCard {
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  padding: 28rpx 24rpx;
+  margin-bottom: 24rpx;
+}
+
+.qNum {
+  display: block;
+  font-size: $font-size-md;
+  font-weight: $font-weight-bold;
+  color: $color-primary;
+  margin-bottom: 16rpx;
+}
+
+.qStemEn {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 14rpx;
+}
+
+.qStemLabel {
+  flex-shrink: 0;
+  font-size: $font-size-sm;
+  color: $color-text-tertiary;
+  margin-right: 8rpx;
+}
+
+.qStemText {
+  flex: 1;
+  font-size: $font-size-md;
+  line-height: $line-height-normal;
+  color: $color-text-primary;
+}
+
+.qCnBox {
+  background: $color-bg-hover;
+  border-radius: $radius-sm;
+  padding: 18rpx 20rpx;
+  margin-bottom: 18rpx;
+}
+
+.qCnStem {
+  display: flex;
+  align-items: flex-start;
+}
+
+.qCnOpts {
+  margin-top: 10rpx;
+}
+
+.qCnOpt {
+  display: block;
+  font-size: $font-size-xs;
+  line-height: $line-height-loose;
+  color: $color-text-secondary;
+}
+
+// ============================================================
+// 选项
+// ============================================================
+.optList {
+  margin-top: 8rpx;
+}
+
+.opt {
+  display: flex;
+  align-items: flex-start;
+  padding: 20rpx 22rpx;
+  margin-bottom: 14rpx;
+  background: $color-bg-page;
+  border: 2rpx solid transparent;
+  border-radius: $radius-sm;
+  transition: all $transition-fast;
+
+  &:active {
+    opacity: 0.85;
+  }
+}
+
+.optLetter {
+  flex-shrink: 0;
+  width: 40rpx;
+  font-size: $font-size-md;
+  font-weight: $font-weight-semibold;
+  color: $color-text-secondary;
+  line-height: 1.5;
+}
+
+.optText {
+  flex: 1;
+  font-size: $font-size-sm;
+  line-height: 1.5;
+  color: $color-text-primary;
+}
+
+.optSelected {
+  background: rgba(79, 124, 255, 0.1);
+  border-color: $color-primary;
+
+  .optLetter {
+    color: $color-primary;
+  }
+}
+
+.optCorrect {
+  background: rgba(39, 174, 96, 0.1);
+  border-color: $color-success;
+
+  .optLetter {
+    color: $color-success;
+  }
+}
+
+.optWrong {
+  background: rgba(231, 76, 60, 0.1);
+  border-color: $color-error;
+
+  .optLetter {
+    color: $color-error;
+  }
+}
+
+.optDisabled {
+  opacity: 0.9;
+}
+
+// ============================================================
+// 判分反馈
+// ============================================================
+.feedback {
+  margin-top: 18rpx;
+  padding: 16rpx 20rpx;
+  border-radius: $radius-sm;
+  font-size: $font-size-sm;
+  line-height: 1.5;
+}
+
+.fbRight {
+  background: rgba(39, 174, 96, 0.12);
+  color: $color-success;
+}
+
+.fbWrong {
+  background: rgba(231, 76, 60, 0.12);
+  color: $color-error;
+}
+
+.fbPending {
+  background: rgba(79, 124, 255, 0.1);
+  color: $color-primary-dark;
+}
+
+// ============================================================
+// 翻页
+// ============================================================
+.pager {
+  display: flex;
+  align-items: center;
+}
+
+.pagerBtn {
+  flex: 1;
+  height: $button-height-md;
+  border-radius: $radius-button;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: $font-size-md;
+  font-weight: $font-weight-semibold;
+
+  &:active {
+    opacity: 0.85;
+  }
+}
+
+.pagerGhost {
+  background: $color-bg-card;
+  color: $color-text-secondary;
+  border: 2rpx solid $color-border;
+  margin-right: 18rpx;
+}
+
+.pagerPrimary {
+  background: $color-primary;
+  color: #fff;
+  box-shadow: 0 6rpx 18rpx rgba(79, 124, 255, 0.28);
+}
+
+.pagerHidden {
+  visibility: hidden;
+}
+
+// ============================================================
+// 结果页
+// ============================================================
+.scoreBox {
+  display: flex;
+  align-items: center;
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  padding: 32rpx 28rpx;
+  margin-bottom: 24rpx;
+}
+
+.scoreLines {
+  flex: 1;
+  min-width: 0;
+  margin-left: 28rpx;
+}
+
+.scoreLine {
+  display: block;
+  font-size: $font-size-sm;
+  color: $color-text-secondary;
+  margin-bottom: 10rpx;
+}
+
+.scoreStrong {
+  font-size: $font-size-md;
+  font-weight: $font-weight-bold;
+  color: $color-text-primary;
+}
+
+.scoreNote {
+  display: block;
+  margin-top: 6rpx;
+  font-size: $font-size-xs;
+  line-height: 1.5;
+  color: $color-text-tertiary;
+}
+
+.resultBtns {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24rpx;
+}
+
+.ghostWide {
+  flex: 1;
+  height: $button-height-md;
+  border-radius: $radius-button;
+  background: $color-bg-card;
+  border: 2rpx solid $color-border;
+  color: $color-text-secondary;
+  font-size: $font-size-md;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:active {
+    opacity: 0.85;
+  }
+}
+
+.reviewHead {
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  padding: 24rpx;
+}
+
+.reviewTitle {
+  display: block;
+  font-size: $font-size-md;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+  margin-bottom: 18rpx;
+}
+
+.reviewGrid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.reviewCell {
+  width: 20%;
+  box-sizing: border-box;
+  padding: 8rpx 4rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: $radius-xs;
+  margin-bottom: 6rpx;
+}
+
+.cellRight {
+  background: rgba(39, 174, 96, 0.08);
+}
+
+.cellWrong {
+  background: rgba(231, 76, 60, 0.08);
+}
+
+.cellNum {
+  font-size: 20rpx;
+  color: $color-text-tertiary;
+}
+
+.cellUser {
+  font-size: 22rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+}
+
+.cellCorrect {
+  font-size: 20rpx;
+  color: $color-text-secondary;
+}
+
+.cellMark {
+  font-size: 20rpx;
+  line-height: 1.2;
+}
+
+// ============================================================
+// 模考模式
+// ============================================================
+.examPage {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: $color-bg-page;
+  box-sizing: border-box;
+}
+
+.examHeader {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16rpx $page-padding;
+  background: $color-bg-card;
+  box-shadow: $shadow-card;
+}
+
+.headerBack {
+  width: 64rpx;
+  font-size: 44rpx;
+  line-height: 1;
+  color: $color-text-secondary;
+
+  &:active {
+    opacity: 0.7;
+  }
+}
+
+.timer {
+  flex: 1;
+  text-align: center;
+  font-size: $font-size-md;
+  font-weight: $font-weight-bold;
+}
+
+.timerNormal {
+  color: $color-text-primary;
+}
+
+.timerWarn {
+  color: $color-accent;
+}
+
+.timerDanger {
+  color: $color-error;
+}
+
+.submitBtn {
+  padding: 12rpx 28rpx;
+  border-radius: $radius-button;
+  background: $color-primary;
+  color: #fff;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-semibold;
+
+  &:active {
+    opacity: 0.85;
+  }
+}
+
+.examScroll {
+  flex: 1;
+  min-height: 0;
+}
+
+.examContent {
+  padding: 20rpx $page-padding 60rpx;
+  box-sizing: border-box;
+}
+
+.progressBanner {
+  background: rgba(79, 124, 255, 0.1);
+  border-radius: $radius-md;
+  padding: 16rpx 24rpx;
+  margin-bottom: 20rpx;
+}
+
+.progressBannerText {
+  font-size: $font-size-sm;
+  color: $color-primary-dark;
+}
+
+.section {
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  padding: 26rpx 24rpx;
+  margin-bottom: 24rpx;
+}
+
+.sectionTitle {
+  display: block;
+  font-size: $font-size-md;
+  font-weight: $font-weight-bold;
+  color: $color-text-primary;
+  margin-bottom: 8rpx;
+}
+
+.sectionNote {
+  display: block;
+  margin-top: 12rpx;
+  font-size: $font-size-xs;
+  color: $color-text-tertiary;
+  line-height: 1.6;
+}
+
+.examQList {
+  margin-top: 8rpx;
+}
+
+.examQ {
+  padding: 16rpx 0;
+  border-bottom: 1rpx solid $color-divider;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.examStem {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10rpx;
+}
+
+.examQNum {
+  flex-shrink: 0;
+  margin-right: 10rpx;
+  font-size: $font-size-md;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+}
+
+.examStemText {
+  flex: 1;
+  font-size: $font-size-sm;
+  line-height: 1.6;
+  color: $color-text-primary;
+}
+
+// 选词填空词库
+.wordBank {
+  display: flex;
+  flex-wrap: wrap;
+  background: $color-bg-hover;
+  border-radius: $radius-sm;
+  padding: 16rpx 18rpx;
+  margin: 16rpx 0;
+}
+
+.bankItem {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 8rpx 6rpx;
+  font-size: $font-size-xs;
+  line-height: 1.5;
+  color: $color-text-secondary;
+}
+
+.bankLetter {
+  font-weight: $font-weight-semibold;
+  color: $color-primary;
+}
+
+// 字母匹配题
+.letterQList {
+  margin-top: 16rpx;
+}
+
+.letterQ {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 18rpx 0;
+  border-bottom: 1rpx solid $color-divider;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.letterQNum {
+  width: 60rpx;
+  flex-shrink: 0;
+  font-size: $font-size-md;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+}
+
+.letterChips {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chip {
+  width: 52rpx;
+  height: 52rpx;
+  margin: 6rpx 10rpx 6rpx 0;
+  border-radius: $radius-sm;
+  border: 2rpx solid $color-border;
+  background: #fff;
+  color: $color-text-secondary;
+  font-size: $font-size-sm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:active {
+    opacity: 0.8;
+  }
+}
+
+.chipActive {
+  background: $color-primary;
+  border-color: $color-primary;
+  color: #fff;
+  font-weight: $font-weight-semibold;
+}
+
+.letterPicked {
+  margin-left: 10rpx;
+  font-size: $font-size-xs;
+  color: $color-text-tertiary;
+}
+
+.bottomSubmit {
+  padding-top: 10rpx;
+}
+
+.submitBig {
+  height: $button-height-lg;
+  border-radius: $radius-button;
+  background: $color-primary;
+  color: #fff;
+  font-size: $font-size-md;
+  font-weight: $font-weight-semibold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8rpx 24rpx rgba(79, 124, 255, 0.3);
+
+  &:active {
+    opacity: 0.85;
+  }
+}

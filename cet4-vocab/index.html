@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>英语四级词汇 · 词根记忆</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg?v=5" />
+  <link rel="stylesheet" href="css/style.css?v=20260930b" />
+</head>
+<body>
+  <!-- 顶部导航 -->
+  <header class="app-header">
+    <div class="header-inner">
+      <h1 class="logo">📚 CET-4 词根背单词</h1>
+      <nav class="main-nav">
+        <button class="nav-btn active" data-view="search">🔍 单词搜索</button>
+        <button class="nav-btn" data-view="browse">🪵 词根浏览</button>
+        <button class="nav-btn" data-view="allwords">📖 四级词汇</button>
+        <button class="nav-btn" data-view="practice">✍️ 单词练习</button>
+        <button class="nav-btn" data-view="affixes">📝 前后词缀</button>
+        <button class="nav-btn" data-view="favorites">⭐ 单词收藏</button>
+        <button class="nav-btn" data-view="listen">🎧 听力练习</button>
+        <button class="nav-btn" data-view="exam">📄 真题模考</button>
+        <button class="nav-btn" data-view="intensive">🚨 考前应急</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <!-- 词根浏览视图 -->
+    <section id="view-browse" class="view">
+      <div class="browse-layout">
+        <aside class="root-index-sidebar">
+          <div class="sidebar-col">
+            <div class="sidebar-col-title">字母索引</div>
+            <div class="root-index" id="rootIndex"></div>
+          </div>
+        </aside>
+        <div class="browse-content">
+          <div class="view-toolbar">
+            <div class="stats">
+              共 <span id="rootCount">0</span> 个词根 · <span id="wordCount">0</span> 个单词
+            </div>
+          </div>
+          <div class="root-list" id="rootList"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 全部词汇视图 -->
+    <section id="view-allwords" class="view">
+      <div class="allwords-layout">
+        <aside class="allwords-sidebar">
+          <div class="sidebar-title">字母导航</div>
+          <div class="allwords-letters" id="allWordsLetters"></div>
+        </aside>
+        <div class="allwords-content">
+          <div class="view-toolbar">
+            <h2>📖 四级词汇（按字母排序）</h2>
+            <span class="stats">共 <span id="allWordsCount">0</span> 个单词</span>
+          </div>
+          <div class="extra-words-list" id="extraWordsList"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 前后缀视图 -->
+    <section id="view-affixes" class="view">
+      <div class="view-toolbar">
+        <h2>📝 常见前缀与后缀</h2>
+      </div>
+      <div class="affixes-layout">
+        <div class="affixes-col">
+          <h3 class="affixes-col-title">📖 常见前缀</h3>
+          <div class="affixes-list" id="affixPrefixList"></div>
+        </div>
+        <div class="affixes-col">
+          <h3 class="affixes-col-title">📖 常见后缀</h3>
+          <div class="affixes-list" id="affixSuffixList"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 搜索视图 -->
+    <section id="view-search" class="view active">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="搜索单词、中文释义或词根..." />
+        <button id="searchBtn">搜索</button>
+      </div>
+      <div class="search-hint">支持按英文单词、中文释义、词根搜索</div>
+      <div class="search-results" id="searchResults"></div>
+
+      <!-- 考试攻略（无搜索内容时显示） -->
+      <div class="exam-guide" id="examGuide">
+        <div class="guide-hero">
+          <h2>📖 英语四级 · 题型与高分技巧全攻略</h2>
+          <p class="guide-hero-sub">CET-4 Survival Guide · 题型解构 + 应试策略 + 考场节奏</p>
+          <div class="guide-stats">
+            <div class="guide-stat"><strong>710</strong><span>满分</span></div>
+            <div class="guide-stat"><strong>425</strong><span>通过线</span></div>
+            <div class="guide-stat"><strong>125min</strong><span>考试时长</span></div>
+            <div class="guide-stat"><strong>57</strong><span>总题量</span></div>
+          </div>
+        </div>
+
+        <details class="guide-card" open>
+          <summary>一、考试全景：分值与时间分配</summary>
+          <div class="guide-body">
+            <p>CET-4 笔试满分 710 分，不设及格线，但 <b>425 分</b>是普遍认可的"通过线"，也是报考六级的门槛。考场固定顺序：<b>写作 → 听力 → 阅读 → 翻译</b>。听力结束后立即回收答题卡 1，因此听力必须<b>边听边涂卡</b>。</p>
+            <table class="guide-table">
+              <thead><tr><th>部分</th><th>题型</th><th>题数</th><th>占比</th><th>报道分</th><th>用时</th></tr></thead>
+              <tbody>
+                <tr><td>写作</td><td>短文写作</td><td>1</td><td>15%</td><td>106.5</td><td rowspan="1">30 min</td></tr>
+                <tr><td rowspan="3">听力</td><td>短篇新闻</td><td>7</td><td>7%</td><td>49.7</td><td rowspan="3">25 min</td></tr>
+                <tr><td>长对话</td><td>8</td><td>8%</td><td>56.8</td></tr>
+                <tr><td>听力篇章</td><td>10</td><td>20%</td><td>142</td></tr>
+                <tr><td rowspan="3">阅读</td><td>选词填空</td><td>10</td><td>5%</td><td>35.5</td><td rowspan="3">40 min</td></tr>
+                <tr><td>长篇阅读（匹配）</td><td>10</td><td>10%</td><td>71</td></tr>
+                <tr><td>仔细阅读</td><td>10</td><td>20%</td><td>142</td></tr>
+                <tr><td>翻译</td><td>汉译英段落翻译</td><td>1</td><td>15%</td><td>106.5</td><td>30 min</td></tr>
+                <tr class="guide-total"><td>合计</td><td>—</td><td>57</td><td>100%</td><td>710</td><td>125 min</td></tr>
+              </tbody>
+            </table>
+            <p class="guide-tip">💡 提分优先级：听力篇章（20%）+ 仔细阅读（20%）是两大"黄金题型"，各 142 分，合计占总分 40%，备考时间应向这两块倾斜；选词填空仅 5%（35.5 分），每题价值最低，考场可放最后做。</p>
+          </div>
+        </details>
+
+        <details class="guide-card">
+          <summary>二、听力理解（35% · 248.5 分）</summary>
+          <div class="guide-body">
+            <p>听力是四级的"半壁江山"，且只播放一遍，结束立即收卡。核心策略：<b>预读选项 + 抓信号词 + 视听一致</b>。</p>
+            <table class="guide-table">
+              <thead><tr><th>题型</th><th>题数</th><th>分值</th><th>难点</th><th>应对策略</th></tr></thead>
+              <tbody>
+                <tr><td>短篇新闻</td><td>7</td><td>7%</td><td>语速快、词汇偏新闻</td><td>首句即主旨，抓 5W1H</td></tr>
+                <tr><td>长对话</td><td>8</td><td>8%</td><td>信息分散、易走神</td><td>边听边记，问答处必考</td></tr>
+                <tr><td>听力篇章</td><td>10</td><td>20%</td><td>篇幅长、细节多</td><td>首尾句 + 转折词后必出答案</td></tr>
+              </tbody>
+            </table>
+            <h4>🎧 听力五大黄金技巧</h4>
+            <ul>
+              <li><b>① 预读选项，提前预判</b> — 利用 Directions 和题间间隙扫读选项，圈出名词、动词、数字。选项都是动词原形 → 问"建议/打算"；都是地点短语 → 问"场景"。</li>
+              <li><b>② 视听一致原则（核心）</b> — 80% 以上题目满足：听到的原词与选项重合度最高的就是正确答案。听到哪词选哪句，切勿过度推理。</li>
+              <li><b>③ 信号词后必出答案</b> — 听到 but / however / actually / in fact（转折）、because / so / therefore（因果）、most important / especially（强调）时，答案就在后面一两句。</li>
+              <li><b>④ 首尾句必考</b> — 新闻第一句就是导语（主旨题答案）；长对话/短文的开头 3 句、结尾 2 句必出主旨或态度题。</li>
+              <li><b>⑤ 顺序原则</b> — 题目顺序与音频顺序完全一致。没跟上就放过，不要回头纠结。</li>
+            </ul>
+            <p class="guide-tip">💡 考场应急：完全没听清的题不要空着，选选项中出现听到原词最多的那个；四个选项都没听到，就选最符合积极/客观态度的选项。听力播完立刻涂卡。</p>
+          </div>
+        </details>
+
+        <details class="guide-card">
+          <summary>三、阅读理解（35% · 248.5 分）</summary>
+          <div class="guide-body">
+            <p>推荐做题顺序：<b>仔细阅读（142分）→ 长篇阅读匹配（71分）→ 选词填空（35.5分）</b>，把最多时间给最高分题。</p>
+            <h4>🔍 仔细阅读（2 篇 · 10 题 · 20%）— 重中之重</h4>
+            <ul>
+              <li><b>三步走定位法</b> — 先读题干圈出人名、地名、数字等定位词；回原文扫读定位到段落和句子；对比定位句前后一句，选同义替换的选项。</li>
+              <li><b>正确答案的特征</b> — 正确选项几乎从不照搬原文，而是做<b>同义替换</b>。照抄原文原词太多的选项反而要警惕。</li>
+              <li><b>干扰项套路</b> — ① 偷换概念 ② 扩大范围（some变all）③ 正反混淆 ④ 无中生有 ⑤ 答非所问。</li>
+              <li><b>做题时间</b> — 每篇约 9-10 分钟，共 18-20 分钟，务必留足时间。</li>
+            </ul>
+            <h4>🔗 长篇阅读 / 段落匹配（10 题 · 10%）</h4>
+            <ul>
+              <li><b>先题后文</b> — 先读 10 个句子，划出数字、年份、人名、地名等独特信息，再回原文扫读段落首尾句。</li>
+              <li><b>一段一题，不回头</b> — 找到匹配后立即划掉该段和该句，避免重复使用。</li>
+              <li><b>速度优先</b> — 不要精读全文！建议 10-12 分钟完成，超时就先选最像的。</li>
+            </ul>
+            <h4>✏️ 选词填空（10 题 · 5%）— 最后做</h4>
+            <ul>
+              <li><b>先标词性，再填空</b> — 给 15 个选项标注 n. / v. / adj. / adv.。前面是冠词/形容词 → 填名词；be/系动词后 → 填形容词；主语后缺谓语 → 填动词。</li>
+              <li><b>利用逻辑关系</b> — 空格前后有 and / but / than，与前后词是并列或反义关系。</li>
+              <li><b>战略放弃</b> — 每题仅 3.55 分，时间不够时全选同一字母也能蒙对 2-3 题。</li>
+            </ul>
+          </div>
+        </details>
+
+        <details class="guide-card">
+          <summary>四、写作（15% · 106.5 分）</summary>
+          <div class="guide-body">
+            <p>阅卷老师平均只花 30 秒看一篇。高分关键不是辞藻华丽，而是<b>结构清晰 + 无语法错误 + 有亮点句式</b>。</p>
+            <h4>📐 三段式万能框架（稳拿基础分）</h4>
+            <table class="guide-table">
+              <thead><tr><th>段落</th><th>功能</th><th>写法模板</th></tr></thead>
+              <tbody>
+                <tr><td>第一段（开头）</td><td>引出话题、亮明观点</td><td>Nowadays, 主题 has become a matter of great concern. From my perspective, 你的立场.</td></tr>
+                <tr><td>第二段（主体）</td><td>2-3 个分论点 + 举例</td><td>First and foremost, 论点一. For example, 举例. In addition, 论点二. Last but not least, 论点三.</td></tr>
+                <tr><td>第三段（结尾）</td><td>总结 + 呼吁</td><td>In conclusion, 重申观点. It is high time that we 重视. Only in this way can we 美好未来.</td></tr>
+              </tbody>
+            </table>
+            <h4>✨ 加分与避坑</h4>
+            <ul>
+              <li><b>开头句用复杂句抢印象分</b> — 每段首句尝试定语从句、倒装句或强调句，如 It is XX that plays a vital role in... / Only by doing so can we...</li>
+              <li><b>多用逻辑连接词</b> — 递进：furthermore, moreover；转折：nevertheless, on the contrary；因果：as a consequence；举例：a striking example is that...</li>
+              <li><b>字数控制在 150-180 词</b> — 宁可句子简单但正确，也不要写长难句却满篇语法错误。</li>
+              <li><b>三大避坑</b> — ① 主谓一致（he/she 后动词加 s）② 时态统一（议论文用一般现在时）③ 中式英语（不要逐字翻译）。</li>
+            </ul>
+          </div>
+        </details>
+
+        <details class="guide-card">
+          <summary>五、汉译英段落翻译（15% · 106.5 分）</summary>
+          <div class="guide-body">
+            <p>翻译是一段 140-160 字的中文段落，常涉及中国文化、历史、经济、社会发展。评分看<b>整体意思准确</b>，不要求逐字对应。</p>
+            <h4>🔄 五步翻译法</h4>
+            <ul>
+              <li><b>① 通读全文</b> — 确定时态（介绍中国文化多用一般现在时）和段落主题。</li>
+              <li><b>② 拆分长句</b> — 找出主谓宾，把长句拆成 2-3 个英文短句。</li>
+              <li><b>③ 主干翻译</b> — 先写主谓宾骨架，再添加定语从句、介词短语等修饰。</li>
+              <li><b>④ 难词变通</b> — "饺子" → a kind of traditional Chinese food；"针灸" → a traditional Chinese medical treatment。</li>
+              <li><b>⑤ 检查语法</b> — 重点检查单复数、时态、冠词、介词搭配。</li>
+            </ul>
+            <h4>📚 高频主题词汇储备</h4>
+            <table class="guide-table">
+              <thead><tr><th>类别</th><th>高频表达（中→英）</th></tr></thead>
+              <tbody>
+                <tr><td>传统文化</td><td>春联 spring couplets；剪纸 paper-cutting；书法 calligraphy；孔子 Confucius；儒家思想 Confucianism；唐诗 Tang poetry</td></tr>
+                <tr><td>社会发展</td><td>改革开放 reform and opening-up；小康社会 a moderately prosperous society；脱贫攻坚 poverty alleviation；数字化 digitalization</td></tr>
+                <tr><td>地理旅游</td><td>长江 the Yangtze River；黄山 Mount Huangshan；故宫 the Forbidden City；兵马俑 Terracotta Warriors</td></tr>
+                <tr><td>经济生活</td><td>网购 online shopping；移动支付 mobile payment；共享经济 sharing economy；快递 express delivery</td></tr>
+              </tbody>
+            </table>
+            <p class="guide-tip">💡 翻译提分核心：宁可写简单句但语法全对，也不要堆砌复杂句却错误百出。"意思准确 + 语法基本正确"就是第三档（约 80 分），加几个亮点句式就能冲高分档。</p>
+          </div>
+        </details>
+
+        <details class="guide-card">
+          <summary>六、考场时间分配与冲刺建议</summary>
+          <div class="guide-body">
+            <h4>⏱️ 答题卡节奏（极其重要）</h4>
+            <table class="guide-table">
+              <thead><tr><th>时间段</th><th>任务</th><th>注意事项</th></tr></thead>
+              <tbody>
+                <tr><td>0-30 min</td><td>写作</td><td>审题 2 min → 列提纲 3 min → 写作 22 min → 检查 3 min</td></tr>
+                <tr><td>30-55 min</td><td>听力（边听边涂卡）</td><td>听力结束立即收答题卡1！绝不能等听完再涂</td></tr>
+                <tr><td>55-95 min</td><td>阅读 40 min</td><td>仔细阅读 20 min → 匹配 12 min → 选词填空 8 min</td></tr>
+                <tr><td>95-125 min</td><td>翻译 30 min</td><td>预留 25 min 翻译 + 5 min 检查</td></tr>
+              </tbody>
+            </table>
+            <h4>🔥 考前 30 天冲刺优先级</h4>
+            <table class="guide-table">
+              <thead><tr><th>优先级</th><th>任务</th><th>每日投入</th></tr></thead>
+              <tbody>
+                <tr><td>★★★</td><td>听力真题精听（近 5 年）：先做题 → 对答案 → 跟读 → 盲听</td><td>30-40 min</td></tr>
+                <tr><td>★★★</td><td>仔细阅读真题：每篇限时 10 min，整理同义替换词</td><td>30 min</td></tr>
+                <tr><td>★★</td><td>写作模板背诵 + 每周写 2 篇真题作文并修改</td><td>20 min</td></tr>
+                <tr><td>★★</td><td>翻译高频主题词汇积累（文化/社会/经济）</td><td>15 min</td></tr>
+                <tr><td>★</td><td>长篇阅读限时训练 + 选词填空词性判断练习</td><td>15 min</td></tr>
+              </tbody>
+            </table>
+            <h4>📜 三句箴言</h4>
+            <ul>
+              <li><b>1. 得听力阅读者得天下</b> — 这两块占 70% 分值，复习时间也应占 70%。</li>
+              <li><b>2. 真题是唯一的圣经</b> — 把近 10 年真题做 3 遍，比模拟题刷 100 套都有用。</li>
+              <li><b>3. 考场策略 &gt; 英语水平</b> — 会做题、会分配时间、会蒙题，425 分并不难。</li>
+            </ul>
+            <p class="guide-tip">🎯 祝考试顺利，一次上岸！Keep calm and crack CET-4.</p>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <!-- 收藏视图 -->
+    <section id="view-favorites" class="view">
+      <div class="view-toolbar">
+        <h2>⭐ 我的收藏</h2>
+        <span class="stats">已收藏 <span id="favCount">0</span> 个单词</span>
+      </div>
+      <div class="favorites-list" id="favoritesList"></div>
+    </section>
+
+    <!-- 练习视图 -->
+    <section id="view-practice" class="view">
+      <div class="practice-modes">
+        <button class="mode-btn active" data-mode="cn2en">看中文写英文</button>
+        <button class="mode-btn" data-mode="en2cn">看英文写中文</button>
+      </div>
+
+      <div class="practice-source">
+        <label><input type="radio" name="src" value="all" checked /> 四级词汇</label>
+        <label><input type="radio" name="src" value="fav" /> 仅收藏</label>
+      </div>
+
+      <div class="practice-card" id="practiceCard">
+        <div class="practice-progress">第 <span id="curIdx">1</span> / <span id="totalIdx">0</span> 题</div>
+        <div class="practice-prompt" id="practicePrompt"></div>
+        <input type="text" id="practiceInput" placeholder="在这里输入你的答案..." autocomplete="off" />
+        <div class="practice-actions">
+          <button id="checkBtn">提交答案</button>
+          <button id="skipBtn">跳过</button>
+          <button id="showBtn">显示答案</button>
+        </div>
+        <div class="practice-result" id="practiceResult"></div>
+      </div>
+
+      <div class="practice-summary" id="practiceSummary"></div>
+    </section>
+
+    <!-- 听力练习视图 -->
+    <section id="view-listen" class="view">
+      <div id="listenSelect">
+        <div class="view-toolbar">
+          <h2>🎧 听力练习</h2>
+          <p class="muted">选择试卷，播放听力音频，逐题作答并即时反馈</p>
+        </div>
+        <div class="listen-year-groups" id="listenYearGroups"></div>
+      </div>
+      <div id="listenArea" style="display:none;">
+        <div class="listen-header">
+          <button class="btn-back" onclick="listenBack()">← 选题</button>
+          <div class="listen-title" id="listenTitle"></div>
+          <button class="btn-submit" onclick="listenFinish()">结束练习</button>
+        </div>
+        <div class="listen-player-box">
+          <audio controls id="listenAudio" preload="none">您的浏览器不支持音频播放</audio>
+          <p class="muted small" id="listenAudioHint">点击播放听力音频</p>
+          <div class="listen-script-bar">
+            <label class="script-toggle">
+              <input type="checkbox" id="scriptEnToggle" onchange="toggleScript('en')" />
+              <span>📄 英文原文</span>
+            </label>
+            <label class="script-toggle">
+              <input type="checkbox" id="scriptCnToggle" onchange="toggleScript('cn')" />
+              <span>🈶 中文译文</span>
+            </label>
+            <label class="script-toggle">
+              <input type="checkbox" id="qStemToggle" onchange="renderListenQuestion()" />
+              <span>❓ 题目原文</span>
+            </label>
+            <label class="script-toggle">
+              <input type="checkbox" id="qCnToggle" onchange="renderListenQuestion()" />
+              <span>🈶 题目译文</span>
+            </label>
+          </div>
+          <div class="listen-script-box" id="scriptEnBox" style="display:none;">
+            <div class="script-title">📄 英文原文</div>
+            <div class="script-content" id="scriptEnContent"></div>
+          </div>
+          <div class="listen-script-box" id="scriptCnBox" style="display:none;">
+            <div class="script-title">🈶 中文译文</div>
+            <div class="script-content" id="scriptCnContent"></div>
+          </div>
+        </div>
+        <div class="listen-mode-bar">
+          <span class="listen-mode-label">对答案模式：</span>
+          <label class="listen-mode-opt">
+            <input type="radio" name="listenMode" value="overall" checked onchange="setListenMode('overall')" />
+            <span>全部答完再对答案</span>
+          </label>
+          <label class="listen-mode-opt">
+            <input type="radio" name="listenMode" value="perQ" onchange="setListenMode('perQ')" />
+            <span>选一题对一题</span>
+          </label>
+        </div>
+        <div class="listen-progress">第 <span id="listenCur">1</span> / <span id="listenTotal">25</span> 题 · 得分 <span id="listenScore">0</span></div>
+        <div class="listen-actions">
+          <button class="btn-back" id="listenPrevBtn" onclick="listenPrev()">上一题</button>
+          <button class="btn-submit" id="listenNextBtn" onclick="listenNext()">下一题</button>
+        </div>
+        <div class="listen-card" id="listenCard"></div>
+      </div>
+      <div id="listenResult" style="display:none;">
+        <div class="listen-result-box" id="listenResultBox"></div>
+      </div>
+    </section>
+
+    <!-- 考前应急视图 -->
+    <section id="view-intensive" class="view">
+      <div class="intensive-header">
+        <h2>🚨 考前应急</h2>
+        <p class="intensive-subtitle">四级高频词汇 · 高频短语 · 作文万能句式</p>
+      </div>
+
+      <div class="intensive-modules" id="intensiveModules">
+        <div class="intensive-card" data-module="words">
+          <div class="intensive-card-icon">📝</div>
+          <div class="intensive-card-title">高频词汇</div>
+          <div class="intensive-card-desc" id="intWordsCount">—</div>
+        </div>
+        <div class="intensive-card" data-module="phrases">
+          <div class="intensive-card-icon">🔗</div>
+          <div class="intensive-card-title">高频短语</div>
+          <div class="intensive-card-desc" id="intPhrasesCount">—</div>
+        </div>
+        <div class="intensive-card" data-module="essay">
+          <div class="intensive-card-icon">✍️</div>
+          <div class="intensive-card-title">作文句式</div>
+          <div class="intensive-card-desc" id="intEssayCount">—</div>
+        </div>
+      </div>
+
+      <div class="intensive-detail" id="intensiveDetail" style="display:none;">
+        <div class="int-detail-header">
+          <button class="btn-back" onclick="renderIntensive()">← 返回</button>
+          <div class="int-download-bar">
+            <span class="download-label">下载：</span>
+            <button class="download-btn" onclick="downloadIntensive('pdf')">📄 PDF</button>
+            <button class="download-btn" onclick="downloadIntensive('word')">📝 Word</button>
+          </div>
+        </div>
+        <div class="intensive-list" id="intensiveList"></div>
+      </div>
+    </section>
+
+    <!-- 真题模考视图 -->
+    <section id="view-exam" class="view">
+      <!-- 试卷选择 -->
+      <div id="examSelect">
+        <div class="view-toolbar">
+          <h2>📄 历年真题模考</h2>
+          <p class="muted">2020 — 2025年12月 · 含听力音频 · 在线答题自动判分</p>
+        </div>
+        <div class="exam-year-groups" id="examYearGroups"></div>
+      </div>
+      <!-- 答题区 -->
+      <div id="examArea" style="display:none;">
+        <div class="exam-header">
+          <button class="btn-back" onclick="examBack()">← 返回选题</button>
+          <div class="exam-header-center">
+            <div class="exam-title" id="examTitle"></div>
+            <div class="exam-timer" id="examTimer">⏱ 00:00:00</div>
+          </div>
+          <button class="btn-submit" onclick="examSubmit()">交卷评分</button>
+        </div>
+        <div class="exam-download-bar">
+          <span class="download-label">下载：</span>
+          <button class="download-btn" onclick="downloadExamPaper('pdf')">📄 试卷 PDF</button>
+          <button class="download-btn" onclick="downloadExamPaper('word')">📝 试卷 Word</button>
+          <button class="download-btn" onclick="downloadAnswerSheet('pdf')">📄 答题卡 PDF</button>
+          <button class="download-btn" onclick="downloadAnswerSheet('word')">📝 答题卡 Word</button>
+          <button class="download-btn" id="examAudioDlBtn" onclick="downloadExamAudio()">🎧 听力音频</button>
+        </div>
+        <div class="exam-sections" id="examSections"></div>
+      </div>
+      <!-- 成绩区 -->
+      <div id="examResult" style="display:none;">
+        <div class="exam-header">
+          <button class="btn-back" onclick="examBack()">← 返回选题</button>
+          <div class="exam-title" id="resultTitle"></div>
+        </div>
+        <div class="exam-score-box" id="examScoreBox"></div>
+        <div class="exam-answer-review" id="examAnswerReview"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 单词详情弹窗 -->
+  <div class="modal" id="wordModal">
+    <div class="modal-content">
+      <span class="modal-close" id="modalClose">&times;</span>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <p>英语四级词汇背诵 · 词根记忆法 · 数据本地存储</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="js/words.js?v=8"></script>
+  <script src="js/intensive.js?v=8"></script>
+  <script src="js/app.js?v=20260930b"></script>
+</body>
+</html>

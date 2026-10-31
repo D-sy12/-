@@ -1,0 +1,670 @@
+{
+  "id": "2023-12-1",
+  "writing": "Part I Writing (30 minutes) 英语四级2023年12月·第1套真题 Directions : Suppose the university newspaper is inviting submissions from the students for its coming edition on a campus event that has impressed them most. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What may be the reason that friends are similar to each other according to the recent research?",
+      "options": {
+        "A": "Their brains work in harmony.",
+        "B": "They are generally the same age.",
+        "C": "Their interests are quite similar.",
+        "D": "They have the same ethnic background."
+      },
+      "stem_cn": "根据最近的研究,朋友之间相似的原因可能是什么?",
+      "options_cn": {
+        "A": "他们的大脑协调运作。",
+        "B": "他们通常年龄相同。",
+        "C": "他们的兴趣非常相似。",
+        "D": "他们有相同的族裔背景。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What does the news report say about the relationship between friends?",
+      "options": {
+        "A": "It can be touching.",
+        "B": "It is hard to predict.",
+        "C": "It can work both ways.",
+        "D": "It resembles family ties."
+      },
+      "stem_cn": "新闻报道关于朋友之间的关系说了什么?",
+      "options_cn": {
+        "A": "它可能令人感动。",
+        "B": "它难以预测。",
+        "C": "它可以双向作用。",
+        "D": "它类似于家庭纽带。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What did both Alan Robinson and Walter MacDonald attempt to do on DNA matching websites?",
+      "options": {
+        "A": "Search for their half-brothers.",
+        "B": "Identify their biological fathers.",
+        "C": "Find out more about their ancestry.",
+        "D": "See whether they are actually related."
+      },
+      "stem_cn": "Alan Robinson 和 Walter MacDonald 在 DNA 匹配网站上都试图做什么?",
+      "options_cn": {
+        "A": "寻找他们同父异母的兄弟。",
+        "B": "确认他们的生父身份。",
+        "C": "了解更多关于他们祖先的信息。",
+        "D": "查看他们是否真的有血缘关系。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What did the news report say about Alan Robinson and Walter MacDonald?",
+      "options": {
+        "A": "They were both given up for adoption.",
+        "B": "They were born to the same mother.",
+        "C": "They flew 737 airplanes as pilots.",
+        "D": "They were both 60 years of age."
+      },
+      "stem_cn": "新闻报道关于 Alan Robinson 和 Walter MacDonald 说了什么?",
+      "options_cn": {
+        "A": "他们都被送去领养了。",
+        "B": "他们是同一个母亲所生。",
+        "C": "他们作为飞行员驾驶 737 飞机。",
+        "D": "他们都是 60 岁。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "Why did one of the male tourists feel sad?",
+      "options": {
+        "A": "One of his friends was caught littering.",
+        "B": "Other tourists refused to join in the cleanup.",
+        "C": "The beautiful beach was spoiled with lots of trash.",
+        "D": "The kilometer-long beach was practically deserted."
+      },
+      "stem_cn": "为什么其中一位男性游客感到难过?",
+      "options_cn": {
+        "A": "他的一位朋友因乱扔垃圾被抓到。",
+        "B": "其他游客拒绝参加清理活动。",
+        "C": "美丽的海滩被大量垃圾破坏了。",
+        "D": "这片长达一公里的海滩几乎荒无一人。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "Who put the good deed video on the internet?",
+      "options": {
+        "A": "A passerby.",
+        "B": "A local woman.",
+        "C": "The beach authorities.",
+        "D": "One of the five tourists."
+      },
+      "stem_cn": "谁把这段善举视频上传到了网上?",
+      "options_cn": {
+        "A": "一位路人。",
+        "B": "一位当地妇女。",
+        "C": "海滩管理部门。",
+        "D": "五位游客中的一位。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "Why did one local woman say she was embarrassed?",
+      "options": {
+        "A": "The tourists' good deed was not noticed by the locals.",
+        "B": "Some natives were selling poor-quality food to tourists.",
+        "C": "The number of tourists to the beach is on a steady decline.",
+        "D": "It was tourists not natives who were cleaning up the beach."
+      },
+      "stem_cn": "为什么一位当地妇女说她感到尴尬?",
+      "options_cn": {
+        "A": "游客的善举没有被当地人注意到。",
+        "B": "一些本地人向游客出售劣质食品。",
+        "C": "前往海滩的游客数量持续下降。",
+        "D": "清理海滩的是游客而不是本地人。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "Why can't the man go for a run Saturday morning?",
+      "options": {
+        "A": "He has to play football with workmates.",
+        "B": "He has got some books to read.",
+        "C": "He is going to visit a friend.",
+        "D": "He is physically unfit for it."
+      },
+      "stem_cn": "为什么男士周六早上不能去跑步?",
+      "options_cn": {
+        "A": "他必须和同事踢足球。",
+        "B": "他有一些书要读。",
+        "C": "他要去拜访一位朋友。",
+        "D": "他的身体状况不适合跑步。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "Why is the woman's whole family going to the zoo next Saturday?",
+      "options": {
+        "A": "To teach kids about animal protection.",
+        "B": "To learn how popular zoos could be.",
+        "C": "To see some rare animals in cages.",
+        "D": "To give her little nephew a treat."
+      },
+      "stem_cn": "为什么女士全家下周六要去动物园?",
+      "options_cn": {
+        "A": "教孩子们动物保护知识。",
+        "B": "了解动物园能有多受欢迎。",
+        "C": "看一些关在笼子里的稀有动物。",
+        "D": "给她的小侄子一个惊喜。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What do we learn about Dan from the man's description?",
+      "options": {
+        "A": "He enjoys excellent health.",
+        "B": "He is keen on extreme sports.",
+        "C": "He coaches tennis players every week.",
+        "D": "He spends most of his time in the gym."
+      },
+      "stem_cn": "从男士的描述中我们了解到Dan的什么情况?",
+      "options_cn": {
+        "A": "他身体非常健康。",
+        "B": "他热衷于极限运动。",
+        "C": "他每周指导网球运动员。",
+        "D": "他大部分时间都在健身房度过。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What has the man been doing since last weekend?",
+      "options": {
+        "A": "Tending to his swollen ankle.",
+        "B": "Concentrating on reading.",
+        "C": "Writing three book reports.",
+        "D": "Planning Christmas celebrations."
+      },
+      "stem_cn": "男士从上周末以来一直在做什么?",
+      "options_cn": {
+        "A": "照料他肿胀的脚踝。",
+        "B": "专心阅读。",
+        "C": "写三篇读书报告。",
+        "D": "计划圣诞节庆祝活动。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What do we learn about the man's book published recently?",
+      "options": {
+        "A": "It is being debated by hundreds of retirees.",
+        "B": "It is attracting many people's attention.",
+        "C": "It partly records his own experience.",
+        "D": "It argues for postponing retirement."
+      },
+      "stem_cn": "关于这位男士最近出版的书，我们了解到什么？",
+      "options_cn": {
+        "A": "数百名退休人员正在对它进行讨论。",
+        "B": "它正在吸引许多人的关注。",
+        "C": "它部分记录了他自己的经历。",
+        "D": "它主张推迟退休。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What do the articles the woman read recommend?",
+      "options": {
+        "A": "One should foresee a financial crisis.",
+        "B": "One should trust financial planners, figures.",
+        "C": "One should have one million dollars to retire.",
+        "D": "One should start saving as early as possible."
+      },
+      "stem_cn": "这位女士读到的文章建议什么？",
+      "options_cn": {
+        "A": "人们应该预见到金融危机。",
+        "B": "人们应该相信理财规划师的数据。",
+        "C": "人们应该有一百万美元才能退休。",
+        "D": "人们应该尽早开始储蓄。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the man say about retirement?",
+      "options": {
+        "A": "It doesn't need to be permanent.",
+        "B": "It shouldn't be considered risky.",
+        "C": "It helps to reduce travel expenses.",
+        "D": "It is the way to quit a job one hates."
+      },
+      "stem_cn": "这位男士对退休有何看法？",
+      "options_cn": {
+        "A": "它不必是永久性的。",
+        "B": "它不应该被认为有风险。",
+        "C": "它有助于减少旅行开支。",
+        "D": "它是辞去自己讨厌的工作的方式。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "How does the man say his proposal about retirement can be carried out?",
+      "options": {
+        "A": "By keeping close contact with one's employers.",
+        "B": "By retiring when one reaches sixty years old.",
+        "C": "By investing half of one's monthly income.",
+        "D": "By following the counsel of financial planners."
+      },
+      "stem_cn": "这位男士说他关于退休的提议可以如何实施？",
+      "options_cn": {
+        "A": "通过与雇主保持密切联系。",
+        "B": "通过在年满六十岁时退休。",
+        "C": "通过投资月收入的一半。",
+        "D": "通过遵循理财规划师的建议。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What was the finding of the new research from America about consumers' food choices?",
+      "options": {
+        "A": "They tended to be easily anticipated by those belonging to their own race.",
+        "B": "They tended to be arbitrarily judged by individuals of opposing groups.",
+        "C": "They were readily shared among members of the same social or racial group.",
+        "D": "They were influenced by the presence of someone from an outsider group."
+      },
+      "stem_cn": "来自美国的新研究关于消费者食物选择的发现是什么?",
+      "options_cn": {
+        "A": "它们往往容易被属于同一种族的人预测。",
+        "B": "它们往往被对立群体的个体任意评判。",
+        "C": "它们在同一社会或种族群体的成员之间容易共享。",
+        "D": "它们受到来自外部群体的某人在场的影响。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "When did 31 percent of students in the experiment select the healthier option?",
+      "options": {
+        "A": "When they tried to make a positive impression on the researchers.",
+        "B": "When an unknown student from another university was present.",
+        "C": "When an experimenter from the research team took notice.",
+        "D": "When they were offered both candy and fruit as a snack."
+      },
+      "stem_cn": "实验中百分之三十一的学生在什么时候选择了更健康的选项?",
+      "options_cn": {
+        "A": "当他们试图给研究人员留下积极印象时。",
+        "B": "当一名来自另一所大学的陌生学生在场时。",
+        "C": "当研究团队的一名实验人员注意到时。",
+        "D": "当他们被提供糖果和水果作为零食时。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "How could a healthy diet be promoted according to the findings of the new research?",
+      "options": {
+        "A": "By advertising its social benefits.",
+        "B": "By teaching consumers diet strategies.",
+        "C": "By supporting struggling consumers.",
+        "D": "By maintaining its positive image."
+      },
+      "stem_cn": "根据新研究的发现,如何促进健康饮食?",
+      "options_cn": {
+        "A": "通过宣传其社会益处。",
+        "B": "通过向消费者传授饮食策略。",
+        "C": "通过支持处境艰难的消费者。",
+        "D": "通过维持其正面形象。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What does the recent study led by Patricia Pendry aim to examine?",
+      "options": {
+        "A": "The academic and learning issues struggling students encounter.",
+        "B": "The risk students face due to a history of mental health problems.",
+        "C": "The effect of interacting with therapy dogs on students under pressure.",
+        "D": "The work universities are doing to help students succeed academically"
+      },
+      "stem_cn": "Patricia Pendry领导的最新研究旨在考察什么?",
+      "options_cn": {
+        "A": "处境困难的学生遇到的学业和学习问题。",
+        "B": "学生因心理健康问题史而面临的风险。",
+        "C": "与治疗犬互动对压力下学生的影响。",
+        "D": "大学为帮助学生在学业上取得成功所做的工作。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What did the new study measure in the participants?",
+      "options": {
+        "A": "Their communicative skills.",
+        "B": "Their executive functioning.",
+        "C": "Their academic networking.",
+        "D": "Their leadership capacities."
+      },
+      "stem_cn": "这项新研究测量了参与者的什么?",
+      "options_cn": {
+        "A": "他们的沟通技能。",
+        "B": "他们的执行功能。",
+        "C": "他们的学术人际网络。",
+        "D": "他们的领导能力。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What does Patricia Pendry think traditional stress management programs may do?",
+      "options": {
+        "A": "Rid students of their anxiety.",
+        "B": "Add to some students' stress.",
+        "C": "Contribute little to typical students' success.",
+        "D": "Help students with mental issues pull through."
+      },
+      "stem_cn": "Patricia Pendry认为传统压力管理项目可能会做什么?",
+      "options_cn": {
+        "A": "消除学生的焦虑。",
+        "B": "增加一些学生的压力。",
+        "C": "对普通学生的成功贡献甚微。",
+        "D": "帮助有心理问题的学生渡过难关。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What do entrepreneurs have to do when taking risks according to the passage?",
+      "options": {
+        "A": "Work hard and plan carefully.",
+        "B": "Attempt to succeed at any cost.",
+        "C": "Aim high and expect great results.",
+        "D": "Remain optimistic even in difficulty."
+      },
+      "stem_cn": "根据文章，企业家在承担风险时必须做什么？",
+      "options_cn": {
+        "A": "努力工作并仔细计划。",
+        "B": "不惜任何代价争取成功。",
+        "C": "目标远大并期待卓越成果。",
+        "D": "即使在困难中也保持乐观。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What does the passage say is key to business growth?",
+      "options": {
+        "A": "Regarding failure as something inevitable.",
+        "B": "Trying out innovative marketing strategies.",
+        "C": "Venturing into sectors never explored before.",
+        "D": "Being willing to experiment with novel ideas."
+      },
+      "stem_cn": "文章认为什么是业务增长的关键？",
+      "options_cn": {
+        "A": "将失败视为不可避免的事情。",
+        "B": "尝试创新的营销策略。",
+        "C": "冒险进入从未探索过的领域。",
+        "D": "愿意尝试新颖的想法。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What are we advised to do when we fail?",
+      "options": {
+        "A": "Expect future success so as to move forward.",
+        "B": "Learn from our failure and forge ahead.",
+        "C": "Distinguish between good and bad risks.",
+        "D": "Examine our strategies and find out weaknesses."
+      },
+      "stem_cn": "当我们失败时，建议我们做什么？",
+      "options_cn": {
+        "A": "期待未来成功以便继续前进。",
+        "B": "从失败中学习并勇往直前。",
+        "C": "区分好的风险和坏的风险。",
+        "D": "检查我们的策略并找出弱点。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What does it mean to risk-taking businesses when most people tend to avoid risk?",
+      "options": {
+        "A": "Fresher offers.",
+        "B": "Safer operation.",
+        "C": "More challenges.",
+        "D": "Less competition."
+      },
+      "stem_cn": "当大多数人倾向于规避风险时，对承担风险的企业意味着什么？",
+      "options_cn": {
+        "A": "更新鲜的机会。",
+        "B": "更安全的运营。",
+        "C": "更多挑战。",
+        "D": "更少竞争。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "adjust",
+    "B": "alter",
+    "C": "approximately",
+    "D": "controversial",
+    "E": "coordinates",
+    "F": "impact",
+    "G": "limitations",
+    "H": "moderate",
+    "I": "participated",
+    "J": "patterns",
+    "K": "populated",
+    "L": "risk",
+    "M": "seemingly",
+    "N": "type",
+    "O": "upper"
+  },
+  "cloze_passage": "Exercising for just 10 minutes a week is linked to a longer life, according to a new study published in The British Journal of Sports Medicine.\nSeveral recent studies have found that even low-intensity exercise, done for a short amount of time, can have a meaningful 26 on health. Still, the idea that exercising for just 10 minutes a week may be enough to increase your lifespan is novel. It's also somewhat 27 , since the federal physical activity guidelines recommend getting at least 75 minutes of vigorous exercise or 150 minutes of 28 exercise each week.\nThe study was based on data from more than 88,000 U.S. adults who 29 in the National Health Interview Survey between 1997 and 2008.\nContrary to some research that has found an 30 limit to the amount of exercise that is healthy, the researchers found that there was 31 no limit to the longevity(长寿) benefits of exercise. Even the small group of people who got 10 times the amount of exercise recommended by the federal government had a 46% lower 32 of death than the least active group.\nStill, observational studies like this one cannot prove cause and effect; they can only find 33 . The researchers also were not able to 34 for certain lifestyle factors that could affect lifespan, including dietary habits and changes in physical activity over time. Despite these 35 , the study's results are yet another indication of the power of physical activity, even in small amounts.",
+  "long_reading_passage": "A) Earlier this year, scientists warned that one in six animal species could go extinct(灭绝的) due to climate change. Could the same thing happen to our crops and other foodstuffs too?\nB) It's clear that farmers in many parts of the world are going to find things harder in the coming decades. Last week, BBC Future explored one scientist's efforts to help crops cope with the increased probability of droughts. By using the genes from resurrection(复活) plants, Jill Farrant of the University of Cape Town is exploring whether she can design crops to survive for much longer periods without water.\nC) But if we can't find ways to protect other foods, will they survive climate change? Fortunately, there is some good news on this front. Despite alarmist headlines about \"foods that are going extinct,\" there is no evidence that major food types like beans, chocolate, wine, corn or wheat will cease to exist.\nD) But that doesn't mean it's all good news for future food. We will probably have to change where we grow certain crops, as some regions get too hot. The disadvantage, obviously, is that local farmers will suffer under this situation. And some people may struggle to get the same access to certain foods. \"Even if overall food production may be unaffected, food security can still be impacted,\" says Margaret Walsh, a scientist at the US Department of Agriculture's Climate Change Program Office. In other words, even if a certain food is still grown on some corner of the Earth, it doesn't mean that everyone will continue to have the same degree of access as today.\nE) Overall, the yields of many foods, from staples to life-enhancing extras such as coffee and chocolate, will likely be impacted by climate change too. How those decreases will be felt will depend on the degree of warming and the crop in question, but in general, \"anything over about 30℃ is very bad for crops,\" says Wolfram Schlenker, an associate professor of international and public affairs at Columbia University. For example, statistical studies that he and a colleague built of corn and soybean(大豆) production in the US show a steep decline after crossing the 30℃ temperature threshold(临界点).\nF) In the US—the world's largest producer of corn and soybeans—farms can move north to some degree, Schlenker says. But eventually, yields will likely suffer because the soil north of Iowa declines in quality—a legacy of glacial(冰川的) expansion. Other studies, including studies of wheat in India and corn in Africa, also found that there is a threshold above which yields sharply decline: crops can adapt and move, but only to a point. \"What's common to all studies is the finding that extreme heat is damaging to crop growth, although exact cutoffs vary by crop,\" Schlenker says. \"If predictions for the end of the century are true, though, I think a lot of agricultural areas in the US will see significant hits.\"\nG) Under current conditions, about 4% of the world's croplands experience drought in any given year, but by the end of the century those conditions are forecasted to jump to about 18% per year. Some studies indicate that horticulture crops—generally, everything besides staples—may be impacted most severely, largely because they tend to be confined to a smaller geographic area. Researcher Andrew Jarvis and his colleagues found that 80% of coffee-growing zones in Central America and Brazil could become unsuitable by 2050, for example, while climate change will likely have \"great impacts\" on cocoa(可可粉) production in West Africa. \"High quality chocolate will be less available in the future, and if you want it, you'll have to pay a lot more for it,\" Jarvis says.\nH) This means that, for those who can afford it, some foods will simply cost them more in the future. But for poorer people, those same price jumps will likely cause certain foods to go extinct from their diets. \"The more you reduce, the shorter the supply, and the higher the price will jump,\" Schlenker says.\nI) Another potential climate change-induced problem is our dependence on commodity crops—wheat, soybeans, corn and rice—which currently provide humanity with 75% of its calories, either directly or indirectly through the animals we raise on those crops. Jarvis and his colleagues also found that, over the past five decades, the world has seen an increasing standardisation of diets; the foods we eat globally today are 36% more similar than they were in 1961. While this can be good news for the world's poorest people who now consume more calories, protein and fat than in the past, homogeneity(同一性) and over-dependence on a handful of staples leave us vulnerable to threats such as drought, disease and pests—all of which are predicted to worsen in many parts of the world as a result of climate change.\nJ) There are ways we could soften the coming blow to the global food supply, however. Like Farrant's work with resurrection crops, a number of companies, organisations and researchers are aiming to create drought and temperature-resistant crops through genetic engineering and conventional breeding. For now, the jury is still out as to how successful those endeavours will be. \"The people at Monsanto who I've talked to are much more optimistic that they'll be able to engineer heat-tolerant crops,\" Schlenker says. \"On the other hand, scientists at the USDA who I've spoken with are much more cautious.\"\nK) Until genetic engineering comes to fruition, other strategies might also help in some places, including applying more fertiliser, implementing better irrigation, using machinery that gets crops out of the field faster or installing storage facilities to delay spoilage. \"Many places could benefit a great deal just by using technologies that already exist,\" Walsh says. \"General farm management can go a long way toward easing changes.\"\nL) Finally, diversifying our diet away from heat-sensitive wheat, corn, rice and other crops could also help. \"We've seen profound changes in the last decades in what we eat largely as a result of international trade, and I think that trend toward more diversification will continue,\" M Jarvis says. \"Depending on a greater number of plant species creates a more vigorous and less risky food system—and one that provides a broader range of nutritional requirements.\"",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "One of my bad habits is saying \"busy\" when people ask me how I'm doing. Sometimes it's because I actually am busy, but other times it's because that's what I think I'm supposed to say. That's what important people say. That's what people who get promoted say. But working long hours doesn't drive better results. Never taking a vacation won't lead to a promotion. So why are we so proud to talk about how busy we are all the time?\nIn 2016, researchers from Columbia, Harvard, and Georgetown conducted a study to figure it out. They found busy people are perceived to be of high status, and interestingly, these status attributions are heavily influenced by our own beliefs about social mobility. In other words, the more we believe that one has the opportunity for success based on hard work, the more we tend to think that people who skip leisure and work all the time are of higher standing.\nThat's why we feel like we have to appear busy, and there's a real perception that if someone is knee-deep in meetings, emails, and stress, then they're probably a big deal. This culture of busyness is making it hard for employees to find work-life balance. According to a recent study, one in five highly engaged employees is at risk of burnout(精疲力竭).\nPersonally, I'm going to stop saying \"busy\" when people ask me how I am. It sounds self-righteous(自以为是的) and sets the wrong tone. Phrases like \"I have limited access to email\" and \"I'll respond as soon as I get back\" sound like you're being held against your will from working as opposed to making the most of your time off.\nThat's why we recently launched the Out of Office Email Generator, a free tool you can use before your next long weekend or trip. You can share loud and proud that you won't be checking email until you're back. Managers need to think twice about emailing their teams on the weekend and talking about how busy they are. Leaders should take time off themselves and encourage employees to do the same.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "He just follows successful people's example.",
+        "B": "He is actually proud to be fully occupied.",
+        "C": "He thinks everyone should be devoted to work.",
+        "D": "He believes busyness ensures accomplishments."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Our status can be attributed to our social mobility.",
+        "B": "We hold the belief that hard work leads to success.",
+        "C": "Our own opportunity for success never comes easily.",
+        "D": "We find few people of high status have time for leisure."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "It places employees in endless meetings, emails and stress.",
+        "B": "It compels some 20% of employees to appear always busy.",
+        "C": "It distorts many employees' belief of what a satisfying life is.",
+        "D": "It does much harm to many busy employees' well-being."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "One is too busy to check all emails in time.",
+        "B": "One is opposed to the prevailing work culture.",
+        "C": "One is forced by circumstances to stop working.",
+        "D": "One is simply enjoying their time off work."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "To enable busy employees to spend less time checking emails.",
+        "B": "To ensure employees as well as employers truly have time off.",
+        "C": "To stop managers from talking about how busy their teams usually are.",
+        "D": "To encourage both employers and employees to answer emails promptly."
+      }
+    }
+  ],
+  "reading_passage_2": "Female employees consistently pay lower airfares than men do for the same flights because they tend to book earlier.\nWe compared the airfare paid by employees in the same position within a company for the same class of travel and used a common statistical technique to account for other factors that might affect differences in airfares. We found that women paid on average $18 less per ticket than their male colleagues. Further investigation allowed us to conclude that this gap is largely explained by the fact that women tended to book earlier than men, 1.8 days on average.\nWe wanted to determine what was causing these gender differences in booking business trips so we tested a variety of possible explanations, such as women choosing to plan ahead or male frequent travelers being inclined to book late. None of these explained away the gender gap, so we applied data collected from surveys that express consumer preferences that play a central role in economic decisions, such as patience and risk avoidance.\nWe found that only the concept of \"negative reciprocity\"—in which an employee who feels unfairly treated engages in negative behaviors, such as spending their company's money less carefully—explains these differences. The surveys showed men tend to exhibit more of these negative behaviors than women. This isn't to say that all men engage in these behaviors—or that booking relatively late is a sign of abnormal behavior. It only means that the gender gap disappears when we plug in the negative reciprocity variable.\nPrior research on negative reciprocity among workers found that it can result in lower employee motivation, business performance and workplace morale(士气) and culture.\nOur results show another way these negative behaviors can manifest themselves, like in airline bookings, and add to evidence that women are less likely to engage in them.\nCompanies spend significant sums of money on business travel. While that $18 difference per ticket may seem small, it adds up. Our analysis suggests early booking by women can translate into savings of $1 million a year for a large multinational company with 20,000 regular travelers.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "It is largely attributed to women booking earlier than men.",
+        "B": "It is largely explained by women's choosing cheaper flights.",
+        "C": "It is mainly accounted for by male employees' readiness to pay more.",
+        "D": "It is due to the fact that women care more about their company's money."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "What made male frequent travelers book air tickets late.",
+        "B": "What caused women to plan ahead in booking business trips.",
+        "C": "What motivated women to book cheaper flights.",
+        "D": "What accounted for the gender gap in airfares."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "Both men and women were found to engage in negative behaviors.",
+        "B": "Neither men nor women viewed booking late as a bad behavior.",
+        "C": "The gender difference in airfare expenses no longer existed.",
+        "D": "The gender gap tended to narrow to a significant degree."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "It can do more harm to the workplace than to employees.",
+        "B": "It contributes to the male-female divide in the workplace.",
+        "C": "It proves to be counterproductive in a number of ways.",
+        "D": "It can result in increasing labor-management conflicts."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "It can help companies increase their savings significantly.",
+        "B": "It can duly contribute to companies' business performance.",
+        "C": "It can translate women's booking practice into men's behavior.",
+        "D": "It can enhance large multinational companies' competitiveness."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2023年12月·第1套真题 Directions : For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 中国政府十分重视人民的健康饮食(diet)。通过大力提倡健康饮食，人们对合理营养增进健康的重要性有了更加深刻的认识。\"吃得安全、吃得营养、吃得健康\"是人民对美好生活的基本需要，是提升人民幸福感的必然要求，也为食品产业的发展提供了新机遇。目前，各级政府都在采取多种举措确保人民饮食健康，推进健康中国的建设。",
+  "answers": {
+    "1": "A",
+    "2": "C",
+    "3": "C",
+    "4": "B",
+    "5": "C",
+    "6": "A",
+    "7": "D",
+    "8": "D",
+    "9": "D",
+    "10": "A",
+    "11": "B",
+    "12": "B",
+    "13": "C",
+    "14": "A",
+    "15": "C",
+    "16": "D",
+    "17": "B",
+    "18": "A",
+    "19": "C",
+    "20": "B",
+    "21": "B",
+    "22": "A",
+    "23": "D",
+    "24": "B",
+    "25": "D",
+    "26": "F",
+    "27": "D",
+    "28": "H",
+    "29": "I",
+    "30": "O",
+    "31": "M",
+    "32": "L",
+    "33": "J",
+    "34": "A",
+    "35": "G",
+    "36": "D",
+    "37": "I",
+    "38": "B",
+    "39": "G",
+    "40": "A",
+    "41": "F",
+    "42": "L",
+    "43": "J",
+    "44": "H",
+    "45": "K",
+    "46": "A",
+    "47": "B",
+    "48": "D",
+    "49": "C",
+    "50": "B",
+    "51": "A",
+    "52": "D",
+    "53": "C",
+    "54": "C",
+    "55": "A"
+  },
+  "listening_script": {
+    "en": "Have you noticed how similar you are to your friends? It may be because your brains operate in harmony with each other. We know that friends are more likely to be the same age, gender and ethnic background as each other. Now it seems their brains are alike, too.\nResearchers at the University of California scanned the brains of 42 classmates while they watched videos intended to provoke varying responses. Some people might find a romantic scene touching, for instance, while others would feel it was embarrassing. The activity of friends' brains was more similar than that of people who didn't know each other, particularly in regions involved in attention, emotion and language. This similarity was strong enough that it could be used to predict whether two people were already friends or not. The relationship probably goes two ways. We are drawn to people who think like us; we then influence their thoughts over time, which may push their brain activity into more closely resembling our own.\nTwo men who have been best friends for 60 years have just realized they are actually brothers. It's reported that Alan Robinson and Walter MacDonald met in the 6th grade at a school in Hawaii. They have been best friends ever since. Alan was given away for adoption soon after he was born, and Walter never knew his father. So recently, they made separate attempts on DNA matching websites to discover more about their ancestry. Walter was astonished to find that he matched with website user Robi 737. He knew immediately that this was his best friend Alan, whose friends call him Robi and flew 737 airplanes when he was a pilot. The pair were born to the same mother 15 months apart.\nAmid all the election drama, air pollution problems and disease outbreaks, five tourists' good work is being spread online. Yesterday two male and three female tourists were spotted walking the kilometer-long beach, picking up trash. One of the male tourists from Australia commented that although there was a lot of trash, nobody was doing anything. The beach was not as nice or beautiful as it should be. He felt so sad to see such a gorgeous place littered with so much trash. Thus, he and his friends decided to grab a few trash bags and clean it all up.\nA man passing by decided to video their good deed and put it on the internet. It was unclear where the rest of the group was from, but they were most likely traveling together. One local woman commented on being embarrassed that tourists were cleaning up their beach. Another mentioned that it was actually the natives who brought food and drinks then left trash all along the island.\nW: Hello Benjamin, Dan and I will be going for a run along the canal Saturday morning. Would you like to join us?\nM: I'd love to, but I hurt my ankle last weekend playing football with work colleagues.\nW: Oh dear, is it serious?\nM: No, not at all. I landed badly during a fall and twisted it a little, but it's no big deal. It's just a little swollen and I should be fine for next Saturday if you still want to go for a jog then.\nW: I won't be here next Saturday. I'm going to the zoo.\nM: The zoo?\nW: Yeah. My little nephew turns six, and he loves the zoo, so the whole family is going.\nM: Oh, okay then. I haven't been to a zoo since I was a kid.\nW: They are nowhere near as popular as they used to be when we were children. I personally feel sorry for the poor animals stuck in cages, but there's no denying they are fun and educational for children.\nM: Do you know if Dan will be around next Saturday?\nW: Yeah, I think he will. Just send him a text message. He's always keen on physical activities.\nM: That's true. Dan is extremely fit and healthy. He goes to the gym most days, plus tennis two or three times a week.\nW: So, what have you been doing to stay busy while you've had that swollen ankle?\nM: I've been catching up on some reading. I was given three books over Christmas, and I'm only now getting around to reading them.\nW: Our guest on today's Book Talk is John Black, the author of the new bestseller, Retire Early.\nM: Thanks for having me on the show, Lisa.\nW: John, your book is getting a lot of attention, partly because you write that most people can retire by 40. Is that realistic?\nM: Definitely. When researching this book, I interviewed hundreds of people who retired by 40.\nW: Okay, but how much money does a person need to retire? I've read articles recommending one million dollars as a good figure for retirement.\nM: While most financial planners do give numbers, I don't think that's useful, as people are living in different areas with different costs of living, and have different needs and wants, which is why I suggest that people aim for financial independence.\nW: What do you mean by financial independence?\nM: Having investment income that's greater than monthly expenses.\nW: That sounds risky to me. What if an accident happens or you get ill and need medical treatment? Shouldn't people have extra cash for emergencies?\nM: Too many people spend their lives working on jobs they hate because they're afraid, so I counsel people to take risks. Retirement doesn't have to be permanent, and if people need to, they can go back to work.\nW: But it's not always easy to get back into the workforce after an extended absence.\nM: True, but if you keep current with your skills, you will be attracted to employers.\nW: Maybe, but how can anyone save enough to retire by 40 when most people can't retire at 60?\nM: Simple, by cutting housing, food, and transport expenses, and investing half your monthly income.\nW: That sounds impossible.\nM: I admit it's difficult, but it has worked for thousands.\nNew research from America studies the role that the presence of individuals from different social or racial groups has in influencing consumers' food choices. This research found college students were more likely to choose healthy food in the presence of an observer of a different race, as opposed to an observer from their own race. The same was true when they were with someone from a different university, compared to someone from their own. Researchers say this was because participants anticipated more negative judgment from an outsider group. In contrast, they felt less judged by members of their own group.\nIn one experiment, participants were offered the choice between candy and fruit as a snack. When in the presence of an unknown student from their own university, only 12 percent of students selected the healthier option. However, this number was 31 percent when in the presence of an unknown student from another university. Other experiments showed similar results based on racial group.\nWhat's the reason for this pattern? The study found that people feel judged to a larger extent by members of other groups. Because of this, they strategically use healthy food choices to make a positive impression. There have been many attempts to help consumers make healthier choices, but consumers often struggle to maintain a healthy diet. This research finds that one way to promote a healthy diet could be to advertise the social benefits of healthy choices.\nFor college students under pressure, a dog may be the best stress fighter around, according to the finding of a recent study. \"It's a really powerful finding,\" said Patricia Pendry, who led the study. \"Universities are doing a lot of great work trying to help students succeed academically, especially those who may be at risk due to a history of mental health issues or academic and learning issues. This study shows that traditional stress management approaches aren't as effective for this population compared with programs that focus on providing opportunities to interact with therapy dogs.\"\nThe researchers measured executive functioning in the students involved in the study. Executive function is a term for the skills one needs to plan, organize, motivate, concentrate and memorize. These are skills students need to succeed in college. The researchers found that students who were most at risk had the most improvements in executive functioning after interacting with therapy dogs. These results remained when researchers followed up six weeks later.\nMany universities provide academic stress management programs and workshops. These are traditionally very similar to college classes. They often talk about ways to get more sleep, set goals, or manage stress or anxiety. Pendry acknowledges that these are really important topics and these workshops help typical students succeed. But they're less helpful for struggling students. Pendry believes those students may experience the programs as another lecture and feel even more stressed.\nTaking risks in business does not mean going into business blindly and then expecting great results. On the contrary, taking risks in entrepreneurship involves careful planning and hard work. Nobody can really be sure if risks will be met with success, no matter how calculated they may be. But this should not stop you from taking risks, as risks are necessary if you want your business to succeed.\nSome risks may not work out, but an optimistic risk-taker will always look at failure as an opportunity to learn. The willingness to experiment with new ideas is key to business growth. As the old saying goes, \"Nothing ventured, nothing gained.\" Failure will teach you how to think and plan strategically. But just remember that not all risks are good ones, and when you fail, learn from it and move forward.\nSince most people tend to avoid risk, businesses that are brave enough to take risks already have a competitive advantage. They are the ones setting the standard with new ideas, fresh offers and bold inventions. Risk-takers are best at adapting in difficult times. Simply put, when most individuals stay away from risk, it means less competition for risk-takers. We don't know if you'll achieve what these risk-takers have achieved. But for as long as you want to stay safe, and for as long as you are content with where your business is right now, you will never find out.",
+    "cn": "你有没有注意到你和朋友有多相似?这可能是因为你们的大脑彼此协调运作。我们知道朋友之间更有可能拥有相同的年龄、性别和种族背景。现在看来他们的大脑也很相似。\n加利福尼亚大学的研究人员扫描了42名同学的大脑,同时让他们观看旨在引发不同反应的视频。例如,有些人可能会觉得浪漫场景令人感动,而另一些人则会觉得尴尬。朋友大脑的活动比不认识的人更相似,特别是在涉及注意力、情绪和语言的区域。这种相似性强到足以用来预测两个人是否已经是朋友。这种关系可能是双向的。我们会被那些思维方式与我们相似的人所吸引;随着时间的推移,我们会影响他们的想法,这可能会促使他们的大脑活动更接近我们自己的。\n两名保持了60年最佳友谊的男子刚刚意识到他们实际上是兄弟。据报道，Alan Robinson和Walter MacDonald在夏威夷的一所学校读六年级时相识。从那时起他们就一直是最好的朋友。Alan出生后不久就被送去领养，而Walter从未见过自己的父亲。因此最近，他们分别在DNA匹配网站上尝试了解更多关于自己祖先的信息。Walter惊讶地发现他与网站用户Robi 737匹配。他立即知道这就是他最好的朋友Alan，Alan的朋友们都叫他Robi，而且他当飞行员时驾驶737飞机。这对朋友出生于同一位母亲，相隔15个月。\n在所有选举闹剧、空气污染问题和疾病爆发之中,五名游客的善举正在网上传播。昨天,两名男性游客和三名女性游客被发现在长达一公里的海滩上行走,捡拾垃圾。其中一名来自澳大利亚的男性游客评论说,尽管有很多垃圾,却没有人在做任何事情。海滩并不像它本应该的那样美好或美丽。看到如此gorgeous的地方被这么多垃圾弄得一片狼藉,他感到非常难过。因此,他和他的朋友们决定拿几个垃圾袋把这些都清理干净。\n一名路过的男子决定录下他们的善举并放到网上。目前还不清楚这个团队其余成员来自哪里,但他们很可能是一起旅行的。一位当地女性评论说,游客在清理他们的海滩让她感到尴尬。另一个人提到,实际上是本地人带来食物和饮料,然后把垃圾留在整个岛上。\nW: 你好 Benjamin,我和 Dan 周六早上要沿着运河跑步。你想一起来吗?\nM: 我很想去,但我上周末和同事踢足球时伤了脚踝。\nW: 哎呀,严重吗?\nM: 不,一点也不严重。我摔倒的时候落地不太好,扭了一下,但不是什么大事。只是有点肿,下周六应该就没事了,如果你那时候还想去慢跑的话。\nW: 我下周六不在这儿。我要去动物园。\nM: 动物园?\nW: 对。我小侄子要过六岁生日了,他很喜欢动物园,所以全家人都要去。\nM: 哦,好吧。我从小时候起就没去过动物园了。\nW: 动物园远不像我们小时候那么受欢迎了。我个人觉得那些被关在笼子里的可怜动物很可怜,但不可否认的是,它们对孩子们来说既有趣又有教育意义。\nM: 你知道 Dan 下周六有空吗?\nW: 嗯,我觉得他应该有空。给他发个短信吧。他总是很热衷于体育活动。\nM: 没错。Dan 身体特别好。他几乎每天都去健身房,再加上每周打两三次网球。\nW: 那么,你脚踝肿的这段时间都在忙些什么呢?\nM: 我一直在补看一些书。圣诞节的时候收到了三本书,现在才开始读。\nW: 我们今天《书谈》节目的嘉宾是 John Black，新晋畅销书《提前退休》的作者。\nM: 谢谢邀请我来节目，Lisa。\nW: John，你的书正受到很多关注，部分原因是你在书中写到大多数人可以在 40 岁退休。这现实吗？\nM: 绝对现实。在研究这本书时，我采访了数百位在 40 岁前退休的人。\nW: 好吧，但是一个人需要多少钱才能退休？我读过一些文章推荐一百万美元作为退休的合适数字。\nM: 虽然大多数理财规划师确实会给出具体数字，但我认为那没什么用，因为人们生活在不同地区，生活成本不同，需求和期望也不同，所以我建议人们以财务独立为目标。\nW: 你说的财务独立是什么意思？\nM: 就是投资收入大于月度开销。\nW: 这在我看来有点冒险。如果发生意外或者生病需要医疗怎么办？人们不应该留些额外现金以备不时之需吗？\nM: 太多人因为恐惧而一辈子做着自己讨厌的工作，所以我建议人们去冒险。退休不一定是永久的，如果需要，人们可以重返工作。\nW: 但是长时间离开职场后再回去并不总是那么容易。\nM: 确实，但如果你保持技能更新，你会对雇主有吸引力的。\nW: 也许吧，但大多数人 60 岁都退不了休，怎么可能有人能存够钱在 40 岁退休呢？\nM: 很简单，削减住房、食物和交通开支，然后把月收入的一半用于投资。\nW: 这听起来不可能。\nM: 我承认很难，但对成千上万的人确实有效。\n来自美国的新研究探讨了来自不同社会或种族群体的个体的存在对消费者食物选择的影响作用。该研究发现,与同种族观察者在场相比,大学生在不同种族观察者在场时更有可能选择健康食品。当他们与来自不同大学的人在一起时,情况也是如此,而不是与来自自己大学的人在一起时。研究人员表示,这是因为参与者预期会受到外部群体更多的负面评判。相比之下,他们感到受到自己群体成员的评判较少。\n在一项实验中,参与者可以选择糖果或水果作为零食。当与一名来自自己大学的陌生学生在场时,只有12%的学生选择了更健康的选项。然而,当与一名来自另一所大学的陌生学生在场时,这一数字为31%。其他基于种族群体的实验显示了类似的结果。\n这种模式的原因是什么?该研究发现,人们感到在更大程度上受到其他群体成员的评判。因此,他们策略性地使用健康食品选择来留下积极印象。已经有许多尝试帮助消费者做出更健康的选择,但消费者往往难以保持健康饮食。该研究发现,促进健康饮食的一种方法可能是宣传健康选择的社会益处。\n根据最近一项研究的发现，对于压力之下的大学生来说，狗可能是最好的压力克星。领导这项研究的Patricia Pendry说：\"这是一个非常有力的发现。大学正在做大量出色的工作来帮助学生在学业上取得成功，尤其是那些可能因心理健康问题史或学业和学习问题而处于风险中的学生。这项研究表明，传统的压力管理方法对这一群体的效果不如那些专注于提供与治疗犬互动机会的项目。\"\n研究人员测量了参与研究的学生的执行功能。执行功能是指一个人计划、组织、激励、集中注意力和记忆所需的技能。这些是学生在大学取得成功所需要的技能。研究人员发现,风险最高的学生在与治疗犬互动后,执行功能改善最大。当研究人员在六周后进行随访时,这些结果仍然保持。\n许多大学提供学业压力管理项目和研讨会。这些传统上与大学课程非常相似。它们通常讨论如何获得更多睡眠、设定目标或管理压力或焦虑的方法。Pendry承认这些是非常重要的话题,这些研讨会帮助典型学生取得成功。但它们对挣扎中的学生帮助较小。Pendry认为,那些学生可能会将这些项目体验为又一次讲座,并感到更加紧张。\n在商业中冒险并不意味着盲目创业然后期待巨大的成果。相反,创业中的冒险涉及周密的计划和艰苦的工作。无论风险计算得多么仔细,没有人能真正确定风险是否会获得成功。但这不应该阻止你冒险,因为如果你想让企业成功,冒险是必要的。\n有些风险可能不会成功,但乐观的冒险者总是将失败视为学习的机会。愿意尝试新想法是企业成长的关键。正如老话所说,\"不入虎穴,焉得虎子。\"失败会教你如何进行战略思考和规划。但要记住,并非所有风险都是好的,当你失败时,要从中吸取教训并继续前进。\n由于大多数人倾向于规避风险,那些勇于冒险的企业已经拥有了竞争优势。他们用新想法、新颖的产品和大胆的发明树立标准。冒险者最善于在困难时期适应。简单地说,当大多数人远离风险时,这意味着冒险者面临的竞争更少。我们不知道你是否能取得这些冒险者所取得的成就。但只要你想保持安全,只要你满足于企业目前的状况,你就永远不会知道答案。"
+  }
+}

@@ -1,0 +1,670 @@
+{
+  "id": "2024-06-2",
+  "writing": "Directions: Suppose your university is seeking students’ opinions on whether university sports facilities should be open to the public. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What do we learn about the JetBlue Airlines flight from the news report?",
+      "options": {
+        "A": "It hit a bird shortly after takeoff.",
+        "B": "Its crew members went on strike.",
+        "C": "It narrowly escaped a plane crash when turning around.",
+        "D": "Its captain got slightly injured during the forced landing."
+      },
+      "stem_cn": "从新闻报道中我们了解到关于捷蓝航空公司航班的什么信息?",
+      "options_cn": {
+        "A": "起飞后不久撞上了一只鸟。",
+        "B": "机组人员举行了罢工。",
+        "C": "掉头时险些发生坠机事故。",
+        "D": "机长在迫降过程中受了轻伤。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "How did the passengers feel when the plane came to a stop, according to Brian Healy?",
+      "options": {
+        "A": "Panic.",
+        "B": "Nervous.",
+        "C": "Relieved.",
+        "D": "Contented."
+      },
+      "stem_cn": "根据Brian Healy所说,当飞机停下来时乘客们感觉如何?",
+      "options_cn": {
+        "A": "恐慌。",
+        "B": "紧张。",
+        "C": "如释重负。",
+        "D": "满意。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What do we learn about the deadly snake from the news report?",
+      "options": {
+        "A": "He is now kept in a secure area.",
+        "B": "He has escaped the zoo once again.",
+        "C": "He has been caught a second time.",
+        "D": "He finally disappeared six days ago."
+      },
+      "stem_cn": "从新闻报道中我们对这条致命的蛇了解到什么？",
+      "options_cn": {
+        "A": "它现在被关在一个安全区域。",
+        "B": "它再次从动物园逃脱了。",
+        "C": "它已经第二次被抓住了。",
+        "D": "它最终在六天前消失了。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "How have the zoo staff been feeling about the snake?",
+      "options": {
+        "A": "Squeezed.",
+        "B": "Threatened.",
+        "C": "Disappointed.",
+        "D": "Frustrated."
+      },
+      "stem_cn": "动物园工作人员对这条蛇一直有何感受？",
+      "options_cn": {
+        "A": "受挤压的。",
+        "B": "受威胁的。",
+        "C": "失望的。",
+        "D": "沮丧的。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What do we learn from the news report about the introduction of electric bikes into Jacksonville?",
+      "options": {
+        "A": "It is condemned as a crazy idea.",
+        "B": "It is enriching the city's night life.",
+        "C": "It is questioned by local residents.",
+        "D": "It is giving rise to safety concerns."
+      },
+      "stem_cn": "从新闻报道中我们了解到关于Jacksonville引入电动自行车的哪些信息？",
+      "options_cn": {
+        "A": "它被谴责为一个疯狂的想法。",
+        "B": "它正在丰富这座城市的夜生活。",
+        "C": "它受到当地居民的质疑。",
+        "D": "它正在引发安全担忧。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What are electric bike riders supposed to do?",
+      "options": {
+        "A": "Avoid entering one-way streets.",
+        "B": "Ensure the safety of pedestrians.",
+        "C": "Follow all the traffic rules drivers do.",
+        "D": "Give way to automobiles at all times."
+      },
+      "stem_cn": "电动自行车骑行者应该做什么？",
+      "options_cn": {
+        "A": "避免进入单行道。",
+        "B": "确保行人的安全。",
+        "C": "遵守驾驶员遵守的所有交通规则。",
+        "D": "任何时候都给机动车让行。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "Why did City Council member Anna Cumber advocate the introduction of electric bikes into Jacksonville?",
+      "options": {
+        "A": "To ease the city's busy traffic.",
+        "B": "To bring new life into the city.",
+        "C": "To add a new means of transport.",
+        "D": "To reduce the city's air pollution."
+      },
+      "stem_cn": "为什么市议会成员Anna Cumber倡导在Jacksonville引入电动自行车？",
+      "options_cn": {
+        "A": "为了缓解城市的繁忙交通。",
+        "B": "为了给城市带来新的活力。",
+        "C": "为了增加一种新的交通方式。",
+        "D": "为了减少城市的空气污染。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What should we do with the topic of money, according to the woman?",
+      "options": {
+        "A": "Take it seriously.",
+        "B": "Discuss it regularly.",
+        "C": "Make it sound scary.",
+        "D": "Talk about it openly."
+      },
+      "stem_cn": "根据这位女士的说法,我们应该如何对待金钱这个话题?",
+      "options_cn": {
+        "A": "认真对待它。",
+        "B": "定期讨论它。",
+        "C": "让它听起来很可怕。",
+        "D": "公开谈论它。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "How does the woman say money can be made real for children?",
+      "options": {
+        "A": "By shopping around for the best deals.",
+        "B": "By making abstract sums relevant.",
+        "C": "By citing concrete examples.",
+        "D": "By visiting discount stores."
+      },
+      "stem_cn": "这位女士说如何能让金钱对孩子们变得真实?",
+      "options_cn": {
+        "A": "通过货比三家寻找最优惠的价格。",
+        "B": "通过让抽象的金额变得相关。",
+        "C": "通过引用具体的例子。",
+        "D": "通过参观折扣商店。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What is the common practice between the man and the woman?",
+      "options": {
+        "A": "Paying their kids to help with housework.",
+        "B": "Setting kids a good example by sharing chores.",
+        "C": "Giving kids pocket money according to their needs.",
+        "D": "Urging kids to deposit some of their gift money."
+      },
+      "stem_cn": "这位男士和这位女士之间的共同做法是什么?",
+      "options_cn": {
+        "A": "付钱给孩子们帮忙做家务。",
+        "B": "通过分担家务给孩子们树立好榜样。",
+        "C": "根据孩子们的需要给他们零花钱。",
+        "D": "督促孩子们存一些压岁钱。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What is the woman always talking about to her elder daughter?",
+      "options": {
+        "A": "The importance of cutting down family expenses.",
+        "B": "The need to learn important lessons from her elders.",
+        "C": "The delight in seeing their savings grow.",
+        "D": "The necessity of saving into a pension."
+      },
+      "stem_cn": "这位女士总是和她的大女儿谈论什么?",
+      "options_cn": {
+        "A": "削减家庭开支的重要性。",
+        "B": "需要向长辈学习重要的经验教训。",
+        "C": "看到他们的储蓄增长的喜悦。",
+        "D": "向养老金储蓄的必要性。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What do we learn about the man?",
+      "options": {
+        "A": "He is a successful businessman.",
+        "B": "He reviews books on political affairs.",
+        "C": "He has published a new bestseller.",
+        "D": "He has worked in several banks."
+      },
+      "stem_cn": "关于这位男士我们了解到什么?",
+      "options_cn": {
+        "A": "他是一位成功的商人。",
+        "B": "他评论政治事务方面的书籍。",
+        "C": "他出版了一本新的畅销书。",
+        "D": "他曾在几家银行工作过。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What does the woman say is the most controversial?",
+      "options": {
+        "A": "The man's ideas about education.",
+        "B": "The man's academic background.",
+        "C": "The man's attempts at drawing public attention.",
+        "D": "The man's proposals to solve economic problems."
+      },
+      "stem_cn": "女士说最具争议的是什么?",
+      "options_cn": {
+        "A": "这位男士关于教育的观点。",
+        "B": "这位男士的学术背景。",
+        "C": "这位男士吸引公众关注的尝试。",
+        "D": "这位男士解决经济问题的提案。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the man say is his real goal?",
+      "options": {
+        "A": "To reduce students' financial burden.",
+        "B": "To motivate all students to be successful.",
+        "C": "To give students incentive to excel in economics.",
+        "D": "To provide remedies for students' poor performance."
+      },
+      "stem_cn": "男士说他的真正目标是什么?",
+      "options_cn": {
+        "A": "减轻学生的经济负担。",
+        "B": "激励所有学生取得成功。",
+        "C": "给予学生在经济学方面出类拔萃的动力。",
+        "D": "为学生的不良表现提供补救措施。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What will be one option for funding the proposed rewards according to the man?",
+      "options": {
+        "A": "Improving school budgeting.",
+        "B": "Increasing tuition fees.",
+        "C": "Seeking donations.",
+        "D": "Raising taxes."
+      },
+      "stem_cn": "根据男士所说,为拟议的奖励提供资金的一个选择是什么?",
+      "options_cn": {
+        "A": "改善学校预算。",
+        "B": "提高学费。",
+        "C": "寻求捐赠。",
+        "D": "提高税收。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "Why is the speaker launching a campaign?",
+      "options": {
+        "A": "To show his sympathy towards people always being busy.",
+        "B": "To prevent people from complaining about being \"busy\".",
+        "C": "To call on busy people to take care of themselves.",
+        "D": "To help busy people to sort out their priorities."
+      },
+      "stem_cn": "说话者为什么发起一项运动？",
+      "options_cn": {
+        "A": "表达他对总是忙碌的人们的同情。",
+        "B": "阻止人们抱怨自己很\"忙\"。",
+        "C": "呼吁忙碌的人们照顾好自己。",
+        "D": "帮助忙碌的人们理清他们的优先事项。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does the speaker advise us to do next time someone asks how we are?",
+      "options": {
+        "A": "Avoid saying we are busy.",
+        "B": "Reflect on their true purpose.",
+        "C": "Describe our schedule in detail.",
+        "D": "Respond as most busy people do."
+      },
+      "stem_cn": "当下次有人问我们怎么样时，说话者建议我们做什么？",
+      "options_cn": {
+        "A": "避免说我们很忙。",
+        "B": "反思他们的真实目的。",
+        "C": "详细描述我们的日程安排。",
+        "D": "像大多数忙碌的人那样回应。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "Why do many people make the \"I'm busy\" response according to the speaker?",
+      "options": {
+        "A": "To show their achievements resulted from great efforts.",
+        "B": "To prove they stand out as accomplished professionals.",
+        "C": "To cover up their failure to achieve some purpose.",
+        "D": "To tell others a complete lie about their inability."
+      },
+      "stem_cn": "根据说话者的说法，为什么许多人会做出\"我很忙\"的回应？",
+      "options_cn": {
+        "A": "展示他们通过巨大努力取得的成就。",
+        "B": "证明他们作为有成就的专业人士脱颖而出。",
+        "C": "掩盖他们未能实现某个目标的事实。",
+        "D": "向他人彻底撒谎说自己没有能力。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What may sound strange to say about extreme sports?",
+      "options": {
+        "A": "They will help one reduce fear",
+        "B": "They should become so popular.",
+        "C": "They will be less challenging after a time.",
+        "D": "They should cover so many different types."
+      },
+      "stem_cn": "关于极限运动，说什么可能听起来很奇怪?",
+      "options_cn": {
+        "A": "它们会帮助人减少恐惧",
+        "B": "它们应该变得如此流行。",
+        "C": "一段时间后它们的挑战性会降低。",
+        "D": "它们应该涵盖如此多不同的类型。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "Why should one be highly focused when doing extreme sports?",
+      "options": {
+        "A": "To break one's ultimate limits.",
+        "B": "To stop being extremely afraid.",
+        "C": "To avoid dangerous mistakes.",
+        "D": "To enjoy the sports to the full."
+      },
+      "stem_cn": "为什么在做极限运动时应该高度专注?",
+      "options_cn": {
+        "A": "为了突破个人的极限",
+        "B": "为了停止极度恐惧",
+        "C": "为了避免危险的错误",
+        "D": "为了充分享受这些运动"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "How can extreme sports benefit us more than standard exercise routines and sports?",
+      "options": {
+        "A": "By allowing our motivation to be at an all-time high.",
+        "B": "By stopping us hurting the same muscles repeatedly.",
+        "C": "By burning as many as 300 calories per hour.",
+        "D": "By enabling us to get an all-over workout."
+      },
+      "stem_cn": "极限运动如何比标准锻炼常规和运动更有益?",
+      "options_cn": {
+        "A": "通过让我们的动力达到空前的高度",
+        "B": "通过阻止我们反复伤害相同的肌肉",
+        "C": "通过每小时燃烧多达300卡路里",
+        "D": "通过使我们能够得到全身锻炼"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What does the passage say about conflict in organizations?",
+      "options": {
+        "A": "It is natural.",
+        "B": "It is instrumental.",
+        "C": "It is personal.",
+        "D": "It is vital."
+      },
+      "stem_cn": "文章关于组织中的冲突说了什么?",
+      "options_cn": {
+        "A": "这是自然的。",
+        "B": "这是有益的。",
+        "C": "这是针对个人的。",
+        "D": "这是至关重要的。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "Why do some people want to avoid conflict at all costs?",
+      "options": {
+        "A": "To guard against being perceived negatively.",
+        "B": "To prevent themselves from being isolated.",
+        "C": "To conceal personality preferences.",
+        "D": "To maintain workplace harmony."
+      },
+      "stem_cn": "为什么有些人想不惜一切代价避免冲突?",
+      "options_cn": {
+        "A": "防止被负面看待。",
+        "B": "防止自己被孤立。",
+        "C": "隐藏个性偏好。",
+        "D": "维护工作场所和谐。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "Why is productive conflict important for teams and organizations?",
+      "options": {
+        "A": "It helps to enhance team spirit.",
+        "B": "It stimulates innovative ideas.",
+        "C": "It helps to resolve problems.",
+        "D": "It facilitates policy-making."
+      },
+      "stem_cn": "为什么建设性冲突对团队和组织很重要?",
+      "options_cn": {
+        "A": "它有助于增强团队精神。",
+        "B": "它激发创新想法。",
+        "C": "它有助于解决问题。",
+        "D": "它促进政策制定。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What does productive conflict need as a basis?",
+      "options": {
+        "A": "An innovative mind.",
+        "B": "Corporate culture.",
+        "C": "Mutual trust.",
+        "D": "A healthy mentality."
+      },
+      "stem_cn": "建设性冲突需要什么作为基础?",
+      "options_cn": {
+        "A": "创新思维。",
+        "B": "企业文化。",
+        "C": "相互信任。",
+        "D": "健康的心态。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "approximately",
+    "B": "attaining",
+    "C": "conclusion",
+    "D": "difficult",
+    "E": "emerges",
+    "F": "fixed",
+    "G": "ignored",
+    "H": "legally",
+    "I": "manipulated",
+    "J": "recommended",
+    "K": "refraining",
+    "L": "signals",
+    "M": "significantly",
+    "N": "source",
+    "O": "ultimate"
+  },
+  "cloze_passage": "A team of researchers led by Priyanka Joshi examined the degree to which men and women relied on \"communicative abstraction\" to verbally convey their ideas and emotions. Communicative abstraction, according to the researchers, reflects the tendency of people to use \"abstract speech that focuses on the broader picture and 26 purpose of action rather than concrete speech focusing on details and the means of 27 action.\" Interestingly, they found that men were far more likely to speak in the abstract than were women.\nTo arrive at this 28 , the researchers examined the linguistic(语言的) patterns of men and women in over 600,000 blog posts written on websites. To do this, the researchers computed abstractness ratings for 29 40,000 commonly used words in the English language. Words considered to be concrete could be easily visualized, such as \"table\" or \"chair\". Words that were more 30 to visualize, for example, \"justice\" or \"morality\" were considered to be more abstract. They found that men used 31 more abstract language in their blog posts.\nWhat is the 32 of this effect? The researchers suggest that power differences between the genders—that is, men having more power in society—might be a key determinant(决定因素). For instance, in a follow-up study conducted with a sample of 300 students, the researchers 33 power dynamics in an interpersonal setting to see if this would influence communicative abstraction. They found that participants in a high-power interviewer role were more likely to give abstract descriptions of behaviors than were participants in a low-power interviewee role. This suggests that communicating more abstractly does not reflect a 34 tendency of men or women but rather 35 within specific contexts.",
+  "long_reading_passage": "A) Hal Hershfield, a psychologist at the UCLA Anderson School of Management, wanted to know why people weren't saving for retirement. Across the board, people are living longer. Logically, they'll need more money to live comfortably in their post-work years. And yet, savings rates in the U.S. have gone down in recent decades, not up.\nB) To help explain this seemingly irrational behavior, Hershfield and his team scanned the brains of study participants while asking them to what degree various traits(特征)—like \"honorable\" or \"funny\"—applied to their current self, their future self, a current other, or a future other. As participants answered, Hershfield's team recorded which parts of their brains lit up. Unsurprisingly, people's brains were most active when thinking about their current selves and least active when thinking about a current other. But the team found that participants' brain activity while considering their future selves more closely resembled their brain activity while thinking about a current other rather than the current self.\nC) Put in practical terms, when thinking of yourself in a month or a year or a decade, your brain registers that person in ways similar to how it would register Taylor Swift or the mailman. Understood in that way, saving for retirement is the equivalent of giving money away to someone else entirely.\nD) In light of Hershfield's study, one simple question arises: Is it possible to make our present selves give a damn about our future selves? The answers are anything but simple.\nE) Seen through the lens of the present self versus the future self, our self-defeating actions—like choosing to watch television rather than go to the gym—suddenly make perfect sense. We get to enjoy the very concrete, immediate benefits of our actions while someone else (namely, our future selves) suffers the hypothetical(假设的), far-off consequences. As a result, the decisions we make for our present selves often look very different from our decisions for our future selves. We believe that tomorrow will be different. We believe that we will be different tomorrow; but in doing so, we prioritize our current mood over the consequences of our inaction for the future self.\nF) Understanding our procrastination(拖延) through the lens of the present and future selves, we're left with three possible solutions: The first is to force your future self to do whatever your present self doesn't want to do. The second is to convince your present self that your future self is, in fact, still you. If the central problem is that we think of our future selves as other people, it follows that trying to identify more closely with our future selves will encourage us to make better long-term decisions.\nG) In a follow-up study, Hershfield wanted to explore ways to bridge the disconnect between the present and future selves and encourage people to save more for retirement. He and his team took photos of study participants, and then used image processing to visually age their faces. Participants were then placed in a virtual reality setting where they could look into a mirror and see their aged selves looking back at them. Participants who saw their aged selves said they would save 30% more of their salary for retirement than the control group.\nH) Whatever your long-term goals may be—getting in better shape, launching your own business, writing a book—thinking about your deadline in terms of days rather than months or years can help you wrap your mind around how close the future really is.\nI) The third solution is to forget about your future self and use your present self's love of instant gratification(满足感) to your advantage. While the two tactics(手段) above can be effective in making better long-term choices, in the end, you're still struggling against human nature. Our brains are hard-wired for instant gratification. Instead of fighting your present self's need for immediate rewards, why not use it to your advantage? When most of us set goals, we focus on long-term results we want to see—e.g., losing weight, getting a promotion, retiring in comfort, etc. While those visions of our future selves can be inspiring, when it comes to actually doing the day-to-day work, it may be more effective to reframe activities in terms of their immediate, or at least very near-term, rewards.\nJ) Take writing this article, for instance. It's easy for me to imagine how amazing it will feel at the end of the workday to have this article done. This isn't just my opinion. Research partners Kaitlin Woolley of Cornell University and Ayelet Fishbach of the University of Chicago have made a career out of studying the differences between the goals that people achieve and the ones that fall to the wayside.\nK) \"In one study, we asked people online about the goals they set at the beginning of the year. Most people set goals to achieve delayed, long-term benefits, such as career advancement, debt repayment, or improved health. We asked these individuals how enjoyable it was to pursue their goal, as well as how important their goal was. We also asked whether they were still working on their goals two months after setting them. We found that enjoyment predicted people's goal persistence two months after setting the goal far more than how important they rated their goal to be,\" Woolley said.\nL) This pattern held true across a wide variety of goals from exercising to studying to eating healthier foods. For example, people ate 50% more of a healthy food when directed to focus on the good taste rather than the long-term health benefits. Other studies have shown a greater uptake of exercise in people who were told to think of the enjoyment of doing the exercise now rather than future health gains.\nM) These findings suggest that when it comes to achieving your goals, enjoying the process itself is more important than wanting the long-term benefits. In other words, present self trumps(战胜) future self. Who says instant gratification has to be a bad thing? By all means, set ambitious long-term goals for your future self, but when it comes to actually following through day-to-day, make sure your present self knows what's in it for her too.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "People often wonder why some entrepreneurs have greater success than others. Is it habits, connections, luck, work ethic or any other behavior? I believe the key to success is willpower. Willpower is the ability to control yourself. It is a strong determination that allows you to do something difficult. It is a behavior we are born with more than one we learn; however, it is possible to not only learn it, but also strengthen it with constant exercise.\nWillpower is just like a muscle; to keep it strong you need to constantly exercise it. People with a great amount of willpower have the discipline to develop positive, successful habits. Even with an incredible amount of talent, without the discipline and motivation to create positive habits, it can be difficult to achieve success.\nWillpower and habits go hand in hand. It is critical to create good habits and take the actions necessary to stick to those habits day in and day out for greater success. Almost half of our daily actions are part of our habits and not decisions, so once the correct habits are in place, you will automatically perform those tasks on a day-to-day basis.\nThe best way to create and stick to a habit is to have strong motivation. It's easier to change your habits to lose weight if you have a health issue and you want to be around longer for your kids, or if your business is something you're passionate about. Having a valuable outcome associated with a habit will help you stick to that habit permanently.\nThe art of self-control is one that most successful individuals have mastered. Self-control enables you to avoid behaviors that don't contribute to your success and adopt those that do.\nBecause there is a delayed satisfaction associated with self-control, it can be easy to get off track. However, if you work on sticking to those small positive habits one day at a time, it becomes easier to stay strong and achieve that delayed reward. Once a reward is achieved, it is much easier to continue sticking to your habits.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "Keep it under control.",
+        "B": "Apply it continuously.",
+        "C": "Learn from entrepreneurs.",
+        "D": "Aim at success determinedly."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Out of habit.",
+        "B": "With determination.",
+        "C": "Like muscle building.",
+        "D": "By self-discipline."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Practising it on a day-to-day basis.",
+        "B": "Associating it with improving health.",
+        "C": "Possessing a reasonable amount of talent.",
+        "D": "Foreseeing the desired outcome it will yield."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "By allowing us to remain clear-headed permanently.",
+        "B": "By enabling us to alter our behaviors constantly.",
+        "C": "By enabling us to take positive actions",
+        "D": "By allowing us to avoid taking risks."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Most of us are not in the habit of exercising self-control.",
+        "B": "We may not get immediate rewards from self-control.",
+        "C": "Self-control tends to be associated with pains.",
+        "D": "Self-control only brings about small benefits."
+      }
+    }
+  ],
+  "reading_passage_2": "Today, most scientific research is funded by government grants, companies doing research and development, and non-profit foundations. As a society, we reap the rewards from this science, but we also help pay for it. You indirectly support science through taxes you pay, products and services you purchase, and donations you make.\nFunding for science has changed with the times. Historically, science has been largely supported through private patronage(资助), church sponsorship, or simply paying for the research yourself. Today, researchers are likely to be funded by a mix of grants from various government agencies, institutions, and foundations. Other research is funded by private companies. Such corporate sponsorship is widespread in some fields. Almost 75% of U.S. clinical trials in medicine are paid for by private companies. And, of course, some researchers today still fund small-scale studies out of their own pockets. Most of us can't afford to do nuclear research as a private hobby, but birdwatchers, rock collectors, and others can do real research on a limited budget.\nIn a perfect world, money wouldn't matter—all scientific studies would be completely objective. But in the real world, funding may introduce biases. Drug research sponsored by the pharmaceutical(制药的) industry is more likely to end up favoring the drug under consideration than studies sponsored by government grants or charitable organizations. Similarly, nutrition research sponsored by the food industry is more likely to end up favoring the food under consideration than independently funded research.\nSo what should we make of all this? Should we ignore any research funded by companies or special interest groups? Certainly not. These groups provide invaluable funding for scientific research. Furthermore, science has many safeguards in place to catch instances of bias that affect research outcomes. Ultimately, misleading results will be corrected as science proceeds; however, this process takes time. Meanwhile, it pays to examine studies funded by industry or special interest groups with extra care. Are the results consistent with other independently funded studies? What do other scientists have to say about this research? A little examination can go a long way towards identifying bias associated with the funding source.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "Its foundation.",
+        "B": "Its rewards.",
+        "C": "Its prospect.",
+        "D": "Its funding."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "They have little access to government funding.",
+        "B": "They can do research with limited resources.",
+        "C": "They can do amateur work in their own fields.",
+        "D": "They have no means for large-scale research."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "They would be totally unbiased.",
+        "B": "They would be independently funded.",
+        "C": "They would be responsibly conducted.",
+        "D": "They would be strictly supervised"
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "They try hard to pull down the safeguards for research.",
+        "B": "They make extra efforts to research their own products.",
+        "C": "They provide valuable resources for scientific research.",
+        "D": "They reap the most benefits from scientific research."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Its recommendations should be examined for feasibility.",
+        "B": "Its misleading results should be corrected in time.",
+        "C": "Its validity should be checked with additional care.",
+        "D": "Its hidden biases should be identified independently."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2024年6月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 农历 (the lunar calendar) 起源于数千年前的中国，根据太阳和月亮的运行规律制定。长期以来，农历在农业生产和人们日常生活中发挥着重要作用。古人依据农历记录日期、安排农活，以便最有效地利用自然资源和气候条件，提高农作物的产量和质量。中国的春节、中秋节等传统节日的日期都基于农历。农历是中国传统文化的重要组成部分，当今依然广为使用。",
+  "answers": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "D",
+    "5": "D",
+    "6": "C",
+    "7": "B",
+    "8": "B",
+    "9": "C",
+    "10": "A",
+    "11": "D",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "D",
+    "16": "B",
+    "17": "A",
+    "18": "C",
+    "19": "A",
+    "20": "C",
+    "21": "D",
+    "22": "A",
+    "23": "D",
+    "24": "B",
+    "25": "C",
+    "26": "O",
+    "27": "B",
+    "28": "C",
+    "29": "A",
+    "30": "D",
+    "31": "M",
+    "32": "N",
+    "33": "I",
+    "34": "F",
+    "35": "E",
+    "36": "I",
+    "37": "C",
+    "38": "M",
+    "39": "F",
+    "40": "A",
+    "41": "K",
+    "42": "E",
+    "43": "L",
+    "44": "B",
+    "45": "G",
+    "46": "B",
+    "47": "A",
+    "48": "D",
+    "49": "C",
+    "50": "B",
+    "51": "D",
+    "52": "B",
+    "53": "A",
+    "54": "C",
+    "55": "C"
+  },
+  "listening_script": {
+    "en": "A JetBlue Airlines flight from West Palm Beach to New York City was forced to turn around and land Sunday morning after the plane struck a bird. The flight from Palm Beach International Airport to LaGuardia Airport turned around just minutes after takeoff following the strike.\nNo injuries were reported on the plane, and the flight took off once again 7.5 hours after the first attempt. \"It was like a split second of panic…that resulted in this nervous reaction on the plane,\" said passenger Brian Healy. \"There was total quiet, and then there was relief when the plane came to a stop.\" An email from JetBlue read, \"Our team is working to accommodate customers on later flights.\"\nA deadly snake, which had finally been tracked down after escaping a zoo, has slipped away for the second time. The poisonous snake forced the closure of the attraction last week when staff noticed the disappearance.\nAfter six days of desperate searching, he was eventually found and placed in a supposedly secure area. But it seems the animal is no fan of the zoo, because yet again he is out on the loose. The snake is a relative newcomer to the zoo but has already been frustrating its staff. The staff believe he squeezed himself out of a gap located around new energy-saving bulbs installed inside the snake house. He was only found the first time around because staff brought in a special machine to trace him inside a wall opening.\nThis kind of snake is one of the most deadly and poisonous in the wild, and they can range from 3 to 5 meters in length.\nElectric bikes have been the craze in downtown Jacksonville since they were first introduced earlier this month as a one-year pilot program. But they're leading to safety concerns, mainly at night when some riders don't follow the rules of the road.\nAs the night goes on, groups of riders are often seen traveling in just about every direction in the streets and on pedestrian paths. That is increasing the probability of dangerous accidents.\nElectric bike riders have to follow all the same rules as you would if you were in an automobile. That means no running red lights or traveling in the opposite direction of traffic on one-way streets.\nCity Council Member Anna Cumber was instrumental in introducing the electric bikes to Jacksonville as a way to bring new life into downtown. And she's aware of the concerns. Cumber said, \"People can have fun, but both drivers and riders are responsible for paying attention while on the road. And never assume the driver is going to stop or see you.\"\nM: What's the best way to teach children how to save and spend their money?\nW: You should make money a regular topic of discussion. It's best to start young, so it's instinctive rather than a scary subject.\nM: In our family, we talk openly about things like the budget for holidays, how taxes reduce your income, and how to shop around for the best deals.\nW: Indeed. It's also essential to make money real for children through practical examples. Working out how much we save using discount pizza coupons, for example, is much more relevant than abstract sums.\nM: We also give our kids pocket money, and the amount they get is linked to chores, such as putting the bins out and emptying the dishwasher.\nW: We do that too, and it's paid according to their age. Two pounds for each year so they can see some progression.\nM: Teaching them to save is important. We opened a savings account when they were young. After birthdays and Christmas, they would go to the branch and deposit their gift money.\nW: Oh, I hadn't considered doing that. In our house, we have transparent money boxes for them to put small change in, so they can see their savings grow.\nM: When the time is right, I'll start talking to our children about investing and show them how the money saved for their further education has grown.\nW: I am always talking to my elder daughter about the importance of saving into a pension. She's just started a part-time job and was thinking of not contributing to her pension. Luckily, I managed to persuade her otherwise.\nM: Yes, it's such an important lesson to learn.\nW: Welcome to Books in Review. Our guest today is John Banks, the author of the best selling new book, Rewarding Success.\nM: Glad to be here, Jane.\nW: Your book has sold 2 million copies, but before we discuss why it's getting so much attention, let's talk about your background. You're an economist and spent two decades teaching at universities?\nM: I spent 25 years as a professor, actually. And then, for the last 10 years, I've worked as a political consultant, advising politicians at the national level about problems in our country.\nW: You discuss three of those problems in the book, improving public education, reducing our nation's healthcare burden, and increasing personal savings. But your ideas about education are the most controversial.\nM: Absolutely. A lot of people think I'm trying to punish students who aren't doing well, when actually my goal is to give all students more incentive to succeed.\nW: I'm not sure I agree with you. Your proposal to pay cash rewards to students who get good grades is a particular problem. What about students who don't get good grades? It seems like you're blaming them for not succeeding, when poor performance in school isn't a child's fault.\nM: But my proposal is not just to reward students with good grades, but also students who show improvements.\nW: Okay, another criticism of the plan is the cash rewards themselves. Where will the money come from?\nM: If students do better, we'll spend less on schooling. So, in the end, the rewards will pay for themselves.\nW: What about now? How will we fund the rewards in the meantime?\nM: Well, by increasing taxes or moving money from other areas of the budget into education.\nI met three different people today, and each time, when I asked, \"How are you?\" The reply was exactly the same. \"I'm busy\". Honestly, I hear the same answer from the vast majority of people I meet. So I started to think: \"Guess what? Everybody's busy!\" I'm busy, you're busy, everybody's busy. So you being busy doesn't make me sympathetic at all. Because \"busy\" is the state of the world.\nSo I'm launching a campaign to stop people complaining about being \"busy.\" It may sound harsh, but the truth is, nobody cares. In a busy world, \"being busy\" doesn't stand out, nor does it mean productive, creative, accomplished, or professional.\nSteve Maraboli once said, \"When someone tells you they are too 'busy', it's not a reflection of their schedule; it's a reflection of YOUR spot on their schedule.\" Donna Lynn Hope has also remarked, \"Busy doesn't mean better. I've never envied a busy person—the one who likes to point out their busy lives to others.\"\nThe reality is, nobody is too busy—it's just about priorities. So the next time someone asks you how you are, maybe respond differently. In my experience, the \"I'm busy\" response is really covering up the fact that they're not actually accomplishing their real purpose. And \"being busy\" is the lie they tell themselves about why they can't achieve it.\nMore and more people are taking up extreme sports, like snowboarding, skateboarding, mountain biking, and many more. Why are these sports becoming so popular?\nOne thing that extreme sports do better than perhaps anything else is to help you stop being afraid. It may sound strange to say that their main function is to reduce fear. But after a time, your fear response to other things in life will be dramatically reduced. After all, if you can jump out of a plane or off a bridge, then you can face anything else easily.\nWhen doing extreme sports, you have to become more focused. You'll be pushed to your limits, and if you aren't focused you'll make dangerous mistakes. Learning to be this focused when enjoying extreme sports will help you to be focused at work, keeping you more productive and ultimately more successful.\nIt's great to stay fit and healthy, but standard exercise routines and sports only work the same muscles repeatedly. With extreme sports, you'll be working entirely different muscles, and that means you get an all-over workout. Extreme sports also burn a lot more calories than other sports. Skateboarding, for example, can burn as many as 500 calories per hour. Basketball burns around 300 in the same time.\nWhen you find that you can overcome the physical or mental challenges involved in extreme sports, you'll feel superhuman and your self-confidence will be at an all-time high.\nMost of us have been in teams or organizations where we've had conflict with the people that we're working with around the ideas or decisions that we're discussing. Conflict is natural. We all bring different life and work experiences to the table. We all have different personality preferences and tendencies. We're not all going to have the same ideas on how to approach policies, programs or problems.\nBut too often we get caught in this place where conflict is perceived to be negative—something we want to avoid so that we can maintain the harmony of our workplace. This could be because some people want to avoid conflict at all costs, after all they still have to work together. But this kind of artificial harmony isn't the answer.\nProductive conflict is a vital part of teams and organizations that want to push forward and do more. Without conflict, we're often stuck in this artificial harmony where people don't express potentially innovative ideas for fear that they may start conflict with others.\nBut if you're in a place where you have a basis of trust, conflict can be extremely productive. It can lead to increased innovation and greater trust on teams. It may be an uncomfortable process, but good leaders and healthy teams recognize that productive and healthy conflict is an important part of how they function.",
+    "cn": "JetBlue航空公司一架从西棕榈滩飞往纽约市的航班周日上午在飞机撞鸟后被迫掉头降落。这架从棕榈滩国际机场飞往LaGuardia机场的航班在起飞仅几分钟后因撞击事件而掉头返航。\n机上未报告有人员受伤,该航班在首次尝试起飞7.5小时后再次起飞。乘客Brian Healy说:\"那就像一瞬间的恐慌……导致机上出现紧张反应。机舱内一片寂静,当飞机停下来时大家才松了口气。\"JetBlue发送的一封电子邮件写道:\"我们的团队正在努力为乘客安排后续航班。\"\n一条致命的毒蛇在从动物园逃脱后终于被追踪到,却第二次溜走了。上周当工作人员注意到这条毒蛇失踪时,它迫使该景点关闭。\n经过六天的拼命搜寻,它最终被找到并被安置在一个据称安全的区域。但这只动物似乎并不喜欢这家动物园,因为它再次逃脱了。这条蛇是动物园相对较新的成员,但已经让工作人员感到沮丧。工作人员认为它是从蛇舍内安装的新型节能灯泡周围的缝隙中挤出去的。它第一次被找到是因为工作人员带来了一台特殊的机器,在墙壁开口内追踪到了它。\n这种蛇是野外最致命、毒性最强的蛇类之一,体长可达3至5米。\n自本月早些时候作为为期一年的试点项目首次引入以来,电动自行车在杰克逊维尔市中心引发了热潮。但它们引发了安全担忧,主要是在夜间,一些骑行者不遵守交通规则。\n随着夜幕降临,经常可以看到成群的骑行者在街道和人行道上几乎朝着各个方向行驶。这增加了发生危险事故的可能性。\n电动自行车骑行者必须遵守与驾驶汽车时相同的所有规则。这意味着不能闯红灯,也不能在单行道上逆向行驶。\n市议会成员Anna Cumber在将电动自行车引入杰克逊维尔以为市中心注入新活力方面发挥了重要作用。她也意识到了这些担忧。Cumber说:\"人们可以享受乐趣,但驾驶员和骑行者都有责任在路上保持注意力。永远不要假设驾驶员会停车或看到你。\"\nM: 教孩子如何存钱和花钱,最好的方法是什么?\nW: 你应该把钱的话题作为日常讨论的内容。最好从小开始,这样就会成为本能反应,而不是一个可怕的话题。\nM: 在我们家,我们公开讨论像假期预算、税收如何减少你的收入,以及如何货比三家找到最优惠的价格这类事情。\nW: 确实如此。通过实际例子让孩子对金钱有真实感受也很重要。比如算出使用披萨折扣券能省多少钱,这比抽象的数字计算要实用得多。\nM: 我们还给孩子零花钱,金额多少跟家务挂钩,比如倒垃圾和清空洗碗机。\nW: 我们也这样做,而且是按年龄支付。每岁两英镑,这样他们能看到一些进步。\nM: 教他们存钱很重要。我们在他们小时候就开了储蓄账户。生日和圣诞节过后,他们会去银行网点存入收到的礼金。\nW: 哦,我还没考虑过这样做。在我们家,我们有透明的存钱罐让他们放零钱,这样他们能看到自己的储蓄增长。\nM: 时机成熟时,我会开始跟孩子们谈投资,让他们看看为他们继续教育存的钱是如何增长的。\nW: 我一直跟大女儿强调存养老金的重要性。她刚开始做兼职,本来想着不缴纳养老金。幸好我说服了她。\nM: 是的,这是非常重要的一课。\nW: 欢迎收看《书评》。今天的嘉宾是畅销新书《奖励成功》的作者约翰·班克斯。\nM: 很高兴来到这里,简。\nW: 您的书已经售出200万册,但在我们讨论它为什么受到如此多关注之前,让我们先聊聊您的背景。您是一位经济学家,在大学教了二十年书?\nM: 实际上我当了25年教授。然后,在过去10年里,我一直担任政治顾问,就我们国家的问题向国家层面的政治家们提供建议。\nW: 您在书中讨论了其中三个问题,改善公共教育、减轻我们国家的医疗负担以及增加个人储蓄。但您关于教育的观点是最具争议的。\nM: 没错。很多人认为我是在惩罚那些表现不好的学生,而实际上我的目标是给所有学生更多成功的动力。\nW: 我不确定我是否同意您的观点。您提议向成绩好的学生支付现金奖励,这是个特别的问题。那成绩不好的学生怎么办?看起来您是在责怪他们不成功,而在学校表现不佳并不是孩子的错。\nM: 但我的提议不仅是奖励成绩好的学生,也奖励那些有进步的学生。\nW: 好吧,这个计划的另一个批评是现金奖励本身。钱从哪里来?\nM: 如果学生们表现更好,我们在教育上的花费就会减少。所以,最终这些奖励会自己收回成本。\nW: 那现在呢?在此期间我们如何资助这些奖励?\nM: 嗯,通过增加税收或者从预算的其他领域把钱转移到教育上。\n我今天遇到了三个不同的人,每次当我问\"你好吗?\"时,得到的回答都一模一样。\"我很忙\"。老实说,我遇到的绝大多数人都给我同样的答案。所以我开始思考:\"你猜怎么着?每个人都很忙!\"我很忙,你很忙,每个人都很忙。所以你忙根本不会让我感到同情。因为\"忙\"就是这个世界的常态。\n所以我正在发起一项运动,呼吁人们停止抱怨自己\"很忙\"。这听起来可能有点刺耳,但事实是,没有人在乎。在一个忙碌的世界里,\"忙碌\"并不突出,也不意味着高效、有创造力、有成就或专业。\nSteve Maraboli曾经说过:\"当有人告诉你他们太'忙'时,这不是反映他们的日程安排;而是反映了你在他们日程安排中的位置。\"Donna Lynn Hope也评论道:\"忙碌并不意味着更好。我从不羡慕忙碌的人——那种喜欢向别人强调自己生活有多忙的人。\"\n现实是,没有人真的太忙——这只是关乎优先级的问题。所以下次有人问你过得怎么样时,也许可以换一种回答方式。根据我的经验,\"我很忙\"这个回答实际上是在掩盖他们并没有真正完成自己真正目标的事实。而\"忙碌\"是他们对自己无法实现目标所撒的谎。\n越来越多的人开始从事极限运动,如滑雪板、滑板、山地自行车等等。为什么这些运动变得如此流行?\n极限运动比其他任何事物都更能帮助你克服恐惧。说它们的主要功能是减少恐惧可能听起来很奇怪。但一段时间后,你对生活中其他事物的恐惧反应将会大幅减少。毕竟,如果你能从飞机上或桥上跳下来,那么你就能轻松面对其他任何事情。\n在进行极限运动时,你必须变得更加专注。你会被推向极限,如果不够专注就会犯下危险的错误。在享受极限运动时学会如此专注将帮助你在工作中保持专注,使你更高效,最终更成功。\n保持健康很重要,但标准的锻炼程序和运动只会反复锻炼相同的肌肉。通过极限运动,你会锻炼到完全不同的肌肉,这意味着你能得到全身锻炼。极限运动消耗的卡路里也比其他运动多得多。例如,滑板每小时可以消耗多达500卡路里,而篮球在同样时间内消耗约300卡路里。\n当你发现自己能够克服极限运动中的身体或心理挑战时,你会感觉自己无所不能,自信心将达到前所未有的高度。\n我们大多数人都曾身处这样的团队或组织：在讨论想法或决策时，与合作者产生冲突。冲突是自然的。我们每个人都带来不同的生活和工作经验。我们都有不同的性格偏好和倾向。我们不可能在如何处理政策、项目或问题上都有相同的想法。\n但我们经常陷入这样一种境地：冲突被视为负面的——我们想要避免的东西，以便维持工作场所的和谐。这可能是因为有些人想不惜一切代价避免冲突,毕竟他们还要继续共事。但这种人为的和谐并不是答案。\n建设性冲突是想要向前推进并做得更多的团队和组织的重要组成部分。没有冲突,我们往往会陷入这种人为的和谐,人们不敢表达可能具有创新性的想法,因为担心可能会与他人产生冲突。\n但如果你所在的地方有信任的基础,冲突可以极具建设性。它可以带来更多创新和团队间更大的信任。这可能是一个令人不适的过程,但优秀的领导者和健康的团队认识到,建设性和健康的冲突是他们运作方式的重要组成部分。"
+  }
+}

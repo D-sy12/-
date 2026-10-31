@@ -1,0 +1,670 @@
+{
+  "id": "2023-03-1",
+  "writing": "Directions: Suppose you have taken part in a career planning seminar. Write an account of the seminar and summarize what you have learned from it. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What is the news report mainly about?",
+      "options": {
+        "A": "A proposed policy allowing Africans to travel in Africa without a visa.",
+        "B": "An agreement among 13 African countries to set up a free-trade zone.",
+        "C": "A plan to invite all African countries to join the African Union.",
+        "D": "An important initiative to permit tourists to visit Africa without a visa."
+      },
+      "stem_cn": "这则新闻报道主要是关于什么的?",
+      "options_cn": {
+        "A": "一项允许非洲人在非洲境内免签旅行的拟议政策。",
+        "B": "13个非洲国家之间建立自由贸易区的协议。",
+        "C": "一项邀请所有非洲国家加入非洲联盟的计划。",
+        "D": "一项允许游客免签访问非洲的重要倡议。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What benefit will a free trade deal bring to African economy?",
+      "options": {
+        "A": "It will attract more investments from all over the world.",
+        "B": "It will help many African countries reduce trade deficits.",
+        "C": "It will reduce the cost of trade between African countries.",
+        "D": "It will allow Africans to play a bigger role in world trade."
+      },
+      "stem_cn": "自由贸易协议将为非洲经济带来什么好处?",
+      "options_cn": {
+        "A": "它将吸引来自世界各地的更多投资。",
+        "B": "它将帮助许多非洲国家减少贸易逆差。",
+        "C": "它将降低非洲国家之间的贸易成本。",
+        "D": "它将使非洲人在世界贸易中发挥更大作用。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What new method has been developed to help fight climate change?",
+      "options": {
+        "A": "Cooling down volcanic rock with sea water.",
+        "B": "Storing carbon dioxide underground as a gas.",
+        "C": "Capturing carbon dioxide and burying it under the sea.",
+        "D": "Pumping carbon dioxide underground to form stone."
+      },
+      "stem_cn": "已经开发出什么新方法来帮助对抗气候变化？",
+      "options_cn": {
+        "A": "用海水冷却火山岩。",
+        "B": "以气体形式将二氧化碳储存在地下。",
+        "C": "捕获二氧化碳并将其埋在海底。",
+        "D": "将二氧化碳泵入地下使其形成石头。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What is a potential difficulty in applying the new technique?",
+      "options": {
+        "A": "Lack of burying ground.",
+        "B": "Long time for processing.",
+        "C": "High consumption of water.",
+        "D": "Enormous cost of energy."
+      },
+      "stem_cn": "应用这项新技术的潜在困难是什么？",
+      "options_cn": {
+        "A": "缺乏掩埋场地。",
+        "B": "处理时间长。",
+        "C": "水消耗量大。",
+        "D": "能源成本巨大。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What does the news report say about French people's bread consumption?",
+      "options": {
+        "A": "It varies with the seasons.",
+        "B": "It has been on the decline.",
+        "C": "It has caused nationwide concern.",
+        "D": "It is ninety grams daily on average."
+      },
+      "stem_cn": "新闻报道关于法国人面包消费量说了什么?",
+      "options_cn": {
+        "A": "它随季节变化。",
+        "B": "它一直在下降。",
+        "C": "它引起了全国关注。",
+        "D": "平均每天九十克。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What do we learn about French women from their port?",
+      "options": {
+        "A": "They emphasize food variety.",
+        "B": "They prefer French stick loaves.",
+        "C": "They do more cooking than men.",
+        "D": "They favor diets lower in calories."
+      },
+      "stem_cn": "从报告中我们对法国女性了解到什么?",
+      "options_cn": {
+        "A": "她们强调食物多样性。",
+        "B": "她们更喜欢法式长棍面包。",
+        "C": "她们比男性做更多的烹饪。",
+        "D": "她们偏爱低热量饮食。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What is said about lifestyle changes of the French people?",
+      "options": {
+        "A": "They bake more bread at home.",
+        "B": "They spend less time eating breakfast.",
+        "C": "They eat more fruit than they used to.",
+        "D": "They put jam instead of butter on bread."
+      },
+      "stem_cn": "关于法国人的生活方式变化说了什么?",
+      "options_cn": {
+        "A": "他们在家烤更多面包。",
+        "B": "他们吃早餐的时间更少了。",
+        "C": "他们比过去吃更多水果。",
+        "D": "他们在面包上涂果酱而不是黄油。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "When would the man like to leave for London?",
+      "options": {
+        "A": "After the rush hour.",
+        "B": "Early in the morning.",
+        "C": "As soon as possible.",
+        "D": "Around lunch time."
+      },
+      "stem_cn": "这位男士想什么时候出发去伦敦?",
+      "options_cn": {
+        "A": "高峰时段之后。",
+        "B": "一大早。",
+        "C": "越快越好。",
+        "D": "午餐时间前后。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What is the man's other request?",
+      "options": {
+        "A": "Two first class seats.",
+        "B": "Two seats together.",
+        "C": "One window seat.",
+        "D": "One seat near the exit."
+      },
+      "stem_cn": "这位男士的另一个要求是什么?",
+      "options_cn": {
+        "A": "两个头等座位。",
+        "B": "两个相邻座位。",
+        "C": "一个靠窗座位。",
+        "D": "一个靠近出口的座位。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "Where should the man wait for the train?",
+      "options": {
+        "A": "In the middle of the platform.",
+        "B": "At the far end of the platform.",
+        "C": "Behind the yellow line.",
+        "D": "In the waiting room."
+      },
+      "stem_cn": "这位男士应该在哪里等火车?",
+      "options_cn": {
+        "A": "在站台中间。",
+        "B": "在站台最远端。",
+        "C": "在黄线后面。",
+        "D": "在候车室。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What should the man do to collect the bicycles?",
+      "options": {
+        "A": "Wait in a queue for his turn.",
+        "B": "Go to the baggage claim area.",
+        "C": "Pay an extra fee for the service.",
+        "D": "Give the ticket to the train guard."
+      },
+      "stem_cn": "这位男士应该做什么来取自行车?",
+      "options_cn": {
+        "A": "排队等候轮到他。",
+        "B": "去行李提取区。",
+        "C": "为这项服务支付额外费用。",
+        "D": "把车票交给列车员。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What do we learn about hat factories in Britain?",
+      "options": {
+        "A": "Almost all of them were operating at a deficit.",
+        "B": "They have all been turned into movie theatres.",
+        "C": "Nearly all of them closed down decades ago.",
+        "D": "They have adapted to meet fashion changes."
+      },
+      "stem_cn": "关于英国的帽子工厂，我们了解到什么？",
+      "options_cn": {
+        "A": "它们几乎全都在亏损经营。",
+        "B": "它们全都已被改造成电影院。",
+        "C": "它们几乎全都在几十年前就关闭了。",
+        "D": "它们已经适应了时尚变化。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What is special about Cube Movie Theater?",
+      "options": {
+        "A": "It shows foreign movies exclusively.",
+        "B": "It shows movies from the 1950s.",
+        "C": "It is the oldest theatre in London.",
+        "D": "It is located next to a hat factory."
+      },
+      "stem_cn": "Cube电影院有什么特别之处？",
+      "options_cn": {
+        "A": "它专门放映外国电影。",
+        "B": "它放映20世纪50年代的电影。",
+        "C": "它是伦敦最古老的电影院。",
+        "D": "它位于一家帽子工厂旁边。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the man say about most people in London?",
+      "options": {
+        "A": "They wear hats on social occasions.",
+        "B": "They don't speak foreign languages.",
+        "C": "They enjoy watching foreign movies.",
+        "D": "They don't go to movie theatres often."
+      },
+      "stem_cn": "关于伦敦的大多数人，这位男士说了什么？",
+      "options_cn": {
+        "A": "他们在社交场合戴帽子。",
+        "B": "他们不会说外语。",
+        "C": "他们喜欢看外国电影。",
+        "D": "他们不常去电影院。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the woman say about foreign movies shown in London?",
+      "options": {
+        "A": "They are meant mostly for immigrants.",
+        "B": "They attract large crowds of young Londoners.",
+        "C": "They are hard for English people to appreciate.",
+        "D": "They have an English translation on the screen."
+      },
+      "stem_cn": "关于在伦敦放映的外国电影，这位女士说了什么？",
+      "options_cn": {
+        "A": "它们主要是为移民准备的。",
+        "B": "它们吸引大批年轻的伦敦人。",
+        "C": "它们对英国人来说很难欣赏。",
+        "D": "它们在屏幕上有英文翻译。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What do we learn about Astrid Natley, a secondary school math teacher?",
+      "options": {
+        "A": "She doesn't think smartphones can replace tablets.",
+        "B": "She incorporates smartphones into her teaching.",
+        "C": "She cannot stop children using smartphones.",
+        "D": "She regards smartphones as a distraction."
+      },
+      "stem_cn": "关于中学数学教师Astrid Natley，我们了解到什么？",
+      "options_cn": {
+        "A": "她认为智能手机无法替代平板电脑。",
+        "B": "她将智能手机融入她的教学中。",
+        "C": "她无法阻止孩子们使用智能手机。",
+        "D": "她认为智能手机会分散注意力。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "Why does Helen Lockhart, a registered nurse, support a complete ban on smartphone use in the classroom?",
+      "options": {
+        "A": "To enforce school discipline.",
+        "B": "To make students concentrate.",
+        "C": "To help children grow up to be professionals.",
+        "D": "To cultivate children's good study habits."
+      },
+      "stem_cn": "注册护士Helen Lockhart为什么支持在课堂上完全禁止使用智能手机？",
+      "options_cn": {
+        "A": "为了执行学校纪律。",
+        "B": "为了让学生集中注意力。",
+        "C": "为了帮助孩子们成长为专业人士。",
+        "D": "为了培养孩子们良好的学习习惯。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What should students do in the classroom according to Richard Stone, an English teacher?",
+      "options": {
+        "A": "Use books and pens only.",
+        "B": "Cut down their screen time.",
+        "C": "Make full use of electronic devices.",
+        "D": "Learn to use the internet for research."
+      },
+      "stem_cn": "根据英语教师Richard Stone的说法，学生在课堂上应该做什么？",
+      "options_cn": {
+        "A": "只使用书本和笔。",
+        "B": "减少他们的屏幕使用时间。",
+        "C": "充分利用电子设备。",
+        "D": "学习使用互联网进行研究。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "How did Kate earn the reward from her mother?",
+      "options": {
+        "A": "By cleaning the kitchen floor.",
+        "B": "By looking after her baby brother.",
+        "C": "By helping her mother do the dishes.",
+        "D": "By helping her brother wash windows."
+      },
+      "stem_cn": "Kate 是如何从她母亲那里获得奖励的?",
+      "options_cn": {
+        "A": "通过清洁厨房地板。",
+        "B": "通过照顾她的小弟弟。",
+        "C": "通过帮助她母亲洗碗。",
+        "D": "通过帮助她弟弟擦窗户。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What did Kate do after her mother left the room?",
+      "options": {
+        "A": "She ordered a large number of dolls.",
+        "B": "She checked if a purple doll was ordered.",
+        "C": "She mistakenly canceled her mom's order.",
+        "D": "She ordered a more expensive doll instead."
+      },
+      "stem_cn": "Kate 的母亲离开房间后她做了什么?",
+      "options_cn": {
+        "A": "她订购了大量娃娃。",
+        "B": "她查看是否订购了紫色娃娃。",
+        "C": "她错误地取消了她妈妈的订单。",
+        "D": "她订购了一个更贵的娃娃。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What did Kate's family do after the packages arrived?",
+      "options": {
+        "A": "They asked the children's hospital to pick them.",
+        "B": "They took all of them to the children's hospital.",
+        "C": "They opened all of them one by one.",
+        "D": "They discussed where to keep them."
+      },
+      "stem_cn": "包裹到达后 Kate 一家做了什么?",
+      "options_cn": {
+        "A": "他们请儿童医院来取这些包裹。",
+        "B": "他们把所有包裹带到了儿童医院。",
+        "C": "他们逐一打开了所有包裹。",
+        "D": "他们讨论了把这些包裹放在哪里。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "According to recent research conducted in Australia, what has a lasting impact on one's life?",
+      "options": {
+        "A": "The time one starts school.",
+        "B": "The classroom atmosphere.",
+        "C": "The school that one attends.",
+        "D": "The relationship with classmates."
+      },
+      "stem_cn": "根据最近在澳大利亚进行的研究,什么对一个人的一生有持久影响?",
+      "options_cn": {
+        "A": "一个人开始上学的时间。",
+        "B": "课堂氛围。",
+        "C": "一个人就读的学校。",
+        "D": "与同学的关系。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What was the purpose of the Australian research?",
+      "options": {
+        "A": "To help parents decide when to send their children to school.",
+        "B": "To find causes for differences in the participants' performance.",
+        "C": "To identify students having potential to be professional athletes.",
+        "D": "To offer constructive suggestions for making educational policies."
+      },
+      "stem_cn": "澳大利亚这项研究的目的是什么?",
+      "options_cn": {
+        "A": "帮助家长决定何时送孩子上学。",
+        "B": "找出参与者表现差异的原因。",
+        "C": "识别有潜力成为职业运动员的学生。",
+        "D": "为制定教育政策提供建设性建议。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "Who were the participants in the researchers' first study?",
+      "options": {
+        "A": "Political leaders.",
+        "B": "Financial analysts.",
+        "C": "Professional athletes.",
+        "D": "High-school students."
+      },
+      "stem_cn": "研究人员第一项研究的参与者是谁?",
+      "options_cn": {
+        "A": "政治领袖。",
+        "B": "金融分析师。",
+        "C": "职业运动员。",
+        "D": "高中生。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "According to the researchers, what is one characteristic of successful people?",
+      "options": {
+        "A": "Leadership ability.",
+        "B": "Commitment to work.",
+        "C": "Risk-taking.",
+        "D": "Self-confidence."
+      },
+      "stem_cn": "根据研究人员的说法,成功人士的一个特征是什么?",
+      "options_cn": {
+        "A": "领导能力。",
+        "B": "对工作的投入。",
+        "C": "冒险精神。",
+        "D": "自信。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "wore",
+    "B": "wildlife",
+    "C": "suspect",
+    "D": "struck",
+    "E": "similar",
+    "F": "quantity",
+    "G": "overthrown",
+    "H": "mess",
+    "I": "intense",
+    "J": "human",
+    "K": "effective",
+    "L": "delight",
+    "M": "colorful",
+    "N": "bore",
+    "O": "alike"
+  },
+  "cloze_passage": "It's a fantasy that goes back centuries: a message in a bottle, carried ashore from far-off lands. Authors, artists and children 26 have dreamed of such a gift from the sea.\nThis time, though, it's not a bottle that washes ashore. It's eggs—thousands of little toy eggs.\nThat's what happened on the German island of Langeoog this week.\nLying just off the North Sea coast, it found itself 27 by an invasion of colored plastic eggs—much to the 28 of local children, because the eggs contained toys.\nPolice 29 the eggs came from a freighter that lost part of its cargo during an unusually 30 storm, the worst to hit Germany's northeastern coast since 2006.\nAt any rate, what was lost has now been found by many of the community's littlest residents.\n\"The surprise eggs have found their way to freedom,\" said Mayor Uwe Garrels. However, the joy of the moment 31 off soon.\n\"At first I thought this was a wonder, because everything was so 32 , but then we realized that this is a huge 33 in the end,\" said the mayor. He also noted the plastic bags and other materials that have washed ashore on the island can cause serious problems for 34 .\nStill, all these little eggs contained an extra treat with their toys. They 35 notes from afar.\nThere was just one problem for the German children who received them: They were written in Russian.",
+  "long_reading_passage": "A) Congratulations on deciding to get married! While being married is great and wonderful, the act of getting married can be quite stressful. There is the planning of the ceremony itself, the merging(合并) of two households and all of the details involved in that. You also have to take the time to apply for your marriage license and then decide whether or not you are going to keep your last name or change it.\nB) This is where a lot of people have trouble. Once upon a time, it was just customary for a bride to take her groom's last name as her own and abandon her maiden name completely. The act of keeping her own last name was considered taboo(禁忌) and people's eyebrows would raise right off their faces when they found out that the bride was even considering something so radical. Over time, though, more and more women are deciding to keep their last names.\nC) There are a lot of reasons to want to keep your own last name. Hopefully you have a supportive groom who understands why this idea is the most appealing to you. A lot of times, though, the act of keeping your name is still something that causes concern. Even if your groom is fine with it, his family (or your own) might not be so understanding.\nD) There are a couple of ways to compromise on the issue. You could choose an entirely new last name for the two of you to share. This way neither of you gets \"your\" way and you both have to deal with the legalities of going through a name change. Most of the time, though, the most popular compromise is to hyphenate your last name and the last name of your groom. For example, if your groom's name is John Smith and your name is Kate Jones, you would name yourself Kate Jones-Smith or Kate Smith-Jones. This allows you to keep going by your own last name while legally adopting your husband's last name at the same time.\nE) The compromise is the biggest reason that so many women choose to hyphenate their last names. It is a way of you keeping your own identity while also making your future husband happy. It allows you to stay connected to accomplishments that you achieved before you got married. For example, many women who choose to hyphenate do so partially because they have earned higher educational degrees and certifications under their maiden names. They might have also had things published or publicized and want to stay connected to that identity. Hyphenating your last name can help you bridge the gap between your personal and professional lives. Many women who opt to simply keep their own names do so because they don't want to give up all that they have accomplished professionally. Adopting their husband's last name makes it hard for them to claim ownership of these accomplishments personally because they happened under their \"other\" name.\nF) While tradition is one thing, there isn't any logical reason to completely change your name. Keeping your name and joining it to your husband's through hyphenation is as legal as simply adopting his name or as simply keeping your own and leaving his out of the picture entirely.\nG) Probably the most important reason to consider hyphenation is your identity. You've spent your whole life building your identity under a certain name. Obviously you will still be you even if you've taken on your husband's last name and omitted yours entirely. At the same time, your name is associated with the identity you've built up and hyphenation allows you to respect that while also respecting tradition and your husband's family's identity.\nH) If you care about outside opinions on your name, you should know that a large portion of today's society is annoyed by the hyphenated name. Some people find it \"snobby\"(势利的) and others simply find it irritating because they have a hard time remembering which last name they are supposed to say first. Some people even believe that not simply adopting your husband's last name is a huge sign of disrespect and a lack of commitment.\nI) It is possible that your future husband will find this choice offensive. Some men, regardless of how you might feel about such things, are traditionalists and feel that it is simply \"right\" for the woman to take the man's last name as her own. Whether your future husband insisting on your adopting his last name is a red flag to you or not, it is still something that you should take into consideration.\nJ) There are all sorts of reasons to hyphenate your name or not to hyphenate your name. The basis for each of these things, however, is whether or not you are willing to make a compromise when it comes to changing your name. The hyphenation is the epitome(体现) of a compromise. One spouse wants a complete name change. The other spouse wants no name change. Hyphenating the two names is a way for each person to, at least a little bit, \"win\" the argument.\nK) And don't forget the legal stuff! Making the decision is just part of the process. From there you are going to have to legally change your name all over the place. You'll need to change your name at the bank, with social security, with your credit cards, on your driver's license, at the gym…everywhere. It's easy to get overwhelmed just thinking about it.\nL) What matters, of course, is that the two of you are going to be happily married—hopefully for the rest of your lives. At the end of the day, whether you each keep your names, whether you come up with an entirely new name for the two of you to share or whether you hyphenate your current last names, what matters is that you love each other and are going to be joining your lives together. Try to remember that as you are staring at the application for your marriage license and filling out the portion that reads \"name after you get married\" (or whatever the legalese for that might be).",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "It's good to be smart. After all, intelligent people earn more money, accumulate more wealth, and even live longer. But there's another side to the story. The brightest people and strongest leaders sometimes make errors others don't, especially in situations that require common sense.\nTravis Bradberry, president at TalentSmart, explained in his post Why Smart People Act So Stupid that \"Rational thinking and intelligence don't tend to go hand in hand. Intelligent people are more prone to silly mistakes because of blind spots in how they use logic. These blind spots exist because smart people tend to be overconfident in their reasoning abilities.\" They are so used to being right and having quick answers that they don't even realise when they're making a mess by answering without thinking things through.\nA lifetime of praise leads smart people to develop too much faith in their intelligence and abilities. They often fail to recognise when they need help, and when they do recognise it, they tend to believe that no one else is capable of providing it.\n\"It's hard for anyone to graciously accept the fact that they're wrong. It's even harder for smart people because they grow so used to being right all the time that it becomes a part of their identity,\" Bradberry wrote. \"For smart people, being wrong can feel like a personal attack, and being right, a necessity.\"\nSmart people also have a hard time accepting feedback. They tend to undervalue the opinions of others, which means they have trouble believing that anyone is qualified to give them useful feedback. Not only does this tendency hinder their growth and performance, it can lead to harmful relationships, both personally and professionally.\nSmart people develop overachieving personalities because things come so easily to them. They simply don't understand how hard some people have to work to accomplish the same things, and because of that, they push people too hard. They set the bar too high, and when people take too long or don't get things quite right, they assume it's due to a lack of effort. So they push even harder.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "They can make silly mistakes in straightforward situations.",
+        "B": "They usually turn a blind eye to their own weaknesses.",
+        "C": "They are admired by people around them.",
+        "D": "They can differ in their personalities."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Their irrational way of thinking.",
+        "B": "Too much faith in their ability to think.",
+        "C": "Their ignorance of behavioural science.",
+        "D": "Too much concern about their work"
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "They shift the blame to others.",
+        "B": "They graciously accept the facts.",
+        "C": "They may feel shocked.",
+        "D": "They may get offended."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "They may suffer in their professional and private life.",
+        "B": "They may lose faith in their administrative abilities.",
+        "C": "They may commit more errors than ever before.",
+        "D": "They may experience a lot of emotional stress."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "They put a lot of effort into their work.",
+        "B": "They set higher goals for themselves.",
+        "C": "They are under increasing pressure.",
+        "D": "They take less time to get things done."
+      }
+    }
+  ],
+  "reading_passage_2": "Of the endless troubles that come with being driven from one's home country, losing educational certificates may seem small. But it isn't. Refugees who settle in other countries often find themselves unable to continue on their previous career path due to a new set of employer standards or skills requirements. To solve this problem, the U.S. State Department is posing a solution: online learning.\nThe State Department will announce a partnership with an online education platform called Coursera. The platform will allow refugees worldwide to take thousands of online courses for free. \"Coursera for Refugees\" will be available for any non-profit group that supports refugees in any country, as well as individual refugees. They can apply for fully funded access to Coursera's course catalog, which means they can take all of the platform's classes and obtain professional certificates for free. The platform currently offers professor-led lectures on a broad range of topics, from data science to fashion design.\nAs the world migrant crisis intensifies, employment is becoming a global concern. The new program aims to aid refugees by offering \"important skills that will help them in the global economy,\" Evan Ryan, U.S. assistant secretary of state for educational and cultural affairs, said on a press call last week. \"What we don't want to do is not act,\" added Coursera chief operations officer Lila Ibrahim.\nThe idea isn't without problems. For one, starting a new career path isn't as simple as watching a few videos and obtaining an online certificate; even those looking to continue previous careers can't simply rely on an online lecture to get them up-to-date on standards, policies, and practices. For another, most of the classes on Coursera are in English, and though there are plans to add translations, language barriers can be a big obstacle. Then there are the questions over the value of massive open online courses (MOOCs) themselves—both for refugees and for average learners.\nBut it's still early days and there are signs of hope. In 2015, a joint study found 72% of people taking the MOOCs saw career benefits afterwards.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "To enable them to settle down in host countries.",
+        "B": "To allow them to learn as many job skills as possible.",
+        "C": "To offer them a platform to pursue advanced degrees.",
+        "D": "To help them to meet new employment standards."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "It provides refugees with a wide range of courses free of charge.",
+        "B": "It offers free online data services for refugees around the world.",
+        "C": "It allows refugees to obtain degrees in various academic fields.",
+        "D": "It supplies refugees with a great variety of job opportunities."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "Instability increases in host countries.",
+        "B": "The global economic crisis intensifies.",
+        "C": "A lot more refugees die during migration.",
+        "D": "Refugees find it more difficult to get a job."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Cultural environment.",
+        "B": "Changed academic requirements.",
+        "C": "Lack of language skills.",
+        "D": "Difference in teaching platforms."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "They helped solve learners' financial problems.",
+        "B": "They benefited most of the learners.",
+        "C": "They changed some learners' career path.",
+        "D": "They provided the most needed vocational skills."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2023年3月·第1套真题 Directions : For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 随着生活水平的提高，更多人开始加入到自驾游的行列之中。自驾游者既可驾驶自家车也可借车或租车出游。司机可能是车主或结伴出游者。自驾游与传统的组团旅游不同，它能够更好地满足旅游者的个性化需求，使他们更好地享受旅游的过程。自驾游尤其受到年轻出游者的欢迎。年轻人追求独立自由的生活，而自驾游恰好满足了他们的这一需求。",
+  "answers": {
+    "1": "A",
+    "2": "C",
+    "3": "D",
+    "4": "C",
+    "5": "B",
+    "6": "D",
+    "7": "B",
+    "8": "A",
+    "9": "C",
+    "10": "B",
+    "11": "D",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "D",
+    "16": "B",
+    "17": "C",
+    "18": "A",
+    "19": "D",
+    "20": "A",
+    "21": "B",
+    "22": "A",
+    "23": "B",
+    "24": "D",
+    "25": "C",
+    "26": "O",
+    "27": "D",
+    "28": "L",
+    "29": "C",
+    "30": "I",
+    "31": "A",
+    "32": "M",
+    "33": "H",
+    "34": "B",
+    "35": "N",
+    "36": "H",
+    "37": "D",
+    "38": "I",
+    "39": "A",
+    "40": "J",
+    "41": "B",
+    "42": "E",
+    "43": "G",
+    "44": "L",
+    "45": "F",
+    "46": "A",
+    "47": "B",
+    "48": "D",
+    "49": "A",
+    "50": "C",
+    "51": "D",
+    "52": "A",
+    "53": "D",
+    "54": "C",
+    "55": "B"
+  },
+  "listening_script": {
+    "en": "African leaders plan to turn the continent into a continent without borders. They will introduce a single passport policy, allowing free movement between countries. The idea from the African Union has been modeled on the EU Schengen free movement deal. Europe has abolished many internal borders. This enables visa-free movement across the continent. Currently, 13 African countries have visa-free deals in place with each other. These allow citizens to visit another country without a visa. Some countries offer visas on arrival. In contrast, Americans are able to travel to 20 of the continent's countries without a visa, or secure a visa on arrival. The African Union, which represents 54 states, wants to abolish the requirement of a visa for Africans visiting other African countries. It also wants to establish a free trade deal across the continent in the near future, as trade within the African continent costs more than any other region.\nResearchers in Iceland found a new way of tackling climate change by pumping carbon dioxide underground and turning it into stone. Other carbon capture and storage methods store carbon dioxide as a gas. But problems include a high cost and concern about leaks. This new method of burying carbon dioxide and turning it into stone is cheaper and more secure, the Guardian reports. To turn carbon dioxide into stone, researchers with the CarbFix project pumped the gas into volcanic rock and sped up the natural process, in which the volcanic rock reacts with gas and forms carbon minerals. The gas turned into solid in just two years, much faster than the hundreds or thousands of years researchers had predicted. The research took place at Iceland's Hellisheidi power plant. Already, the project in Iceland has been increased in scale to bury 10,000 tons of carbon dioxide each year. One potential difficulty is that for each ton of carbon dioxide buried, the technique requires 25 tons of water. However, the lead researcher said sea water could be used.\nPeople in France are keeping away from the narrow French stick loaf in favour of healthier, cheaper options, a millers' association has said. The National Association of French Millers says bread consumption is on the decline, with French people eating nine grams less than in the previous year. The association is concerned about the effects this trend will have on their trade and suggests three reasons why it is happening.\nFirstly, the association cited changing diets, in particular, the switch to those low in calories, as a factor in the reduction of bread consumption. This could explain why the difference in consumption between genders is so big. Nowadays, men eat an approximate average of 140 grams of bread daily, whereas women eat 80 to 90 grams. The second reason they say is lifestyle changes in the country, with people dedicating less time to breakfast when bread would traditionally be eaten with butter and jam. Finally, the rising cost of bread is considered to be a factor, with the price of a French stick loaf increasing by nearly 25% in the last 10 years.\nW: Next, please.\nM: Yes, I'd like to book two train tickets to London tomorrow morning, please.\nW: Okay. What time would you like to go?\nM: Well, after the rush hour, I think. We'd like to avoid the crowds if possible. So, probably sometime around 10 o'clock.\nW: No problem. Just give me a minute. There's one here at 9:47, then one at 10:12, and then a third at 10:26.\nM: The one at 10:12 sounds good.\nW: All right. Would you like to sit in first or second class?\nM: Second class is fine. Thanks. Is there any chance we could have a window seat for one of those?\nW: No problem. And I've booked those seats next to each other for you. The total price is 36 pounds, 50 cents. Is there anything else?\nM: Yes, actually, we'll be taking our bicycles with us. What is the arrangement for that? And will it cost extra?\nW: It's no extra cost. The price will be the same. All you need to do is wait at the far end of the platform. When the train arrives, tell the train guard where you're going, and he will help you secure the bicycles in the last carriage and give you a ticket. Then you can walk down through the train to your carriage and take your seats. When you arrive in London, hand the ticket to the guard and he will return the bicycles to you.\nM: Thank you for the information. That's very helpful.\nM: Good morning. Our guest today is Karen Brook. Karen is the managing director of Cube Movie Theater, located on Underhill Road. Thank you for coming, Karen.\nW: Thank you for having me.\nM: So, tell us about your cinema—Cube Movie Theater.\nW: Sure. Cube Movie Theater has been around now for 11 years. It's located in what used to be a hat factory.\nM: Oh, really?\nW: Yeah. There used to be many hat factories in Britain until around the 1950s, but fashion changed and most people stopped wearing hats. So practically all of those factories had to close down. This one, in particular, was closed for 47 years before we transformed it into a movie theater.\nM: I see. I hear there's something else that makes your theater special. What is it that sets you apart from other theaters?\nW: We are the only movie theater in the whole country that only shows foreign movies.\nM: Is there enough demand for that? I would have thought that in London, most people don't speak foreign languages.\nW: Sure, there's enough demand. The fact that we have been open and in business for all these years proves it. London is a very large and international city. There are lots of people interested in watching such movies. Furthermore, I might add, all movies come with English text at the bottom of the screen. So even if you don't understand what the actors say, you can still read it.\nM: Of course. What movie are you showing right now?\nW: This week we're showing a musical from Pakistan. It's very popular.\nLove them or hate them, smartphones have become an integral part of our daily lives. But should they be left outside the classroom?\nNick Gibb, Minister for School Standards in England, believes schools should ban their pupils from bringing in smartphones.\nAstrid Natley, a secondary school math teacher, incorporates phones into her classroom. \"My school doesn't have money for tablets,\" she says. \"When students use their phones for research, they learn they have a powerful tool in their hands. If we stop children using phones, we're rejecting something they care about.\"\nMeanwhile, Helen Lockhart, a registered nurse working for community education, supports a complete ban. \"I'm banned from mobile use at work, and my phone must be handed in. If I'm caught with it in my pocket, I will be subject to disciplinary procedure, which will impact on my career. We need to teach children how to behave like the professionals they are striving to become.\"\nRichard Stone, an English teacher, thinks there should be a clear separation between school and home. \"Students should do things differently in the two environments. Children are getting more than enough screen time in their lives without the need to bring their phone into the classroom. The internet is too easy and too unreliable a research tool, so let's leave phones and laptops at home, and show them a different world in their lessons—one of books and pens,\" he says.\nKate, a six-year-old girl, helped her brother wash windows to get a reward promised by her mother, a purple doll that she wanted. She watched her mother order the doll online. The next day Kate asked if she could check the shipping status, so her mom clicked on the web page and then walked out of the room. Kate saw that her doll would be arriving the next afternoon, but then she noticed something else, suggestions about other dolls and toys she could order. 15 minutes and a few clicks later, with more than $350 worth of dolls in her cart, Kate placed the order and ran off to play.\nThe next day, while checking on another online order, her mother noticed a long list of dolls on the way. She was able to cancel two of them, but it was too late to cancel the rest. She told her daughter that they were going to be returned. When the packages arrived, Kate wanted to open them, but her parents said no. Instead of sending back the dolls, her father suggested giving them to the local children's hospital. So the next week, Kate's family loaded up their car and took all the dolls to the playroom at the children's hospital. Kate was depressed at first, but then she sat with some girl patients and they opened up all the boxes together, laughing and playing. She had a lot of fun and learned a really good lesson.\nCan the date you were born affect how successful your life is? According to recent research done in Australia, the answer is yes. The researchers found that the time when a person starts school has an enduring impact on their lives. Those who are relatively old, compared to their classmates, have certain advantages over them. Previous research has found older students achieve better results. They are also more likely to attend university and become professional athletes, chief executives and even important politicians. But the Australian researchers wanted to discover what was driving these differences. They suspected older, more mature students obtained more self-confidence than their peers because they achieved better grades.\nTo test this out, they conducted two studies. One was with high school students and the other with more than a thousand Australian adults, age between 24 and 60 years old. In the first study more than 600 high school students were surveyed about their tendency to take risks and feel confident. In the second study, those born on both sides of the cutoff date for starting school were asked to complete online math questions and rate their performance. They were also asked about the risks they took while riding bicycles and managing their finances. The researchers found that older students displayed greater risk-taking tendencies. While risk-taking can be considered a negative attribute, it's also a characteristic of successful people, including athletes, political leaders and entrepreneurs.",
+    "cn": "非洲领导人计划将该大陆变成一个无边界的大陆。他们将推行单一护照政策,允许各国之间自由流动。这一来自非洲联盟的想法是以欧盟申根自由流动协议为蓝本的。欧洲已经取消了许多内部边界,这使得整个大陆可以免签证自由流动。目前,13个非洲国家之间已经建立了免签证协议。这些协议允许公民无需签证即可访问另一个国家。一些国家提供落地签证。相比之下,美国人能够在无需签证或获得落地签证的情况下前往该大陆的20个国家。代表54个国家的非洲联盟希望取消非洲人访问其他非洲国家的签证要求。它还希望在不久的将来在整个大陆建立自由贸易协定,因为非洲大陆内部的贸易成本高于任何其他地区。\n冰岛的研究人员发现了一种应对气候变化的新方法，即将二氧化碳泵入地下并将其转化为石头。其他碳捕获和储存方法以气体形式储存二氧化碳。但问题包括成本高昂以及对泄漏的担忧。据《卫报》报道，这种埋藏二氧化碳并将其转化为石头的新方法更便宜、更安全。为了将二氧化碳转化为石头，CarbFix项目的研究人员将气体泵入火山岩中，并加速了火山岩与气体反应形成碳矿物的自然过程。气体仅在两年内就转化为固体,远快于研究人员预测的数百年或数千年。该研究在冰岛的Hellisheidi发电厂进行。冰岛的该项目规模已经扩大,每年可埋藏10,000吨二氧化碳。一个潜在的困难是,每埋藏一吨二氧化碳,该技术需要25吨水。然而,首席研究员表示可以使用海水。\n法国一家磨坊协会表示,法国人正在远离细长的法式棍子面包,转而选择更健康、更便宜的食品。法国全国磨坊协会称,面包消费量正在下降,法国人的食用量比前一年减少了9克。该协会对这一趋势将对其行业产生的影响表示担忧,并提出了造成这种情况的三个原因。\n首先,该协会指出饮食习惯的改变,特别是转向低热量饮食,是面包消费量减少的一个因素。这可以解释为什么性别之间的消费差异如此之大。如今,男性平均每天吃大约140克面包,而女性吃80到90克。他们所说的第二个原因是该国生活方式的变化,人们用于早餐的时间减少了,而早餐传统上会搭配黄油和果酱吃面包。最后,面包价格上涨被认为是一个因素,法式棍子面包的价格在过去10年中上涨了近25%。\nW: 下一位，请。\nM: 好的，我想订两张明天早上去伦敦的火车票。\nW: 好的。您想什么时候出发？\nM: 嗯，我想在高峰期之后吧。如果可能的话，我们想避开人群。所以，大概10点左右吧。\nW: 没问题。稍等一下。这里有一班9点47分的，然后10点12分有一班，还有第三班10点26分的。\nM: 10点12分那班听起来不错。\nW: 好的。您想坐头等舱还是二等舱？\nM: 二等舱就可以。谢谢。有没有可能给我们其中一个安排靠窗的座位？\nW: 没问题。我已经给您订了相邻的座位。总价是36英镑50便士。还有其他需要吗？\nM: 有的，实际上我们会带着自行车一起去。这方面怎么安排？需要额外收费吗？\nW: 不需要额外费用。价格是一样的。您只需要在站台最远端等候。火车到达时，告诉列车员您要去哪里，他会帮您把自行车固定在最后一节车厢并给您一张票。然后您就可以穿过列车走到您的车厢就座。到达伦敦后，把票交给列车员，他会把自行车还给您。\nM: 谢谢您提供的信息。非常有帮助。\nM: 早上好。我们今天的嘉宾是 Karen Brook。Karen 是位于 Underhill 路的 Cube 电影院的总经理。谢谢你来，Karen。\nW: 谢谢你们邀请我。\nM: 那么，跟我们说说你的电影院——Cube 电影院吧。\nW: 好的。Cube 电影院到现在已经有11年了。它位于以前的一家帽子工厂里。\nM: 哦，真的吗?\nW: 是的。英国在20世纪50年代之前有很多帽子工厂，但后来时尚改变了，大多数人不再戴帽子了。所以几乎所有这些工厂都不得不关闭。这家工厂关闭了47年，之后我们才把它改造成了电影院。\nM: 我明白了。我听说还有其他东西让你们的电影院很特别。是什么让你们与其他电影院不同呢?\nW: 我们是全国唯一一家只放映外国电影的电影院。\nM: 有足够的需求吗?我原以为在伦敦，大多数人不会说外语。\nW: 当然，有足够的需求。我们这些年一直开业营业的事实就证明了这一点。伦敦是一个非常大而且国际化的城市。有很多人对观看这类电影感兴趣。而且，我还要补充一点，所有电影在屏幕底部都配有英文字幕。所以即使你听不懂演员在说什么，你仍然可以阅读字幕。\nM: 当然。你们现在正在放映什么电影?\nW: 这周我们正在放映一部来自巴基斯坦的音乐片。非常受欢迎。\n无论喜欢还是讨厌，智能手机已经成为我们日常生活中不可或缺的一部分。但它们应该被拒之于课堂之外吗？\n英格兰学校标准大臣Nick Gibb认为，学校应该禁止学生携带智能手机。\n中学数学教师Astrid Natley在课堂上使用手机。她说：\"我的学校没有钱买平板电脑。当学生用手机做研究时，他们会意识到自己手中握有一个强大的工具。如果我们禁止孩子使用手机，我们就是在拒绝他们关心的东西。\"\n与此同时，在社区教育部门工作的注册护士Helen Lockhart支持全面禁止。\"我在工作时被禁止使用手机,而且必须上交手机。如果我被发现口袋里有手机,我将受到纪律处分,这会影响我的职业生涯。我们需要教会孩子们如何表现得像他们努力成为的专业人士。\"\n英语教师Richard Stone认为学校和家庭之间应该有明确的界限。\"学生在这两种环境中应该做不同的事情。孩子们在生活中已经有足够多的屏幕时间,没有必要把手机带进课堂。互联网作为研究工具过于便捷且不够可靠,所以让我们把手机和笔记本电脑留在家里,在课堂上向他们展示一个不同的世界——一个书本和笔的世界。\"他说。\n六岁女孩Kate帮哥哥擦窗户，以获得母亲承诺的奖励——她想要的一个紫色玩偶。她看着母亲在网上订购这个玩偶。第二天Kate问能否查看物流状态，于是她妈妈点开网页后走出了房间。Kate看到她的玩偶将在第二天下午送达，但随后她注意到了别的东西——关于她可以订购的其他玩偶和玩具的推荐。15分钟和几次点击之后，购物车里装着价值超过350美元的玩偶，Kate下了单并跑去玩了。\n第二天，在查看另一个网上订单时，她母亲注意到了一长串在途的玩偶。她能够取消其中两个，但已经来不及取消其余的了。她告诉女儿这些玩偶将被退回。当包裹到达时，Kate想打开它们，但她父母说不行。她父亲建议把玩偶送给当地儿童医院，而不是退回去。于是下周，Kate一家装满了他们的车，把所有玩偶送到了儿童医院的游戏室。Kate起初很沮丧，但随后她和几个住院的女孩坐在一起，她们一起打开了所有盒子，笑着玩着。她玩得很开心，并学到了非常好的一课。\n出生日期能否影响你的人生成功程度？根据澳大利亚最近进行的研究，答案是肯定的。研究人员发现，一个人开始上学的时间对其一生有持久的影响。那些与同学相比年龄相对较大的人比他们具有某些优势。先前的研究发现年龄较大的学生取得更好的成绩。他们也更有可能上大学，成为职业运动员、首席执行官甚至重要的政治家。但澳大利亚研究人员想要发现是什么驱动了这些差异。他们怀疑年龄较大、更成熟的学生因为取得更好的成绩而获得比同龄人更多的自信。\n为了验证这一点，他们进行了两项研究。一项针对高中生，另一项针对一千多名年龄在24至60岁之间的澳大利亚成年人。在第一项研究中，600多名高中生接受了关于他们冒险倾向和自信心的调查。在第二项研究中,那些出生在入学截止日期两侧的人被要求完成在线数学题并评估自己的表现。他们还被问及骑自行车和管理财务时所冒的风险。研究人员发现年龄较大的学生表现出更大的冒险倾向。虽然冒险可以被视为一种负面特质，但它也是成功人士的特征，包括运动员、政治领袖和企业家。"
+  }
+}

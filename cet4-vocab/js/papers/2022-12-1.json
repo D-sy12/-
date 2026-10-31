@@ -1,0 +1,670 @@
+{
+  "id": "2022-12-1",
+  "writing": "Directions: In this task, you are to write an essay on the role of physical exercise in achieving success at college. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What happened at one of Australia's largest gold mines?",
+      "options": {
+        "A": "Part of its dam wall collapsed.",
+        "B": "It released a lot of harmful gases.",
+        "C": "It was destroyed by an earthquake.",
+        "D": "Some miners were trapped underground."
+      },
+      "stem_cn": "澳大利亚最大的金矿之一发生了什么？",
+      "options_cn": {
+        "A": "其大坝墙体部分坍塌。",
+        "B": "它释放了大量有害气体。",
+        "C": "它被地震摧毁。",
+        "D": "一些矿工被困在地下。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What did the spokesperson say about the incident?",
+      "options": {
+        "A": "It posed a safety threat to the miners.",
+        "B": "It caused damage too heavy to assess.",
+        "C": "It brought the mine's operations to a halt.",
+        "D": "It was followed by two more earthquakes."
+      },
+      "stem_cn": "发言人对这一事件说了什么？",
+      "options_cn": {
+        "A": "它对矿工的安全构成了威胁。",
+        "B": "它造成的损失过于严重而无法评估。",
+        "C": "它使该矿的运营陷入停顿。",
+        "D": "它之后又发生了两次地震。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What did the hospital do for the delivery of the babies?",
+      "options": {
+        "A": "It prepared beds for all the six new citizens.",
+        "B": "It assigned a team of doctors for each expected baby.",
+        "C": "It made ample preparations for various possibilities.",
+        "D": "It brought in the most advanced instruments."
+      },
+      "stem_cn": "医院为婴儿的分娩做了什么?",
+      "options_cn": {
+        "A": "它为所有六位新公民准备了床位。",
+        "B": "它为每个预产婴儿指派了一个医生团队。",
+        "C": "它为各种可能性做了充分准备。",
+        "D": "它引进了最先进的仪器。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What did the doctor say about the newborns?",
+      "options": {
+        "A": "They had to undergo 2-3 physical checkups.",
+        "B": "They were all of normal size except the sixth.",
+        "C": "They could go home together with their mother a day later.",
+        "D": "They needed to stay in the hospital for a couple of months."
+      },
+      "stem_cn": "医生对新生儿说了什么?",
+      "options_cn": {
+        "A": "他们必须接受2到3次体检。",
+        "B": "除了第六个婴儿外,他们的体型都正常。",
+        "C": "他们可以在一天后与母亲一起回家。",
+        "D": "他们需要在医院住几个月。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What do we learn from the news report about the Spanish island Palmador?",
+      "options": {
+        "A": "It is owned by the local government.",
+        "B": "It has been turned into a public park.",
+        "C": "It has been bought by an American.",
+        "D": "It is a perfect tourist destination."
+      },
+      "stem_cn": "从新闻报道中我们了解到关于西班牙岛屿Palmador的什么信息?",
+      "options_cn": {
+        "A": "它归当地政府所有。",
+        "B": "它已被改建成公共公园。",
+        "C": "它已被一位美国人购买。",
+        "D": "它是一个完美的旅游目的地。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What do holidaymakers come to Palmador to enjoy?",
+      "options": {
+        "A": "Its seafood.",
+        "B": "Its unusual coastline.",
+        "C": "Its unspoiled beaches.",
+        "D": "Its architecture."
+      },
+      "stem_cn": "度假者来Palmador享受什么?",
+      "options_cn": {
+        "A": "它的海鲜。",
+        "B": "它不同寻常的海岸线。",
+        "C": "它未受破坏的海滩。",
+        "D": "它的建筑。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What do estate agents say about Palmador?",
+      "options": {
+        "A": "It has an unmatched location.",
+        "B": "It is worth over 18 million euros.",
+        "C": "It has beautiful weather all year round.",
+        "D": "It is an ideal place to meet famous stars."
+      },
+      "stem_cn": "房地产经纪人对Palmador有何评价?",
+      "options_cn": {
+        "A": "它拥有无与伦比的地理位置。",
+        "B": "它价值超过1800万欧元。",
+        "C": "它全年气候宜人。",
+        "D": "它是邂逅著名明星的理想场所。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What do we learn about the woman from the conversation?",
+      "options": {
+        "A": "She has been attending some group classes.",
+        "B": "She has registered for two new gym classes.",
+        "C": "She became a member of the gym two months ago.",
+        "D": "She is entitled to a discount on all the gym exercises."
+      },
+      "stem_cn": "从对话中我们了解到关于这位女士的什么信息?",
+      "options_cn": {
+        "A": "她一直在参加一些团体课程。",
+        "B": "她报名参加了两门新的健身房课程。",
+        "C": "她两个月前成为了健身房的会员。",
+        "D": "她有资格享受健身房所有运动项目的折扣。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What is the gym center doing right now?",
+      "options": {
+        "A": "Considering the promotion of its regular classes.",
+        "B": "Taking measures to expand its exercise programs.",
+        "C": "Recruiting coaches for hot yoga and advanced spinning.",
+        "D": "Offering existing members a discount off two new classes."
+      },
+      "stem_cn": "健身中心现在正在做什么?",
+      "options_cn": {
+        "A": "考虑推广其常规课程。",
+        "B": "采取措施扩展其运动项目。",
+        "C": "招聘高温瑜伽和高级动感单车的教练。",
+        "D": "为现有会员提供两门新课程的折扣。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What does the man say is a pity for the woman?",
+      "options": {
+        "A": "She missed the deadline for the 10-week course.",
+        "B": "She missed out on the gym's general discount.",
+        "C": "She didn't sign up for membership in time.",
+        "D": "She wasn't so much interested in hot yoga."
+      },
+      "stem_cn": "男士说对这位女士来说什么是遗憾的?",
+      "options_cn": {
+        "A": "她错过了10周课程的报名截止日期。",
+        "B": "她错过了健身房的普遍折扣。",
+        "C": "她没有及时注册会员资格。",
+        "D": "她对高温瑜伽不太感兴趣。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "Why is the woman unwilling to pay in advance?",
+      "options": {
+        "A": "She doesn't want to reveal her card details over the phone.",
+        "B": "She doesn't think it wise to pay before attending any class.",
+        "C": "She might have to cancel her registration any minute.",
+        "D": "She prefers to have the fee added to her monthly bill."
+      },
+      "stem_cn": "为什么这位女士不愿意提前付款?",
+      "options_cn": {
+        "A": "她不想通过电话透露她的银行卡信息。",
+        "B": "她认为在参加任何课程之前付款是不明智的。",
+        "C": "她可能随时不得不取消她的注册。",
+        "D": "她更愿意将费用加到她的月账单上。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "Why are the speakers in China?",
+      "options": {
+        "A": "To make investments.",
+        "B": "To sign a business contract.",
+        "C": "To research new markets.",
+        "D": "To open a new office."
+      },
+      "stem_cn": "说话者为什么在中国?",
+      "options_cn": {
+        "A": "进行投资。",
+        "B": "签署商业合同。",
+        "C": "研究新市场。",
+        "D": "开设新办公室。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "Where will the man stop over on his way to London?",
+      "options": {
+        "A": "Dubai.",
+        "B": "Beijing.",
+        "C": "Amsterdam.",
+        "D": "Earl's Court."
+      },
+      "stem_cn": "男士在去伦敦的途中将在哪里中转?",
+      "options_cn": {
+        "A": "Dubai。",
+        "B": "北京。",
+        "C": "Amsterdam。",
+        "D": "Earl's Court。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the man ask the woman to do?",
+      "options": {
+        "A": "Rent a bike for him to get around the town.",
+        "B": "Reserve a meeting room in the head office.",
+        "C": "Help him prepare his presentation.",
+        "D": "Send him a map of the hotel area."
+      },
+      "stem_cn": "男士请女士做什么?",
+      "options_cn": {
+        "A": "为他租一辆自行车以便在镇上出行。",
+        "B": "在总部预订一间会议室。",
+        "C": "帮他准备演示文稿。",
+        "D": "给他发送一份酒店区域地图。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What did the woman remind the man to do at the end of the conversation?",
+      "options": {
+        "A": "Bring his projector.",
+        "B": "Keep all his receipts.",
+        "C": "Submit his claims form.",
+        "D": "Pay with his credit card."
+      },
+      "stem_cn": "对话结束时女士提醒男士做什么?",
+      "options_cn": {
+        "A": "带上他的投影仪。",
+        "B": "保留他所有的收据。",
+        "C": "提交他的报销单。",
+        "D": "用他的信用卡支付。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What did the researchers of the new study try to determine?",
+      "options": {
+        "A": "Whether a country's educational level is linked to women's rights.",
+        "B": "Whether women's rights are making good progress around the world.",
+        "C": "Whether a country's protection of women's rights is related to its public health.",
+        "D": "Whether women's rights are more often overlooked in less-developed countries."
+      },
+      "stem_cn": "这项新研究的研究人员试图确定什么?",
+      "options_cn": {
+        "A": "一个国家的教育水平是否与妇女权利相关联。",
+        "B": "妇女权利在世界范围内是否正在取得良好进展。",
+        "C": "一个国家对妇女权利的保护是否与其公共卫生相关。",
+        "D": "妇女权利在欠发达国家是否更常被忽视。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does the passage say about countries lacking in medical resources?",
+      "options": {
+        "A": "Their people still have better health if women's rights are respected.",
+        "B": "They must make efforts to increase women's access to health care.",
+        "C": "Their people tend to attach importance to women's rights.",
+        "D": "They need to invest more in hospital staff and facilities."
+      },
+      "stem_cn": "关于缺乏医疗资源的国家,文章说了什么?",
+      "options_cn": {
+        "A": "如果妇女权利得到尊重,这些国家的人民仍然拥有更好的健康状况。",
+        "B": "它们必须努力增加妇女获得医疗保健的机会。",
+        "C": "这些国家的人民倾向于重视妇女权利。",
+        "D": "它们需要在医院人员和设施方面投入更多资金。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What has often been questioned regarding women's rights?",
+      "options": {
+        "A": "Their link with a country's public health.",
+        "B": "Their potential impact on social progress.",
+        "C": "Their value to a country's international image.",
+        "D": "Their positive effect on economic development."
+      },
+      "stem_cn": "关于妇女权利,什么经常受到质疑?",
+      "options_cn": {
+        "A": "妇女权利与一个国家公共卫生的关联。",
+        "B": "妇女权利对社会进步的潜在影响。",
+        "C": "妇女权利对一个国家国际形象的价值。",
+        "D": "妇女权利对经济发展的积极作用。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What does the passage say about hot sunshine?",
+      "options": {
+        "A": "It creates a wonderful setting for dating.",
+        "B": "It may cause strange physical reactions.",
+        "C": "It turns parks into picnic sites.",
+        "D": "It may result in a crowded beach."
+      },
+      "stem_cn": "文章关于炎热的阳光说了什么？",
+      "options_cn": {
+        "A": "它为约会创造了美妙的环境。",
+        "B": "它可能引起奇怪的身体反应。",
+        "C": "它把公园变成了野餐场所。",
+        "D": "它可能导致海滩拥挤。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What does the passage say is a negative side effect of water loss?",
+      "options": {
+        "A": "Breathing difficulty.",
+        "B": "Bad breath.",
+        "C": "Excessive sweating.",
+        "D": "High blood pressure."
+      },
+      "stem_cn": "文章说水分流失的负面副作用是什么？",
+      "options_cn": {
+        "A": "呼吸困难。",
+        "B": "口臭。",
+        "C": "过度出汗。",
+        "D": "高血压。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What is said to be a positive effect of sunshine?",
+      "options": {
+        "A": "It protects people against bacteria.",
+        "B": "It enables people to build up endurance.",
+        "C": "It accelerates people's blood circulation.",
+        "D": "It provides people with extra energy."
+      },
+      "stem_cn": "阳光的积极作用是什么？",
+      "options_cn": {
+        "A": "它保护人们免受细菌侵害。",
+        "B": "它使人们能够增强耐力。",
+        "C": "它加速人们的血液循环。",
+        "D": "它为人们提供额外的能量。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What does the passage say about left-handed people?",
+      "options": {
+        "A": "They are more likely to win in combat sports.",
+        "B": "They are in the minority among the population.",
+        "C": "They have a higher chance of joining sports teams.",
+        "D": "They have more disadvantages in getting ahead."
+      },
+      "stem_cn": "文章关于左撇子说了什么?",
+      "options_cn": {
+        "A": "他们更有可能在格斗运动中获胜。",
+        "B": "他们在人口中占少数。",
+        "C": "他们有更高的机会加入运动队。",
+        "D": "他们在取得成功方面有更多劣势。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What is said to be special about left-handed people?",
+      "options": {
+        "A": "Their brain is more powerful than that of right-handed people.",
+        "B": "The left side of their brain is more powerful than its right side.",
+        "C": "They tend to be a lot more aggressive than right-handed people.",
+        "D": "Their brain has a stronger connection between its two sides."
+      },
+      "stem_cn": "据说左撇子有什么特别之处?",
+      "options_cn": {
+        "A": "他们的大脑比右撇子的大脑更强大。",
+        "B": "他们大脑的左侧比右侧更强大。",
+        "C": "他们往往比右撇子更具攻击性。",
+        "D": "他们大脑两侧之间的连接更强。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "Why are left-handed people better at solving more difficult problems?",
+      "options": {
+        "A": "They have a larger brain.",
+        "B": "It still remains unknown.",
+        "C": "It is related to their genes.",
+        "D": "They are better at reasoning."
+      },
+      "stem_cn": "为什么左撇子更擅长解决更困难的问题?",
+      "options_cn": {
+        "A": "他们有更大的大脑。",
+        "B": "这仍然未知。",
+        "C": "这与他们的基因有关。",
+        "D": "他们更擅长推理。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What should parents do about a left-handed child?",
+      "options": {
+        "A": "Teach them how to perform tasks with their right hand.",
+        "B": "Help them fully develop their mathematical abilities.",
+        "C": "Encourage them to play fast-paced interactive sports.",
+        "D": "Advise them to choose jobs that require quick reactions."
+      },
+      "stem_cn": "父母应该如何对待左撇子孩子?",
+      "options_cn": {
+        "A": "教他们如何用右手完成任务。",
+        "B": "帮助他们充分发展数学能力。",
+        "C": "鼓励他们参加快节奏的互动运动。",
+        "D": "建议他们选择需要快速反应的工作。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "acknowledge",
+    "B": "certificates",
+    "C": "connected",
+    "D": "demonstrates",
+    "E": "differences",
+    "F": "establish",
+    "G": "formats",
+    "H": "measured",
+    "I": "narrow",
+    "J": "permanent",
+    "K": "produces",
+    "L": "ranging",
+    "M": "relative",
+    "N": "submitting",
+    "O": "targeting"
+  },
+  "cloze_passage": "Researchers, writing in the journal Heart, pooled data from 23 studies and found that social isolation or feelings of loneliness were tied to an increased risk of coronary heart disease(冠心病) and strokes.\nThe studies included data from 181,006 men and women ages 18 and over. There were 4,628 coronary events and 3,002 strokes in follow-up periods 26 from three to 21 years. Three of the papers 27 loneliness, 18 looked at social isolation and two included both. Social isolation and loneliness were determined with questionnaires; the researchers depended on medical records and death 28 for determining coronary events and strokes.\nThe scientists found that loneliness and social isolation increased the 29 risk of having a heart attack or a death from heart disease by 29 percent, and the risk of stroke by 32 percent. There were no 30 between men and women.\n\"People have tended to focus from a policy point of view on 31 lonely people to make them more 32 ,\" said the lead author, Nicole K. Valtorta, a research fellow at the University of York in England. \"Our study 33 that if this is a risk factor, then we should be trying to prevent the risk factor in the first place.\"\nThe authors 34 that this was a review of observational studies and did not 35 cause and effect.",
+  "long_reading_passage": "A) This fall, thousands of college students from across the country will begin their undergraduate studies at colleges around the nation. They will inevitably pack too much to fit in their tiny dorm rooms. They will also carry with them a huge student loan debt, in addition to countless \"hidden\" out-of-pocket costs paid for by their bank accounts and the bank accounts of their families.\nB) At my well-respected, private, four-year university in Washington, D.C., which boasts a yearly tuition of $44,046 not including room and board, I receive over $57,000 yearly in financial aid. As a student from a family that is struggling to make ends meet, my financial aid package is a combination of federal grants and federal work study, university merit scholarships and financial aid awards, and about $8,000 yearly in federally subsidized(有补贴的) and unsubsidized loans. On paper, my expenses and my financial aid just about even out. Off paper, they don't.\nC) Universities today are in the business of making money, and mine is no exception. They hit me right out of the gate with a $160 fee to attend my freshman orientation, a price which does not include the cost of travel to and from the District. Almost every class has an associated fee not included in the cost of tuition, most between $40 and $100. Fees for lab science classes are the highest, and all students at my university are required to take at least one lab before they graduate. Buying a laptop proved a necessity and, thankfully, a relative bought me one as a gift. Renting a mini-fridge for my dorm room costs my roommates and me about $140 a year.\nD) Schools will charge you whatever they can. The costs of any damage to the dorm, including elevators, bathrooms, and common areas, are billed to every person on a dorm floor, or even the entire building if they do not know who caused the damage. After I fell out of my bed twice during my freshman year, the university installed a railing—for $20, billed to my student account. My financial aid did not anticipate any of these costs, and so it did not cover them.\nE) An Internet search of \"hidden costs\" of college turns up a host of articles on parent-centered websites on the college application process. These articles are almost always geared towards upper- and middle-class families. For students already struggling to pay tuition, these costs may be the least of their worries.\nF) So what hidden costs should low-income students really be paying attention to? My college experience offers a few examples.\nG) If you are a low-income student who will be attending school out-of-state, make sure you know if you can use your state benefits, such as the Supplemental Nutrition Assistance Program, or SNAP. It wasn't until after I had accepted admission to an out-of-state school that I learned that I could not use my Ohio Medicaid on campus for anything other than emergency care. My benefits became invalid the second I moved out of Ohio. After my freshman year, I had to opt for the school's insurance plan, which costs around $2,000 a year. Even if your school offers a flat-rate fee for a doctor's appointment at the student health center (mine is $20 a visit), these fees often do not include extra fees for lab tests or prescription medications(药物).\nH) If you plan on paying off bills in your student account with a credit card, be aware of any additional costs. My school charges an additional fee for the use of a credit card to settle outstanding charges, which can add upwards of 3% of the balance to your bill.\nI) There is another depressing reality hidden within even the largest financial aid packages: Colleges often offer the most generous packages during freshman year as a way to attract new students. My family was careful to ask about the chances of financial aid being taken away after my freshman year. We were assured that, except for low grades or a raise in family income, no money would be taken away. We did not know to ask—and the school did not readily point out—that even if tuition rises, my financial aid package will stay the same. So when my university voted to raise tuition costs 3% at the end of my freshman year, my financial aid package remained the same and I was suddenly responsible for an additional $1,200 for the next year. The university administration will likely vote to raise costs at least once more before my graduation.\nJ) Yes, I chose to attend an expensive university far from my hometown. Yes, there were cheaper options. But there are promising students from struggling families across the nation who should not rule out their dream schools entirely. All things considered, I am paying significantly less than the ticket price of my university, and having an educational experience in Washington, D.C., that I would not have had anywhere else. As a low-income student from a down-and-out Rust Belt community, these educational experiences have enormous potential to brighten my future—and my family's future.\nK) The key is to make sure that students and their families understand that hidden costs exist, and that they may prove problematic. Fill out a more comprehensive checklist, and be wary of listed prices that seem too low. Understand just how complicated the financial aid process is.\nL) Students and families must also understand their ability to self-advocate. They should not pay student bills or excess fees blindly. If something does not look right, ask about it. If it still doesn't look right, negotiate it. In cases where parents are working multiple jobs, are less knowledgeable about college bureaucracies, have limited English language skills, or are not contributing financially to their child's education, the burden of self-advocacy will fall on the student. I understand the difficulty, and the embarrassment. But it is necessary.\nM) In the grand scheme of things, however, colleges also must come to understand that the hidden fees they ask for may prove unmanageable for the very kinds of low-income or first-generation students they are trying desperately to attract.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "To write his 2010 book, The 5-Factor World Diet, nutritionist Harley Pasternak traveled to the healthiest countries around the world to learn more about what made their meals extra nourishing.\nHe noted that Japanese people ate a wonderful variety of seaweeds, and that Chinese people tried to include at least five different colors in every meal. Pasternak also came away with some valuable observations about how different the North American way of life was, compared with many other countries.\nFor starters, Americans eat much bigger portions than people in other countries. \"We don't prioritize eating seasonally or locally, and we also add lots of salt, sugar and thickening agents to our foods,\" explained Pasternak. Contrast that to the healthy Mediterranean, Nordic and Okinawan diets listed in Pasternak's book. They all seem to stick to the ethos(特质) of regional, seasonal produce.\nFor example, a traditional Mediterranean diet includes fruits, vegetables, whole grains, nuts and olive oil as the main components of nutritional intake. Fish, chicken and red wine make moderate appearances, while red meat, salt and sugar are used much less often. The benefits of a traditional Mediterranean diet have been studied since the 1970s, and researchers have found that living that olive oil life can help people lose weight, lower their heart disease risk and reverse diabetes.\nMost other healthy eating cultures also make meals an event—say, multiple courses around the family table, or a glass or two of red wine at a long lunch—as opposed to hastily wolfing down handfuls of cereal above the kitchen sink and calling it dinner.\nEach of the healthy eating cultures has its own unique feature. But Pasternak did take note of one unifying factor in all of the healthy societies he observed. \"The only overlapping feature in most of these healthy countries is that they all walk way more than the average American,\" said Pasternak, \"So really, regardless of what you're eating, if someone's walking four miles more than you each day, they're going to be a lot thinner and live a lot longer than you.\"",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "Variety.",
+        "B": "Flavor.",
+        "C": "Color.",
+        "D": "Naturalness."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "They emphasize nutrition.",
+        "B": "They tend to eat quite a lot.",
+        "C": "They prioritize convenience.",
+        "D": "They care about flavors."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Fruits and vegetables.",
+        "B": "Olive oil and red wine.",
+        "C": "Seasonal local produce.",
+        "D": "Unprocessed ingredients."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "They get the whole family to eat at a table.",
+        "B": "They eat their meals regularly and punctually.",
+        "C": "They consume plenty of cereal for breakfast.",
+        "D": "They attach great importance to their meals."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "walk at least 4 miles a day",
+        "B": "do considerably more walking",
+        "C": "pay more attention to body shape",
+        "D": "consume a lot more organic food"
+      }
+    }
+  ],
+  "reading_passage_2": "Recognizing when a friend or colleague feels sad, angry or surprised is key to getting along with others. But a new study suggests that being sensitive to people's feelings may sometimes come with an extra dose of stress. This and other research challenge the prevailing view that emotional intelligence is uniformly beneficial to its bearer.\nIn a study, psychologist Myriam Bechtoldt of the Frankfurt School of Finance and Management in Germany asked 166 male university students a series of questions to measure their emotional intelligence. For example, they showed the students photographs of people's faces and asked them to what extent feelings such as happiness or disgust were being expressed. The students then had to give job talks in front of judges who displayed serious facial expressions. The scientists measured concentrations of stress hormones in the students' saliva(唾液) before and after the talk.\nIn students who were rated more emotionally intelligent, the stress measures increased more during the experiment and took longer to go back to baseline. The findings suggest that some people may be too emotionally clever for their own good, says Bechtoldt. \"Sometimes you can be so good at something that it causes trouble,\" she notes.\nIndeed, the study adds to previous research hinting at a dark side of emotional intelligence. A study published in 2002 in Personality and Individual Differences suggested that emotionally perceptive people might be particularly influenced by feelings of depression and hopelessness. Furthermore, several studies have implied that emotional intelligence can be used to manipulate others for personal gains.\nMore research is needed to see how exactly the relation between emotional intelligence and stress would play out in women and in people of different ages and education levels. Nevertheless, emotional intelligence is a useful skill to have, as long as you learn to also properly cope with emotions—both others' and your own, says Bechtoldt. For example, some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out. Remember, as Bechtoldt says, \"you are not responsible for how other people feel.\"",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "Emotional intelligence helps people get along with others.",
+        "B": "Emotional intelligence is generally beneficial to its bearer.",
+        "C": "People who are aware of others' feelings may experience more stress.",
+        "D": "People who are emotionally stressed may have trouble making friends."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "To define different types of human feelings.",
+        "B": "To assess the impacts of being emotionally clever.",
+        "C": "To demonstrate how to distinguish different feelings.",
+        "D": "To identify gender differences in emotional intelligence."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "Greater emotional cleverness means less trouble in one's life.",
+        "B": "Emotional intelligence helps people succeed in job interviews.",
+        "C": "People's psychological wellbeing is related to various factors.",
+        "D": "People may suffer from having a high emotional intelligence"
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "People suffering from depression are emotionally immature.",
+        "B": "People who look at the dark side of life often feel depressed.",
+        "C": "Some people may take advantage of it and benefit themselves.",
+        "D": "Some people may lack it and are easily manipulated by others."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Avoid burdening themselves with others' feelings.",
+        "B": "Rid themselves of worries over worldly affairs.",
+        "C": "Learn to cope with people's negative feelings.",
+        "D": "Help people to deal with their troubles in life."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2022年12月·第1套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 在中国农历中，立秋 (Start of Autumn)意味着夏天的结束和秋天的开始。立秋带来的首先是天气的变化，气温逐渐下降。人们看到树叶开始变黄飘落时，知道秋天已经来临，这就是所谓的\"一叶知秋\"。但此时酷热的天气并未完全结束，高温通常还会持续一段时间，被称为\"秋老虎\"。立秋对农民意义重大，这时各种秋季作物迅速生长、开始成熟，收获的季节即将到来。",
+  "answers": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "D",
+    "5": "D",
+    "6": "C",
+    "7": "A",
+    "8": "C",
+    "9": "D",
+    "10": "B",
+    "11": "A",
+    "12": "C",
+    "13": "A",
+    "14": "D",
+    "15": "B",
+    "16": "C",
+    "17": "A",
+    "18": "D",
+    "19": "B",
+    "20": "B",
+    "21": "D",
+    "22": "A",
+    "23": "D",
+    "24": "B",
+    "25": "C",
+    "26": "L",
+    "27": "H",
+    "28": "B",
+    "29": "M",
+    "30": "E",
+    "31": "O",
+    "32": "C",
+    "33": "D",
+    "34": "A",
+    "35": "F",
+    "36": "I",
+    "37": "G",
+    "38": "B",
+    "39": "D",
+    "40": "L",
+    "41": "A",
+    "42": "J",
+    "43": "I",
+    "44": "C",
+    "45": "H",
+    "46": "A",
+    "47": "B",
+    "48": "C",
+    "49": "D",
+    "50": "B",
+    "51": "C",
+    "52": "B",
+    "53": "D",
+    "54": "C",
+    "55": "A"
+  },
+  "listening_script": {
+    "en": "Operations at one of Australia's largest gold mines had to be temporarily suspended on Friday after a partial wall collapse at one of the mine's dams.\nThe wall collapse at the Cadia mine came just a few days after two earthquakes hit the area.\nThe damage to the dam wall was noticed in the late afternoon on Friday when workers found a section of the northern dam wall had collapsed into the southern dam.\nThe dams contain waste products of mining and can contain materials which are harmful to the environment and human health.\nThe dams are generally constructed using earth-fill and are gradually raised over time.\nThe company was unable to confirm whether the recent earthquakes had contributed to the dam's wall collapse, but said it was conducting a thorough investigation.\nA company spokesperson said the operations at the site had been halted while the investigation is ongoing and that the break had posed no safety threat to workers.\nTwo boys and four girls were born on Monday to the surprise of a young couple and doctors who had expected five babies.\nThis was the first record of six babies being born at the same time in that region. The doctors prepared from early in the morning to help deliver five tiny citizens. They were in the operating room with five teams of doctors, one for each baby.\nThe first five babies were delivered successfully, and all baby beds were occupied. And then all of a sudden, it turned out there was another waiting to come out.\nThe doctor said the babies were in healthy condition, but could not go home immediately. They needed to stay in the hospital for two to three months for medical supervision.\nThe mother who is in stable condition could return home a day later if all physical tests came back normal. The babies' mother commented that they had already prepared room for five babies at home, so they will have to rearrange things for their happy surprise. The new parents have yet to name the sixth baby but are considering either Lily or Rose.\nA Spanish island called Palmador has been bought by a family from Europe for 18 million euros. The island is often described as heaven on earth by holidaymakers.\nFor decades tourists have been flocking to Palmador, which is located off the southeast coast of Spain. They come to enjoy its unspoiled beaches and crystal clear waters. Its natural beauty is protected as it lies inside a natural park.\nAlthough Palmador is one of the most famous private islands in the world, its seafront is public land and is a favorite destination for famous people. When the island was put up for sale, it was offered to the local government but proved too expensive for the local authorities. It is unclear whether the new owners have the power to ban tourists from the island. But with their newfound luxury comes the responsibility for its protection and maintenance. The island is less than two miles long and half a mile wide. It is said to have a remarkable location that few other private islands of this size can match, according to estate agents. Palmador is the perfect place to retreat to, somewhere to get away from the city noise and relax in beautiful surroundings with zero stress.\nM: Hi, Christie's Gym Center. How can I help you?\nW: Hi, I'm calling to ask about the newly scheduled gym classes. I'm just wondering if I can get a discount on them.\nM: Are you already a member?\nW: Yes, I signed up two months ago, but I haven't been to any of the group classes yet.\nM: Can I take your name please?\nW: Yes. My name is Carol Friedman.\nM: Carol Friedman. That's right. And you signed up two months ago. Currently we are offering existing members discounts off two of our brand new classes, hot yoga, and advanced spinning, but the discount doesn't apply to any of our regular classes I'm afraid.\nW: I'm only interested in the new classes. So how much of a discount is there on these two new classes?\nM: The same discount of 20% is being offered to everyone at the door on a \"first come, first served\" basis for the first month. It's a shame you missed out on the general discount.\nW: I see.\nM: But you can get 25% off if you sign up in advance. Which of the two classes are you thinking about?\nW: Well, I guess I am only really interested in hot yoga. Can you sign me up for the 10-week course on Thursday evenings?\nM: Sure. Would you prefer to pay in advance?\nW: No, I don't like giving my card details over the phone anyway.\nM: Okay, then. As you are already a member, the fee of the class will just be added to your monthly bill.\nW: That's perfect. Thanks for your help.\nM: See you Thursday.\nM: Well, I think that was quite a successful trip in the end. Don't you think, Jenny?\nW: Absolutely. There are lots of great potential markets here in China. So I'm sure that the head office in London will be pleased once we get back and present our research.\nM: Okay. We've got a bit of spare time now. Can we discuss the return trip to the head office?\nW: Sure. I've checked the availability of flights from Beijing to London on the 22nd and you have a choice. There's a flight arriving the following morning, with a two-hour stopover in Dubai, or a flight arriving at 11:30 in the evening, with a five-hour stopover in Amsterdam.\nM: Right. Well, that's obvious then, isn't it?\nW: okay, so that's Dubai. I've booked a room in a hotel about a mile from the office. The nearest metro station is Earl's Court.\nM: Great. Can you find a map that shows where the hotel is and send it to me online? I've never been to the head office, you know. I want to see if I can get one of those rental bicycles and ride to the office just for fun. For the presentation, I'll bring my own laptop and hook it up to their projector. Do you remember the capacity of their meeting room?\nW: No, but I'll check.\nM: Just one more thing. I'll pay everything with my own card, right? And I'll submit my claims form afterwards.\nW: No problem. Just remember to keep all your receipts. You remember the trouble you had last time.\nM: Oh, don't remind me.\nA new study has demonstrated the importance of women's rights. The researchers behind the study state that many parts of the world have made good economic progress, but women's rights are often overlooked. Thus, they wanted to determine if there was a link between protection of women's rights and public health.\nThe researchers analyzed databases which held information from 162 countries for the period 2004 to 2010.\nCountries were classified according to the respect they gave to women's economic and social rights. There were three categories. They were high, moderate, and poor.\nAnalysis of the data showed that countries with strong women's rights had better health than those where women's rights were not as respected.\nThe health indicators studied included disease prevention, reproductive health, death rates, and life expectancy.\nFurthermore, in countries where women's rights were most respected, but where access to hospitals and doctors was below average, health outcomes were still better than in countries rated as moderate or poor. This confirms that even with a lack of resources, if a country has strong women's rights, the health outcomes are better.\nThus, the researchers argued that gender equality is not just a women's rights issue. It is also a development issue. This is because better health aids economic development. They note that the value of women's rights has often been questioned from an economic standpoint. Some have argued that ensuring those rights would limit progress, but this study indicates the opposite.\nSunshine and high temperatures can mean picnics and parks and trips to beaches, but they can make your body react in some strange ways.\nFirst, sunshine can actually affect your breath. You may think that summer is the perfect time to go on a date or chat with an attractive boy or girl. But excessive heat can cause you to lose water, which has been proven to have a pretty unattractive side effect—bad breath.\nWhen you are lacking water, your mouth becomes dry. Bacteria accumulate because there isn't enough water in your mouth to wash it away, Sunshine can stop you from sweating, too. The body's normal temperature is 36 to 37 degrees centigrade. But if it heats up to 40 to 41 degrees, you may find yourself getting heatstroke. At that point, your heat regulatory system can essentially quit, which stops you from sweating as your body tries to keep water around your vital organs.\nHowever, the sun can have a positive influence on your body by raising your energy levels. You might feel like the sun is giving you extra energy for your day, which is actually happening.\nAnd vitamin D from sunshine can help your body to absorb certain minerals, which are linked to building stronger bones. Therefore, I suggest you spend more time in the park with your friends, but make sure you apply lots of skin protection and fill up those water bottles, too.\nLeft-handed people can find it inconvenient to do certain things, writing in a notebook for example, but there are a number of advantages of being left-handed. Research found that they were overrepresented among fighters in combat sports. Left-handed fighters also had higher chances to win. This confirms the fighter theory.\nLeft-handers may also be better at remembering events. The explanation is that the two brain spheres of left-handers are more strongly connected.\nBeing left-handed might be a factor in mathematical ability. An Italian study found that for simple arithmetic there was little difference between right- and left-handed performance, but for more difficult problem-solving, left-handers won out. No one understands the reason for this.\nLeft-handed people may think differently. In one study, researchers showed the participants columns of abstract illustrations and asked them which ones they would prefer. Left-handed people were more likely to prefer the images on the left. Right-handed people preferred the ones on the right. Both groups disliked stuff on their opposite side.\nLeft-handers are also overrepresented in professional, interactive sports. Researchers have looked at the influence of being left-handed on performance and interactive sports. Those that require the fastest reaction give left-handers the biggest advantage. So if you have a left-handed child, you should encourage them to play table tennis, baseball and tennis. Being left-handed maximizes their chances of success in these sports.",
+    "cn": "周五,澳大利亚最大的金矿之一因其中一座尾矿坝发生部分坝体垮塌而不得不暂时停止运营。\nCadia矿区的坝体垮塌发生在该地区遭受两次地震袭击后仅数天。\n周五傍晚,工作人员发现北坝的一段坝体已坍塌至南坝中,从而注意到坝体受损。\n这些尾矿坝容纳采矿废弃物,可能含有对环境和人类健康有害的物质。\n这些尾矿坝通常采用土石填筑建造,并随时间逐步加高。\n该公司无法确认近期地震是否导致了坝体垮塌,但表示正在进行彻底调查。\n公司发言人表示,在调查期间该矿区的运营已被暂停,且此次坝体坍塌未对工作人员构成安全威胁。\n周一,一对年轻夫妇和原本预期会有五个婴儿的医生们惊讶地迎来了两个男孩和四个女孩的诞生。\n这是该地区首次有六个婴儿同时出生的记录。医生们从清晨就开始准备协助接生五个小公民。他们在手术室里准备了五组医生团队,每个婴儿配备一组。\n前五个婴儿成功分娩,所有婴儿床都被占用了。然后突然之间,发现还有另一个婴儿等待出生。\n医生表示婴儿们健康状况良好,但不能立即回家。他们需要在医院接受两到三个月的医学监护。\n状况稳定的母亲如果所有体检结果正常,一天后就可以回家。婴儿的母亲表示他们已经在家里为五个婴儿准备了房间,所以他们必须为这个惊喜重新安排。这对新父母尚未给第六个婴儿取名,但正在考虑Lily或Rose。\n一座名为Palmador的西班牙岛屿已被一个欧洲家族以1800万欧元购得。这座岛屿常被度假者形容为人间天堂。\n数十年来，游客纷纷涌向位于西班牙东南海岸外的Palmador岛。他们来此享受未受破坏的海滩和清澈见底的海水。由于该岛位于自然公园内,其自然美景受到保护。\n尽管Palmador是世界上最著名的私人岛屿之一,但其海滨属于公共土地,是名人最喜爱的目的地。当该岛挂牌出售时,曾提供给当地政府,但对当地政府来说价格过于昂贵。目前尚不清楚新业主是否有权禁止游客登岛。但随着新获得的奢华享受,他们也肩负着保护和维护该岛的责任。该岛长度不到两英里,宽度半英里。据房地产经纪人称,该岛拥有卓越的地理位置,少有其他同等规模的私人岛屿能与之媲美。Palmador是完美的隐居之地,可以远离城市喧嚣,在美丽的环境中放松身心,毫无压力。\nM: 你好,Christie's健身中心。有什么可以帮您的?\nW: 你好,我打电话是想问一下新安排的健身课程。我想知道能不能打折。\nM: 您已经是会员了吗?\nW: 是的,我两个月前注册的,但还没参加过任何团体课程。\nM: 能告诉我您的名字吗?\nW: 可以。我叫Carol Friedman。\nM: Carol Friedman。没错。您两个月前注册的。目前我们给现有会员提供两门全新课程的折扣,高温瑜伽和高级动感单车,但折扣恐怕不适用于我们的常规课程。\nW: 我只对新课程感兴趣。那这两门新课程有多少折扣?\nM: 第一个月所有人在门口都能享受同样的8折优惠,先到先得。很遗憾您错过了普遍折扣。\nW: 我明白了。\nM: 不过如果您提前报名可以享受75折。您考虑这两门课程中的哪一门?\nW: 嗯,我想我只对高温瑜伽真正感兴趣。能帮我报名周四晚上的10周课程吗?\nM: 当然可以。您愿意提前付款吗?\nW: 不,反正我不喜欢在电话里提供银行卡信息。\nM: 好的。因为您已经是会员了,课程费用会直接加到您的月账单上。\nW: 太好了。谢谢你的帮助。\nM: 周四见。\nM: 嗯，我觉得这次出差最后还是挺成功的。你觉得呢，Jenny？\nW: 当然了。中国这边有很多很好的潜在市场。所以我相信我们回去向伦敦总部汇报研究结果时，他们会很满意的。\nM: 好的。我们现在还有点空闲时间。能讨论一下回总部的行程吗？\nW: 当然。我查了22号从北京到伦敦的航班，你有两个选择。一个是第二天早上到达的航班，在Dubai转机两小时；另一个是晚上11点半到达的航班，在Amsterdam转机五小时。\nM: 好的。那很明显了，不是吗？\nW: 好的，那就是Dubai那班。我在离办公室大约一英里的酒店订了房间。最近的地铁站是Earl's Court。\nM: 太好了。你能找张显示酒店位置的地图发给我吗？你知道的，我从没去过总部。我想看看能不能租一辆自行车骑到办公室，就当娱乐一下。演示的话，我会带自己的笔记本电脑，接到他们的投影仪上。你记得他们会议室能容纳多少人吗？\nW: 不记得了，但我会查一下。\nM: 还有一件事。所有费用我都用自己的卡付，对吧？然后之后再提交报销单。\nW: 没问题。只要记得保留所有收据就行。你还记得上次遇到的麻烦吧。\nM: 哦，别提醒我了。\n一项新研究证明了女性权利的重要性。该研究的研究人员指出,世界许多地区取得了良好的经济进步,但女性权利往往被忽视。因此,他们想确定女性权利保护与公共健康之间是否存在联系。\n研究人员分析了包含162个国家2004年至2010年期间信息的数据库。\n各国根据其对女性经济和社会权利的尊重程度进行分类。分为三个类别:高、中等和低。\n数据分析显示,女性权利保障强的国家比那些不太尊重女性权利的国家拥有更好的健康状况。\n研究的健康指标包括疾病预防、生殖健康、死亡率和预期寿命。\n此外,在最尊重女性权利但医院和医生资源低于平均水平的国家,健康结果仍然优于被评为中等或低的国家。这证实了即使在资源匮乏的情况下,如果一个国家拥有强有力的女性权利保障,健康结果也会更好。\n因此,研究人员认为性别平等不仅仅是女性权利问题,也是发展问题。这是因为更好的健康状况有助于经济发展。他们指出,女性权利的价值常常从经济角度受到质疑。有些人认为确保这些权利会限制进步,但这项研究表明情况恰恰相反。\n阳光和高温可能意味着野餐、公园和海滩之旅,但它们也会让你的身体产生一些奇怪的反应。\n首先,阳光实际上会影响你的口气。你可能认为夏天是约会或与有魅力的男孩或女孩聊天的完美时机。但过度的高温会导致你失水,而这已被证明会产生一个相当不讨人喜欢的副作用——口臭。\n当你缺水时,你的口腔会变得干燥。细菌会积聚,因为口腔中没有足够的水分来冲走它们。阳光也会阻止你出汗。身体的正常温度是36到37摄氏度。但如果温度升高到40到41度,你可能会发现自己中暑。在那时,你的体温调节系统基本上会停止工作,这会阻止你出汗,因为你的身体试图在重要器官周围保留水分。\n然而,阳光可以通过提高你的能量水平对你的身体产生积极影响。你可能会觉得阳光给你的一天带来了额外的能量,而这确实正在发生。\n而且来自阳光的维生素D可以帮助你的身体吸收某些矿物质,这些矿物质与增强骨骼有关。因此,我建议你多花时间和朋友在公园里,但一定要涂抹大量的防晒保护,也要把水瓶装满。\n左撇子在做某些事情时可能会感到不便,比如在笔记本上写字,但左撇子也有许多优势。研究发现,在格斗运动中,左撇子的比例过高。左撇子选手获胜的机会也更高。这证实了战斗理论。\n左撇子在记忆事件方面可能也更出色。解释是左撇子的两个大脑半球联系更紧密。\n左撇子可能是数学能力的一个影响因素。一项意大利研究发现,在简单算术方面,左撇子和右撇子的表现差异不大,但在更困难的问题解决方面,左撇子胜出。没有人理解其中的原因。\n左撇子的思维方式可能有所不同。在一项研究中,研究人员向参与者展示了几列抽象插图,并询问他们更喜欢哪些。左撇子更可能喜欢左边的图像。右撇子更喜欢右边的图像。两组人都不喜欢相反一侧的东西。\n左撇子在职业互动性运动中也占比过高。研究人员研究了左撇子对互动性运动表现的影响。那些需要最快反应的运动给左撇子带来最大优势。因此,如果你有一个左撇子孩子,你应该鼓励他们打乒乓球、棒球和网球。左撇子最大化了他们在这些运动中的成功机会。"
+  }
+}

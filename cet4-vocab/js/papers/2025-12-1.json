@@ -1,0 +1,670 @@
+{
+  "id": "2025-12-1",
+  "writing": "Part I Writing (30 minutes) 英语四级2025年12月·第1套真题 Directions : Suppose the student union of your university is collecting opinions on improving its work for the coming year. You are now to write a response by suggesting how it can better enrich student life. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "Where was the black cat found?",
+      "options": {
+        "A": "Outside the office of a charity foundation.",
+        "B": "Inside the car of David King's neighbour.",
+        "C": "Under the engine cover of a man's car.",
+        "D": "At the gate of a grade school in Kent."
+      },
+      "stem_cn": "这只黑猫是在哪里被发现的?",
+      "options_cn": {
+        "A": "在一家慈善基金会的办公室外面。",
+        "B": "在David King邻居的车内。",
+        "C": "在一名男子汽车的引擎盖下面。",
+        "D": "在Kent一所小学的大门口。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What do we learn about the cat at the end of the news report?",
+      "options": {
+        "A": "It got reunited with its owner.",
+        "B": "It was injured during the rescue.",
+        "C": "It became a pet of Mr King's grandson.",
+        "D": "It was placed in the care of a UK charity."
+      },
+      "stem_cn": "关于这只猫,新闻报道最后我们了解到什么?",
+      "options_cn": {
+        "A": "它与主人团聚了。",
+        "B": "它在救援过程中受伤了。",
+        "C": "它成为了King先生孙子的宠物。",
+        "D": "它被交由一家英国慈善机构照料。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What will Fayetteville witness in less than a month?",
+      "options": {
+        "A": "The 100th anniversary celebration of Methodist University.",
+        "B": "The first important political event in the next five years.",
+        "C": "The opening of the Special Olympics Spring Games.",
+        "D": "The reunion of this year's Olympic gold medalists."
+      },
+      "stem_cn": "不到一个月后，Fayetteville 将见证什么?",
+      "options_cn": {
+        "A": "Methodist University 的百年校庆庆典。",
+        "B": "未来五年中的第一个重要政治活动。",
+        "C": "特殊奥林匹克春季运动会的开幕式。",
+        "D": "今年奥运会金牌得主的重聚。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What did Benjamin Kowalczyk say is rewarding to see?",
+      "options": {
+        "A": "Volunteers visit the Games' website to sign up.",
+        "B": "Athletes with special needs triumph in the Games.",
+        "C": "Organizers devote their time and energy to the Games.",
+        "D": "Children play in a fun tent and enjoy themselves fully."
+      },
+      "stem_cn": "Benjamin Kowalczyk 说看到什么令人欣慰?",
+      "options_cn": {
+        "A": "志愿者访问运动会网站报名参加。",
+        "B": "有特殊需要的运动员在运动会上取得胜利。",
+        "C": "组织者为运动会投入他们的时间和精力。",
+        "D": "孩子们在趣味帐篷里玩耍并尽情享受。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What has the German supermarket been ordered to do?",
+      "options": {
+        "A": "Destroy its imitation chocolate rabbits.",
+        "B": "Change the wrapping of its commodities.",
+        "C": "Compensate for the Swiss manufacturer's loss.",
+        "D": "Defend itself in the country's commercial court."
+      },
+      "stem_cn": "这家德国超市被要求做什么?",
+      "options_cn": {
+        "A": "销毁其仿制的巧克力兔子。",
+        "B": "更改其商品的包装。",
+        "C": "赔偿瑞士制造商的损失。",
+        "D": "在该国商事法院为自己辩护。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What did Switzerland's highest court suggest about the chocolate in question?",
+      "options": {
+        "A": "It could be rewrapped and sold by the budget supermarket.",
+        "B": "It could be reshaped into animals other than rabbits.",
+        "C": "It could be resold cheaper to avoid waste.",
+        "D": "It could be reused in other products."
+      },
+      "stem_cn": "瑞士最高法院对有关巧克力提出了什么建议?",
+      "options_cn": {
+        "A": "它可以被重新包装并由廉价超市出售。",
+        "B": "它可以被重新塑造成兔子以外的动物。",
+        "C": "它可以以更低价格转售以避免浪费。",
+        "D": "它可以在其他产品中重新使用。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "Why did Switzerland's highest court overturn the commercial court's ruling?",
+      "options": {
+        "A": "To be fair to the German supermarkets.",
+        "B": "To protect chocolate retailers' interests.",
+        "C": "To boost the growth of the chocolate industry.",
+        "D": "To prevent consumers' possible confusion."
+      },
+      "stem_cn": "瑞士最高法院为什么推翻商事法院的裁决?",
+      "options_cn": {
+        "A": "为了对德国超市公平。",
+        "B": "为了保护巧克力零售商的利益。",
+        "C": "为了促进巧克力行业的增长。",
+        "D": "为了防止消费者可能产生的混淆。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What does the man request the woman to do?",
+      "options": {
+        "A": "Return the handbook to him.",
+        "B": "Make a vegetable dish.",
+        "C": "Pass a book to him.",
+        "D": "Meet his sister's boyfriend."
+      },
+      "stem_cn": "男士要求女士做什么?",
+      "options_cn": {
+        "A": "把手册还给他。",
+        "B": "做一道蔬菜菜肴。",
+        "C": "把一本书递给他。",
+        "D": "见见他姐姐的男朋友。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What does the woman say about eating vegetables only?",
+      "options": {
+        "A": "It doesn't seem to be a balanced diet.",
+        "B": "It would reduce one's protein intake.",
+        "C": "It would do harm to one's muscles.",
+        "D": "It doesn't sound practical for her."
+      },
+      "stem_cn": "关于只吃蔬菜,女士是怎么说的?",
+      "options_cn": {
+        "A": "这似乎不是均衡的饮食。",
+        "B": "这会减少一个人的蛋白质摄入。",
+        "C": "这会对一个人的肌肉造成伤害。",
+        "D": "这对她来说听起来不实际。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "Why does the boyfriend of the man's sister choose to be a vegetarian?",
+      "options": {
+        "A": "To improve his health.",
+        "B": "To protect animal rights.",
+        "C": "To follow a trendy lifestyle.",
+        "D": "To stick to his religious belief."
+      },
+      "stem_cn": "男士的姐姐的男朋友为什么选择成为素食主义者?",
+      "options_cn": {
+        "A": "为了改善他的健康。",
+        "B": "为了保护动物权利。",
+        "C": "为了追随时尚的生活方式。",
+        "D": "为了坚持他的宗教信仰。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "On what point does the man agree with the woman at the end of the conversation?",
+      "options": {
+        "A": "The torture and distress dolphins suffer in parks.",
+        "B": "The necessity of having zoos and eating meat.",
+        "C": "The gloomy environments animals are kept in.",
+        "D": "The urgency of joining an animal rights group."
+      },
+      "stem_cn": "在对话结束时,男士在哪一点上同意女士的观点?",
+      "options_cn": {
+        "A": "海豚在公园里遭受的折磨和痛苦。",
+        "B": "拥有动物园和吃肉的必要性。",
+        "C": "动物被饲养的阴暗环境。",
+        "D": "加入动物权利组织的紧迫性。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What part of the TV program does the man say was interesting?",
+      "options": {
+        "A": "The part about getting over jetlag.",
+        "B": "The part about air travel in the past.",
+        "C": "The part about not eating on board the plane.",
+        "D": "The part about avoiding sleeping on the plane."
+      },
+      "stem_cn": "男士说电视节目的哪部分内容很有趣?",
+      "options_cn": {
+        "A": "关于克服时差反应的部分。",
+        "B": "关于过去航空旅行的部分。",
+        "C": "关于不在飞机上进食的部分。",
+        "D": "关于避免在飞机上睡觉的部分。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What does the man say he will do next time he flies a long distance?",
+      "options": {
+        "A": "Take a nap to adjust to a new time zone.",
+        "B": "Have meals as usual to stay away from hunger.",
+        "C": "Concentrate on reading articles recommended by experts.",
+        "D": "Try following the advice given by the expert on the show."
+      },
+      "stem_cn": "男士说他下次长途飞行时会做什么?",
+      "options_cn": {
+        "A": "小睡一会儿以适应新时区。",
+        "B": "像平常一样进餐以避免饥饿。",
+        "C": "专注阅读专家推荐的文章。",
+        "D": "尝试遵循节目中专家给出的建议。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "Why does the woman think she is lucky?",
+      "options": {
+        "A": "She does not have any problem flying.",
+        "B": "She can spend a lot of time vacationing.",
+        "C": "She does not have to worry about jetlag.",
+        "D": "She has been well treated when traveling."
+      },
+      "stem_cn": "女士为什么认为自己很幸运?",
+      "options_cn": {
+        "A": "她乘飞机没有任何问题。",
+        "B": "她可以花大量时间度假。",
+        "C": "她不必担心时差反应。",
+        "D": "她在旅行时得到了很好的待遇。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "Why does the woman think the problem of being afraid to fly deserves attention?",
+      "options": {
+        "A": "It has caused heavy losses to many airlines.",
+        "B": "It impacts female travelers more seriously.",
+        "C": "It has long been ignored by many experts.",
+        "D": "It affects twenty-five percent of people."
+      },
+      "stem_cn": "女士为什么认为害怕乘飞机的问题值得关注?",
+      "options_cn": {
+        "A": "它给许多航空公司造成了重大损失。",
+        "B": "它对女性旅客的影响更严重。",
+        "C": "它长期以来被许多专家忽视。",
+        "D": "它影响百分之二十五的人。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What does the speaker think is the best way to get started in user experience design?",
+      "options": {
+        "A": "Learning from skilled designers.",
+        "B": "Obtaining real-world experience.",
+        "C": "Joining a 6-month training camp.",
+        "D": "Anticipating actual challenges."
+      },
+      "stem_cn": "演讲者认为入门用户体验设计的最佳方式是什么?",
+      "options_cn": {
+        "A": "向熟练的设计师学习。",
+        "B": "获得真实世界的经验。",
+        "C": "参加为期6个月的培训营。",
+        "D": "预见实际挑战。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does the speaker say being effective requires?",
+      "options": {
+        "A": "Core skills.",
+        "B": "Higher education.",
+        "C": "Adaptability.",
+        "D": "Capability."
+      },
+      "stem_cn": "演讲者说要有效需要什么?",
+      "options_cn": {
+        "A": "核心技能。",
+        "B": "高等教育。",
+        "C": "适应能力。",
+        "D": "能力。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What can people do as long as they know their end goal and strive for it?",
+      "options": {
+        "A": "Start anywhere.",
+        "B": "Face challenges.",
+        "C": "Pursue roles in teams.",
+        "D": "Follow their own path."
+      },
+      "stem_cn": "只要人们知道自己的最终目标并为之努力,他们能做什么?",
+      "options_cn": {
+        "A": "从任何地方开始。",
+        "B": "面对挑战。",
+        "C": "在团队中追求角色。",
+        "D": "遵循自己的道路。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "Why did the school principal ask what needed to change?",
+      "options": {
+        "A": "To respond actively to students' requests.",
+        "B": "To engage students more in their learning.",
+        "C": "To enable teachers to interact more with their students.",
+        "D": "To allow students more freedom in their academic work."
+      },
+      "stem_cn": "校长为什么要问需要改变什么？",
+      "options_cn": {
+        "A": "积极回应学生的要求。",
+        "B": "让学生更多地参与到学习中。",
+        "C": "使教师能够更多地与学生互动。",
+        "D": "让学生在学业上拥有更多自由。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What has flexible seating meant at the speaker's school?",
+      "options": {
+        "A": "Using new furniture to create a comfortable environment.",
+        "B": "Shifting from traditional teaching to task-based learning.",
+        "C": "Adopting a variety of different seating options.",
+        "D": "Rearranging most traditional chairs and desks."
+      },
+      "stem_cn": "灵活座位在说话者的学校意味着什么？",
+      "options_cn": {
+        "A": "使用新家具营造舒适的环境。",
+        "B": "从传统教学转向基于任务的学习。",
+        "C": "采用多种不同的座位选择。",
+        "D": "重新摆放大部分传统的椅子和课桌。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What has flexible seating brought about at the speaker's school?",
+      "options": {
+        "A": "A win for all people involved.",
+        "B": "A strengthened effect of its discipline.",
+        "C": "A harmonious relationship among its students.",
+        "D": "A change to teachers' opinion of their students."
+      },
+      "stem_cn": "灵活座位在说话者的学校带来了什么？",
+      "options_cn": {
+        "A": "对所有相关人员都有益。",
+        "B": "加强了纪律效果。",
+        "C": "学生之间关系和谐。",
+        "D": "改变了教师对学生的看法。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "Why were dozens of British students sent home on Tuesday?",
+      "options": {
+        "A": "They weren't informed of the school's updated rules.",
+        "B": "They arrived late for their first day of school.",
+        "C": "They answered their headteacher's email in an impolite way.",
+        "D": "They didn't wear the shoes required by the school's new policy."
+      },
+      "stem_cn": "为什么数十名英国学生在周二被送回家？",
+      "options_cn": {
+        "A": "他们没有被告知学校更新的规定。",
+        "B": "他们在开学第一天迟到了。",
+        "C": "他们以不礼貌的方式回复了校长的电子邮件。",
+        "D": "他们没有穿学校新政策要求的鞋子。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What can the price of school uniforms spark among families in financial difficulty?",
+      "options": {
+        "A": "Riots.",
+        "B": "Anger.",
+        "C": "Disputes.",
+        "D": "Panic."
+      },
+      "stem_cn": "校服的价格会在经济困难的家庭中引发什么？",
+      "options_cn": {
+        "A": "骚乱。",
+        "B": "愤怒。",
+        "C": "争议。",
+        "D": "恐慌。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What did the headteacher think of the school's new uniform rules?",
+      "options": {
+        "A": "They strengthened the school's discipline and order.",
+        "B": "They improved student behavior and performance.",
+        "C": "They enhanced the positive image of the school.",
+        "D": "They rendered the school unique in the district."
+      },
+      "stem_cn": "校长如何看待学校的新校服规定？",
+      "options_cn": {
+        "A": "它们加强了学校的纪律和秩序。",
+        "B": "它们改善了学生的行为和表现。",
+        "C": "它们提升了学校的正面形象。",
+        "D": "它们使学校在该地区独树一帜。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What did Lucinda May have to do to buy her child the correct pair of shoes?",
+      "options": {
+        "A": "Turn to her parents for help.",
+        "B": "Tighten her monthly budget.",
+        "C": "Borrow £65 from her friend.",
+        "D": "Postpone paying her other bills."
+      },
+      "stem_cn": "Lucinda May为了给孩子买到正确的鞋子必须做什么？",
+      "options_cn": {
+        "A": "向她的父母求助。",
+        "B": "压缩她的月度预算。",
+        "C": "向她的朋友借65英镑。",
+        "D": "推迟支付她的其他账单。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "approximately",
+    "B": "case",
+    "C": "chance",
+    "D": "confused",
+    "E": "crucial",
+    "F": "deposited",
+    "G": "enter",
+    "H": "invest",
+    "I": "matter",
+    "J": "presented",
+    "K": "range",
+    "L": "regular",
+    "M": "seize",
+    "N": "selection",
+    "O": "ultimately"
+  },
+  "cloze_passage": "People tend to want as many choices as possible. They believe this will maximize their 26 of making the best decision. But research shows that, when it comes to actually making a 27 from all of these choices, people can become 28 and avoid making a decision altogether. Even worse, when people finally do decide, they are generally less satisfied with their decision and feel more regretful over whatever choice they made.\nWhy does this happen? Research shows that when people choose from many options, they 29 more in the decision, but feel less confident in their ability to decide well. In other words, when we are 30 with more choices, making the \"right\" or \"correct\" decision begins to feel more 31 and, at the same time, more difficult to do. This may contribute to the deep fear that we will make the wrong decision.\nHow can we solve this problem? I believe this fear could be tempered by putting decisions into perspective. It might help to remember that many of the choices you make, such as what to have for lunch, will not 32 much in the future and that, even more important choices, like accepting a new job, can 33 be changed. It could also help to 34 these situations with clear guidelines and ideas of what you want from the 35 of options, which can narrow the possible choices, and also make you more confident about your ability to make the right decision.",
+  "long_reading_passage": "A) Five years ago, the city of Queens, New York, announced that it would be putting bike lanes onto a stretch of Skillman Ave — and removing 116 parking spots. Cyclists loved the plan, but local business owners got very angry. Taking out those parking spots, as they argued at protests and in letters to the city council, would ruin stores and restaurants along Skillman. \"Parking here is already a nightmare,\" one shouted at a protest rally.\nB) But the bike lanes were a done deal, and soon they were in place. Early this year, Jesse Coburn — an investigative writer with Streetsblog New York — wondered whether those predictions of economic collapse came true. So he asked the city's Department of Finance to give him a few years' worth of sales figures for that stretch of Skillman Ave. How had the businesses on that street fared?\nC) Quite well, it turns out. In the year after the bike lanes arrived, businesses on Skillman saw sales rise by 12 percent, compared to 3 percent for Queens in general. What's more, that section of road saw new businesses open, while Queens overall had a net loss.\nD) The thing is, the actual merchants along Skillman? They didn't believe it. When Coburn spoke to them and described what he'd found, only a few store owners admitted the lanes had helped. Many still insisted the lanes were killing their part of the city. And emotions ran hot: Someone scattered tacks(大头钉) on the bike lane.\nE) This little story turns out to be a fascinating glimpse at the challenges cities face as they try to update their urban infrastructure — to clean up the air, reduce greenhouse emissions, and speed up travel by making towns more bike-friendly. There's a rising amount of data showing that installing bike lanes and making streets more pedestrian-friendly boosts the economic fortunes of a place. Removing cars and parking spots works. But the folks who run local businesses simply aren't convinced, even when their own street performs. Given that sort of mess, can political fights over bike lanes ever end?\nF) In 2013, researchers at New York City's Department of Transportation studied seven stretches of road that had installed bike lanes or created pedestrian-friendly areas. The city analyzed the data for businesses along those routes and found that by the third year, sales grew faster on five of the streets than in the district overall, on average — up to five times faster, in fact.\nG) Beyond New York, a survey of research from 23 cities found that bike lanes and pedestrian-friendly design didn't hurt local retail and food stores. (\"Fears of disastrous consequences for local businesses are unfounded,\" the researchers concluded.) More recent work has shown roughly the same.\nH) The truth is that in fairly dense areas, bikes are more efficient at moving people around. You might lose one car driver's business — but you gain shoppers who now can arrive more easily on bikes. \"Cyclists and pedestrians are consumers too,\" notes Professor Susan Handy. Plus, streets redesigned for bikes and pedestrians tend to become more pleasant places to hang around, so \"in a lot of cases, that's created much nicer environments that are really good for those businesses.\"\nI) Mom-and-pop shops are usually pretty quick at recognizing situations that will help their bottom lines. So why the blind spot here? Perhaps it's that attention focuses on horror stories — and some merchants do get hit when bike lanes come in.\nJ) I spoke to Cindy Hughes, a hairdresser(理发师) in Cambridge, Massachusetts. She said business fell by at least 40 percent when the city removed nearby parking to put in a bike lane. The majority of her customers drive, with many coming from nearby towns. Only a very few have shifted to cycling, and even those almost certainly won't cycle in Boston's snowy winters. So while Hughes supports bike lanes — \"cyclists deserve to be safe\" — she sees the parking loss as an existential risk. \"Look, 90 percent of my customers drive,\" she told me. \"For our business, the bike lanes are way worse than Covid was.\"\nK) For others, the pushback is cultural, says Henry Grabar, a writer for the Slate Magazine. Small business owners are frequently drivers who commute from other parts of the city by car, Grabar points out. They're also often longtime locals. \"They tend to be people with deep roots in the city, who have hung around since before the neighborhood became what it is today,\" he adds. Driving around town in a car is so normal to them that cycling seems weird and unusual — despite its boost from Covid, when bike sales exploded by 75 percent.\nL) Psychology beats all! Who knew, right? The fierce divide between store owners and bike-lane advocates seems similar to our larger culture wars over climate change. If we've learned anything about culture wars, it's that data isn't much good at changing minds.\nM) When Janette Sadik-Khan was the head of New York City's Transportation Department back in the early 2000s, she oversaw a rollout(推出) of bike lanes — and got angry blowback from residents and business owners who claimed there weren't enough cyclists to justify installing lanes. Now, she notes ironically, the lanes are so full of activity that opponents have turned to claiming the problem is the opposite: There are too many cyclists getting in the way of cars.\nN) Maybe bike lanes will always be charged with emotion, until enough of the public is finally concerned about climate change — and it seems reckless(鲁莽的) to not have them.\nO) Crises, after all, have a way of opening people's eyes to possibilities. During Covid, restaurants and cafés lost so much business that cities nationwide began allowing them to build curbside seating areas where people could sit, safely, in the open air. It greatly reduced parking — but because, well, shop owners didn't see any way around it. Customers loved the outdoor seating so much that cities are making it permanent: A New York City study of several streets closed during Covid found storeowners making more than before, and diners enjoying the outdoor lifestyle. If data won't change minds, customers might.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "All living organisms on Earth are exposed to a 24-hour day-night cycle. This cycle is the reason why people rest at night and are active during the day. Consequently, all human body functions also follow this daily rhythm, and the timing of behaviors like exercise or food intake can significantly influence your health. For example, eating at night can lead to weight gain over time because food intake at night leads to increased fat storage.\nMany drug targets in the body follow a 24-hour cycle, too. This means that the specific proteins a drug is designed to modify can react differently to the medicine over the course of a 24-hour time period. Because how the body responds to a drug can differ depending on the time it is taken, it logically follows that taking medicines at specific times could help increase their effectiveness and reduce unwanted side effects.\nWhen doctors prescribe medicine for people, they rarely consider the best time to take it. There are two main reasons for that oversight. First, many physicians are not aware that some drugs work better during a specific time of the day. And second, most drugs have not been studied for possible different effects during a 24-hour cycle. Therefore, patients are directed to take most drugs during the morning or evening primarily to ensure compliance.\nOver 50 years ago, researchers found that the cholesterol drug simvastatin is more effective at lowering cholesterol levels when taken at night rather than during the day. This is because the liver enzyme(酶) these drugs target is more active at night.\nTaking medicine at the wrong time can even cause harm. My colleagues and I wondered whether midazolam, the most common sedative(镇静剂) used in surgical procedures worldwide, might interfere with the internal clock that protects the heart at night. Currently, there are no guidelines regarding when midazolam should be administered.\nMore research is needed to determine the best times to administer treatments for different diseases. I believe taking drug timing into account could help make treatments more effective and help more people worldwide.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "It has a considerable impact on our health.",
+        "B": "It confines us to a 24-hour day-night cycle.",
+        "C": "It requires us to follow a particular rhythm.",
+        "D": "It holds the key to all human body functions."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "They can modify the effects of medicines in different ways.",
+        "B": "They can reduce unwanted side effects of certain medicines.",
+        "C": "Their reaction to medicines changes during the day-night cycle.",
+        "D": "Their design determines how differently they react to medicines."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "They give little thought to the time of taking it for maximum effect.",
+        "B": "They rarely consider which medicine works better for which patient.",
+        "C": "They tell patients its possible side effects during a period of 24 hours.",
+        "D": "They tell patients to comply with the directions of drug manufacturers."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "To discourage them from making complaints.",
+        "B": "To ensure they take the drugs as instructed.",
+        "C": "To comply with new research findings strictly.",
+        "D": "To guarantee the maximum effect of the drugs."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Considering drug-taking timing when prescribing drugs for patients.",
+        "B": "Making treatments less complex by taking drug timing into account.",
+        "C": "Conducting more studies to find out the best timing for treating different diseases.",
+        "D": "Finding out the most effective drugs for treating diseases through further research."
+      }
+    }
+  ],
+  "reading_passage_2": "Katharine Abraham, an economics professor, was chatting with her hairdresser(理发师) about retirement plans. The economist said she plans to continue working because she wants to. The hairdresser agreed but for a different reason: She needs the money.\nBoth scenarios(情况) are contributing to a big increase in the number of people in the U.S. working into their 70s. Over the past 20 years, the share of Americans working in their 70s has risen from less than 10% to nearly 15%.\nIn addition to people being healthier and living much longer, economists say that a combination of financial considerations such as years of slow rise in real wages and a shift away from traditional pensions in the private sector are some of the reasons people delay retirement. The decline of manufacturing and the increase in the number of people working in less labor-intensive occupations also has contributed to the trend, says Abraham, who researches work and retirement decisions of older Americans.\n\"Which matters more depends on what your history up until that point has been in the type of work you're doing,\" Abraham says.\nThe overall trend is hitting Americans of all different levels of educational attainment, although the percentages vary by category. The share of Americans with bachelor's degrees who were working into their 70s reached nearly 20% in 2018. For those with a high school degree or less, the proportion of those working in their 70s had risen to around 10%, while those with some college education were in the middle at around 15%.\nMartin Neil Baily, an economist who is leading a research project on retirement security, notes that quitting a career can lead to feelings of isolation and loneliness, particularly for men. He suggests that many college-educated workers are choosing to stay in the labor force more for social benefits than for financial reasons. They're also more likely to be in professional occupations where they tend to enjoy their work more.\nWorkers in more physical jobs, meanwhile, may be more likely to look forward to retiring, Baily says, suggesting those who stay on are more likely doing so for financial reasons.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "They differ in their reasons for continuing to work.",
+        "B": "They are both committed to working into their 70s.",
+        "C": "They are happy about their current financial situation.",
+        "D": "They hold different views about postponing retirement."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "More and more people have switched to less intellectually challenging jobs.",
+        "B": "The number of jobs suitable for older people has increased in the private sector.",
+        "C": "The rate of wage increase in terms of purchasing power has slowed down for years.",
+        "D": "More and more people in the workplace find it hard to rely on traditional pensions."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "The higher their earnings, the more likely they are tempted to delay retirement.",
+        "B": "Those who have more job satisfaction tend to retire later than those who have less.",
+        "C": "More men than women are likely to stay in the labor force until their late seventies.",
+        "D": "The higher their educational level, the more likely they are to delay retirement."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Enjoying financial security.",
+        "B": "Staying connected socially.",
+        "C": "Contributing more professionally.",
+        "D": "Increasing social security payments."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "They are eager to enjoy life after retiring.",
+        "B": "They are likely to have financial troubles.",
+        "C": "They generally don't enjoy doing it.",
+        "D": "They tend to anticipate retirement."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2025年12月·第1套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 近年来，中国政府高度重视民营经济(private economy)的发展，出台了一系列政策支持民营企业。截至 2025 年 3 月底，全国民营企业数量超过 5700 万家，占企业总量的 92.3%。民营企业不仅数量稳步增长，质量和结构也在不断提升。民营企业的研发投入不断增加，在新一代信息技术、人工智能等领域发展迅速。民营企业核心竞争力的增强为中国经济的高质量发展提供了有力支撑。",
+  "answers": {
+    "1": "C",
+    "2": "A",
+    "3": "C",
+    "4": "B",
+    "5": "A",
+    "6": "D",
+    "7": "D",
+    "8": "C",
+    "9": "A",
+    "10": "B",
+    "11": "B",
+    "12": "A",
+    "13": "D",
+    "14": "C",
+    "15": "D",
+    "16": "B",
+    "17": "C",
+    "18": "A",
+    "19": "B",
+    "20": "C",
+    "21": "A",
+    "22": "D",
+    "23": "D",
+    "24": "B",
+    "25": "A",
+    "26": "C",
+    "27": "N",
+    "28": "D",
+    "29": "H",
+    "30": "J",
+    "31": "E",
+    "32": "I",
+    "33": "O",
+    "34": "G",
+    "35": "K",
+    "36": "E",
+    "37": "K",
+    "38": "C",
+    "39": "O",
+    "40": "G",
+    "41": "D",
+    "42": "L",
+    "43": "J",
+    "44": "A",
+    "45": "H",
+    "46": "A",
+    "47": "C",
+    "48": "A",
+    "49": "B",
+    "50": "C",
+    "51": "A",
+    "52": "C",
+    "53": "D",
+    "54": "B",
+    "55": "D"
+  },
+  "listening_script": {
+    "en": "A terrified cat has survived a five-mile round trip under the engine cover of a car on a school run. The black cat was found curled up under the engine cover of David King's car when he decided to do an oil check after dropping his grandson off at school in Kent.\nMr King's wife said her husband had come \"running in\" and was \"shouting for me to come have a look\".\n\"We weren't even sure it was alive, so I gently pushed it with a stick to check it was breathing and saw it was a terrified little cat. It reversed even further into the engine and was stuck. I tried to reach it, but it was too far down and there wasn't any way I could get it out.\"\nFollowing a rescue by UK charity Cats Protection, the four-year-old cat was later reunited with its owner, Mr King's neighbour.\nIn less than a month, the Special Olympics Spring Games will make a return to Fayetteville. The Games are coming back for the first time in five years. The event will take place at Methodist University.\nEvent organizer Benjamin Kowalczyk says he's excited that athletes will get a chance to come back and demonstrate their abilities. Organizers expect about 100 athletes will come out to compete in Fayetteville. They will have a variety of events to choose from, including running, throwing, and jumping. There will also be a fun tent for children. Kowalczyk said it's rewarding to see athletes with special needs triumph in the Games.\nFor anyone who wants to help make this year's Games a massive success, there are still opportunities to volunteer for Fayetteville's Special Olympics. Organizers encourage them to visit the Games' website to sign up.\nA German supermarket has been ordered to destroy its chocolate rabbits after it lost a court battle with a Swiss chocolate manufacturer.\nThe Swiss firm had argued its gold-wrapped chocolate rabbit deserved copyright protection from a similar product sold by the budget supermarket.\nSwitzerland's highest court agreed and overturned a ruling last year by the country's commercial court that had sided with the supermarket. It ordered that all the imitation rabbits be destroyed, but suggested the chocolate needn't be wasted. It could be melted for use in other products.\nIt said even though there are some differences between the two products, there was still the possibility of confusion for consumers. The Swiss manufacturer's rabbit has a red bow and bell, while the German supermarket's has a green bow and bell. The colour of the wrapper is similar, as are the illustrations of the features.\nThe chocolate company has been to court before to protect its popular chocolate treat. Last year, a German federal court said the shade of the gold wrapping was also protected.\nM: Can you please hand me that book over there? It has instructions for making a winter bean salad. My sister's boyfriend is coming over for dinner. He's vegetarian, so I need to make a lot of vegetable dishes.\nW: He only eats vegetables, no meat? That doesn't sound like a very balanced diet. How can he get enough protein? What does he do to strengthen his muscles and all that?\nM: Apparently that's no problem. He's explained this to me when we first met. He eats a variety of different vegetables and nuts, especially those with high amounts of protein.\nW: It sounds a bit difficult, but he's done his research I suppose. What's his reasoning for being vegetarian? Is it his religion, health condition, or lifestyle?\nM: He's an animal activist. He's always been very sensitive and sympathizes with animals. He's even written to his state senator about the torture of dolphins in sea parks. He says that keeping animals in zoos and parks causes them great distress.\nW: That's a little gloomy, but I can understand that to a point. Not all zoos and animal parks have the most favorable conditions, but without them it just wouldn't be feasible to learn about animals and their environments. Besides, I don't think I could ever give up a good hot dog at a baseball game.\nM: Honestly, I agree, but just don't let him hear you say that. He's the spokesperson for his local animal rights group.\nW: Did you see that television program on air travel last night?\nM: Yes. The part about overcoming jetlag was interesting. I was surprised that the expert recommended not eating for the entire journey and avoiding sleeping on the plane.\nW: I was too, as I read an article on the subject in the past that suggested the opposite. It claimed that it was important not to miss meals and that taking a nap on the plane was the best way to adjust to a new time zone.\nM: Well, the expert on the show did cite research supporting her recommendations, so I guess I'll give it a try next time I fly a long distance. Jetlag is a big problem for me and has been for the last few years, even though I never suffered from it before.\nW: Well, she did say that jetlag often becomes more of a problem after 40, so I guess I'm lucky that I can still adjust to different time zones well. My problem is I'm afraid to fly.\nM: Oh, I didn't know that. Actually, my mother is terrified of airplanes to the point where she can't even fly, so our family vacations were always by car or train.\nW: I'm not as bad as that. I just get anxious before I fly and feel nervous the whole time we're in the air, which is why I was hoping the television program would cover that topic more than it did.\nM: Yeah. That segment was too brief, especially as so many people have that problem. She said 20% of people are afraid to fly.\nW: Actually, it was a quarter of people, so the problem really is widespread and deserves attention.\nThe most common question I'm asked always centers around how to get started in user experience design, to which my response is always that nothing can substitute real-world experience.\nBuilding the skills required of a user experience designer takes time, patience, and commitment. Higher education is a great way to equip yourself with some core skills, but it will not prepare you for actual challenges you'll face with clients' work. In other words, being proficient with a design tool and a few methods doesn't make you a user experience designer. There simply isn't a one-size-fits-all process.\nBeing effective requires adaptability — something you don't really learn in school, much less in a 6-month training camp. It's gained through experience on the job and learning what's appropriate given the needs of the project.\nI found my way to user experience through graphic design and slowly over many different roles and experiences. That led me to become a user experience designer. It took time and commitment to continue to pursue roles within teams that I knew could teach and challenge me. That's not to say that I think my path is the only one. But once again, nothing can substitute real-world experience. You can start anywhere as long as you know your end goal and you commit to actively pursuing opportunities to learn and grow along the way.\nWhen planning for this year, our principal asked what needed to change to engage students more in their learning. I responded in a whisper \"flexible seating\", thinking about our then-current classroom. It had rows of desks with blue chairs and nameplates reminding each student where they should be sitting.\nThis began a journey to transform our practice and challenge the ways of learning for a group of Year 6 students used to sitting in desks and rows for years.\nFlexible seating has been defined as movable furniture to create an engaging learning environment. It is a shift in practice from being teacher-focused to student-focused learning. For us, flexible seating has meant removing most of the traditional chairs and desks and introducing a variety of different seating options to promote student engagement.\nThe use of rows and their minimal adaptations to \"U\" shape were traditionally intended to maximize on-task behavior and reduce distraction from the teacher. Teachers tend to still use this format because of either the need to control students or the belief that the teacher is the most important person in the room.\nNow our students have a range of different seating options, including a floor desk, couches, stools, bean bags, and the traditional desk-and-chair.\nFrom our experience so far, flexible seating enhances student ownership of space and engagement in learning, while reducing rates of student disengagement and disciplinary actions. It is a win for all concerned.\nDozens of British students arriving for their first day of school on Tuesday were sent home over their shoes. About 30 students were turned away from Taverham High School in Norfolk, England. Headteacher, Dr Roger Harris, confirmed that this was due to a change in the school's uniform policy. Harris, who became headteacher this year, said he notified parents of the updated rules in an email in June.\nThe price of school uniforms can spark panic among families struggling with the high cost of living. Nearly all British schools have uniforms. They cost parents an average of £337 per year for each secondary school child.\nAccording to the new rules, students of Taverham are required to wear smart black shoes appropriate for the workplace, Harris held that strengthened rules around school uniforms improved student outcomes and behavior. But for some parents, the school's restrictions are an unnecessary burden.\nAs annual inflation climbs over 10%, many households are on tight budgets. Private rental prices in Britain rose 3.2% over the 12 months to July 2022, the largest jump since 2016. Soaring energy bills have made things worse.\nLucinda May, mum of a Taverham student, said that she had to ask her parents for £65 to buy her child the correct pair of shoes. May said that the school's uniform policy showed the lack of regard for parents dealing with the high cost of living.",
+    "cn": "一只受惊的猫在一辆汽车的引擎盖下完成了五英里的往返行程，这辆车当时正在接送孩子上学。当David King在Kent郡送完孙子上学后决定检查机油时,发现这只黑猫蜷缩在他汽车的引擎盖下。\nKing先生的妻子说,她丈夫\"跑进来\"\"喊我过去看看\"。\n\"我们甚至不确定它是否还活着,所以我用一根棍子轻轻推了推它,确认它还在呼吸,发现是一只受惊的小猫。它往引擎深处又退了退,被卡住了。我试图够到它,但它在太深的地方,我没办法把它弄出来。\"\n经过英国慈善机构Cats Protection的救援,这只四岁的猫后来与它的主人——King先生的邻居团聚了。\n不到一个月后,特殊奥林匹克春季运动会将重返Fayetteville。这是该运动会五年来首次回归。活动将在Methodist University举行。\n活动组织者Benjamin Kowalczyk表示,他很高兴运动员们将有机会回来展示他们的能力。组织者预计约有100名运动员将来到Fayetteville参加比赛。他们将有多种项目可供选择,包括跑步、投掷和跳跃。现场还将设有儿童趣味帐篷。Kowalczyk说,看到有特殊需求的运动员在运动会上取得胜利是很有意义的。\n对于任何想要帮助今年运动会取得巨大成功的人,仍有机会为Fayetteville特殊奥林匹克运动会做志愿者。组织者鼓励他们访问运动会网站进行报名。\n一家德国超市在与一家瑞士巧克力制造商的法庭诉讼中败诉后,被勒令销毁其巧克力兔子产品。\n这家瑞士公司辩称,其金色包装的巧克力兔子应当受到版权保护,以防止这家廉价超市销售的类似产品侵权。\n瑞士最高法院表示同意,推翻了去年该国商事法院支持超市的裁决。法院下令销毁所有仿冒兔子产品,但建议巧克力无需浪费,可以融化用于其他产品。\n法院称,尽管两种产品之间存在一些差异,但仍有可能使消费者产生混淆。瑞士制造商的兔子有红色蝴蝶结和铃铛,而德国超市的兔子有绿色蝴蝶结和铃铛。包装纸的颜色相似,特征的图案也相似。\n这家巧克力公司此前曾诉诸法庭以保护其畅销巧克力产品。去年,德国联邦法院裁定金色包装纸的色调也受到保护。\nM: 你能把那边那本书递给我吗？上面有冬季豆子沙拉的做法。我姐姐的男朋友要过来吃晚饭。他是素食主义者，所以我得做很多蔬菜菜肴。\nW: 他只吃蔬菜,不吃肉?这听起来可不像是均衡的饮食啊。他怎么获取足够的蛋白质?他怎么增强肌肉什么的?\nM: 显然这不是问题。我们第一次见面时他跟我解释过。他吃各种不同的蔬菜和坚果,尤其是那些蛋白质含量高的。\nW: 听起来有点难,不过我想他是做过研究的。他吃素的理由是什么?是宗教信仰、健康状况,还是生活方式?\nM: 他是个动物保护主义者。他一直很敏感,同情动物。他甚至给他所在州的参议员写信,抗议海洋公园虐待海豚。他说把动物关在动物园和公园里会给它们造成巨大的痛苦。\nW: 这有点悲观,不过我在某种程度上能理解。不是所有动物园和动物公园的条件都最理想,但没有它们的话,了解动物及其生存环境根本就不可行。再说,我觉得我永远都放弃不了在棒球赛上吃根美味热狗。\nM: 老实说,我同意,不过别让他听到你这么说。他是当地动物权利组织的发言人。\nW: 你昨晚看那个关于航空旅行的电视节目了吗？\nM: 看了。关于克服时差反应那部分挺有意思的。我很惊讶那个专家建议整个旅程都不吃东西，还要避免在飞机上睡觉。\nW: 我也是，因为我以前读过一篇关于这个话题的文章，建议的是相反的做法。文章说不能错过用餐很重要，而且在飞机上小睡是适应新时区的最好方法。\nM: 嗯，节目里那位专家确实引用了研究来支持她的建议，所以我想下次长途飞行时试试看。时差反应对我来说是个大问题，过去几年一直这样，尽管我以前从来没有受过时差困扰。\nW: 嗯，她确实说过时差反应在40岁之后往往会变成更大的问题，所以我想我很幸运，还能很好地适应不同的时区。我的问题是我害怕坐飞机。\nM: 哦，我不知道这个。其实我妈妈特别害怕飞机，严重到根本不能坐飞机，所以我们家的假期总是开车或坐火车。\nW: 我没那么严重。我只是在坐飞机前会焦虑，在空中的整个过程都感到紧张，这就是为什么我希望那个电视节目能更多地讨论这个话题，而不是像实际那样一带而过。\nM: 是啊。那个部分太简短了，特别是有那么多人都有这个问题。她说20%的人害怕坐飞机。\nW: 实际上是四分之一的人，所以这个问题确实很普遍，值得关注。\n我被问到的最常见问题总是围绕如何开始从事用户体验设计，对此我的回答始终是，没有什么能替代真实世界的经验。\n培养用户体验设计师所需的技能需要时间、耐心和投入。高等教育是让你具备一些核心技能的好方法,但它不会让你为客户工作中将面临的实际挑战做好准备。换句话说,精通一个设计工具和几种方法并不能让你成为用户体验设计师。根本不存在一个放之四海而皆准的流程。\n要做到有效需要适应能力——这是你在学校里真正学不到的,更不用说在6个月的培训营中了。它是通过工作中的经验获得的,并学会根据项目需求选择合适的方法。\n我通过平面设计找到了进入用户体验的道路,并在许多不同的角色和经历中慢慢成长。这让我成为了一名用户体验设计师。这需要时间和投入来持续追求那些我知道能教导和挑战我的团队中的角色。这并不是说我认为我的道路是唯一的。但再次强调,没有什么能替代真实世界的经验。只要你知道自己的最终目标,并致力于积极寻求学习和成长的机会,你可以从任何地方开始。\n在规划今年的工作时,我们的校长问需要改变什么才能让学生更多地参与到学习中来。我小声回答\"灵活座位\",同时想到我们当时的教室。教室里一排排课桌配着蓝色椅子,桌上的姓名牌提醒着每个学生应该坐在哪里。\n这开启了一段转变我们教学实践的旅程,并挑战了一群习惯于多年坐在课桌排列教室里的六年级学生的学习方式。\n灵活座位被定义为可移动的家具,用以创造一个富有吸引力的学习环境。它是从以教师为中心向以学生为中心学习的实践转变。对我们而言,灵活座位意味着移除大部分传统的椅子和课桌,引入各种不同的座位选择来促进学生参与。\n使用排列及其向\"U\"形的最小调整,传统上旨在最大化专注行为并减少对教师的干扰。教师倾向于仍然使用这种形式,原因要么是需要控制学生,要么是认为教师是教室里最重要的人。\n现在我们的学生有一系列不同的座位选择,包括地板书桌、沙发、凳子、豆袋椅以及传统的课桌椅。\n根据我们迄今为止的经验,灵活座位增强了学生对空间的所有权和学习参与度,同时降低了学生脱离学习和纪律处分的比率。这对所有相关方来说都是双赢。\n周二,数十名英国学生因鞋子问题在开学第一天被遣返回家。英格兰诺福克郡Taverham高中约有30名学生被拒之门外。校长Roger Harris博士证实,这是由于学校校服政策的变化。今年新上任的Harris表示,他在6月份通过电子邮件通知了家长更新后的规定。\n校服价格可能让那些苦于高昂生活成本的家庭感到恐慌。几乎所有英国学校都有校服。家长平均每年为每个中学生支付337英镑的校服费用。\n根据新规定,Taverham的学生必须穿适合职场的得体黑色鞋子。Harris认为,加强校服规定能改善学生的学业成绩和行为表现。但对一些家长来说,学校的限制是不必要的负担。\n随着年通胀率攀升至10%以上,许多家庭的预算都很紧张。截至2022年7月的12个月里,英国私人租房价格上涨了3.2%,这是自2016年以来的最大涨幅。飙升的能源账单使情况更加恶化。\nTaverham学生家长Lucinda May说,她不得不向父母要65英镑给孩子买一双符合规定的鞋子。May表示,学校的校服政策显示出对正在应对高昂生活成本的家长缺乏关照。"
+  }
+}

@@ -1,0 +1,27 @@
+@use '@/styles/variables.scss' as *;
+
+.star {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 8rpx;
+}
+
+.sm .icon {
+  font-size: 40rpx;
+}
+
+.md .icon {
+  font-size: 52rpx;
+}
+
+.icon {
+  line-height: 1;
+  color: $color-text-disabled;
+  transition: color $transition-fast;
+}
+
+.active .icon {
+  color: $color-star;
+}

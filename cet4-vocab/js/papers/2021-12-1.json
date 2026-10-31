@@ -1,0 +1,670 @@
+{
+  "id": "2021-12-1",
+  "writing": "Directions: Suppose your school is organizing an orientation program to help the freshmen adapt to the new environment and academic studies. You are now to write a proposal, which may include its aim, duration, participants and activities. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What does the news report say about United Airlines?",
+      "options": {
+        "A": "It found a pet dog on board a plane to a city in Texas.",
+        "B": "It had one of its cargo planes land at a wrong airport.",
+        "C": "It sent two dogs to the wrong destinations.",
+        "D": "It had two of its domestic flights mixed up."
+      },
+      "stem_cn": "新闻报道关于美国联合航空公司说了什么?",
+      "options_cn": {
+        "A": "在一架飞往德克萨斯州某城市的飞机上发现了一只宠物狗。",
+        "B": "其中一架货运飞机降落在了错误的机场。",
+        "C": "将两只狗送到了错误的目的地。",
+        "D": "将其两个国内航班搞混了。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What did the spokesperson for United Airlines say they would do after the incident?",
+      "options": {
+        "A": "Correct their mistake as soon as possible.",
+        "B": "Give the two pets a physical checkup.",
+        "C": "Hire a charter jet to bring the pets back.",
+        "D": "Send another plane to continue the flight."
+      },
+      "stem_cn": "美国联合航空公司的发言人表示事件发生后他们会做什么?",
+      "options_cn": {
+        "A": "尽快纠正他们的错误。",
+        "B": "给这两只宠物做身体检查。",
+        "C": "租用包机把宠物送回来。",
+        "D": "派另一架飞机继续该航班。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What do we learn about the mother elephant Semba?",
+      "options": {
+        "A": "She weighs 130 kilograms.",
+        "B": "She has had babies before.",
+        "C": "She was brought from Africa.",
+        "D": "She has a big family of six."
+      },
+      "stem_cn": "关于母象Semba我们了解到什么?",
+      "options_cn": {
+        "A": "她体重130公斤。",
+        "B": "她以前生过小象。",
+        "C": "她是从非洲带来的。",
+        "D": "她有一个六口之家的大家庭。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What does the report say about the birth of the new baby elephant?",
+      "options": {
+        "A": "It took 22 hours.",
+        "B": "It had some complications.",
+        "C": "It was smooth.",
+        "D": "It was monitored by Dr. Sue Tygielski."
+      },
+      "stem_cn": "报道中关于新生小象的出生说了什么?",
+      "options_cn": {
+        "A": "花了22小时。",
+        "B": "有一些并发症。",
+        "C": "很顺利。",
+        "D": "由Sue Tygielski博士监护。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What do we learn about the restaurant?",
+      "options": {
+        "A": "It enjoyed great popularity.",
+        "B": "It started business three years ago.",
+        "C": "It was frequented by newly-weds.",
+        "D": "It was built above the sea-water."
+      },
+      "stem_cn": "关于这家餐厅我们了解到什么?",
+      "options_cn": {
+        "A": "它非常受欢迎。",
+        "B": "它三年前开始营业。",
+        "C": "它经常有新婚夫妇光顾。",
+        "D": "它建在海面上。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What did the restaurant manager decide to do recently?",
+      "options": {
+        "A": "Expand his business on the beach.",
+        "B": "Replace the restaurant's wooden deck.",
+        "C": "Post a picture of his restaurant online.",
+        "D": "Celebrate his silver wedding anniversary."
+      },
+      "stem_cn": "这家餐厅的经理最近决定做什么?",
+      "options_cn": {
+        "A": "在海滩上扩展他的生意。",
+        "B": "更换餐厅的木质平台。",
+        "C": "在网上发布他餐厅的照片。",
+        "D": "庆祝他的银婚纪念日。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What did the waitress do about the recovered ring?",
+      "options": {
+        "A": "She sold it for two thousand dollars.",
+        "B": "She took it to the restaurant manager.",
+        "C": "She posted its picture on Facebook.",
+        "D": "She returned it to its owner right away."
+      },
+      "stem_cn": "女服务员对找回的戒指做了什么?",
+      "options_cn": {
+        "A": "她以两千美元的价格把它卖了。",
+        "B": "她把它交给了餐厅经理。",
+        "C": "她在Facebook上发布了它的照片。",
+        "D": "她立即把它归还给了失主。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What does the woman find unbelievable?",
+      "options": {
+        "A": "The number of ducks has declined sharply in recent years.",
+        "B": "Climate change has little effect on the lives of wild ducks.",
+        "C": "Duck meat is not eaten in Australia, Canada and the U.S.",
+        "D": "Duck hunting remains legal in many parts of the world."
+      },
+      "stem_cn": "女士认为什么难以置信？",
+      "options_cn": {
+        "A": "近年来鸭子的数量急剧下降。",
+        "B": "气候变化对野鸭的生活影响甚微。",
+        "C": "在澳大利亚、加拿大和美国不吃鸭肉。",
+        "D": "在世界许多地方捕猎鸭子仍然是合法的。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What does the woman say has caused the shrinking of ducks' habitats in Australia?",
+      "options": {
+        "A": "Droughts.",
+        "B": "Bushfires.",
+        "C": "Farming.",
+        "D": "Hunting."
+      },
+      "stem_cn": "女士说是什么导致了澳大利亚鸭子栖息地的缩小？",
+      "options_cn": {
+        "A": "干旱。",
+        "B": "丛林火灾。",
+        "C": "农业耕作。",
+        "D": "捕猎。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "Why is there no commercial farming of ducks and geese in Western countries?",
+      "options": {
+        "A": "They are not easy to domesticate.",
+        "B": "Their meat is not that popular.",
+        "C": "It is not environmentally friendly.",
+        "D": "It is not considered cost-effective."
+      },
+      "stem_cn": "为什么西方国家没有鸭子和鹅的商业化养殖？",
+      "options_cn": {
+        "A": "它们不容易驯化。",
+        "B": "它们的肉不那么受欢迎。",
+        "C": "这不环保。",
+        "D": "这被认为不具成本效益。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the woman say about farmers in her grandfather's time?",
+      "options": {
+        "A": "They hunted ducks as a traditional sport.",
+        "B": "They killed wild ducks and geese for food.",
+        "C": "They raised ducks and geese for their eggs.",
+        "D": "They poisoned wild ducks in large numbers."
+      },
+      "stem_cn": "女士对她祖父那个时代的农民说了什么？",
+      "options_cn": {
+        "A": "他们把捕猎鸭子作为一项传统运动。",
+        "B": "他们猎杀野鸭和野鹅作为食物。",
+        "C": "他们饲养鸭子和鹅以获取蛋。",
+        "D": "他们大量毒杀野鸭。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What is the woman planning to do?",
+      "options": {
+        "A": "Have her house repainted.",
+        "B": "Replace some of her old furniture.",
+        "C": "Move into a newly-painted house.",
+        "D": "Calculate the cost of the paint job."
+      },
+      "stem_cn": "这位女士计划做什么?",
+      "options_cn": {
+        "A": "让人重新粉刷她的房子。",
+        "B": "更换她的一些旧家具。",
+        "C": "搬进一所新粉刷的房子。",
+        "D": "计算粉刷工作的费用。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What is the woman's chief concern?",
+      "options": {
+        "A": "How long the work will take.",
+        "B": "How much the work will cost.",
+        "C": "How the paint job is to be done.",
+        "D": "How many workers are needed."
+      },
+      "stem_cn": "这位女士最关心的是什么?",
+      "options_cn": {
+        "A": "这项工作需要多长时间。",
+        "B": "这项工作需要花费多少钱。",
+        "C": "粉刷工作将如何进行。",
+        "D": "需要多少工人。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the woman have to do while the paint job is being done?",
+      "options": {
+        "A": "Cover up her furniture.",
+        "B": "Ask some friends for help.",
+        "C": "Stay somewhere else.",
+        "D": "Oversee the work herself."
+      },
+      "stem_cn": "在粉刷工作进行期间,这位女士必须做什么?",
+      "options_cn": {
+        "A": "把她的家具盖起来。",
+        "B": "请一些朋友帮忙。",
+        "C": "待在别的地方。",
+        "D": "亲自监督工作。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What has the woman come to realize at the end of the conversation?",
+      "options": {
+        "A": "She could have asked a friend for help with the paint job.",
+        "B": "Painting a house involves more trouble than she thought.",
+        "C": "She should have repainted her house much earlier.",
+        "D": "Moving her furniture is harder than the paint job."
+      },
+      "stem_cn": "在对话结束时,这位女士意识到了什么?",
+      "options_cn": {
+        "A": "她本可以请朋友帮忙做粉刷工作。",
+        "B": "粉刷房子涉及的麻烦比她想象的多。",
+        "C": "她应该早得多就重新粉刷她的房子。",
+        "D": "搬动她的家具比粉刷工作更困难。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What is the main aim of homework for primary school kids?",
+      "options": {
+        "A": "To cultivate good habits.",
+        "B": "To prepare for secondary school.",
+        "C": "To review what is learned in class.",
+        "D": "To stimulate interest in learning."
+      },
+      "stem_cn": "小学生家庭作业的主要目的是什么?",
+      "options_cn": {
+        "A": "培养良好的习惯。",
+        "B": "为中学做准备。",
+        "C": "复习课堂上学到的内容。",
+        "D": "激发学习兴趣。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does the passage suggest parents do to help their children?",
+      "options": {
+        "A": "Discuss their academic achievements with them.",
+        "B": "Create an ideal study environment for them.",
+        "C": "Allow them to learn independently.",
+        "D": "Check their homework promptly."
+      },
+      "stem_cn": "文章建议家长做什么来帮助孩子?",
+      "options_cn": {
+        "A": "与孩子讨论他们的学业成绩。",
+        "B": "为孩子创造理想的学习环境。",
+        "C": "允许孩子独立学习。",
+        "D": "及时检查孩子的家庭作业。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What should children do to deal with multiple assignments?",
+      "options": {
+        "A": "Finish them before they get tired.",
+        "B": "Tackle the most difficult task first.",
+        "C": "Start with something they enjoy.",
+        "D": "Focus on the most important ones."
+      },
+      "stem_cn": "孩子应该如何处理多项作业?",
+      "options_cn": {
+        "A": "在感到疲劳之前完成作业。",
+        "B": "先处理最困难的任务。",
+        "C": "从自己喜欢的内容开始。",
+        "D": "专注于最重要的作业。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "Who will qualify for the bonus in Mexican oil company?",
+      "options": {
+        "A": "Workers who meet its body weight standards.",
+        "B": "Workers who can lose 30 pounds in a year.",
+        "C": "Workers who try the hardest to lose weight.",
+        "D": "Workers who are in the top 10% of the slimmest."
+      },
+      "stem_cn": "谁将有资格获得墨西哥石油公司的奖金?",
+      "options_cn": {
+        "A": "符合其体重标准的员工。",
+        "B": "一年内能减掉30磅的员工。",
+        "C": "最努力减肥的员工。",
+        "D": "体重最轻的前10%的员工。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What do critics think of Mexican oil company's bonus policy?",
+      "options": {
+        "A": "Impractical.",
+        "B": "Inconsistent.",
+        "C": "Unmanageable.",
+        "D": "Unfair."
+      },
+      "stem_cn": "批评者如何看待墨西哥石油公司的奖金政策?",
+      "options_cn": {
+        "A": "不切实际。",
+        "B": "前后矛盾。",
+        "C": "难以管理。",
+        "D": "不公平。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What do experts propose companies do about workers' wellbeing?",
+      "options": {
+        "A": "Offer them much fatter bonuses.",
+        "B": "Improve working environment.",
+        "C": "Encourage healthy behaviors.",
+        "D": "Provide free lunch and snacks."
+      },
+      "stem_cn": "专家建议公司如何对待员工福祉?",
+      "options_cn": {
+        "A": "向他们提供更丰厚的奖金。",
+        "B": "改善工作环境。",
+        "C": "鼓励健康行为。",
+        "D": "提供免费午餐和零食。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "Why are some people criticizing the British government?",
+      "options": {
+        "A": "It has not done enough to help left-handed children.",
+        "B": "It has treated left-handed children as being disabled.",
+        "C": "It has not built facilities specially for the left-handed.",
+        "D": "It has ignored campaigns on behalf of the left-handed."
+      },
+      "stem_cn": "为什么有些人批评英国政府?",
+      "options_cn": {
+        "A": "英国政府在帮助左撇子儿童方面做得不够。",
+        "B": "英国政府把左撇子儿童当作残疾人对待。",
+        "C": "英国政府没有专门为左撇子建造设施。",
+        "D": "英国政府忽视了代表左撇子的运动。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What do studies in recent years show about left-handed children?",
+      "options": {
+        "A": "They are as intelligent as other children.",
+        "B": "They have a distinctive style of handwriting.",
+        "C": "They sometimes have psychological problems.",
+        "D": "They tend to have more difficulties in learning."
+      },
+      "stem_cn": "近年来的研究显示左撇子儿童有什么特点?",
+      "options_cn": {
+        "A": "他们和其他儿童一样聪明。",
+        "B": "他们有独特的书写风格。",
+        "C": "他们有时会有心理问题。",
+        "D": "他们在学习方面往往有更多困难。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What do the campaigners demand the department of education do?",
+      "options": {
+        "A": "Punish teachers discriminating against left-handed students.",
+        "B": "Lay more emphasis on improving children's mental health.",
+        "C": "Encourage students to develop various professional skills.",
+        "D": "Keep track of left-handed children's school performance."
+      },
+      "stem_cn": "运动人士要求教育部门做什么?",
+      "options_cn": {
+        "A": "惩罚歧视左撇子学生的教师。",
+        "B": "更加重视改善儿童的心理健康。",
+        "C": "鼓励学生发展各种专业技能。",
+        "D": "跟踪左撇子儿童的学业表现。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What do the campaigners want to know about left-handed prisoners?",
+      "options": {
+        "A": "How they can be reduced in number.",
+        "B": "Why their numbers are so high.",
+        "C": "What percentage they account for.",
+        "D": "If their percentage keeps increasing."
+      },
+      "stem_cn": "运动人士想了解左撇子囚犯的什么情况?",
+      "options_cn": {
+        "A": "如何减少他们的数量。",
+        "B": "为什么他们的数量如此之高。",
+        "C": "他们占的百分比是多少。",
+        "D": "他们的百分比是否持续增加。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "acknowledge",
+    "B": "assess",
+    "C": "confused",
+    "D": "endure",
+    "E": "extremely",
+    "F": "genius",
+    "G": "highly",
+    "H": "permanent",
+    "I": "possess",
+    "J": "presence",
+    "K": "puzzled",
+    "L": "status",
+    "M": "surprising",
+    "N": "thoroughly",
+    "O": "unique"
+  },
+  "cloze_passage": "Many people believe that passion and commitment are the foundations of strong romantic relationships. But a relationship is made of two 26 individuals. And the personality traits(特性) these individuals 27 or lack can often make a relationship more or less likely to 28 . Recent research has found that one trait in particular—humility(谦逊)—is an important indicator of successful relationships.\nHumility can sometimes be 29 with a lack of confidence. But researchers have come to realize that being humble generally indicates the 30 of deeply admirable personal qualities. Being humble means you have the ability to accurately 31 your deficiencies without denying your skills and strengths. For example, you might recognize that you are intelligent, but realize that you are not a 32 . Thus, humility leads to an honest view of one's own advantages and shortcomings. Humble people do not ignore, avoid, or try to deny their limits or deficiencies. They can 33 mistakes, see value in things that are far from perfect and identify areas for improvement.\nPerhaps it is not 34 , then, that humility appears to be a huge asset to relationships. One study found that people tend to rate this quality 35 in their spouse. The study also found that someone who is humble is more likely to initiate a romantic relationship, perhaps because they are less likely to see themselves as \"too good\" for someone else. Thus, a humble partner might be your ideal partner.",
+  "long_reading_passage": "A) \"I used to work very hard. I love to create things, grow them and solve problems,\" said Meng Li, a successful app developer in San Francisco. \"I didn't really care about my mind and my body until they decided to go on strike.\"\nB) Ms. Li said her stress led to sleeplessness. When she did sleep, she experienced \"problem-solving dreams,\" which left her feeling unrested when she woke up. \"After I became a first-time mother, I quickly realized I was so busy caring for other people and work that I felt like I'd lost myself,\" she said.\nC) It's a common story—one we frequently ridicule and readily dismiss, for example, by claiming that women tend to complain more than men, despite the growing sum of research that underlines the problem. Women are twice as likely to suffer from severe stress and anxiety as men, according to a 2016 study published in The Journal of Brain & Behavior. The American Psychological Association reports a gender gap year after year showing that women consistently report higher stress levels. Clearly, a stress gap exists.\nD) \"The difference is not really news to me, as a clinical psychologist,\" said Erin Joyce, a women and couples therapist in Los Angeles. \"It's been well documented in extensive research over the years that prevalence rates for the majority of the anxiety disorders are higher in women than men.\" Some people may argue that this is merely reported data, and they say many men feel the same pressures as women in terms of fulfilling responsibilities at work and home. In other words, we're all really, really stressed.\nE) \"The difference, however, is in the nature and scope of these responsibilities in the home environment in particular,\" Dr. Joyce said. For example, the United Nations reported that women do nearly three times as much unpaid domestic work as men. The problem is, housework is often overlooked as work, even though it is often as laborious (or in some cases, more so) as any paid job. As the scholar Silvia Federici put it in 1975, the unpaid nature of domestic work reinforces the assumption that \"housework is not work, thus preventing women from struggling against it.\"\nF) It's not just inside the home, though. Research from Nova Southeastern University found that female managers were more likely than male managers to display \"surface acting,\" or forcing emotions that are not wholly felt. \"They expressed optimism, calmness and sympathy even when these were not the emotions that they were actually feeling,\" the study said.\nG) Surface acting is a prime example of \"emotional labor,\" a concept that the writer Jess Zimmerman made familiar in a 2015 essay. The essay sparked a massive thread on the internet community blog MetaFilter. Hundreds of women spoke up about their own experience with emotional labor: the duties that are expected of them, but go unnoticed. These invisible duties become apparent only when you don't do them. Like domestic labor, emotional labor is generally dismissed and not labeled work. But research shows it can be just as exhausting as paid work. Emotional labor can lead to difficulty in sleeping and family conflict. Sure, circumstantial stress, like losing a job, may lead to these same issues. But emotional labor is not circumstantial. It's an enduring responsibility based on the socialized gender role of women.\nH) Like Ms. Li, many women try to manage the added stress to reach what Dr. Joyce said was an unattainable ideal. \"Some professional women aim to do it all. They want to reach the top of the corporate ladder and fly like supermom,\" she said. When women don't reach this ideal, they feel guilty; and even more stressed. After her own struggle with this, Ms. Li took a step back and used her experience to build Sanity & Self, a self-care app and platform for overworked women. \"The realizations I had in that process helped me gain insights and ultimately got me ready to integrate self-care into my daily life,\" she said.\nI) The stress problem extends beyond mental health when you consider the link between stress, anxiety and heart health. Worse, most of what we know about heart disease comes from studies involving men. However, \"there are many reasons to think that it's different in women,\" Harvard Medical School reported. For example, women are more likely to experience disturbed sleep, anxiety and unusual fatigue before a heart attack. Stress is so normalized that it is easy for women to shrug off those symptoms as simply the consequences of stress. Many women also do not experience chest pain before a heart attack the way men do, which leads to fewer women discovering problematic heart issues. Harvard reports that women are \"much more likely than men to die within a year of having a heart attack\" and \"many women say their physicians sometimes don't even recognize the symptoms.\"\nJ) The good news is, women are more likely than men to take charge of their stress and manage it, the American Psychological Association reports. The concept of self-care, at its core, is quite simple. \"The basics of adequate sleep, healthy diet and exercise are a good place to start,\" Dr. Joyce said. \"Support from trusted relationships is vital. This includes professional support from various health and wellness providers if stress is becoming increasingly overwhelming.\"\nK) Disconnecting from work and home responsibilities is also obviously important. But it's much easier said than done. It is important to understand what causes your stress in the first place. \"Get really specific with what's stressing you out,\" Ms. Li said. \"We often chalk up our stress to broad experiences like work. But work stress can take many different forms. Is a colleague being disrespectful of your time? Is a boss undermining your day-to-day control over decision making? These are different causes of stress and can benefit from different kinds of self-care.\"\nL) Ideally, your spouse or partner will be supportive, rather than dismissive, of your stress. It is important to talk through these issues before they come to a head. \"Women working outside of the home should make an effort to have a conscious conversation with their partners about more equitable sharing of household and family responsibilities,\" Dr. Joyce said.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "As many office workers adapt to remote work, cities may undergo fundamental change if offices remain under-utilized. Who will benefit if working from home becomes the norm?\nEmployers argue they make considerable savings on real estate when workers shift from office to home work. However, these savings result from passing costs on to workers.\nUnless employees are fully compensated, this could become a variant of parasitic(寄生的) capitalism, whereby corporate profits increasingly rely on extracting value from the public—and now personal—realm, rather than on generating new value.\nThough employers are backed by a chorus of remote work advocates, others note the loneliness, reduced productivity and inefficiencies of extended remote work.\nIf working from home becomes permanent, employees will have to dedicate part of their private space to work. This requires purchasing desks, chairs and office equipment.\nIt also means having private space dedicated to work: the space must be heated, cleaned, maintained and paid for. That depends on many things, but for purposes of illustration, I have run some estimates for Montreal. The exercise is simple but important, since it brings these costs out of the realm of speculation into the realm of meaningful discussion.\nRough calculations show that the savings made by employers when their staff works from home are of similar value to the compensation workers should receive for setting up offices at home.\nWhat does this mean for offices in cities? One of two things may happen: Employers pass these costs onto employees. This would be a form of expropriation(侵占), with employees absorbing production costs that have traditionally been paid by the employer. This represents a considerable transfer of value from employees to employers.\nWhen employees are properly compensated, employers' real estate savings will be modest. If savings are modest, then the many advantages of working in offices—such as lively atmosphere, rapidity of communication, team-building and acclimatization(适应环境) of new employees—will encourage employers to shelve the idea of remote work and, like Yahoo in 2013, encourage employees to work most of the time from corporate office space.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "It will become the norm sooner or later.",
+        "B": "It requires employees to adapt promptly.",
+        "C": "It benefits employers at the expense of employees.",
+        "D": "It will force cities to transform their infrastructure."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "It discourages team spirit.",
+        "B": "It invades employees' privacy.",
+        "C": "It undermines traditional values.",
+        "D": "It negatively impacts productivity."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "To provide convincing data for serious discussion.",
+        "B": "To illustrate the ongoing change in working patterns.",
+        "C": "To show the impact of remote working on productivity.",
+        "D": "To exemplify how remote working affects the economy."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "There is no point in transferring office work to working from home.",
+        "B": "Employees can benefit as much from remote working as their employers.",
+        "C": "Employers' gain from remote working should go to employees as compensation.",
+        "D": "Effective measures should be taken to motivate employees to set up offices at home."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "It should be avoided if possible.",
+        "B": "It is only a temporary measure.",
+        "C": "It can reduce companies' real estate costs.",
+        "D": "It may affect employees' corporate loyalty."
+      }
+    }
+  ],
+  "reading_passage_2": "The human thirst for knowledge is the driving force behind our successful development as a species. But curiosity can also be dangerous, leading to setbacks or even downfalls. Given curiosity's complexity, scientists have found it hard to define.\nWhile pinning down a definition has proven tricky, the general consensus is it's some means of information gathering. Psychologists also agree curiosity is intrinsically(内在地) motivated.\nCuriosity covers such a large set of behaviors that there probably isn't any single \"curiosity gene\" that makes humans wonder about and explore their environment. That said, curiosity does have a genetic component. Genes and the environment interact in many complex ways to shape individuals and guide their behavior, including their curiosity.\nRegardless of their genetic makeup, infants have to learn an incredible amount of information in a short time, and curiosity is one of the tools humans have found to accomplish that gigantic task.\nHundreds of studies show that infants prefer novelty. It's what motivates non-human animals, human infants and probably human adults to explore and seek out new things before growing less interested in them after continued exposure.\nBut curiosity often comes with a cost.\nIn some situations, the stakes are low and failure is a healthy part of growth. For instance, many babies are perfectly proficient crawlers, but they decide to try walking because there's more to see and do when they stand upright. But this milestone comes at a small cost. A study of 12- to 19-month-olds learning how to walk documented that these children fell down a lot. Seventeen times per hour, to be exact. But walking is faster than crawling, so this motivates expert crawlers to transition to walking.\nSometimes, however, testing out a new idea can lead to disaster. For instance, the Inuit people of the Arctic regions have created incredible modes to deal with the challenges of living in northern climates, but what we forget about are the tens of thousands of people that tried and failed to make it in those challenging landscapes.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "It is too complex for non-scientists to understand.",
+        "B": "It is the force that pushes human society forward.",
+        "C": "It is a unique trait specific to the human race.",
+        "D": "It is often the major cause for human failures."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "It motivates people to seek information.",
+        "B": "It is destined to transform human genes.",
+        "C": "It does people more good than harm.",
+        "D": "It underlies all human behaviors."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "They determine people's way of thinking.",
+        "B": "They account for age differences in learning.",
+        "C": "They enable people to undertake massive tasks.",
+        "D": "They work in conjunction with the environment."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "They are far more curious than adults.",
+        "B": "They prefer to go after all that is novel.",
+        "C": "They have different interests than adults.",
+        "D": "They show non-human animal behaviors."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "The cost of humans' curiosity to explore.",
+        "B": "The incredible harshness of cold weather.",
+        "C": "The innovative ideas stemming from curiosity.",
+        "D": "The importance of learning from past failures."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2021年12月·第1套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 大运河 (Grand Canal) 是世界上最长的人工河，北起北京，南至杭州。它是中国历史上最宏伟的工程之一。大运河始建于公元前4世纪，公元13世纪末建成。修建之初是为了运输粮食，后来也用于运输其他商品。大运河沿线区域逐渐发展成为中国的工商业中心。长久以来，大运河对中国的经济发展发挥了重要作用，有力地促进了南北地区之间的人员往来和文化交流。",
+  "answers": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "C",
+    "5": "D",
+    "6": "B",
+    "7": "C",
+    "8": "D",
+    "9": "A",
+    "10": "B",
+    "11": "D",
+    "12": "A",
+    "13": "B",
+    "14": "C",
+    "15": "B",
+    "16": "A",
+    "17": "B",
+    "18": "C",
+    "19": "A",
+    "20": "D",
+    "21": "C",
+    "22": "A",
+    "23": "D",
+    "24": "D",
+    "25": "B",
+    "26": "O",
+    "27": "I",
+    "28": "D",
+    "29": "C",
+    "30": "J",
+    "31": "B",
+    "32": "F",
+    "33": "A",
+    "34": "M",
+    "35": "G",
+    "36": "H",
+    "37": "E",
+    "38": "C",
+    "39": "K",
+    "40": "F",
+    "41": "I",
+    "42": "B",
+    "43": "G",
+    "44": "J",
+    "45": "D",
+    "46": "C",
+    "47": "D",
+    "48": "A",
+    "49": "C",
+    "50": "A",
+    "51": "B",
+    "52": "A",
+    "53": "D",
+    "54": "B",
+    "55": "A"
+  },
+  "listening_script": {
+    "en": "United Airlines has apologised for mistakenly shipping an American family's pet dog thousands of miles in the wrong direction to Japan.\nThe dog owner's beloved 10-year-old dog named Buddy took an unexpected 16-hour flight to Tokyo following a mix-up by the airline.\nThe dog owner's family are currently in the process of moving. They were meant to be reunited with the pet in their new home city in Texas.\nBut when they arrived at the United Airlines cargo facility in the southern U.S. state, they found a stranger's dog waiting in Buddy's place.\nBoth of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead.\nBuddy was given a physical checkup when he arrived at Tokyo's International Airport. The dog was then sent back to the U.S. on a private charter jet.\n\"I'm so glad he's alive and coming home soon!\" said the relieved dog owner.\n\"And an error occurred during the connections in Denver. We have notified our customers that their pets arrived safely. We will arrange to return the pets to them as soon as possible,\" a spokesperson of United Airlines said.\nOfficials at Reid Park Zoo in Tucson Arizona are celebrating the birth of a baby elephant. Zoo officials say the baby was born on Monday. It is a female and she weighs nearly 130 kilograms.\nSemba, her mother, is a 30-year-old African elephant. The pregnancy lasted 22 months.\nOfficials describe the baby elephant as \"healthy, standing and nursing\".\nThe baby hasn't been given a name yet.\nSemba has given birth before. Zoo officials said during this pregnancy, she was closely monitored through physical exams and blood tests.\nDr. Sue Tygielski is the zoo's director of zoological operations. She said the elephant's birth went smoothly and that there were no complications.\nThe new baby expands the zoo's elephant herd to six. That includes the baby's parents, a sister, a brother and an adult female.\nThree years ago, a couple was enjoying a meal at a beach restaurant. The restaurant was built on a wooden structure above the sea-water. During the meal, the man's wedding ring slipped off his finger. It fell through the wooden floorboards, apparently lost forever.\nRecently, the restaurant manager Ryan Krivoy decided to replace the wooden deck and he found an old gold coin, some $100 bills and a silver wedding ring while replacing the deck.\nThe restaurant waitress Sasha Formica posted a picture of the ring on Facebook. The post was shared about 5,000 times.\nThree days later, the happy wife called to claim the ring. She even texted pictures of her and her husband eating there in 2017 as proof.\nThe restaurant mailed the ring back to the happy couple. Meanwhile, Krivoy discovered that the gold coin was very rare. It was from 1855 and worth as much as $2,000.\nW: I can't believe that duck hunting is still legal in so many parts of the world. The scientific evidence from countries like Australia, Canada and the USA clearly indicates a decline in the birds' numbers.\nM: But can anyone be sure if the decline is really caused by the hunting or by climate change?\nW: It's caused by both in fact. We see more droughts in countries like Australia. Ducks are birds that feed and breed in areas where there is a lot of water, but their habitats have been shrinking in recent decades because of the droughts.\nM: And I guess with fewer places to inhabit, they concentrate in greater numbers in few areas, which surely makes them easier targets for the hunters.\nW: It does. My grandfather was a duck hunter. He told me hunting ducks and geese began in the 19th century. They were easily found and a plentifully available food source in farming areas, especially for poor immigrants.\nM: What do they use for hunting during that period?\nW: They use new types of guns, and birds could easily be shot down in flight. And in such great numbers, their commercial hunting of ducks and geese became an industry. Yet, there's no commercial farming of these birds nowadays. Their meat is hardly eaten in Western countries.\nM: No, duck hunting seemingly exists as the continuation of a tradition.\nW: Well, ducks have never been popular with farmers like my grandfather anyway because they sometimes destroy crops. In fact, farmers used to poison them in large numbers.\nM: That somehow doesn't surprise me. Nobody places much value on the lives of these poor birds or on their meat.\nM: Okay, Miss Bright. I've finished calculating. I estimate you have between 210 and 240 square meters of walls and ceiling.\nW: So, how much would the paint job cost?\nM: That would depend on the quality of paint you choose. We carry two brands. One costs 60 cents every square meter, and the other 90 cents. The second is guaranteed to look great for about 10 years, whereas the cheaper one will start to dull after around six or seven years.\nW: In that case, we would prefer the more expensive option.\nM: All right, then. So including labor costs, taxes, and everything, this job would come to $3,000.\nW: Um, to be perfectly honest, that's more than I expected.\nM: Please bear in mind that the price includes moving all the furniture, and the whole task would take two days.\nW: Really? Why?\nM: Well, we can't paint the walls without clearing all the furniture first. So every time we paint a room, we first have to move the furniture to another room. So that takes more time. Plus, it requires two people, which works out more expensive.\nW: I see. But does that mean I could not live here in my own house during those two days?\nM: That is correct.\nW: Oh well, that changes everything, I'm afraid. I would have to stay with a friend or check into a hotel. I hadn't considered any of that. I'm starting to realize that painting my house is far more troublesome than I had anticipated.\nM: This is usually the case. Most of our clients go through the same realization.\nW: I see.\nM: You have my number. Please feel free to call me for any further questions.\nW: Thank you.\nHomework is an important part of schooling, but the purposes of giving children homework will change as they grow older. At the primary level, the main aim is to cultivate good habits, like learning to plan and exercising self-discipline. During the secondary school years, extending what is learned at school is positively related to academic achievement, so the content of homework becomes more important.\nSo how can you help your child do their best?\nCreating an ideal working environment will make it easier for them to get down to their assignments quickly. Make sure it's free of distractions, and for primary school children at least somewhere near you, so you can answer questions and offer encouragement.\nYou probably have to help younger children plan their session, but it's important that by the end of primary school it's second nature. Get them to tell you everything they have to do. Then encourage them to establish an order in which they do work.\nWhen there are several different assignments, make sure they begin with one they enjoy, so it seems easy to get started. It's best to take on the most difficult task second once they're settled, but before they get tired.\nIf older children have more than an hour of homework, encourage them to schedule a short break to stretch.\nIf you encourage them to tell you what they've learned, they'll absorb the information more deeply and remember it more readily.\nWorkers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards. To qualify for the bonus, they must maintain a healthy weight. For those who are overweight or obese, they could receive the bonus if they reduce their weight by 10% during the year.\nSome applaud the policy as fair, because it rewards both the individuals who maintain a healthy weight and those who are working towards achieving it.\nBut critics say the policy contradicts recommendations by many health experts, who warn that a person's weight is influenced by genetic and environmental factors. That means weight can be hard for individuals to control, which makes the bonus unfair.\nSome experts say the policy is inconsistent with the science of what we know about body weight regulation. These experts argue that focusing on wage is the wrong approach. A more productive method of encouraging health among employees is to promote healthy behaviors. For example, companies can give workers gym memberships, or encourage participation in lectures on healthy eating and living. They can also reduce sweets and provide healthier snacks in the office and healthier meals at the company canteen. Or they can give employees more time during their lunch break to exercise. These are much better and much more productive ways for companies to move forward on their employees' wellbeing.\nCampaigners have warned that the British government is not doing enough to prevent left-handed pupils from falling behind their peers. They claim that thousands of children are still being \"penalized\" for being left-handed. This is due to a lack of action from ministers, who've failed to take any meaningful action for years.\nIt is feared that a failure to address early-year challenges, such as poor handwriting, leads to much more serious problems down the line—with these pupils facing reduced career prospects.\nStudies in recent years show that left-handed children are more likely to suffer with learning difficulties and their scores are lower on IQ tests.\nCampaigners feel it's strange that children in British schools are penalized because they happen to be left-handed. They don't understand why successive governments have failed to act on this. They want the department of education to record which children are left-handed and what their educational attainments are, since they make up some 10% of the population.\nIn early-year education, left-handed children are struggling and making a mess of their handwriting. Educators don't know how to deal with this. In many cases, there is no active help and a lack of teacher training. Campaigners point out that a high percentage of the prison population is left-handed. They say that these prison numbers are unusually high and ask why it is the case.",
+    "cn": "美国联合航空公司为误将一个美国家庭的宠物狗运送到数千英里外的日本方向而道歉。\n狗主人心爱的10岁狗狗名叫Buddy,由于航空公司的失误,意外搭乘了16小时的航班飞往东京。\n狗主人一家目前正在搬家过程中。他们原本应该在得克萨斯州的新家与宠物团聚。\n但当他们到达美国南部州的美国联合航空公司货运设施时,发现一只陌生的狗在Buddy的位置等待。\n这两只狗都在丹佛转机时被送到了错误的目的地,Buddy被错误地送到了日本。\nBuddy抵达东京国际机场后接受了身体检查。随后这只狗被用私人包机送回美国。\n\"我太高兴了,它还活着并且很快就要回家了!\"如释重负的狗主人说。\n\"在丹佛转机期间发生了一个错误。我们已通知客户他们的宠物安全抵达。我们将尽快安排将宠物送还给他们。\"美国联合航空公司发言人表示。\n亚利桑那州图森市Reid Park动物园的官员们正在庆祝一头小象的诞生。动物园官员表示,这头小象于周一出生。它是雌性,体重近130公斤。\n它的母亲Semba是一头30岁的非洲象。怀孕期持续了22个月。\n官员们描述这头小象\"健康、能站立并在哺乳\"。\n这头小象还没有被命名。\nSemba之前曾生育过。动物园官员表示,在这次怀孕期间,通过身体检查和血液测试对她进行了密切监测。\nSue Tygielski博士是该动物园的动物运营总监。她表示大象的分娩过程顺利,没有出现并发症。\n这头新生小象使动物园的大象群扩大到六头。其中包括小象的父母、一个姐姐、一个哥哥和一头成年雌象。\n三年前,一对夫妇在一家海滩餐厅用餐。这家餐厅建在海面上的木质结构上。用餐期间,男士的结婚戒指从手指上滑落了。它掉进了木地板的缝隙里,看似永远丢失了。\n最近,餐厅经理Ryan Krivoy决定更换木质甲板,在更换甲板时他发现了一枚古老的金币、一些100美元的钞票和一枚银质结婚戒指。\n餐厅女服务员Sasha Formica在Facebook上发布了这枚戒指的照片。这条帖子被分享了大约5000次。\n三天后,这位高兴的妻子打电话来认领戒指。她甚至发送了她和丈夫2017年在那里用餐的照片作为证明。\n餐厅将戒指邮寄回给了这对幸福的夫妇。与此同时,Krivoy发现那枚金币非常罕见。它来自1855年,价值高达2000美元。\nW: 我真不敢相信在世界上这么多地方猎鸭仍然是合法的。来自澳大利亚、加拿大和美国等国家的科学证据清楚地表明这些鸟类的数量正在下降。\nM: 但是有人能确定这种下降真的是由狩猎引起的还是由气候变化引起的吗?\nW: 实际上两者都有影响。我们在澳大利亚这样的国家看到更多的干旱。鸭子是在有大量水源的地区觅食和繁殖的鸟类,但近几十年来由于干旱,它们的栖息地一直在缩小。\nM: 我猜随着可居住的地方越来越少,它们会更集中地聚集在少数几个区域,这肯定让它们更容易成为猎人的目标。\nW: 确实如此。我祖父曾是个猎鸭人。他告诉我猎鸭和猎鹅始于19世纪。在农业地区它们很容易找到,是充足的食物来源,尤其对贫穷的移民来说。\nM: 那个时期他们用什么来狩猎?\nW: 他们使用新型枪支,鸟类在飞行中很容易被射下来。而且数量如此之多,对鸭子和鹅的商业狩猎成了一个产业。然而,现在已经没有这些鸟类的商业养殖了。在西方国家几乎没人吃它们的肉。\nM: 是的,猎鸭似乎只是作为一种传统的延续而存在。\nW: 其实,鸭子从来都不受像我祖父这样的农民欢迎,因为它们有时会破坏庄稼。事实上,农民过去常常大量毒杀它们。\nM: 这倒不让我意外。没人重视这些可怜鸟儿的生命,也不重视它们的肉。\nM: 好的，Bright小姐。我已经算完了。我估计您的墙面和天花板加起来有210到240平方米。\nW: 那么，刷漆要花多少钱？\nM: 这取决于您选择的油漆质量。我们有两个品牌。一种每平方米60美分，另一种90美分。第二种保证能保持大约10年的良好效果，而便宜的那种在六七年后就会开始褪色。\nW: 那样的话，我们更倾向于选贵一点的。\nM: 好的。那么包括人工费、税费和所有费用，这项工作总共需要3000美元。\nW: 嗯，说实话，这比我预期的要高。\nM: 请注意价格包括搬动所有家具，而且整个任务需要两天时间。\nW: 真的吗?为什么？\nM: 嗯，我们不清空家具就没法刷墙。所以每刷一个房间，我们都得先把家具搬到另一个房间。这样就需要更多时间。而且需要两个人，费用就更高了。\nW: 我明白了。但这是不是意味着这两天我不能住在自己家里？\nM: 没错。\nW: 哦，那恐怕一切都变了。我得去朋友家住或者住酒店。我之前都没考虑过这些。我开始意识到粉刷房子比我想象的麻烦得多。\nM: 通常都是这样。我们大多数客户都会有同样的感受。\nW: 明白了。\nM: 您有我的电话。如果有任何其他问题，请随时给我打电话。\nW: 谢谢。\n家庭作业是学校教育的重要组成部分,但给孩子布置作业的目的会随着他们年龄的增长而改变。在小学阶段,主要目的是培养良好的习惯,比如学会计划和锻炼自律。在中学阶段,拓展在学校学到的知识与学业成绩呈正相关,因此作业的内容变得更加重要。\n那么你如何帮助孩子做到最好呢?\n创造一个理想的学习环境会让他们更容易快速投入作业。确保环境没有干扰,至少对小学生来说要在你附近的某个地方,这样你就能回答问题并给予鼓励。\n你可能需要帮助年幼的孩子规划他们的学习时段,但重要的是到小学毕业时这应该成为自然而然的事情。让他们告诉你所有需要做的事情,然后鼓励他们确定完成作业的顺序。\n当有几项不同的作业时,确保他们从喜欢的作业开始,这样看起来容易上手。最好在他们进入状态后、但还没感到疲倦之前,第二个处理最难的任务。\n如果年龄较大的孩子有超过一小时的作业,鼓励他们安排一个短暂的休息时间来伸展身体。\n如果你鼓励他们告诉你学到了什么,他们会更深入地吸收信息并更容易记住它。\n墨西哥石油公司的员工如果达到特定体重标准，将获得每年近300美元的丰厚奖励。要获得这项奖金，他们必须保持健康体重。对于超重或肥胖的员工,如果在一年内减重10%,也可以获得该奖金。\n一些人赞扬这项政策公平合理,因为它既奖励保持健康体重的个人,也奖励那些正在努力实现这一目标的人。\n但批评者表示,这项政策与许多健康专家的建议相矛盾,这些专家警告说,一个人的体重受遗传和环境因素的影响。这意味着体重对个人来说很难控制,这使得这项奖金不公平。\n一些专家表示,这项政策与我们关于体重调节的科学知识不一致。这些专家认为,关注体重是错误的方法。鼓励员工健康的更有效方法是促进健康行为。例如,公司可以为员工提供健身房会员资格,或鼓励参加有关健康饮食和生活的讲座。他们还可以减少甜食,在办公室提供更健康的零食,在公司食堂提供更健康的餐食。或者他们可以在午休时间给员工更多时间锻炼。这些都是公司在员工福祉方面前进的更好、更有效的方式。\n活动人士警告称,英国政府在防止左撇子学生落后于同龄人方面做得不够。他们声称,成千上万的儿童仍因左撇子而受到\"惩罚\"。这是由于部长们缺乏行动,多年来未能采取任何有意义的措施。\n人们担心,如果不能解决早期阶段的挑战,例如书写能力差,会导致后续出现更严重的问题——这些学生将面临职业前景受限的困境。\n近年来的研究表明,左撇子儿童更容易出现学习困难,他们在智商测试中的得分也较低。\n活动人士认为奇怪的是,英国学校的儿童会因为恰好是左撇子而受到惩罚。他们不理解为什么历届政府都未能就此采取行动。他们希望教育部记录哪些儿童是左撇子以及他们的学业成绩如何,因为左撇子占人口的约10%。\n在早期教育中,左撇子儿童很吃力,把字写得一团糟。教育工作者不知道如何应对这一问题。在许多情况下,没有积极的帮助,也缺乏教师培训。活动人士指出,监狱人口中左撇子的比例很高。他们说这些监狱数字异常高,并询问为什么会出现这种情况。"
+  }
+}

@@ -1,0 +1,195 @@
+@use '@/styles/variables.scss' as *;
+
+.wrap {
+  padding: 0 $page-padding 48rpx;
+}
+
+// ---------- Hero ----------
+.hero {
+  border-radius: $radius-lg;
+  padding: 40rpx 32rpx 32rpx;
+  color: #fff;
+  background: linear-gradient(135deg, $color-primary 0%, $color-primary-dark 100%);
+  box-shadow: 0 8rpx 24rpx rgba(79, 124, 255, 0.28);
+  margin-bottom: $spacing-md;
+}
+
+.heroTitle {
+  display: block;
+  font-size: 36rpx;
+  font-weight: $font-weight-bold;
+  line-height: 1.4;
+}
+
+.heroSub {
+  display: block;
+  margin-top: 10rpx;
+  font-size: 22rpx;
+  opacity: 0.85;
+}
+
+.heroStats {
+  display: flex;
+  margin-top: 28rpx;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: $radius-md;
+  padding: 20rpx 0;
+}
+
+.heroStat {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heroNum {
+  font-size: 34rpx;
+  font-weight: $font-weight-bold;
+}
+
+.heroLabel {
+  margin-top: 6rpx;
+  font-size: 22rpx;
+  opacity: 0.85;
+}
+
+// ---------- 折叠卡片 ----------
+.card {
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  margin-bottom: $spacing-sm;
+  box-shadow: $shadow-card;
+  overflow: hidden;
+}
+
+.cardHead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 26rpx 28rpx;
+}
+
+.cardTitle {
+  flex: 1;
+  font-size: 30rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-primary-dark;
+}
+
+.arrow {
+  font-size: 32rpx;
+  color: $color-text-tertiary;
+  transition: transform $transition-base;
+}
+
+.arrowOpen {
+  transform: rotate(180deg);
+}
+
+.cardBody {
+  padding: 0 28rpx 28rpx;
+}
+
+.para {
+  display: block;
+  font-size: 26rpx;
+  color: $color-text-secondary;
+  line-height: 1.7;
+  margin-bottom: 16rpx;
+}
+
+.subTitle {
+  display: block;
+  margin: 24rpx 0 12rpx;
+  font-size: 28rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+}
+
+// ---------- 表格 ----------
+.table {
+  border: 1rpx solid $color-border;
+  border-radius: $radius-sm;
+  overflow: hidden;
+  margin: 16rpx 0;
+}
+
+.tr {
+  display: flex;
+  border-bottom: 1rpx solid $color-divider;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.th {
+  background: $color-bg-hover;
+
+  .td {
+    color: $color-primary-dark;
+    font-weight: $font-weight-semibold;
+    font-size: 24rpx;
+  }
+}
+
+.td {
+  flex: 1;
+  padding: 14rpx 12rpx;
+  font-size: 23rpx;
+  color: $color-text-secondary;
+  line-height: 1.5;
+  border-right: 1rpx solid $color-divider;
+
+  &:last-child {
+    border-right: none;
+  }
+}
+
+.totalRow {
+  background: rgba(79, 124, 255, 0.06);
+
+  .td {
+    color: $color-primary-dark;
+    font-weight: $font-weight-semibold;
+  }
+}
+
+// ---------- 列表 ----------
+.tipList {
+  margin: 8rpx 0;
+}
+
+.tipItem {
+  display: block;
+  position: relative;
+  padding-left: 20rpx;
+  margin-bottom: 12rpx;
+  font-size: 26rpx;
+  color: $color-text-secondary;
+  line-height: 1.65;
+}
+
+.groupBlock {
+  margin-top: 20rpx;
+}
+
+.groupH {
+  display: block;
+  font-size: 27rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+  margin-bottom: 10rpx;
+}
+
+.tipBox {
+  margin-top: 20rpx;
+  padding: 20rpx 24rpx;
+  border-radius: $radius-sm;
+  background: rgba(255, 122, 89, 0.08);
+  border-left: 6rpx solid $color-accent;
+  font-size: 25rpx;
+  color: $color-text-secondary;
+  line-height: 1.65;
+}

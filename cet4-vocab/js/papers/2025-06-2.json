@@ -1,0 +1,670 @@
+{
+  "id": "2025-06-2",
+  "writing": "Directions: Suppose your university is conducting a survey to collect students' opinions on the appropriate use of AI technology in assisting learning. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What does the news report say about Vaclav Bursa and Joanna Stephens?",
+      "options": {
+        "A": "They are young teenagers from Atlanta.",
+        "B": "They won this year's 7 Mile Bridge Run.",
+        "C": "They completed the race in less than 40 minutes.",
+        "D": "They are both students at Marathon High School."
+      },
+      "stem_cn": "新闻报道中关于Vaclav Bursa和Joanna Stephens说了什么?",
+      "options_cn": {
+        "A": "他们是来自亚特兰大的青少年。",
+        "B": "他们赢得了今年的7英里桥梁跑比赛。",
+        "C": "他们在不到40分钟内完成了比赛。",
+        "D": "他们都是Marathon高中的学生。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What do we learn about the April contest?",
+      "options": {
+        "A": "It drew competitors from more than 40 countries.",
+        "B": "It is watched live online by fans all over the world.",
+        "C": "It closed the city of Big Pine Key to traffic for three hours.",
+        "D": "It is one of the most popular running events in the southeastern U.S."
+      },
+      "stem_cn": "关于四月的比赛我们了解到什么?",
+      "options_cn": {
+        "A": "它吸引了来自40多个国家的参赛者。",
+        "B": "它被全世界的粉丝在线观看直播。",
+        "C": "它使Big Pine Key市封闭交通三小时。",
+        "D": "它是美国东南部最受欢迎的跑步赛事之一。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What do we learn from the news report about Tim Peake?",
+      "options": {
+        "A": "He was once a full-time ambassador.",
+        "B": "He was soon to retire from the army.",
+        "C": "He became an astronaut in 2015.",
+        "D": "He used to be a helicopter pilot."
+      },
+      "stem_cn": "从新闻报道中我们了解到关于Tim Peake的什么信息？",
+      "options_cn": {
+        "A": "他曾经是一名全职大使。",
+        "B": "他即将从军队退役。",
+        "C": "他在2015年成为一名宇航员。",
+        "D": "他曾经是一名直升机飞行员。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What does Tim Peake say about his work with the European Space Agency?",
+      "options": {
+        "A": "It has been unbelievably exciting and rewarding.",
+        "B": "It has been extraordinarily tough and demanding.",
+        "C": "It has contributed a great deal to human flights to space.",
+        "D": "It has given him exceptional privilege as an ambassador."
+      },
+      "stem_cn": "Tim Peake如何评价他在欧洲航天局的工作？",
+      "options_cn": {
+        "A": "令人难以置信地激动人心且有意义。",
+        "B": "异常艰苦且要求严格。",
+        "C": "对人类太空飞行做出了巨大贡献。",
+        "D": "作为大使赋予了他特殊的荣誉。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What do we learn about the five cats seen in the Asda store?",
+      "options": {
+        "A": "They are known for their loyalty to their owners.",
+        "B": "They are brought in by the store's customers.",
+        "C": "They are regular visitors to the store.",
+        "D": "They are pets kept by the store staff."
+      },
+      "stem_cn": "关于在Asda商店看到的五只猫，我们了解到什么？",
+      "options_cn": {
+        "A": "它们以对主人的忠诚而闻名。",
+        "B": "它们是由商店的顾客带进来的。",
+        "C": "它们是商店的常客。",
+        "D": "它们是商店员工饲养的宠物。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What did some customers think when they saw the first cat routinely appear in the store?",
+      "options": {
+        "A": "It might be a nuisance to the loyal shoppers.",
+        "B": "It might have been abandoned by its owner.",
+        "C": "It might be 12 months old.",
+        "D": "It might have got lost."
+      },
+      "stem_cn": "当一些顾客看到第一只猫经常出现在商店时，他们是怎么想的？",
+      "options_cn": {
+        "A": "它可能会给忠实顾客带来麻烦。",
+        "B": "它可能被主人遗弃了。",
+        "C": "它可能有12个月大。",
+        "D": "它可能迷路了。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What are customers asked not to do?",
+      "options": {
+        "A": "Feed the cats.",
+        "B": "Remove any store signs.",
+        "C": "Sit in the shop aisles.",
+        "D": "Bring in pets with them."
+      },
+      "stem_cn": "顾客被要求不要做什么？",
+      "options_cn": {
+        "A": "喂猫。",
+        "B": "移除任何商店标识。",
+        "C": "坐在商店过道里。",
+        "D": "随身带宠物进来。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What has the woman been thinking of doing next semester?",
+      "options": {
+        "A": "Sharing her room with friends.",
+        "B": "Cutting down her living expenses.",
+        "C": "Living off campus.",
+        "D": "Moving to the city center."
+      },
+      "stem_cn": "这位女士一直在考虑下学期做什么?",
+      "options_cn": {
+        "A": "与朋友合住一个房间。",
+        "B": "削减她的生活开支。",
+        "C": "住在校外。",
+        "D": "搬到市中心。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What does the man suggest the woman take into consideration?",
+      "options": {
+        "A": "The facilities available.",
+        "B": "Various costs involved.",
+        "C": "Changes in living conditions.",
+        "D": "The distance to her home."
+      },
+      "stem_cn": "这位男士建议这位女士考虑什么?",
+      "options_cn": {
+        "A": "可用的设施。",
+        "B": "涉及的各种费用。",
+        "C": "生活条件的变化。",
+        "D": "到她家的距离。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What does the woman say she did during high school?",
+      "options": {
+        "A": "Went through much trouble.",
+        "B": "Commuted to save money.",
+        "C": "Studied on the bus.",
+        "D": "Lived on campus."
+      },
+      "stem_cn": "这位女士说她在高中期间做了什么?",
+      "options_cn": {
+        "A": "经历了很多麻烦。",
+        "B": "通勤以省钱。",
+        "C": "在公交车上学习。",
+        "D": "住在校园里。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the man say he'll do at the end of the conversation?",
+      "options": {
+        "A": "Discuss the matter with the woman's mother.",
+        "B": "Make a decision within a few days.",
+        "C": "Try his best to persuade his wife.",
+        "D": "Weigh the benefits against the disadvantages."
+      },
+      "stem_cn": "这位男士说他在对话结束时会做什么?",
+      "options_cn": {
+        "A": "与这位女士的母亲讨论这件事。",
+        "B": "在几天内做出决定。",
+        "C": "尽力说服他的妻子。",
+        "D": "权衡利弊。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What is the woman doing?",
+      "options": {
+        "A": "Interviewing the man.",
+        "B": "Looking for Lawrence.",
+        "C": "Choosing a present for her nephew.",
+        "D": "Helping the man with his shopping."
+      },
+      "stem_cn": "这位女士在做什么?",
+      "options_cn": {
+        "A": "正在面试这位男士。",
+        "B": "正在寻找Lawrence。",
+        "C": "正在为她的侄子挑选礼物。",
+        "D": "正在帮这位男士购物。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "How does the man describe Bobo Man, the action figure?",
+      "options": {
+        "A": "Quite educational.",
+        "B": "Incredibly popular.",
+        "C": "Driven by batteries.",
+        "D": "Obviously childish."
+      },
+      "stem_cn": "这位男士如何描述Bobo Man这个动作人偶?",
+      "options_cn": {
+        "A": "相当有教育意义。",
+        "B": "非常受欢迎。",
+        "C": "由电池驱动。",
+        "D": "明显很幼稚。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What kind of game does the woman think would be good for Lawrence?",
+      "options": {
+        "A": "One he loves for helping exercise his mind.",
+        "B": "One he can play together with his sister.",
+        "C": "One he finds interesting and challenging.",
+        "D": "One he can play either alone or in a group."
+      },
+      "stem_cn": "这位女士认为什么样的游戏适合Lawrence?",
+      "options_cn": {
+        "A": "一个他喜欢的有助于锻炼思维的游戏。",
+        "B": "一个他可以和妹妹一起玩的游戏。",
+        "C": "一个他觉得有趣且有挑战性的游戏。",
+        "D": "一个他可以单独玩或集体玩的游戏。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What do we learn from the conversation about the game Battleships?",
+      "options": {
+        "A": "It has been enjoyed by kids for decades.",
+        "B": "It always reminds people of times of war.",
+        "C": "It has been played both indoors and outdoors.",
+        "D": "It distinguishes itself as one of the oldest games."
+      },
+      "stem_cn": "从对话中我们了解到关于Battleships这个游戏的什么信息?",
+      "options_cn": {
+        "A": "几十年来一直深受孩子们喜爱。",
+        "B": "总是让人想起战争时期。",
+        "C": "既可以在室内玩也可以在室外玩。",
+        "D": "作为最古老的游戏之一而与众不同。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What do we learn from the passage about the paradox of choice?",
+      "options": {
+        "A": "A display of a variety of products increases consumers' interest.",
+        "B": "Too many choices decrease one's desire to buy.",
+        "C": "Fewer choices lead to lower customer satisfaction.",
+        "D": "Customers given more choices are more likely to get confused."
+      },
+      "stem_cn": "从文章中我们对选择悖论了解到什么?",
+      "options_cn": {
+        "A": "多种产品的陈列会增加消费者的兴趣。",
+        "B": "过多的选择会降低购买欲望。",
+        "C": "较少的选择会导致较低的顾客满意度。",
+        "D": "给予顾客更多选择更有可能使其感到困惑。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What did the psychologists want to find out in their 2012 study about jams?",
+      "options": {
+        "A": "What kind of display results in more sales.",
+        "B": "What kind of display creates more interest.",
+        "C": "What kind of display attracts a greater crowd of customers.",
+        "D": "What kind of display leads to greater customer satisfaction."
+      },
+      "stem_cn": "心理学家在2012年关于果酱的研究中想要弄清楚什么?",
+      "options_cn": {
+        "A": "什么样的陈列方式会带来更多销售额。",
+        "B": "什么样的陈列方式会产生更多兴趣。",
+        "C": "什么样的陈列方式会吸引更多顾客。",
+        "D": "什么样的陈列方式会带来更高的顾客满意度。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What is the finding of an extensive study published in 2015?",
+      "options": {
+        "A": "There are situations where customers buy nothing.",
+        "B": "There are tricks to increase customer satisfaction.",
+        "C": "There are ways to predict customer preferences.",
+        "D": "There are rules that motivate customers to buy."
+      },
+      "stem_cn": "2015年发表的一项广泛研究有什么发现?",
+      "options_cn": {
+        "A": "存在顾客什么都不买的情况。",
+        "B": "存在提高顾客满意度的技巧。",
+        "C": "存在预测顾客偏好的方法。",
+        "D": "存在激励顾客购买的规律。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What do many Americans think of volunteering?",
+      "options": {
+        "A": "Stressful.",
+        "B": "Burdensome.",
+        "C": "Worthwhile.",
+        "D": "Energy-boosting."
+      },
+      "stem_cn": "许多美国人如何看待志愿服务?",
+      "options_cn": {
+        "A": "有压力的。",
+        "B": "繁重的。",
+        "C": "值得的。",
+        "D": "提升精力的。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "How could companies ensure both employees and employers benefit from volunteering?",
+      "options": {
+        "A": "By linking it with employees' salary.",
+        "B": "By taking it as the New Year resolution.",
+        "C": "By improving work schedules.",
+        "D": "By making it part of the job."
+      },
+      "stem_cn": "公司如何确保员工和雇主都能从志愿服务中受益?",
+      "options_cn": {
+        "A": "将其与员工的薪水挂钩。",
+        "B": "将其作为新年决心。",
+        "C": "改善工作日程安排。",
+        "D": "使其成为工作的一部分。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What did 75% of employees say about volunteering in a survey?",
+      "options": {
+        "A": "It was very important to their well-being.",
+        "B": "It had taken little of their spare time.",
+        "C": "It was an outlet for their personal fulfillment.",
+        "D": "It helped improve their working environment."
+      },
+      "stem_cn": "在一项调查中,75%的员工对志愿服务有何评价?",
+      "options_cn": {
+        "A": "它对他们的幸福感非常重要。",
+        "B": "它几乎没有占用他们的业余时间。",
+        "C": "它是他们实现个人价值的途径。",
+        "D": "它有助于改善他们的工作环境。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What do we learn about the UK's retail sector food waste?",
+      "options": {
+        "A": "It amounts to 2,000 tons daily.",
+        "B": "It mostly comes from supermarkets.",
+        "C": "It is estimated at 11% of the UK's total food supply.",
+        "D": "It has a lot to do with independent luxury food suppliers."
+      },
+      "stem_cn": "关于英国零售业食品浪费,我们了解到什么?",
+      "options_cn": {
+        "A": "它每天达到2000吨。",
+        "B": "它主要来自超市。",
+        "C": "它估计占英国食品供应总量的11%。",
+        "D": "它与独立的奢侈食品供应商有很大关系。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What does Sophie André's business do in London?",
+      "options": {
+        "A": "It rents bicycles to deliver food.",
+        "B": "It sells sought-after coffee beans.",
+        "C": "It delivers luxury hand-made food.",
+        "D": "It recycles waste food from the city."
+      },
+      "stem_cn": "Sophie André的企业在伦敦做什么?",
+      "options_cn": {
+        "A": "它出租自行车来配送食品。",
+        "B": "它销售抢手的咖啡豆。",
+        "C": "它配送奢侈的手工制作食品。",
+        "D": "它回收利用来自城市的废弃食品。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "In what way does Sophie André's business differ from many food waste projects?",
+      "options": {
+        "A": "It pays special attention to the size and shape of its products.",
+        "B": "It tries to escape the constraints of the current food system.",
+        "C": "It cooperates closely with local producers.",
+        "D": "It aims to provide high-quality products."
+      },
+      "stem_cn": "Sophie André的企业在哪些方面不同于许多食品废弃物项目?",
+      "options_cn": {
+        "A": "它特别关注其产品的大小和形状。",
+        "B": "它试图摆脱当前食品系统的限制。",
+        "C": "它与当地生产商密切合作。",
+        "D": "它旨在提供高质量的产品。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "Why will suppliers always have a certain amount of surplus?",
+      "options": {
+        "A": "To ensure a regular supply.",
+        "B": "To maintain a unique menu.",
+        "C": "To make up for the waste products.",
+        "D": "To meet customers' urgent demand."
+      },
+      "stem_cn": "为什么供应商总会有一定数量的剩余?",
+      "options_cn": {
+        "A": "为了确保有规律的供应。",
+        "B": "为了保持独特的菜单。",
+        "C": "为了弥补废弃产品。",
+        "D": "为了满足顾客的紧急需求。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "caught",
+    "B": "cinema",
+    "C": "engaging",
+    "D": "graphically",
+    "E": "highly",
+    "F": "incentive",
+    "G": "instincts",
+    "H": "offences",
+    "I": "punished",
+    "J": "referred",
+    "K": "stood",
+    "L": "symbolic",
+    "M": "tuned",
+    "N": "visually",
+    "O": "worshipped"
+  },
+  "cloze_passage": "Sir Alfred Hitchcock was an English movie director and producer. Famously 26 to as 'The Master of Suspense,' Hitchcock is one of the most influential filmmakers in the history of 27 . He was an extraordinary director who entertained his audience with 28 and gripping suspense movies.\nHis fascination with crime began at an early age when he was 29 by his father who made him spend a few minutes inside a prison for his misconduct. Hence, his movies are 30 of the guilt and innocence of the wrongdoer and the victim. He had a gift for creating stories that consisted of deceit, robbery, murder, corruption, and other criminal 31 with incredible plot twists in the storyline. The principal characters in his movies were often ordinary people 32 in unwanted and unavoidable situations.\nHe was 33 productive and his amazing body of work is considered fascinating by the critics. Most of his movies have 34 the test of time and are considered to be masterpieces. He is also remembered by other filmmakers, for he continues to inspire them to be passionate about their work. He is also 35 by people around the world for his entertaining and exciting stories.",
+  "long_reading_passage": "A) Freshly juiced fruit has become a basic dietary item—especially for busy, health-conscious consumers who can save time on making (and perhaps even chewing) their food without missing out on nutrients. Fruit juice also has been linked to claims that it can help you both lose weight and stay healthy. All of which, of course, has made it highly profitable. The global fruit and vegetable juices market was valued at $154 billion in 2016 and is expected to grow.\nB) But is juicing really as healthy as we think? Most foods containing fructose—a naturally occurring sugar found in all fruits and fruit juices—don't seem to have harmful effects as long as they're not contributing to excess daily calories. This is because the fibre found in whole fruits is intact, and the sugar is contained within the fruit's cells. It takes our digestive system a while to break these cells down and for fructose to enter the bloodstream.\nC) But this is not the case with fruit juice. Unlike whole fruit, fruit juice has most of the fibre removed. This is why the fructose in fruit juices counts as 'free sugars'—which also include honey and the sugars added to foods. It's recommended by the World Health Organisation that adults have no more than 30g of added sugar, the equivalent of 150ml of fruit juice, per day. The problem is that, with the fibre removed, fruit juice's fructose is absorbed more quickly. Sudden increases in blood sugar cause the release of insulin(胰岛素) to bring it back down to a stable level. Over time, this mechanism can wear out, increasing the risk of developing type 2 diabetes. In 2013, researchers analysed the health data of 100,000 people collected between 1986 and 2009 and found that fruit juice consumption was linked with increased risk of type 2 diabetes. Another study found a relationship between fruit juice and type 2 diabetes after following the diets and diabetes status of more than 70,000 nurses over 18 years. The researchers explain that the possible reason for this may partly have been the lack of the other components found in whole fruit, like fibre.\nD) Juices containing vegetables can provide more nutrients and less sugar than juices made up of just fruit—but they still lack valuable fibre. Diets high in fibre have been linked to a lower risk of developing heart disease, stroke, high blood pressure and diabetes, and it's recommended adults consume 30g per day.\nE) Aside from the link to type 2 diabetes, many studies agree that fruit juice is harmful if it contributes to an excess in calories. In an analysis of 155 studies, John Sievenpiper, associate professor at the University of Toronto's Department of Nutritional Sciences, set out to understand if the associations between sugary soft drinks and health—including risk of diabetes and heart disease—were applicable to the food and drink we generally consume as part of a healthy diet. He compared studies looking into the effects of fructose-containing sugars with control diets free from or lower in these sugars. His aim? To isolate the effects of consuming too many calories from the effects of foods containing different sugars.\nF) He found negative effects on blood sugar and insulin levels when food provided excess calories from sugars, including fruit juice. However, when the calories weren't in excess overall, there were some advantages to consuming whole fruit—and even fruit juice. Sievenpiper concludes that the recommended 150ml of fruit juice per day, which is an average serving, is reasonable. The paper concluded that foods containing fructose may have some small benefits for long-term blood sugar control when they don't lead to over-consumption of calories. But when they do lead to too many calories, they risk raising blood sugar and insulin levels.\nG) So while we know that fruit juice can cause diabetes if it's part of a diet that has more calories overall, it's less clear how juice affects the long-term health of those who aren't overweight. But we have a higher risk of consuming more than the recommended daily number of calories (around 2,000 for women and 2,500 for men) on the days we drink juice, according to research. Numerous studies have shown that drinking fruit juice doesn't make us consume any less of other foods throughout the day.\nH) As it is easy to consume large amounts of fruit juice quite quickly, extra calories are taken in. And extra calories can contribute to weight gain. One way we can improve the effects of fruit juice on our health is making sure we select ripe fruit to retain as much of its goodness as possible, according to Roger Clemens, professor of pharmaceutical(药物的) sciences at the University of Southern California.\nI) Another reason for fruit juice's recent popularity is the argument that it can help to remove poisonous or harmful substances from the body. However, \"the whole concept of a juice diet helping to remove poisonous or harmful substances from the body is completely false,\" says Clemens. \"We consume compounds every day that may be poisonous and our bodies do a wonderful job of removing and eliminating anything harmful from our bodies.\"\nJ) And juice isn't a cure-all for getting your nutrients, either. \"There are a lot of nutrients contained in the parts of the fruits, such as in apple skins, that are excluded when you juice them,\" says Heather Ferris, a professor of medicine. \"You end up with sugary water with some vitamins.\"\nK) Plus, she adds, it's not an ideal way to reach the advised 'five a day'. \"People try to get five servings of fruit and vegetables per day and don't realise this isn't just about getting vitamins,\" she says. \"It's also about reducing the amount of grain carbs(碳水化合物) and protein and fats in our diet, and increasing fibre.\" So while fruit juice is better than no fruit at all, there are limits. It particularly comes with risks when we consume more than 150ml of free sugars per day, or when it puts us over our recommended calorie intake. It provides us with vitamins—but fruit juice is far from a quick fix.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "Add to our advantage in work and life.",
+        "B": "Enable us to look a lot more attractive.",
+        "C": "Help us to enjoy a fuller personal life.",
+        "D": "Provide extra energy for what we do."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Clothes usually represent one's social and economic status.",
+        "B": "Clothes largely determine one's likability by people around.",
+        "C": "Different types of clothing markedly reflect different personalities.",
+        "D": "Different types of clothing convey different messages symbolically."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "By exerting an effect on our power of judgment.",
+        "B": "By impacting how we feel about ourselves.",
+        "C": "By affecting what we take as the basis for assessment.",
+        "D": "By influencing our interpretation of symbolic messages."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "They are necessary for formal business dealings.",
+        "B": "They may help people concentrate on their business.",
+        "C": "They are vital to keeping a dominant position in business transactions.",
+        "D": "They may enable people to have the right mentality for doing business."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Focus on clothing.",
+        "B": "Wear a good suit.",
+        "C": "Dress casually.",
+        "D": "Look unusual."
+      }
+    }
+  ],
+  "reading_passage_2": "With the rise of pop music, jazz, and electronic music, both opera and classical music started to fade away from the public eye. Some people are beginning to wonder whether opera and classical music are still relevant to the modern world of music. Granted, you will not typically see today's teenagers lending their ears to Bach anytime soon, but there are some major indicators that both opera and classical music are now still quite alive.\nThe most major indicator of classical music's importance in society today is the fact that much of the popular music that is currently being produced uses similar beats, harmonies, and melodies(旋律) as those that were used in some of classical music's best works. Even so, it can be difficult for those who do not study music theory to see this as an indicator, since it is subtle and just shows the impact symphonic(交响乐的) orchestras have had on society's taste in music.\nA better example for the relevance of opera and classical music can be seen in the invention of the rock opera. Opera, in its simplest definition, is telling a story using music as its form. The art of telling a story using music has not faded in the least bit. In fact, sometimes actual orchestras are used for major parts of the opera itself. Some of the world's greatest hits have been parts of rock operas.\nFans of classical music can also tell you that there are few types of music that are more expressive. So, it should come as no surprise to anyone that classical music pieces are still used as background music in modern movies. Symphonic orchestra compositions have also been created solely for the purpose of being included in major motion pictures. These are often very well received amongst mainstream music fans.\nClassical music and opera are the very foundation of what our modern music is based upon. Considering the huge impact they have had on our current society, it is without doubt that we can expect them to continue to remain important for centuries to come.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "They still make their presence felt.",
+        "B": "They have given way to electronic music.",
+        "C": "They will not fade away from the public eye.",
+        "D": "They are no longer relevant to teenagers' lives."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "It can be difficult for many classical music fans to appreciate.",
+        "B": "It can be seen as an indicator of refinement on classical music.",
+        "C": "It caters to society's taste in music in a more subtle way than classical music.",
+        "D": "It contains elements similar to those in some masterpieces of classical music."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "To illustrate how to tell a story using music.",
+        "B": "To present the simplest definition of opera.",
+        "C": "To show the relevance of opera and classical music.",
+        "D": "To justify the necessity of using orchestras in opera."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "There are few types of music for movie producers to choose from.",
+        "B": "They are considered to be the most expressive type of music.",
+        "C": "They are well received by movie fans from all over the world.",
+        "D": "They are essential for movies to become the world's greatest hits."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "It could not have come into being without classical music and opera as its foundation.",
+        "B": "It cannot outcompete classical music and opera in its impact on our current society.",
+        "C": "It will not enjoy as much popularity as classical music and opera among music fans.",
+        "D": "It might not be able to rival classical music and opera in importance for centuries to come."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2025年6月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 近年来,中国东北地区正在大力开发冰雪资源。例如,哈尔滨利用丰富的冰雪资源打造了极具地方特色的\"冰雪大世界\",让游客在欣赏冰雪之美的同时也能体验当地独特的民俗文化。如今,曾令人畏惧的冰天雪地正吸引着四面八方的游客,成为深受欢迎的旅游胜地。冰雪旅游业正为当地的经济发展做出越来越大的贡献。",
+  "answers": {
+    "1": "B",
+    "2": "D",
+    "3": "D",
+    "4": "A",
+    "5": "C",
+    "6": "D",
+    "7": "A",
+    "8": "C",
+    "9": "B",
+    "10": "C",
+    "11": "A",
+    "12": "C",
+    "13": "B",
+    "14": "B",
+    "15": "A",
+    "16": "B",
+    "17": "A",
+    "18": "D",
+    "19": "C",
+    "20": "D",
+    "21": "A",
+    "22": "B",
+    "23": "C",
+    "24": "D",
+    "25": "A",
+    "26": "J",
+    "27": "B",
+    "28": "C",
+    "29": "I",
+    "30": "L",
+    "31": "H",
+    "32": "A",
+    "33": "E",
+    "34": "K",
+    "35": "O",
+    "36": "C",
+    "37": "I",
+    "38": "E",
+    "39": "A",
+    "40": "H",
+    "41": "D",
+    "42": "F",
+    "43": "J",
+    "44": "B",
+    "45": "G",
+    "46": "A",
+    "47": "D",
+    "48": "B",
+    "49": "D",
+    "50": "C",
+    "51": "A",
+    "52": "D",
+    "53": "C",
+    "54": "B",
+    "55": "A"
+  },
+  "listening_script": {
+    "en": "A Florida teenager and an Atlanta woman won the overall men's and women's divisions Saturday at the annual 7 Mile Bridge Run. Vaclav Bursa, 15, of Big Pine Key, Florida, finished first overall. He completed the race in 41 minutes and 1 second and claimed the top spot in the men's division. Bursa won third place in the 2022 race. He is a student at Marathon High School. Joanna Stephens, 28, of Atlanta, completed the course in 41 minutes and 12 seconds. She won the women's division title and placed second overall. The race drew competitors from 41 US states. There were also runners from other countries, including Canada, the UK and Switzerland. The run closed the span between the Middle and Lower Keys to traffic for 3 hours Saturday. The April contest is one of the most popular running events in the southeastern United States. The race field filled within minutes after online registration opened in January.\nBritish astronaut Tim Peake is stepping down permanently from his role as a European astronaut. He's going to take up a full-time position as ambassador for science and space instead—work he's been doing since 2019. The former British Army Air Corps helicopter pilot was selected as a European Space Agency astronaut in 2009. He flew to the space station for a 6-month tour in 2015. The tour saw him control a robot on earth remotely from orbit. He also helped dock two spacecraft. Tim said, \"Being an astronaut has been the most extraordinary experience. I've had the privilege of working with an exceptional team of individuals during the past 13 years with the agency. It has been incredibly exciting and rewarding. By assuming the role of an ambassador for human flights to space, I'll continue to support the European and the UK space agencies.\"\nAn Asda store in Wales is now home to five cats after they wandered in and made themselves comfortable. The supermarket is known for its loyal customers, but now has a different kind of visitor that has appeared over the last year. Regular shoppers at the supermarket are familiar with the sight of several cats settling down in the shop aisles. The unusual situation started about 12 months ago, when one cat routinely started visiting the store. Local newspapers reported that puzzled customers posted on Facebook groups to try to find out if the cat was lost. But its owner assured the concerned customers it was very much loved and fed at home. It just enjoyed visiting the shop. Staff did their best to discourage the pet from hanging around. But instead of leaving and never coming back, it invited its friends round. There are now at least five different cats who come almost on a daily basis. They visit the store so much that staff have been forced to put up signs, asking their customers not to feed them.\nW: I've been thinking about moving off campus next semester.\nM: Hmm… I don't know if that's a good idea as your mother and I would worry about you living all by yourself in an apartment so far from home. And then there's the expense, too. I'm not sure we can afford it.\nW: Well, I wouldn't be alone, actually. Three of my friends from the dormitory would share the place with me. And with four of us, it wouldn't cost any more than living in the dorm.\nM: Are you sure about that? Rents in big cities are high, and then there's the cost of electricity and gas. Have you factored those in?\nW: We've budgeted for those, and for Internet and transportation. And if we move far enough from the city center, the rent is low enough for us to afford all of it.\nM: What's about the commute to and from campus? It sounds like you'll be wasting several hours every day on the road instead of studying.\nW: It's about an hour to campus, but there's no reason I can't study on the bus. After all, I did that during high school and my commute was even longer then.\nM: That's true. But I'm not sure why you want to leave campus and go through all that trouble when the cost is the same.\nW: For a lot of reasons. We'd have a kitchen, so we could cook ourselves. And we'd each have our own bedroom, where we could study instead of going to the library. We just have more space and privacy.\nM: I'm not convinced that the benefits are greater than the disadvantages, but I'll discuss this with your mother.\nW: Good morning. I'm looking for a present for my nephew, Lawrence.\nM: Hi. Do you have anything in mind?\nW: I'm not sure. No. Do you know what boys aged around ten typically like?\nM: For that age group, our biggest seller this year has been this action figure. It's called Bobo Man, and it's incredibly popular.\nW: Does it do anything?\nM: Not by itself. It has no batteries, if that's what you mean. There's a Bobo Man cartoon popular amongst young children, you see. And this toy is the lead character from the show.\nW: Oh, I understand now. I've never heard of it, but I do know little Lawrence loves cartoons. Do you have any other popular toys? Perhaps something educational.\nM: Yes, of course. Right over here, we have dozens of puzzles for children of all ages. They are fun, great for exercising the mind and can be played either alone or in groups.\nW: I like this sort of idea. Lawrence has a sister who is slightly older, so maybe a game that they can play together would be good.\nM: What do you think of Battleships, then? It's a total classic. It has been around since the 1930s.\nW: Oh, yeah. We had one of those when growing up.\nM: Of course you did. Everyone did. And kids enjoy it just as much today as you and I did when we were young. Some games just never get old.\nW: I suppose you are right. I have fond memories playing Battleships when it was raining outside and we had to stay indoors. That's decided then. How much?\nM: 19 pounds and 90 pence, please.\nW: There you are. Have a nice day.\nM: Thank you. You too.\nWe assume that if we offer our customers more choices, then they'll be more likely to buy our products. But here's the paradox of choice: if a person is presented with too many choices, they are actually less likely to buy. In 2012, psychologists published a study about jams. On a regular day at a local food market, people would find a display table with 24 different kinds of jams. Then on another day, at that same food market, people were given only 6 different types of jam choices. Guess which display table led to more sales?\nThe study found that while the bigger display table created more interest, people were almost 10 times less likely to purchase a jar of jam than in the case of the smaller display. Customer satisfaction takes a hit as well. In the study, the bigger display of jams leads to lower customer satisfaction than the smaller display. In an extensive study published in 2015, researchers analyzed a total of 99 choice studies and specifically looked at those cases in which reducing choices helped to boost sales. They found four rules that motivate consumers to buy: when people want to make a quick and easy choice, when the product is complex, when it's difficult to compare alternatives, and when consumers don't have clear preferences. So as you can see, when it comes to choices, less is more.\nThe New Year has come and gone, and many may have already forgotten what they had resolved to do on January 1st. But if that resolution was to volunteer more, now is the best time to start. Volunteering can drop after the holiday season, and by February, some organizations lack the volunteers they had in surplus just a month ago. According to one survey, only 26% of Americans volunteered, despite reports that many Americans view volunteering as worthwhile.\nWhy such a disconnect? Most people cite time and conflicting work schedules as major barriers, but employees and employers would actually benefit if companies made employee volunteering part of the job. Researchers have found donating our time and talent to others can lower blood pressure, boost happiness and improve mental and physical health. Studies have also linked employee volunteer programs with more productive employees. With so much emphasis on employee wellness these days, company volunteer programs could be the perfect 2025 resolution. But for volunteering to benefit employees and the workplace, the entire organization needs to be involved. By allowing employees to donate their time during work hours, the workplace becomes an outlet for personal fulfillment without affecting personal time. In one survey, 89% of employees perceived companies that sponsored volunteer activities as creating a better working environment, and 75% said volunteering was critical to their well-being.\nThe vast majority of the UK's 200,000 tonnes of retail sector's annual food waste comes from supermarkets. But it's a problem that impacts independent luxury food suppliers too. The scale is small. It's estimated at less than one per cent of the UK's food waste total. But the quality from these suppliers is high. Everything from specialist cheeses to sought-after coffee beans gets thrown away every day in the current food system.\nThis is where French entrepreneur Sophie André comes in. In 2016 she moved to London and began by setting up a business delivering luxury hand-made food across the city. \"Food delivery seems to be a big thing here,\" she says. \"So I started delivering products by bicycle. Talking with local producers I learned that a small part of the production is sometimes wasted due to problems with size or shape, but the quality of the products remains unchanged.\" Unlike many food waste projects that have sprung up in recent years, the idea is not simply to redistribute waste food, but to provide a high-quality product. André's company Elysia offers breakfasts and snacks specifically aimed at business meetings and events. Once sourced, Elysia uses waste products to create \"simple, natural, straightforward\" meals and snacks. Perhaps unlike other waste food, the supply is regular. Suppliers will always have a certain amount of surplus. So the menus remain regular too. André believes this benefits both her business and her customers.",
+    "cn": "佛罗里达州一名青少年和亚特兰大一名女性在周六的年度七英里大桥跑比赛中分别赢得男子组和女子组总冠军。来自佛罗里达州Big Pine Key的15岁选手Vaclav Bursa获得总成绩第一名。他以41分1秒的成绩完成比赛,夺得男子组冠军。Bursa在2022年的比赛中获得第三名。他是Marathon High School的学生。28岁的Joanna Stephens来自亚特兰大,以41分12秒的成绩完成赛程。她赢得女子组冠军,总成绩排名第二。本次比赛吸引了来自美国41个州的参赛者。还有来自其他国家的选手,包括加拿大、英国和瑞士。比赛于周六封闭了连接Middle Keys和Lower Keys之间的桥梁路段3小时。这项4月举办的赛事是美国东南部最受欢迎的跑步活动之一。1月份网上报名开放后,参赛名额在几分钟内就被抢光。\n英国宇航员Tim Peake将永久卸任欧洲宇航员职位。他将转而担任科学与太空大使的全职职务——这是他自2019年以来一直从事的工作。这位前英国陆军航空兵直升机飞行员于2009年被选为欧洲航天局宇航员。2015年,他飞往空间站执行为期6个月的任务。在此次任务中,他从轨道上远程控制了地球上的机器人,还协助完成了两艘航天器的对接。Tim说:\"担任宇航员是最非凡的经历。在过去13年里,我有幸与该机构一支杰出的团队共事。这段经历令人无比兴奋且收获颇丰。通过担任载人航天大使一职,我将继续支持欧洲和英国航天局。\"\n威尔士的一家Asda超市现在成了五只猫的家，它们闲逛进来后就舒适地住了下来。这家超市以忠实顾客而闻名,但现在有了一种不同类型的访客,它们在过去一年里出现了。超市的常客们对几只猫在店内过道安顿下来的景象已经很熟悉。这种不寻常的情况始于大约12个月前,当时一只猫开始例行光顾这家店。当地报纸报道称,困惑的顾客在Facebook群组上发帖,试图查明这只猫是否走失。但它的主人向关心的顾客们保证,这只猫在家里非常受宠爱且喂养充足,它只是喜欢光顾这家店。工作人员尽力阻止这只宠物在附近逗留,但它非但没有离开且再也不回来,反而邀请了它的朋友们过来。现在至少有五只不同的猫几乎每天都来。它们光顾超市的次数如此之多,以至于工作人员不得不张贴告示,要求顾客不要喂它们。\nW: 我一直在考虑下学期搬出学校住。\nM: 嗯……我不知道这是不是个好主意，你妈妈和我会担心你一个人住在离家这么远的公寓里。还有费用问题。我不确定我们负担得起。\nW: 其实我不会一个人住。宿舍里的三个朋友会和我一起合租。我们四个人的话，花费不会比住宿舍多。\nM: 你确定吗?大城市的房租很高，还有电费和燃气费。你把这些都算进去了吗?\nW: 我们已经把这些都做了预算，还有网费和交通费。如果我们搬得离市中心远一点，房租就足够低,我们能负担得起所有这些。\nM: 那往返学校怎么办?听起来你每天要在路上浪费好几个小时，而不是用来学习。\nW: 到学校大约一小时，但我完全可以在公交车上学习。毕竟我高中时就是这么做的，那时候通勤时间还更长呢。\nM: 这倒是真的。但我不明白既然费用一样，你为什么要离开学校，费这么大劲儿。\nW: 原因有很多。我们会有厨房，可以自己做饭。而且我们每个人都有自己的卧室，可以在那里学习，不用去图书馆。我们就是有更多空间和隐私。\nM: 我还不确定好处是否大于坏处，但我会和你妈妈商量一下。\nW: 早上好。我想给我侄子Lawrence买个礼物。\nM: 您好。您有什么想法吗?\nW: 我不太确定。没有。您知道十岁左右的男孩一般喜欢什么吗?\nM: 对于这个年龄段,我们今年卖得最好的是这个动作人偶。它叫Bobo Man,非常受欢迎。\nW: 它能做什么吗?\nM: 它本身不会动。如果您是问它有没有电池的话,是没有的。您看,有一部叫Bobo Man的动画片在小孩子中很受欢迎。这个玩具就是剧中的主角。\nW: 哦,我现在明白了。我从来没听说过,但我知道小Lawrence很喜欢看动画片。您还有其他受欢迎的玩具吗?也许是有教育意义的。\nM: 有的,当然有。就在这边,我们有几十种适合各个年龄段儿童的拼图。它们很有趣,非常适合锻炼思维,而且可以单独玩也可以多人一起玩。\nW: 我喜欢这种想法。Lawrence有个姐姐年龄稍大一点,所以也许买个他们可以一起玩的游戏会不错。\nM: 那您觉得海战棋怎么样?这是个绝对的经典游戏。从1930年代就有了。\nW: 哦,对。我们小时候就有一套。\nM: 当然了。每个人都有。而且孩子们现在玩它和我们小时候一样喜欢。有些游戏就是永远不会过时。\nW: 我想您说得对。我对在外面下雨不得不待在室内时玩海战棋有着美好的回忆。那就这么定了。多少钱?\nM: 19英镑90便士。\nW: 给您。祝您愉快。\nM: 谢谢。您也是。\n我们假设如果给顾客提供更多选择，他们就更有可能购买我们的产品。但这里存在选择悖论：如果一个人面对太多选择，他们实际上购买的可能性反而更低。2012年，心理学家发表了一项关于果酱的研究。在当地食品市场的普通日子里，人们会看到一张陈列桌上摆放着24种不同的果酱。然后在另一天，在同一个食品市场，人们只被提供6种不同类型的果酱选择。猜猜哪张陈列桌带来了更多销售？\n研究发现，虽然更大的陈列桌引起了更多兴趣，但与较小陈列桌的情况相比，人们购买一罐果酱的可能性几乎低了10倍。顾客满意度也受到了影响。在该研究中，更大的果酱陈列带来的顾客满意度低于较小的陈列。在2015年发表的一项广泛研究中，研究人员分析了总共99项选择研究，并专门关注那些减少选择有助于促进销售的案例。他们发现了四条激励消费者购买的规则：当人们想要做出快速简单的选择时，当产品复杂时，当难以比较替代品时，以及当消费者没有明确偏好时。所以你可以看到，在选择方面，少即是多。\n新年已经来了又过去了,许多人可能已经忘记了他们在1月1日下定的决心。但如果那个决心是多做志愿服务,现在正是开始的最佳时机。志愿服务在假期季节后会减少,到2月份,一些组织缺少他们在一个月前还富余的志愿者。根据一项调查,尽管有报告显示许多美国人认为志愿服务是有价值的,但只有26%的美国人参与了志愿服务。\n为什么会有如此大的脱节?大多数人将时间和工作时间冲突列为主要障碍,但如果公司将员工志愿服务纳入工作的一部分,员工和雇主实际上都会受益。研究人员发现,向他人奉献我们的时间和才能可以降低血压、提升幸福感并改善身心健康。研究还将员工志愿者项目与更高效的员工联系起来。如今如此强调员工健康,公司志愿者项目可能是完美的2025年决心。但要让志愿服务使员工和工作场所受益,整个组织都需要参与其中。通过允许员工在工作时间内奉献他们的时间,工作场所成为个人实现的出口而不影响个人时间。在一项调查中,89%的员工认为赞助志愿活动的公司创造了更好的工作环境,75%的人表示志愿服务对他们的福祉至关重要。\n英国零售行业每年20万吨食品浪费中，绝大多数来自超市。但这也是影响独立高端食品供应商的问题。规模虽小，估计不到英国食品浪费总量的百分之一，但这些供应商的产品质量很高。从特色奶酪到抢手的咖啡豆，在当前的食品系统中，各种食品每天都被丢弃。\n这就是法国企业家Sophie André的切入点。2016年她搬到伦敦，开始建立一家在全市配送手工高端食品的企业。\"食品配送在这里似乎很流行，\"她说。\"所以我开始骑自行车配送产品。在与当地生产商交流时，我了解到有时会因为尺寸或形状问题而浪费一小部分产品，但产品质量保持不变。\"与近年来涌现的许多食品浪费项目不同，这个想法不仅仅是重新分配浪费的食品，而是提供高质量的产品。André的公司Elysia提供专门针对商务会议和活动的早餐和小吃。采购后，Elysia利用废弃产品制作\"简单、天然、直接\"的餐食和小吃。与其他废弃食品可能不同的是，供应是有规律的。供应商总会有一定数量的剩余。因此菜单也保持固定。André认为这对她的企业和客户都有益。"
+  }
+}

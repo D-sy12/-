@@ -1,0 +1,670 @@
+{
+  "id": "2022-06-1",
+  "writing": "Directions: Suppose you are going to write a proposal to your school library for improving its service. You are to write about its current problems and possible solutions to these problems. You will have 30 minutes to write the proposal. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What do we learn about the new study from the news report?",
+      "options": {
+        "A": "It studied the effects of exercise on sleep.",
+        "B": "Its participants came from various walks of life.",
+        "C": "Its findings confirmed those of previous studies.",
+        "D": "It ran for as long as some thirty years."
+      },
+      "stem_cn": "从新闻报道中我们对这项新研究了解到什么?",
+      "options_cn": {
+        "A": "它研究了运动对睡眠的影响。",
+        "B": "它的参与者来自各行各业。",
+        "C": "它的研究结果证实了先前研究的结论。",
+        "D": "它持续了长达约三十年的时间。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What is the scientists' recommendation?",
+      "options": {
+        "A": "Eating more vegetables instead of meats.",
+        "B": "Drinking water instead of beverages with added sugar.",
+        "C": "Consuming more energy drinks and sports drinks.",
+        "D": "Forming the habit of exercising regularly."
+      },
+      "stem_cn": "科学家们的建议是什么?",
+      "options_cn": {
+        "A": "多吃蔬菜而不是肉类。",
+        "B": "喝水而不是含添加糖的饮料。",
+        "C": "摄入更多能量饮料和运动饮料。",
+        "D": "养成定期锻炼的习惯。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What did German police say about a 64-year-old man?",
+      "options": {
+        "A": "He asked them about his lost paintings.",
+        "B": "He knew the owner of two missing paintings.",
+        "C": "He left his paintings at a highway rest stop.",
+        "D": "He found two 17th-century oil paintings."
+      },
+      "stem_cn": "德国警方关于一名64岁男子说了什么?",
+      "options_cn": {
+        "A": "他向警方询问他丢失的画作。",
+        "B": "他知道两幅失踪画作的主人。",
+        "C": "他把自己的画作落在了高速公路休息站。",
+        "D": "他发现了两幅17世纪的油画。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What is the art expert's conclusion about the two framed paintings?",
+      "options": {
+        "A": "They are imitations.",
+        "B": "They are originals.",
+        "C": "They were stolen by an Italian boy.",
+        "D": "They came from the same artist."
+      },
+      "stem_cn": "艺术专家对这两幅装裱画作得出了什么结论?",
+      "options_cn": {
+        "A": "它们是仿制品。",
+        "B": "它们是真品。",
+        "C": "它们被一个意大利男孩偷走了。",
+        "D": "它们出自同一位艺术家之手。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What did the four-year-old girl attempt to do?",
+      "options": {
+        "A": "Look after her grandfather.",
+        "B": "Leave the remote cold region.",
+        "C": "Save her sick grandmother.",
+        "D": "Flee from the threat of bears."
+      },
+      "stem_cn": "这个四岁女孩试图做什么？",
+      "options_cn": {
+        "A": "照顾她的祖父。",
+        "B": "离开偏远寒冷地区。",
+        "C": "救她生病的祖母。",
+        "D": "逃离熊的威胁。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What do we learn from the news report about the girl's mother?",
+      "options": {
+        "A": "She has to face a criminal charge.",
+        "B": "She was found lying motionless in the snow.",
+        "C": "She searched for her daughter in freezing cold.",
+        "D": "She works in childcare services."
+      },
+      "stem_cn": "从新闻报道中我们了解到关于这个女孩母亲的什么信息？",
+      "options_cn": {
+        "A": "她不得不面临刑事指控。",
+        "B": "她被发现一动不动地躺在雪地里。",
+        "C": "她在严寒中寻找她的女儿。",
+        "D": "她在儿童看护服务机构工作。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What happened to the little girl according to the news report?",
+      "options": {
+        "A": "She was found in a forest after three days.",
+        "B": "She lay totally unconscious for three days.",
+        "C": "She suffered from the effects of severe cold.",
+        "D": "She was finally rescued by her relatives."
+      },
+      "stem_cn": "根据新闻报道，这个小女孩发生了什么事？",
+      "options_cn": {
+        "A": "她在三天后被发现在森林里。",
+        "B": "她完全失去意识躺了三天。",
+        "C": "她遭受了严寒的影响。",
+        "D": "她最终被她的亲属救出。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What does the woman say about her new friend Susan?",
+      "options": {
+        "A": "She shows a real passion for taking photos.",
+        "B": "She has just returned from her hometown.",
+        "C": "She comes from the city of Cape Town.",
+        "D": "She has a truly amazing appearance."
+      },
+      "stem_cn": "女士对她的新朋友Susan有何评价?",
+      "options_cn": {
+        "A": "她对摄影表现出真正的热情。",
+        "B": "她刚从家乡回来。",
+        "C": "她来自开普敦市。",
+        "D": "她有着真正惊人的外表。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What does the woman say about Table Mountain?",
+      "options": {
+        "A": "It is as famous as Cape Town.",
+        "B": "It has a flat surface at the top.",
+        "C": "It is green and free from pollution.",
+        "D": "It was named by European settlers."
+      },
+      "stem_cn": "女士对桌山有何评价?",
+      "options_cn": {
+        "A": "它和开普敦一样出名。",
+        "B": "它的顶部有一个平坦的表面。",
+        "C": "它是绿色的且没有污染。",
+        "D": "它是由欧洲殖民者命名的。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What do we learn from the conversation about the woman's friend Susan?",
+      "options": {
+        "A": "She has British ancestors.",
+        "B": "She is of mixed blood.",
+        "C": "She grew up in India.",
+        "D": "She speaks several languages."
+      },
+      "stem_cn": "从对话中我们对女士的朋友Susan有何了解?",
+      "options_cn": {
+        "A": "她有英国血统。",
+        "B": "她是混血儿。",
+        "C": "她在印度长大。",
+        "D": "她会说多种语言。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the woman say about rugby in South Africa?",
+      "options": {
+        "A": "It is an extremely violent sport.",
+        "B": "It is becoming a national sport.",
+        "C": "It is originated in New Zealand.",
+        "D": "It is more popular than football."
+      },
+      "stem_cn": "女士对南非的橄榄球运动有何评价?",
+      "options_cn": {
+        "A": "它是一项极其暴力的运动。",
+        "B": "它正在成为一项全国性运动。",
+        "C": "它起源于新西兰。",
+        "D": "它比足球更受欢迎。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What does the woman advise the man to do?",
+      "options": {
+        "A": "Prepare a study guide.",
+        "B": "Consult his advisors.",
+        "C": "Go over his notes regularly.",
+        "D": "Take stress-relief sessions."
+      },
+      "stem_cn": "女士建议男士做什么?",
+      "options_cn": {
+        "A": "准备一份学习指南。",
+        "B": "咨询他的导师。",
+        "C": "定期复习他的笔记。",
+        "D": "参加减压课程。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What is the biggest problem the man has with his studies?",
+      "options": {
+        "A": "His worksheets are terribly messy.",
+        "B": "He finds the workload too heavy.",
+        "C": "His study folder is badly disorganized.",
+        "D": "He has difficulty taking notes quickly."
+      },
+      "stem_cn": "男士在学习上遇到的最大问题是什么?",
+      "options_cn": {
+        "A": "他的作业纸非常凌乱。",
+        "B": "他觉得学习负担太重。",
+        "C": "他的学习文件夹严重缺乏条理。",
+        "D": "他很难快速记笔记。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What kind of learner does the woman say she is?",
+      "options": {
+        "A": "A visual learner.",
+        "B": "An emotional learner.",
+        "C": "An organized learner.",
+        "D": "A logical learner."
+      },
+      "stem_cn": "女士说她是什么类型的学习者?",
+      "options_cn": {
+        "A": "视觉型学习者。",
+        "B": "情感型学习者。",
+        "C": "条理型学习者。",
+        "D": "逻辑型学习者。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the woman think the man can do with his notes?",
+      "options": {
+        "A": "Arrange them using color and pictures.",
+        "B": "Restructure them in a logical way.",
+        "C": "Commit them to memory after class.",
+        "D": "Organize them into a well-connected story."
+      },
+      "stem_cn": "女士认为男士可以如何处理他的笔记?",
+      "options_cn": {
+        "A": "使用颜色和图片来整理它们。",
+        "B": "以符合逻辑的方式重新组织它们。",
+        "C": "课后把它们记在脑子里。",
+        "D": "把它们组织成一个联系紧密的故事。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What do we learn from the passage about the golden rule?",
+      "options": {
+        "A": "It is mainly based on a society's religion.",
+        "B": "It is interpreted differently in different times.",
+        "C": "It is a code of conduct based on laws and ethics.",
+        "D": "It is a moral principle to guide people's behavior."
+      },
+      "stem_cn": "从文章中我们了解到关于黄金法则的什么信息?",
+      "options_cn": {
+        "A": "它主要基于社会的宗教信仰。",
+        "B": "它在不同时代有不同的解释。",
+        "C": "它是基于法律和伦理的行为准则。",
+        "D": "它是指导人们行为的道德原则。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What is a notable criticism of the golden rule?",
+      "options": {
+        "A": "It may lead to misunderstanding despite good intentions.",
+        "B": "It assumes that human beings are all good-natured.",
+        "C": "It may sometimes produce undesirable outcomes.",
+        "D": "It fails to consider the complexity of human relationships."
+      },
+      "stem_cn": "对黄金法则的一个显著批评是什么?",
+      "options_cn": {
+        "A": "尽管出于好意,它可能导致误解。",
+        "B": "它假设人类都是善良的。",
+        "C": "它有时可能产生不良后果。",
+        "D": "它未能考虑人际关系的复杂性。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What does the example of someone breaking the law serve to show?",
+      "options": {
+        "A": "The golden rule is often in conflict with certain laws and ethical principles.",
+        "B": "The golden rule must sometimes give way to more important principles.",
+        "C": "Failure to follow the golden rule may lead to violation of laws and ethics.",
+        "D": "Observing the golden rule is the first step to becoming a responsible citizen."
+      },
+      "stem_cn": "某人违法的例子用来说明什么?",
+      "options_cn": {
+        "A": "黄金法则常常与某些法律和伦理原则相冲突。",
+        "B": "黄金法则有时必须让位于更重要的原则。",
+        "C": "未能遵循黄金法则可能导致违反法律和伦理。",
+        "D": "遵守黄金法则是成为负责任公民的第一步。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What do we learn from the current statistics about diversity in large corporations?",
+      "options": {
+        "A": "Many of them find it rather difficult to manage.",
+        "B": "They have not seen as much diversity as desired.",
+        "C": "Many of them have an increasingly diversified staff.",
+        "D": "They have not quite grasped the concept of diversity."
+      },
+      "stem_cn": "从目前关于大型企业多样性的统计数据中我们可以了解到什么？",
+      "options_cn": {
+        "A": "许多企业发现这相当难以管理。",
+        "B": "它们并未实现预期的多样性水平。",
+        "C": "许多企业的员工日益多元化。",
+        "D": "它们尚未完全理解多样性的概念。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What is the newly published study focused on?",
+      "options": {
+        "A": "Initiatives to achieve diversity in large corporations.",
+        "B": "Advantages and disadvantages of a diversified team.",
+        "C": "People's attitudes towards diversity at the workplace.",
+        "D": "Innovative ideas and solutions resulting from diversity."
+      },
+      "stem_cn": "这项新发表的研究重点关注什么？",
+      "options_cn": {
+        "A": "大型企业实现多样性的举措。",
+        "B": "多元化团队的优势和劣势。",
+        "C": "人们对工作场所多样性的态度。",
+        "D": "多样性带来的创新想法和解决方案。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What do the findings of the new study show?",
+      "options": {
+        "A": "People prefer to work with team members similar to themselves.",
+        "B": "Employers attach great importance to their corporations' diversity.",
+        "C": "Employers differ from employees in their perspectives on diversity.",
+        "D": "Doubts about the practicability of diversity are gradually disappearing."
+      },
+      "stem_cn": "这项新研究的发现表明了什么？",
+      "options_cn": {
+        "A": "人们更愿意与相似的团队成员共事。",
+        "B": "雇主非常重视其企业的多样性。",
+        "C": "雇主与员工对多样性的看法存在差异。",
+        "D": "对多样性实用性的质疑正在逐渐消失。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What is a major key to success in international business according to the passage?",
+      "options": {
+        "A": "Choosing the best time for signing a business contract.",
+        "B": "Changing one's form of communication from time to time.",
+        "C": "Laying equal stress on written and spoken communication.",
+        "D": "Using different forms of communication appropriately."
+      },
+      "stem_cn": "根据文章，国际商务成功的一个主要关键是什么?",
+      "options_cn": {
+        "A": "选择签订商业合同的最佳时机。",
+        "B": "不时改变自己的沟通形式。",
+        "C": "同等重视书面沟通和口头沟通。",
+        "D": "恰当地使用不同的沟通形式。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What does the passage say about spoken word agreements in some Middle East countries?",
+      "options": {
+        "A": "They are regarded as seriously binding.",
+        "B": "They are seldom honored by business partners.",
+        "C": "They are taken as memos of understanding.",
+        "D": "They are to be confirmed in written form."
+      },
+      "stem_cn": "关于一些中东国家的口头协议,文章说了什么?",
+      "options_cn": {
+        "A": "它们被视为具有严肃的约束力。",
+        "B": "它们很少被商业伙伴遵守。",
+        "C": "它们被视为谅解备忘录。",
+        "D": "它们需要以书面形式确认。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What do we learn about the Western working culture?",
+      "options": {
+        "A": "It has reached the highest level of evolution.",
+        "B": "It places a high value on written contracts.",
+        "C": "It regards written contracts as unalterable.",
+        "D": "It has seen a decline in verbal agreements."
+      },
+      "stem_cn": "关于西方工作文化,我们了解到什么?",
+      "options_cn": {
+        "A": "它已达到最高的演进水平。",
+        "B": "它高度重视书面合同。",
+        "C": "它将书面合同视为不可更改的。",
+        "D": "它的口头协议已经减少。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "How does a Japanese firm tend to view a written contract?",
+      "options": {
+        "A": "Its details cannot be renegotiated.",
+        "B": "It has to be carried out to the letter.",
+        "C": "It strengthens business partnerships.",
+        "D": "Its terms may not be strictly binding."
+      },
+      "stem_cn": "日本公司倾向于如何看待书面合同?",
+      "options_cn": {
+        "A": "其细节不能重新谈判。",
+        "B": "它必须严格执行。",
+        "C": "它加强了商业伙伴关系。",
+        "D": "其条款可能不具有严格的约束力。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "adult",
+    "B": "associated",
+    "C": "chew",
+    "D": "contains",
+    "E": "continue",
+    "F": "defense",
+    "G": "dental",
+    "H": "downward",
+    "I": "emotional",
+    "J": "implies",
+    "K": "mammal",
+    "L": "replace",
+    "M": "swallow",
+    "N": "triggered",
+    "O": "underneath"
+  },
+  "cloze_passage": "You might think of your teeth as tools, like built-in knives and forks, but if they are mere tools, why do they feel pain and wouldn't it be better if they could just 26 under any condition? In spite of our 27 discomfort, it turns out there's a good reason our teeth are so sensitive. Tooth pain is a 28 mechanism that ensures when a tooth is being damaged we'll notice and do something about it.\nIf we eat something too hot or too cold, or if the tooth is worn down enough where the tissue 29 is exposed, all of those things cause pain, and then the pain causes the person not to use that tooth to try to protect it a little bit more. So it's really a protective mechanism more than anything else. If teeth didn't feel pain, we might 30 to use them in situations that damage them, and for humans, damaging 31 teeth is a problem because, unlike crocodiles, we can't 32 them.\nTeeth have three layers, only one of which—the innermost layer of the tooth—can hurt, as that layer of the tooth 33 both blood vessels and nerves. Pain is the only feeling to which the nerves in that layer respond. Whereas people with tooth sensitivity may complain, for example, of tooth pain 34 by heat or cold, the nerves in the inner layer don't sense temperature. Rather, they feel pain, which may be 35 with, say, drinking something very cold.",
+  "long_reading_passage": "A) On paper, the job seemed perfect for me: The position was completely in line with my degree, the duties and responsibilities were compatible with my interests, and the office maintained a well-stocked kitchen that would satisfy my every snack desire.\nB) Sounds like my dream job, right? There was only one small problem: I simply didn't get along with the company culture. They favored a more rigid, closed-door, corporate atmosphere, while I would have preferred something more collaborative and open. They were complete clock watchers, while I would have liked a more flexible schedule. To put it plainly, we just weren't on the same page.\nC) When it comes to looking for a new job, you already know that a big part of the interview process involves the company evaluating whether or not you're a good fit for their open role. But, it's important to keep in mind that the employer isn't the only one who needs to identify a good match—you should be looking for that same exact thing. Company culture can have a big impact on how you feel about your work, so you want to make sure you sign an offer letter with an organization you're truly excited about.\nD) However, figuring out what a company is like before you actually work there can be a bit of a challenge. Luckily, there are a few things you can do to determine whether or not a company is a good fit for you—before you ever sign your name on that dotted line.\nE) First of all, know what you want. It's hard to make any decisions when you don't really know what you're looking for. So before you can determine whether you and a specific company would be compatible together, it's important to have a solid handle on what exactly you want from your employer. Many of us have an easier time identifying the things that we absolutely don't want. If those are the only things you can think of, don't worry! That's still a good place to start.\nF) Start by writing down the things you didn't like about previous employers, as well as the parts you really valued. There's no wrong answer here—so from big things to small details, write them all down on your list. This will help you immediately identify what you're looking for in an organization, as well as the things you're trying to stay far, far away from.\nG) Make sure to do your research. Now comes the part when you put on your detective hat and do a little digging. The Internet will be your best friend when you're trying to familiarize yourself with a company's culture before ever walking through their office doors. And where exactly should you look for these culture clues? Start with the most obvious place first: the company's website. Read through their copy and blog. Do they use formal, direct language? Or is it casual, conversational, and maybe even a little humorous? This can be a big indicator of what sort of atmosphere the company is trying to cultivate.\nH) Next, turn your attention toward their social media outlets. Are they sharing photos of their team's Thursday afternoon barbeque or Halloween costume contest? Or are their social media accounts strictly reserved for company-related announcements and product launches?\nI) An industry review website like Glassdoor is another spot to check in order to find some insider information about what you can expect about a company. However, remember to take the reviews you read with a grain of salt—many of them are written by scorned(被鄙视的) employees.\nJ) Finally, you can never fail with personal connections. Send a quick message to a current or previous company employee on LinkedIn or by email and ask if they would be willing to have a quick conversation with you about the organization in general. If you get a yes to your request for a chat, you'll be armed with some pretty powerful and helpful information heading into your interview!\nK) Learn more by asking questions. You know that part at the end of a job interview when the hiring manager asks if you have any questions, and you just stare across the table blankly with your mouth hanging open? That's the perfect opportunity to speak up and get your burning company culture questions answered! So yes, you can definitely ask your interviewer about what it's like to work for that particular organization. Simple questions like, \"What three words would you use to describe the culture here?\" or \"What's your favorite part about working for this company?\" can reveal a lot about what it's really like behind closed doors.\nL) Prioritize your values. What does my dream company culture look like? Well, I could come and go as I please, as long as I was getting the work done. My boss would genuinely listen to and value all of my ideas and suggestions. My co-workers would all be friendly with one another, without ever falling into the office gossip trap. The kitchen would have endless options of pizza and cookies. Oh, and they'd give me two months of paid vacation with a very generous salary.\nM) What are my chances of finding all of those things with one employer? Slim to none—believe me, I've looked. This is why it's so important to know which aspects of a company's culture you value most. Is it an open communication style or a flexible schedule? Focus on the top spots on your priority list, and ensure a potential employer at least checks those boxes. Unfortunately, this is reality, you can't have everything you want but a few are certainly achievable.\nN) When you're hunting for a new job, you already know that the employer is trying to decide whether or not you're a good fit for the position. But you should also look at the process through a similar lens. You may not be the one conducting the actual interview, but you're still trying to determine whether or not the company is a good fit for you.\nO) Keep these tips in mind to figure out whether you and a potential employer are a perfect match or just a recipe(方案) for disaster. After all, it's a good thing to know before actually accepting an offer.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "Online classes began to be popularized just a few decades ago. They are advertised as a way for adults to finish their education and students to learn the material at their own pace—it is far more compatible for people with busy schedules.\nBut after being enrolled in an online course last fall semester, I came to realize online classes were merely a means to fulfil course requirements.\nFirst of all, students lack the desire to learn, and they simply complete their assignments to receive credit for a passing grade rather than genuinely engage with the course material.\nAs online courses tend to have more than 100 students, most of the assignments are short and simple. They are not designed for students to interact with the material in depth but designed to be graded easily to accommodate such a large number of students.\nPerhaps the biggest disadvantage of taking an online class is the absence of face-to-face interaction between the teacher and their students. Live sessions are infrequent and are often scheduled during the middle of the day when students have to attend other classes or work. The office hours of the professor may also be during inconvenient times for many students as well. Most interaction with the professor has to be through email which is often impersonal. It is nearly impossible for students to build a relationship with their professor.\nThere is also little interaction amongst students. It can be harder for students to create study groups and form relationships with their peers.\nOnline classes also require either a computer or laptop and a reliable internet connection. Not all students have access to these types of resources, whether it is for financial or other reasons, and some students can be put at a disadvantage.\nOffering online classes certainly helps students who would otherwise not be able to attend classroom sessions. However, they fail to provide a genuine education with an emphasis on convenience rather than critical thinking. We need restructured online classes in which students can have a learning experience that will actually provide quality education.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "They can access course materials easily.",
+        "B": "They are unmotivated to learn.",
+        "C": "They can learn at their own pace.",
+        "D": "They rarely fulfil the course requirements."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "They are made convenient to mark.",
+        "B": "They are meant to facilitate interaction.",
+        "C": "They are based on easily accessible material.",
+        "D": "They are given to accommodate students' needs."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "They are frequently scheduled at irregular times.",
+        "B": "They make professors' offices much less accessible.",
+        "C": "They tend to increase professors' burden of responding to students' emails.",
+        "D": "They provide little chance for students to build relationships with each other"
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "More students may find it easy to be absent from them.",
+        "B": "Teachers will worry about poor internet connections.",
+        "C": "Some students may have difficulty attending them.",
+        "D": "Schools with limited resources will be at a disadvantage."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Acquisition of useful knowledge.",
+        "B": "Training of real-life skills on campus.",
+        "C": "Development of students' personalities.",
+        "D": "Cultivation of analytical thinking ability."
+      }
+    }
+  ],
+  "reading_passage_2": "In the age of the internet, there's no such thing as a private debate. But is that bad for science? Some scientists have had concerns. When debates in any sector move beyond the halls of universities and government agencies, there's potential for information to be used incorrectly, leading to public confusion; yet, open debate can also promote communication between the scientific community and the public. Recent open debates on scientific research, health, and policy have aroused greater public attention and encouraged more diverse voices. If this trend spurs scientists to agree more quickly about the best solutions to our problems—and at the same time helps the public observe the process of scientific discourse more clearly—then this is good for everyone, including scientists.\nA recent debate published in The New York Times discussed the question of how quickly medicine should be developed and produced. Issues such as safety of the product and perception of the public were examined and considered. But some experts worried that such public speculation might lead people to believe that disagreement about the details meant a lack of adequate scientific consensus over the safety and efficiency of modern-day medicine.\nThe anxiety seems misplaced. Gone are the days of going to a conference and debating scientific issues, and that's good because those gatherings were not diverse enough and excluded many important voices. These days, the public can access debates about science regardless of where they take place.\nFor many scientists, public debate is a new frontier and it may feel like a place with few restraints or rules. But rather than avoiding such conversations, let the debates be transparent and vigorous, wherever they are held. If the public is to understand that science is an honorably self-correcting process, the idea that science is a fixed set of facts in a textbook needs to be dismissed. With the validity of science coming under attack, there's a need for scientific debates to be perceived as open and true to life. Let everyone see the noisy, messy deliberations that advance science and lead to decisions that benefit us all.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "Help the public to better understand science.",
+        "B": "Clear up confusion in the scientific community.",
+        "C": "Settle disputes between universities and government agencies.",
+        "D": "Prevent information from being used incorrectly by the public."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "It might hinder the progress in medical research.",
+        "B": "It might breed public distrust in modern medicine.",
+        "C": "It might add to the difficulty of getting research funds.",
+        "D": "It might prevent medical scientists reaching consensus."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "Debating scientific issues at a conference is now old-fashioned.",
+        "B": "Diverse topics can be debated by both scientists and the public.",
+        "C": "Debates about science are accessible to the public anyway.",
+        "D": "Scientists can voice their opinions whatever way they like."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Have more discussions about it.",
+        "B": "Embrace it with open arms.",
+        "C": "Formulate new rules for it.",
+        "D": "Restrain it to a rational degree."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "It is transmitted through textbooks.",
+        "B": "It is what proves valid and true to life.",
+        "C": "It is a dynamic and self-improving process.",
+        "D": "It is a collection of facts and established rules."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2022年6月·第1套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 从前有个农夫嫌他种的禾苗长得慢，就到地里把禾苗一株株地拔高了一点。回家后他对家人说：\"今天可真把我累坏了！但我总算让禾苗一下子长高了。\"他儿子到地里去一看，禾苗都已死光了。 现在有些家长急于让孩子成功，往往步那个农夫的后尘，搞得孩子苦不堪言，却不见孩子学业长进。这样的家长是否该对这个问题有所醒悟，让孩子自然成长呢？",
+  "answers": {
+    "1": "D",
+    "2": "B",
+    "3": "D",
+    "4": "B",
+    "5": "C",
+    "6": "A",
+    "7": "C",
+    "8": "C",
+    "9": "B",
+    "10": "A",
+    "11": "D",
+    "12": "A",
+    "13": "C",
+    "14": "B",
+    "15": "A",
+    "16": "D",
+    "17": "C",
+    "18": "B",
+    "19": "B",
+    "20": "C",
+    "21": "A",
+    "22": "D",
+    "23": "A",
+    "24": "B",
+    "25": "D",
+    "26": "C",
+    "27": "G",
+    "28": "F",
+    "29": "O",
+    "30": "E",
+    "31": "A",
+    "32": "L",
+    "33": "D",
+    "34": "N",
+    "35": "B",
+    "36": "G",
+    "37": "D",
+    "38": "M",
+    "39": "A",
+    "40": "F",
+    "41": "K",
+    "42": "E",
+    "43": "I",
+    "44": "C",
+    "45": "J",
+    "46": "B",
+    "47": "A",
+    "48": "D",
+    "49": "C",
+    "50": "D",
+    "51": "A",
+    "52": "B",
+    "53": "C",
+    "54": "B",
+    "55": "C"
+  },
+  "listening_script": {
+    "en": "A new study finds that beverages containing added sugar might be harmful.\nIn the study, researchers analyzed information from over 80,000 women and 37,000 men. Participants worked in the health profession. They were followed for approximately three decades. They completed surveys about their diet every four years. They also answered questions about sleep and exercise and health every two years.\nThe more beverages containing added sugar that people drank, the greater their risk of death was during the study period.\nThese beverages included soda, energy drinks and sports drinks. Beverages like pure fruit juice which are sweet but do not contain added sugar were not part of the study.\nThe findings held even after the researchers considered other factors that could affect people's health. These factors included lack of exercise and not eating enough vegetables. They also included consuming too much meat.\nThe scientists say that their results support limiting beverages with added sugar. They argue we should replace them with other drinks, with water being the best choice. However, the researchers admit this is simply their recommendation. The study found only an association: It did not prove that drinks with added sugar cause early death.\nGerman police appealed Friday for information about the possible owners of two 17th-century oil paintings.\nPolice said a 64-year-old man found the paintings in a garbage pile at a highway rest stop last month. He later handed them in to the Cologne police.\nAn initial assessment by an art expert concluded the two framed paintings were originals, police said.\nOne is a landscape painted by the Italian artist Pietro Bellotti dating to 1665. The other is a painting of a boy by the 17th-century Dutch artist Samuel van Hoogstraten, date unknown. Their combined worth is estimated to be around one million euros.\nAuthorities have not yet confirmed what will happen if the rightful owner is not found. Nevertheless, it is speculated that they could either be handed over to the National Art Museum of Cologne or sold to the public by the local government.\nA four-year-old girl has walked eight kilometers through a snowy forest to seek help for her sick grandmother who later died of a heart attack. The young girl braved the threat of bears, wolves and temperatures far below freezing. She made the journey through a remote region in Siberia after waking up to find her grandmother motionless.\nNamed locally as Karla, she lives alone with her elderly grandmother and her blind grandfather. As a result, the girl's mother is facing a criminal case. She stands accused of leaving a minor in danger in the care of the elderly. She also faces investigation from childcare services, who will also be asking why Karla was left alone with her vulnerable relatives.\nThe journey took place in February when temperatures average negative 26 degrees Celsius. Russian reports on social media suggest the forest may have been as cold as negative 34 degrees Celsius. The journey was only recently confirmed by authorities.\nBut though she was suffering from the effects of extreme cold, the child reportedly suffered no life-threatening effects. Last year, a three-year-old boy survived alone for three days in a remote forest in the same region.\nW: I've made a new friend recently. Her name is Susan and she's from South Africa.\nM: How did you meet her?\nW: We met over WeChat. She has very cool photos on her social media. The photos of her hometown look amazing.\nM: What's her hometown called?\nW: It's called Cape Town. It's in the southwest of South Africa. She says it's very green and windy. The city was built by European settlers. And there's a big mountain that overlooks the city. The mountain is called Table Mountain because it's flat at the top.\nM: That sounds interesting. What are the people there like?\nW: Well, Susan says South Africa is very mixed. There are black people and white people and Indian people. Susan is white. She says her ancestors were from Britain. Many languages are spoken in South Africa, but she only speaks English.\nM: Didn't South Africa host the Football World Cup a few years ago? They must play football a lot then, right?\nW: I think they play football, but it's not as popular as rugby.\nM: Rugby? What's rugby?\nW: Rugby is a sport with two teams and the players carry the ball in their arms and throw it at each other. The ball is not round and the players push each other. I don't really understand the rules. I think it's very complicated.\nM: That sounds like a very strange sport indeed. Is it only South Africa that plays it?\nW: No, it's also popular in Britain and in other former British colonies like Australia and New Zealand.\nM: Hi, Jennifer. I'm really struggling with this semester's workload. Do you have any advice?\nW: Have you considered making a study guide? It's a tool you can make yourself to take the stress out of studying. I've been using one since the start of last semester, and it has really helped relieve a lot of study pressure.\nM: Sounds like just what I need. My main problem is that my study folder is full of notes and worksheets, and is badly disorganized. I don't know where to start.\nW: Okay. Well, the main thing is to have everything in the right place. Whatever you're reviewing, it's important that it's arranged for your particular needs of that subject, and in the most user-friendly way you can. What kind of learner are you?\nM: Um, I'm not sure.\nW: Well, visual learners prefer using images, pictures, colors, and maps to organize information. Logical learners have a linear mind and would rather use logic, reasoning and systems. I'm an emotional learner, which means I need to connect to information emotionally to understand it.\nM: Oh! I'm very much dependent on vision as a way of taking in information.\nW: Well, I suggest reorganizing your notes using color-coded sections in your study guides, or using idea mapping to lay out the information and make it more quickly accessible.\nM: So you think I should arrange my notes using color and pictures in place of text.\nW: Yes, you'll probably start to grasp information a lot quicker that way. As an emotional learner, I organize my notes into a story that I can connect to and recite to myself.\nM: That's amazing. I didn't know there were so many different ways to learn.\nThe golden rule is a moral principle which states that you should treat others the way you want to be treated yourself. For example, if you want people to treat you with respect, you should treat them with respect.\nDifferent people tend to be exposed to different forms of the golden rule, based on factors such as the religion in their society.\nHowever, all forms of the golden rule revolve around the same concept. Namely, they help you treat others better, by using the way you yourself would want to be treated as a guide of how to behave.\nA notable criticism of the golden rule is that its application can lead to undesirable outcomes, when it conflicts with laws and ethical principles.\nFor example, if someone breaks the law, the golden rule would suggest that we should let them go, because we would not want to be punished ourselves.\nHowever, this issue with the golden rule can be dealt with in a general manner, by viewing this principle as one of several principles that we use to guide our behavior as individuals and as a society.\nSpecifically, in the example described above, most individuals and societies choose to place laws and ethical principles above the golden rule. This means that they strive to implement the golden rule whenever possible, as long as it doesn't clash with a more important concept.\nToday, many large corporations stress the importance of diversity on their websites, but current statistics show that the typical manager in America still tends to be white and male. Obviously, the desire to bring about diversity has not translated into corporate reality.\nWhy useless? A team of researchers from the University of Basel published their new study about people's attitudes towards diversity at work. They found that people have a wide range of opinions concerning diversity. On the one hand, many see value in diversity, which can contribute a variety of perspectives, encourage new ideas, and generate innovative solutions. On the other hand, they assume that it might be difficult to work with someone who has completely different views, speaks a different language, or has a different style of work.\nThe actual value they attribute to diversity depends on the decision-making perspective. Doubts about the practicability of diversity have a greater weight if a person is directly affected. In other words, when a person's own work group is involved, they tend to prefer team members who are similar to themselves. But when people make decisions for others, they typically put together a more diverse team. These findings could help organizations become more diverse. Companies need to pay attention to who makes hiring and team decisions.\nThese decisions should not only be made by those directly affected. People who are not directly involved in the group's daily work should also take part.\nCommunication can essentially be divided into two categories: the written and the spoken.\nHow the balance is struck between these two forms of communication—the point at which one needs to be exchanged for another—really depends on individual cultures.\nUnderstanding when it's appropriate to exchange one form for another can be a major key to success in international business.\nMany cultures place a much greater value on the spoken word than the American working culture does.\nIn parts of the Middle East, you'll find spoken word agreements are seen as seriously binding. A person's word is linked to their honor, so verbal agreements are seen as important, whereas written contracts are taken as memos of understanding.\nWestern working culture tends to place a high value on the written word, and this reaches its highest level of intensity when it comes to contracts. In the US, France and Germany, written contracts tend to be seen as something that must be strictly carried out.\nBy contrast, other cultures may not see written contracts as quite so binding. It can prove a challenge to Western businesses if your business partner wants to renegotiate terms that you thought were already agreed on.\nFor example, a Japanese firm may have signed a contract, but they may not feel bound by every detail of it—particularly if circumstances later change.\nSuch differences in value that different working cultures place on the written word tend to cause many problems when it comes to business relationships.",
+    "cn": "一项新研究发现，含添加糖的饮料可能有害健康。\n在该研究中，研究人员分析了超过8万名女性和3.7万名男性的信息。参与者从事健康专业工作。他们被跟踪随访了约三十年。他们每四年完成一次关于饮食的调查。他们还每两年回答关于睡眠、运动和健康的问题。\n人们饮用的含添加糖饮料越多，他们在研究期间的死亡风险就越大。\n这些饮料包括苏打水、能量饮料和运动饮料。像纯果汁这样味甜但不含添加糖的饮料不在本研究范围内。\n即使在研究人员考虑了其他可能影响人们健康的因素后，这些发现仍然成立。这些因素包括缺乏运动和蔬菜摄入不足。它们还包括肉类摄入过多。\n科学家们表示，他们的研究结果支持限制含添加糖的饮料。他们主张我们应该用其他饮料代替它们，其中水是最佳选择。然而，研究人员承认这只是他们的建议。该研究仅发现了一种关联：它并未证明含添加糖的饮料会导致过早死亡。\n德国警方周五呼吁民众提供有关两幅17世纪油画可能所有者的信息。\n警方表示,一名64岁男子上个月在高速公路休息站的垃圾堆中发现了这些画作。他后来将它们交给了科隆警方。\n警方称,一位艺术专家的初步评估认定这两幅带框画作是原作。\n其中一幅是意大利艺术家Pietro Bellotti于1665年创作的风景画。另一幅是17世纪荷兰艺术家Samuel van Hoogstraten创作的男孩肖像画,创作日期不详。两幅画的总价值估计约为一百万欧元。\n当局尚未确认如果找不到合法所有者将如何处理。不过,有人推测这些画作可能会被移交给科隆国家美术馆,或由地方政府向公众出售。\n一名四岁女孩在雪地森林中步行八公里为生病的祖母寻求帮助，祖母后来死于心脏病发作。这名年幼的女孩冒着熊、狼和远低于冰点的气温威胁，在醒来发现祖母一动不动后，穿越西伯利亚偏远地区完成了这段旅程。\n当地称她为Karla，她独自与年迈的祖母和失明的祖父生活在一起。因此，女孩的母亲面临刑事诉讼。她被指控将未成年人置于危险之中，交由老年人照顾。她还面临儿童保育服务部门的调查，该部门也将询问为何让Karla独自与她脆弱的亲属待在一起。\n这段旅程发生在二月，当时平均气温为零下26摄氏度。俄罗斯社交媒体报道称，森林中的温度可能低至零下34摄氏度。这段旅程直到最近才得到当局确认。\n尽管她遭受了极寒的影响,但据报道这名儿童没有出现危及生命的症状。去年，一名三岁男孩在同一地区的偏远森林中独自生存了三天。\nW: 我最近交了个新朋友。她叫Susan，来自南非。\nM: 你们怎么认识的？\nW: 我们在微信上认识的。她社交媒体上的照片很酷。她家乡的照片看起来棒极了。\nM: 她家乡叫什么？\nW: 叫开普敦。在南非西南部。她说那里很绿，风很大。这座城市是欧洲殖民者建的。还有一座大山俯瞰着这座城市。这座山叫桌山，因为它顶部是平的。\nM: 听起来很有意思。那里的人怎么样？\nW: 嗯，Susan说南非种族很多元。有黑人、白人和印度人。Susan是白人。她说她的祖先来自英国。南非说很多种语言，但她只说英语。\nM: 南非不是几年前举办过足球世界杯吗？那他们一定很常踢足球吧？\nW: 我想他们踢足球，但没有橄榄球那么流行。\nM: 橄榄球？橄榄球是什么？\nW: 橄榄球是一项两队对抗的运动，球员用手臂抱着球互相传递。球不是圆的，球员之间会互相推搡。我不太懂规则。我觉得挺复杂的。\nM: 听起来确实是项很奇怪的运动。只有南非玩这个吗？\nW: 不是，在英国和其他前英国殖民地像澳大利亚、新西兰也很流行。\nM: 嗨，Jennifer。我这学期的课业负担真的让我很吃力。你有什么建议吗？\nW: 你考虑过做一个学习指南吗？这是一个你可以自己制作的工具，能减轻学习压力。从上学期开始我就一直在用，真的帮我缓解了很多学习压力。\nM: 听起来正是我需要的。我的主要问题是我的学习文件夹里塞满了笔记和作业纸，而且乱七八糟的。我都不知道从哪儿开始。\nW: 好的。嗯，最重要的是把所有东西都放对地方。不管你在复习什么，重要的是要按照你对那门科目的特定需求来安排，而且要用你能做到的最方便使用的方式。你是哪种类型的学习者？\nM: 嗯，我不太确定。\nW: 嗯，视觉型学习者更喜欢用图像、图片、颜色和地图来组织信息。逻辑型学习者有线性思维，更喜欢用逻辑、推理和系统。我是情感型学习者，这意味着我需要在情感上与信息建立联系才能理解它。\nM: 哦！我非常依赖视觉作为接收信息的方式。\nW: 嗯，我建议你在学习指南里用颜色编码的分区来重新组织你的笔记，或者用思维导图来布局信息，让它更快速可查。\nM: 所以你认为我应该用颜色和图片代替文字来安排我的笔记。\nW: 对，这样你可能会更快地掌握信息。作为情感型学习者，我会把笔记组织成一个我能产生共鸣并能向自己复述的故事。\nM: 太棒了。我都不知道原来有这么多不同的学习方式。\n黄金法则是一条道德原则,它指出你应该以你希望被对待的方式对待他人。例如,如果你希望人们尊重你,你就应该尊重他们。\n不同的人往往会接触到不同形式的黄金法则,这取决于诸如其社会中的宗教等因素。\n然而,黄金法则的所有形式都围绕着同一个概念。也就是说,它们通过使用你自己希望被对待的方式作为行为指南,帮助你更好地对待他人。\n对黄金法则的一个显著批评是,当它与法律和伦理原则相冲突时,其应用可能导致不良后果。\n例如,如果有人违法,黄金法则会建议我们应该放过他们,因为我们自己也不想受到惩罚。\n然而,黄金法则的这一问题可以通过一般性方式来处理,即把这一原则视为我们用来指导个人和社会行为的若干原则之一。\n具体而言,在上述例子中,大多数个人和社会选择将法律和伦理原则置于黄金法则之上。这意味着只要不与更重要的概念发生冲突,他们就努力在任何可能的情况下实施黄金法则。\n如今,许多大型企业在其网站上强调多元化的重要性,但目前的统计数据显示,美国的典型管理者仍然倾向于是白人和男性。显然,实现多元化的愿望尚未转化为企业现实。\n为什么没有用?巴塞尔大学的一组研究人员发表了他们关于人们对工作场所多元化态度的新研究。他们发现,人们对多元化持有广泛的意见。一方面,许多人看到了多元化的价值,它可以贡献各种不同的观点,鼓励新想法,并产生创新的解决方案。另一方面,他们认为与观点完全不同、说不同语言或工作风格不同的人共事可能会很困难。\n他们赋予多元化的实际价值取决于决策视角。如果一个人受到直接影响,对多元化实用性的怀疑会具有更大的权重。换句话说,当涉及一个人自己的工作团队时,他们倾向于选择与自己相似的团队成员。但当人们为他人做决定时,他们通常会组建一个更多元化的团队。这些发现可以帮助组织变得更加多元化。企业需要关注由谁来做出招聘和团队决策。\n这些决策不应仅由直接受影响的人做出。不直接参与团队日常工作的人也应该参与其中。\n沟通本质上可以分为两类：书面沟通和口头沟通。\n如何在这两种沟通形式之间取得平衡——即在何时需要将一种形式转换为另一种形式——实际上取决于各个文化。\n理解何时适合将一种形式转换为另一种形式，可能是国际商务成功的关键因素。\n许多文化对口头语言的重视程度远高于美国职场文化。\n在中东部分地区,你会发现口头协议被视为具有严肃的约束力。一个人的话语与其荣誉相关联，因此口头协议被视为重要的，而书面合同则被视为理解备忘录。\n西方职场文化倾向于高度重视书面文字，而这在涉及合同时达到最高强度。在美国、法国和德国，书面合同往往被视为必须严格执行的东西。\n相比之下，其他文化可能不认为书面合同具有如此强的约束力。如果你的商业伙伴想要重新协商你认为已经达成一致的条款，这可能会给西方企业带来挑战。\n例如，一家日本公司可能已经签署了合同，但他们可能不觉得受其每个细节的约束——特别是如果情况后来发生变化。\n不同职场文化对书面文字所赋予的价值差异，往往会在商业关系中造成许多问题。"
+  }
+}

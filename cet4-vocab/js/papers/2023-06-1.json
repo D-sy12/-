@@ -1,0 +1,670 @@
+{
+  "id": "2023-06-1",
+  "writing": "Directions: For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What do we learn from the report about the 55-year-old woman?",
+      "options": {
+        "A": "She was involved in a conflict with bird lovers.",
+        "B": "She was charged with mistreating animals.",
+        "C": "She was on bad terms with her neighbors.",
+        "D": "She was accused of violating a city law."
+      },
+      "stem_cn": "从报道中我们了解到关于这位55岁女性的什么信息?",
+      "options_cn": {
+        "A": "她卷入了与爱鸟人士的冲突。",
+        "B": "她被指控虐待动物。",
+        "C": "她与邻居关系不睦。",
+        "D": "她被指控违反了一项城市法律。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What did the director of the city administration say at the end of the news report?",
+      "options": {
+        "A": "It will take time to solve the rat problem.",
+        "B": "All wild animals should be well protected.",
+        "C": "The woman was not to blame for the situation.",
+        "D": "No one should go unpunished for violating law."
+      },
+      "stem_cn": "新闻报道最后市政管理部门主任说了什么?",
+      "options_cn": {
+        "A": "解决鼠患问题需要时间。",
+        "B": "所有野生动物都应该得到良好保护。",
+        "C": "这位女性对这种情况不应受到责备。",
+        "D": "任何人违法都不应逍遥法外。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What does NASA require the paid volunteers to do?",
+      "options": {
+        "A": "Communicate with astronauts in Mars Dune Alpha.",
+        "B": "Work in an environment resembling Mars.",
+        "C": "Build a Martian habitat in Houston.",
+        "D": "Send in applications before Friday."
+      },
+      "stem_cn": "NASA要求有偿志愿者做什么?",
+      "options_cn": {
+        "A": "与Mars Dune Alpha中的宇航员交流。",
+        "B": "在类似火星的环境中工作。",
+        "C": "在休斯顿建造火星栖息地。",
+        "D": "在周五之前提交申请。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What will the participants in the project eat?",
+      "options": {
+        "A": "Ready-made food.",
+        "B": "Food that is organic.",
+        "C": "Food they grow.",
+        "D": "Potatoes mostly."
+      },
+      "stem_cn": "该项目的参与者将吃什么?",
+      "options_cn": {
+        "A": "现成的食物。",
+        "B": "有机食物。",
+        "C": "他们种植的食物。",
+        "D": "主要是土豆。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What do the news reports say about the Japanese mayor Takashi Kawamura?",
+      "options": {
+        "A": "He apologized for scratching an athlete's gold medal.",
+        "B": "He was asked to present a gold medal to Miu Goto.",
+        "C": "He bit a softball player's Olympic gold medal.",
+        "D": "He attracted public attention at a media event."
+      },
+      "stem_cn": "新闻报道中关于日本市长河村隆志说了什么?",
+      "options_cn": {
+        "A": "他为刮花一名运动员的金牌而道歉。",
+        "B": "他被要求向后藤希友颁发一枚金牌。",
+        "C": "他咬了一名垒球运动员的奥运金牌。",
+        "D": "他在一场媒体活动中引起了公众关注。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What did mayor Takashi Kawamura offer to do?",
+      "options": {
+        "A": "Have another picture taken with the Olympic medalist.",
+        "B": "Apologize to the International Olympic Committee.",
+        "C": "Get the damaged medal repaired.",
+        "D": "Pay for the cost of a new medal."
+      },
+      "stem_cn": "市长河村隆志提出要做什么?",
+      "options_cn": {
+        "A": "与这名奥运奖牌获得者再拍一张照片。",
+        "B": "向国际奥林匹克委员会道歉。",
+        "C": "把损坏的奖牌修好。",
+        "D": "支付一枚新奖牌的费用。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What did some Olympians say they would do with their medals?",
+      "options": {
+        "A": "Allow no one to touch them.",
+        "B": "See them as symbols of honor.",
+        "C": "Treat them as treasures.",
+        "D": "Keep them in a safe place."
+      },
+      "stem_cn": "一些奥运选手说他们会如何处理自己的奖牌?",
+      "options_cn": {
+        "A": "不允许任何人触碰它们。",
+        "B": "把它们视为荣誉的象征。",
+        "C": "把它们当作珍宝对待。",
+        "D": "把它们保存在安全的地方。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What did the woman do to her computer?",
+      "options": {
+        "A": "She covered its screen with a plastic sheet.",
+        "B": "She connected it with her smartphone.",
+        "C": "She decorated it with colorful stickers.",
+        "D": "She bought some new software for it."
+      },
+      "stem_cn": "这位女士对她的电脑做了什么?",
+      "options_cn": {
+        "A": "她用塑料薄膜覆盖了屏幕。",
+        "B": "她把电脑和智能手机连接起来了。",
+        "C": "她用彩色贴纸装饰了电脑。",
+        "D": "她为电脑购买了一些新软件。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What does the woman say about blue light?",
+      "options": {
+        "A": "It may not be simply blue.",
+        "B": "It includes unnatural light.",
+        "C": "It is more harmful to young people.",
+        "D": "It induces people to fall asleep."
+      },
+      "stem_cn": "这位女士关于蓝光说了什么?",
+      "options_cn": {
+        "A": "它可能不仅仅是蓝色的。",
+        "B": "它包含非自然光。",
+        "C": "它对年轻人的危害更大。",
+        "D": "它促使人们入睡。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "Why does the man say he hasn't slept enough for months?",
+      "options": {
+        "A": "He has had much trouble falling asleep.",
+        "B": "He has had some sort of health problems.",
+        "C": "He has stayed up playing computer games.",
+        "D": "He has been burdened with excessive work."
+      },
+      "stem_cn": "这位男士为什么说他几个月来睡眠不足?",
+      "options_cn": {
+        "A": "他入睡一直很困难。",
+        "B": "他有某种健康问题。",
+        "C": "他熬夜玩电脑游戏。",
+        "D": "他承受着过重的工作负担。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What has the woman learned from the research she has read?",
+      "options": {
+        "A": "Exposure to blue light is the chief cause of obesity.",
+        "B": "Sleep may be more important than people assumed.",
+        "C": "Sleep may also be negatively affected by natural light.",
+        "D": "Overuse of electronic devices may cause heart disease."
+      },
+      "stem_cn": "这位女士从她读过的研究中了解到了什么?",
+      "options_cn": {
+        "A": "接触蓝光是肥胖的主要原因。",
+        "B": "睡眠可能比人们认为的更重要。",
+        "C": "睡眠也可能受到自然光的负面影响。",
+        "D": "过度使用电子设备可能导致心脏病。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What question were both speakers fed up with when they were kids?",
+      "options": {
+        "A": "What they wanted to be when grown up.",
+        "B": "What their favorite cartoon character was.",
+        "C": "What they learned from computer games.",
+        "D": "What they liked to do most after school."
+      },
+      "stem_cn": "当两位说话者还是孩子的时候,他们厌烦了什么问题?",
+      "options_cn": {
+        "A": "长大后想成为什么样的人。",
+        "B": "他们最喜欢的卡通角色是什么。",
+        "C": "他们从电脑游戏中学到了什么。",
+        "D": "他们放学后最喜欢做什么。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What occupation do adults see as both sensible and ambitious according to the woman?",
+      "options": {
+        "A": "A stock broker.",
+        "B": "A pop singer.",
+        "C": "A mechanical engineer.",
+        "D": "A basketball player."
+      },
+      "stem_cn": "根据这位女士的说法,成年人认为哪种职业既明智又有抱负?",
+      "options_cn": {
+        "A": "股票经纪人。",
+        "B": "流行歌手。",
+        "C": "机械工程师。",
+        "D": "篮球运动员。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What kind of goal-setting does the woman like to see in children?",
+      "options": {
+        "A": "Ambitious.",
+        "B": "Sensible.",
+        "C": "Imaginative.",
+        "D": "Practical."
+      },
+      "stem_cn": "这位女士希望在孩子身上看到什么样的目标设定?",
+      "options_cn": {
+        "A": "有抱负的。",
+        "B": "明智的。",
+        "C": "富有想象力的。",
+        "D": "切合实际的。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the woman suggest adults should do?",
+      "options": {
+        "A": "Relax their strict control of their kids.",
+        "B": "Help their kids understand themselves.",
+        "C": "Impose their own dreams on their kids.",
+        "D": "Dismiss their high expectations of their kids."
+      },
+      "stem_cn": "这位女士建议成年人应该做什么?",
+      "options_cn": {
+        "A": "放松对孩子的严格控制。",
+        "B": "帮助孩子了解自己。",
+        "C": "将自己的梦想强加给孩子。",
+        "D": "放弃对孩子的高期望。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What are a number of phone companies trying to do in Africa?",
+      "options": {
+        "A": "Set up company branches.",
+        "B": "Improve its infrastructure.",
+        "C": "Introduce iPhones into its markets.",
+        "D": "Promote Internet-ready phones."
+      },
+      "stem_cn": "许多手机公司正试图在非洲做什么？",
+      "options_cn": {
+        "A": "建立公司分支机构。",
+        "B": "改善其基础设施。",
+        "C": "将iPhone引入其市场。",
+        "D": "推广支持互联网的手机。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "How do KaiOS smartphones differ from smartphones of most other companies?",
+      "options": {
+        "A": "They cater to Africans' needs.",
+        "B": "They are more expensive models.",
+        "C": "They are more powerful and capable",
+        "D": "They boast the longest battery life."
+      },
+      "stem_cn": "KaiOS智能手机与其他大多数公司的智能手机有何不同？",
+      "options_cn": {
+        "A": "它们迎合非洲人的需求。",
+        "B": "它们是更昂贵的型号。",
+        "C": "它们更强大且功能更强。",
+        "D": "它们拥有最长的电池续航时间。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What are KaiOS smartphones equipped with?",
+      "options": {
+        "A": "A large touchscreen.",
+        "B": "An old-school keypad.",
+        "C": "A voice-response device.",
+        "D": "A digitally-designed system."
+      },
+      "stem_cn": "KaiOS智能手机配备了什么？",
+      "options_cn": {
+        "A": "大型触摸屏。",
+        "B": "老式键盘。",
+        "C": "语音响应设备。",
+        "D": "数字化设计系统。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What is said about using recycled plastic to make plastic products in the past?",
+      "options": {
+        "A": "It ensured sustainable economic growth.",
+        "B": "It was strongly opposed by manufacturers.",
+        "C": "It was cheaper than using fossil fuel plastic.",
+        "D": "It satisfied consumer demands on the whole."
+      },
+      "stem_cn": "关于过去使用回收塑料制造塑料产品,有何说法?",
+      "options_cn": {
+        "A": "它确保了可持续的经济增长。",
+        "B": "它遭到制造商的强烈反对。",
+        "C": "它比使用化石燃料塑料更便宜。",
+        "D": "它总体上满足了消费者的需求。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What has led to more competitive price for new plastic?",
+      "options": {
+        "A": "The capacity to mass produce it.",
+        "B": "The U.S. federal government's regulations.",
+        "C": "A boom in market demand for clear plastic bottles.",
+        "D": "A rapid increase in U.S. petroleum chemical production."
+      },
+      "stem_cn": "是什么导致新塑料的价格更具竞争力?",
+      "options_cn": {
+        "A": "大规模生产的能力。",
+        "B": "美国联邦政府的法规。",
+        "C": "透明塑料瓶市场需求的繁荣。",
+        "D": "美国石油化工产量的快速增长。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What does the UK government plan to do about plastic?",
+      "options": {
+        "A": "Require companies to use 30% of new plastic.",
+        "B": "Increase the supply of new plastic in the market.",
+        "C": "Reduce the amount of plastic pollution in local areas.",
+        "D": "Take measures to promote the use of recycled plastic."
+      },
+      "stem_cn": "英国政府计划对塑料采取什么措施?",
+      "options_cn": {
+        "A": "要求企业使用30%的新塑料。",
+        "B": "增加市场上新塑料的供应。",
+        "C": "减少当地地区的塑料污染量。",
+        "D": "采取措施促进回收塑料的使用。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What do we learn about the Dreamery, a business in Manhattan?",
+      "options": {
+        "A": "It studies dreams.",
+        "B": "It rents a place for nap-takers.",
+        "C": "It is a hotel for business people.",
+        "D": "It is a nap research institute."
+      },
+      "stem_cn": "关于位于曼哈顿的Dreamery这家企业,我们了解到什么?",
+      "options_cn": {
+        "A": "它研究梦境。",
+        "B": "它为午睡者出租场地。",
+        "C": "它是一家为商务人士服务的酒店。",
+        "D": "它是一家午睡研究机构。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "Why does the speaker ask us to look at the world around us at 2:30 in the afternoon?",
+      "options": {
+        "A": "To find out creative people's work performance.",
+        "B": "To see how many people can go without napping.",
+        "C": "To understand the obvious importance of napping.",
+        "D": "To feel how difficult it is to get his idea across."
+      },
+      "stem_cn": "为什么说话者要我们在下午2点30分观察周围的世界?",
+      "options_cn": {
+        "A": "为了了解有创造力的人的工作表现。",
+        "B": "为了看看有多少人可以不午睡。",
+        "C": "为了理解午睡的明显重要性。",
+        "D": "为了感受让别人理解他的想法有多困难。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What do we learn about the quantity and quality of the speaker's work?",
+      "options": {
+        "A": "They decline due to pointless meetings.",
+        "B": "They depend on his ability to concentrate.",
+        "C": "They enable him to enjoy a creative career.",
+        "D": "They are affected by the overuse of social media."
+      },
+      "stem_cn": "关于说话者工作的数量和质量,我们了解到什么?",
+      "options_cn": {
+        "A": "它们因无意义的会议而下降。",
+        "B": "它们取决于他的专注能力。",
+        "C": "它们使他能够享受创造性的职业生涯。",
+        "D": "它们受到社交媒体过度使用的影响。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What does the speaker say he finds odd?",
+      "options": {
+        "A": "Some bosses associate napping with laziness.",
+        "B": "Many office workers nap during work hours.",
+        "C": "Some bosses can concentrate without napping.",
+        "D": "Many of his friends daydream in the office."
+      },
+      "stem_cn": "说话者说他觉得什么很奇怪?",
+      "options_cn": {
+        "A": "一些老板把午睡与懒惰联系在一起。",
+        "B": "许多办公室职员在工作时间午睡。",
+        "C": "一些老板可以不午睡就能集中注意力。",
+        "D": "他的许多朋友在办公室里做白日梦。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "abstracts",
+    "B": "abundant",
+    "C": "awareness",
+    "D": "conscience",
+    "E": "exact",
+    "F": "increasingly",
+    "G": "intense",
+    "H": "mend",
+    "I": "nearly",
+    "J": "reckoning",
+    "K": "reducing",
+    "L": "sew",
+    "M": "shrink",
+    "N": "statistics",
+    "O": "textile"
+  },
+  "cloze_passage": "You probably haven't taken the time to think of all the work that went into creating the shirt on your back. I mean, how hard it could be to create fabric and 26 it into a shirt shape. Don't machines do all that? Well, creating fabric from cotton, which is the most 27 clothing material, is actually a process that involves a lot of water, 2,700 liters per shirt to be 28 . Take a look at the video below from National Geographic for some more mind-blowing 29 about cotton clothing production.\nClean water is 30 becoming one of the most sought-after resources in the world. Given how large the 31 and cotton industries are, they take up a lot of our fresh water demands across the world, according to The Huffington Post. The video from National Geographic was created to spread 32 of how environmentally harmful cotton is. But the situation can be made better. Through better water management and farming practices, water usage in cotton production can be cut down by 33 40 percent.\nCalled \"Better Cotton\", this environmentally conscious product will save millions of liters of water a year simply from 34 the demands of cotton production. Cotton doesn't have to go, since it is, after all, one of the most useful cash crops across the globe. However, as water supplies 35 , farmers and consumers need to be more conscious of the effect that these products have on the environment as a whole.",
+  "long_reading_passage": "A) We're growing more used to chatting to our computers, phones and smart speakers through voice assistants like Amazon's Alexa, Apple's Siri and Microsoft's Cortana. Blind and partially sighted people have been using text-to-speech converters for decades.\nB) Out of these assistants, Siri is the most well-known. The assistant uses voice inquiries and a natural-language user interface(界面) to answer questions. The software adapts to users' individual language usages, searches, and preferences, with continuing use.\nC) Some think voice could soon take over from typing and clicking as the main way to interact online. But what are the challenges of moving to \"the spoken web\"?\nD) What use is written online content if you can't read? That is the situation facing illiterate(不识字的) African farmers. They are often denied crucial information the web offers many others. With a literacy rate in some parts of Africa at only 22.6%, farmers are often \"underpaid for their produce because they might be unaware of the prevailing prices,\" says Francis Dittoh, a researcher behind Mr Meteo, a speech-based weather information service.\nE) \"The most frequently heard complaint is about rainfall predictions,\" says Mr Dittoh, who lives in Tamale, northern Ghana. \"They tell us the methods their forefathers used to predict the weather don't seem to work as well these days.\" This is down to climate change, he believes. Yet knowing when it's going to rain is vital for farmers wanting to sow seeds, irrigate crops or take their animals out to the fields to feed on grass.\nF) Mr Dittoh says the idea of converting online weather reports into speech came from the farmers themselves, after a workshop in the village of Guabuligah. \"They came up with this,\" he says. Mr Meteo takes the online weather forecast, converts it to a short recording in the appropriate language and makes it available on a basic phone. Farmers ring up to receive the information. The local language Dagbani is spoken by 1.2 million people but is not served by any online translation applications. The service was designed to be cheap and easy to run, says Mr Dittoh. He plans to begin field tests this month, working with Tamale's Savanna Agricultural Research Institute.\nG) The spoken web could also help the one-in-five adults in Europe and the U.S. with poor reading skills. But building the spoken web—web-to-voice and voice-to-web—isn't straightforward. For software to understand that pizza is served at Italian restaurants is easy. To cover multiple domains and to be able to have a conversation with users on every single topic is still a long way off.\nH) So although many computer assistants can answer simple questions about the weather and play music for us, anything resembling a wide-ranging human conversation is decades away. Artificial intelligence just isn't smart enough yet. Even turning your voice into text—automatic speech recognition—is one of the hardest problems to solve, as there are as many ways to pronounce things as there are people on the planet.\nI) Siri has often been praised for its ability to interpret our casual language and deliver very specific and accurate results, sometimes even providing additional information. But it is still somewhat restricted, particularly when the language moves away from stiffer commands into more human interactions. In one example, the phrase \"Send a text to Jason, Clint, Sam, and Lee saying we're having dinner at Silver Cloud restaurant\" was interpreted as sending a message to Jason only, containing the text \"Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant\". It has also been noted that Siri lacks a proper editing function, as saying \"Edit message to say: we're at Silver Cloud restaurant and you should come find us\" generates \"Clint Sam and Lee saying we're having dinner at Silver Cloud restaurant to say we're at Silver Cloud restaurant and you should come find us\".\nJ) Using voice interaction feels far more intimate than surfing the net the old-fashioned way. This is intentional as the informal tone of the assistant helps create an emotional attachment. But if something speaks, it must also listen. Our phones are always near us and they are collecting data about us all the time. This has already raised privacy concerns. The American Civil Liberties Union has stated that digital assistants create a threat to privacy from hackers. Some people have other concerns. They worry assistants will one day be used to deliver advertising directly to us.\nK) But digital voices need more personality to make them popular. Robots are not yet witty, Siri is boring. The benefits of using voice instead of tapping fingers obviously depend on the context. Doctors completing online forms about their patients by speech, for example, can dictate 150 words a minute, three times faster than typing on a keyboard. This enables them to spend less time on administration and more time with patients.\nL) Last year, speech recognition company Nuance helped a doctors' surgery in Dukinfield, near Manchester, set up a speech system for the practice's six doctors. Now they can dictate notes on a patient's health condition and treatment and a smart assistant automatically enters the information into the right fields on a web form. Previously, the doctors made voice recordings that were then transcribed by secretaries—a process that was costly and likely to cause delays. The new system means letters to patients now have more detail.\nM) Using voice also makes sense when you're doing other things with your hands. Think about when you're cooking, and you just want to know what the next step in the recipe is. Your hands are covered with oil; you're not going to get on the iPad, so it's a lot more natural to talk. And speech obviously makes sense when you're driving. In the U.S., 29% of drivers admit they surf behind the wheel, according to insurance firm State Farm. This is up from 13% in 2009. No wonder using mobile phones while driving causes more crashes a year than drink driving, says the U.S. National Safety Council.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "The United States is facing a housing crisis: Affordable housing is inadequate, while luxury homes abound(充裕), and homelessness remains a persistent problem. Despite this, popular culture and the housing industry market happiness as living with both more space and more amenities(便利设施). Big houses are advertised as a reward for hard work and diligence, turning housing from a basic necessity into a luxury.\nThis is reflected in our homes. The average single-family home built in the United States before 1970 was less than 1,500 square feet in size. By 2016, the average size of a new, single-family home was 2,422 square feet. What's more, homes built in the 2000s were more likely than earlier models to have more of all types of spaces: bedrooms, bathrooms, living rooms, dining rooms, recreation rooms and garages.\nThere are consequences of living big. As middle-class houses have grown larger, two things have happened. First, large houses take time to maintain, so cleaners and other low-wage service workers are required to keep these houses in order. Second, once-public spaces, where people from diverse backgrounds used to come together, have increasingly become privatized, leading to a reduction in the number of public facilities available to all, and a reduced quality of life for many. Take swimming pools. While in 1950, only 2,500 U.S. families owned pools, by 1999 this number was 4 million. At the same time, public municipal pools were often closed, leaving low-income people nowhere to swim.\nThe trend for bigger housing thus poses ethical questions. Should Americans accept a system in which the middle and upper classes enjoy a luxurious lifestyle, using the low-wage labor of others? Are we willing to accept a system in which an increase in amenities purchased by the affluent means a reduction in amenities for the poor?\nI believe neither is acceptable. We must change the way we think: living well does not need to mean having more private spaces; instead, it could mean having more public spaces. A better goal than building bigger houses for some is to create more publicly accessible spaces and amenities for all.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "A luxury for the homeless.",
+        "B": "A reward for industriousness.",
+        "C": "An abundant source of comforts.",
+        "D": "An absolute necessity for happiness."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Many Americans' quality of life has become lower.",
+        "B": "People from diverse backgrounds no longer socialize.",
+        "C": "People no longer have access to public swimming pools.",
+        "D": "Many Americans' private life has been negatively affected."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Questions related to moral principles.",
+        "B": "Questions having to do with labor cost.",
+        "C": "Questions about what lifestyle to promote.",
+        "D": "Questions concerning housing development."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "One in which the wealthy exploit the low-wage laborers building their houses.",
+        "B": "One in which the rich purchase amenities at an increasingly unjustifiable price.",
+        "C": "One in which the upper classes deprive the lower classes of affordable housing.",
+        "D": "One in which the affluent enjoy a more comfortable life at the expense of the poor."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Finding ways to turn private spaces into public ones.",
+        "B": "Building more houses affordable to those less affluent.",
+        "C": "More public spaces created for everyone to enjoy.",
+        "D": "All amenities made accessible to the rich and the poor alike."
+      }
+    }
+  ],
+  "reading_passage_2": "Most of us in the entrepreneurial community are blessed—or cursed—with higher-than-average ambition. Ambitious people strongly desire accomplishments and are willing to take more risks and spend more effort to get them.\nOverall, this is a positive quality, especially for people trying to build their own businesses. Apparently, if you're more naturally driven to set goals, you are more likely to succeed.\nActually, this isn't always the case. In fact, in some cases, extreme ambition may end up doing more harm than good.\nOne major side effect of excessive ambition is the tendency to focus too determinedly on one particular vision or end goal. This is problematic because it hinders your ability to adapt to new circumstances, which is vital if you want to be a successful entrepreneur. If a new competitor emerges to threaten your business, you may need to change direction, even if that means straying from your original vision. If you have too much ambition, you'll find this hard, if not impossible.\nFew people are successful when they try to build their first brand. Unfortunately, for the most ambitious entrepreneurs, a failure is seen as disastrous, and impossible to recover from.\nIt's a clear departure from the intended plan toward the intended goal. For people with limited ambition, however, failure is viewed as something closer to reality. Remember, failure is inevitable, and every failure you survive is a learning experience.\nAmbitious people tend to be more materialistically successful than their non-ambitious counterparts. However, they're only slightly happier than their less-ambitious counterparts, and tend to live significantly shorter lives. This implies that even though ambitious people are more likely to achieve conventional \"success,\" such success means nothing for their health and happiness—and if you don't have health and happiness, what else could possibly matter?\nClearly, some amount of ambition is good for your motivation. Without any ambition, you wouldn't start your own business, set or achieve goals and get far in life. But an excess of ambition can also be dangerous, putting you at risk of burnout, stubbornness and even a shorter life.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "They are more willing to risk their own lives.",
+        "B": "They are more ambitious than ordinary people.",
+        "C": "They achieve greater nonconventional success.",
+        "D": "They have more positive qualities than most of us."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "Ambitious people may not have a greater chance of success.",
+        "B": "Ambitious people may not have more positive qualities.",
+        "C": "Entrepreneurs' ambition does as much good as harm.",
+        "D": "Entrepreneurs are more naturally driven to success."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "Holding on to one's original vision.",
+        "B": "Being able to adapt to new situations.",
+        "C": "Focusing determinedly on one particular goal.",
+        "D": "Avoiding radical change in one's career direction."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "It will awaken them to reality.",
+        "B": "It is a lesson they have to learn.",
+        "C": "It means the end of their career.",
+        "D": "It will result in a slow recovery."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Distinguish between conventional success and our life goal.",
+        "B": "Follow the example of the most ambitious entrepreneurs.",
+        "C": "Avoid taking unnecessary risks when starting a business.",
+        "D": "Prioritize health and happiness over material success."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2023年6月·第1套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 中国越来越重视终身教育,发展继续教育是构建终身教育体系的有效途径。高校作为人才培养的基地, 拥有先进的教学理念和优越的教学资源, 理应成为继续教育的办学主体。因此，近年来许多高校适应社会需求, 加强与用人单位沟通, 努力探索一条符合中国国情的继续教育发展新路, 以使继续教育在国家发展战略中发挥更大的作用。",
+  "answers": {
+    "1": "D",
+    "2": "A",
+    "3": "B",
+    "4": "A",
+    "5": "C",
+    "6": "D",
+    "7": "C",
+    "8": "A",
+    "9": "B",
+    "10": "D",
+    "11": "B",
+    "12": "A",
+    "13": "C",
+    "14": "C",
+    "15": "B",
+    "16": "D",
+    "17": "A",
+    "18": "B",
+    "19": "C",
+    "20": "D",
+    "21": "D",
+    "22": "B",
+    "23": "C",
+    "24": "B",
+    "25": "A",
+    "26": "L",
+    "27": "B",
+    "28": "E",
+    "29": "N",
+    "30": "F",
+    "31": "O",
+    "32": "C",
+    "33": "I",
+    "34": "K",
+    "35": "M",
+    "36": "F",
+    "37": "K",
+    "38": "H",
+    "39": "D",
+    "40": "J",
+    "41": "M",
+    "42": "C",
+    "43": "G",
+    "44": "E",
+    "45": "J",
+    "46": "B",
+    "47": "A",
+    "48": "A",
+    "49": "D",
+    "50": "C",
+    "51": "B",
+    "52": "A",
+    "53": "B",
+    "54": "C",
+    "55": "D"
+  },
+  "listening_script": {
+    "en": "A woman was charged with allegedly violating a Rhode Island city law against feeding wild animals. The 55-year-old woman's neighbors blame her for making the area's rat problem worse.\nNewly installed cameras captured several rats active in the middle of the day. Neighbors say that it's even worse during the night.\nThe woman and her parents, who own the home, told reporters that she's being charged for feeding birds.\n\"Who would have known just loving animals gets you that much trouble,\" she said.\nIt is prohibited to feed any wild animals including birds in Rhode Island City. Nevertheless, while the woman's intention was to feed birds, it is clear that rats were also benefiting.\nAnthony Moretti, director of the city administration, said he saw more than 20 rats near the woman's home. He said it will take months to get the problem under control.\nTo prepare for eventually sending astronauts to Mars, NASA began taking applications Friday for four people to live for a year in Mars Dune Alpha. That's a 1,700-square-foot Martian habitat inside a building in Houston.\nThe paid volunteers will work in an environment similar to Mars. They will have limited communications with family, restricted food and resources.\nNASA is planning three experiments with the first one starting in the fall next year. Food will all be ready-to-eat space food. Some plants will be grown, but not potatoes like in the movie The Martian.\n\"We want to understand how humans perform in them,\" said lead scientist Grace Douglas. \"We are looking at Mars-realistic situations.\"\nThe application process opens Friday and they're not seeking just anybody. The requirements are strict, including a master's degree in a science, engineering or math field or pilot experience. Only American citizens or permanent U.S. residents are acceptable. Applicants must be between 30 and 55 and in good physical health.\nAttitude is key, said former Canadian astronaut Chris Hadfield. He said the participants need to be super competent, resourceful, and not relying on other people to feel comfortable.\nA Japanese mayor apologized Thursday for biting the Olympic gold medal of a softball player. Nagoya mayor Takashi Kawamura had praised an athlete, Miu Goto, during a public media event. He asked her to put the medal around his neck. Kawamura then bit into it.\nBiting a medal in front of journalists and photographers has become a common pose for Olympic medalists. However, it is only for the winners themselves, not others.\n\"I'm really sorry that I hurt the treasure of the gold medalist,\" Kawamura told reporters Thursday.\nThe mayor said the medal was undamaged, though he offered to pay for the cost of a new one.\nGoto, however, has accepted the International Olympic Committee's offer of a replacement, according to Japanese media reports.\nThe scene broadcast on television prompted thousands of complaints to city hall. Some Olympians said they treat their medals as treasures and that it was disrespectful and unacceptable for Kawamura to bite one.\n\"I would cry if that happened to me,\" said another athlete, Naohisa Takato. \"I handle my own gold medal so gently that I would not scratch it.\"\nM: What's that orange thing on your computer screen?\nW: It's something I bought yesterday. It's a plastic sheet that blocks blue light. I have one that I use to cover my phone screen too.\nM: What do you mean by blue light?\nW: Blue light includes natural light, but it also includes light that isn't natural, for example, from computers, phones, televisions and other electronic devices.\nM: So blue light is harmful and that's why you want to block it.\nW: It isn't that simple. Blue light isn't necessarily bad for us. In fact, we need blue light during the day to be healthy. But too much blue light, especially from electronic devices, can harm our health by weakening our vision and making it harder for us to fall asleep. And poor sleep can cause all sorts of health problems.\nM: I'm not so sure that sleep is nearly as important as people always say it is. I haven't slept enough in months because I have too much work to do, and I feel fine. And it's the same for most of my friends. Poor sleep might be a problem for older people, but surely young people can handle late nights.\nW: Well, the research I've read shows that sleep is probably even more important than we thought, and that not having enough sleep can contribute to serious health problems like obesity and heart disease. And all the artificial blue light from electronic devices means we have to try harder to sleep well.\nM: Maybe you're right. I'm on my computer very late most nights, and that's probably why I don't sleep enough.\nW: As a kid, did you know what job you wanted to do when you grew up?\nM: No, I didn't. And I got sick every time adults asked me what I wanted to be when I grew up.\nW: It's the same with me. And I'm tired of people asking that question of my 10-year-old daughter. My daughter's stock answers are basketball player, pop singer, mechanical engineer. Adults love that last one, as it's the perfect mix of the sensible and the ambitious. When she was much younger, my daughter used to say she wanted to be Queen of the Clouds, which I loved. That's the kind of goal-setting I like to see in children, springing from their boundless imaginations.\nM: Yes, we grown-ups can be tedious and limiting in our need for reality. And we teach a very gloomy image of adulthood—that whatever our children's future holds, it must be seen within the context of a job.\nW: How utterly overwhelming and dull!\nM: When people ask my son what he wants to be when he grows up, I have to swallow the urge to say, \"Hey, back off my kid's dreams!\"\nW: We can't dismiss the idea that teenagers have to plan to do something after they finish school, and parents are entitled to hope it's more than simply spending 10 hours a day playing computer games.\nM: But asking \"What do you want to be?\" isn't going to lead a child to a fulfilled life, rather at least to false expectations and a high chance of disappointment.\nW: Exactly. We should be helping our kids understand who they are, even if that means letting go of who we think they should be.\nGreater Internet access correlates directly with improved health care, education and economic development. People living in rural areas, however, lag behind in online use, which limits their access to government services, banking and job opportunities.\nNowhere is this challenge clearer than in Africa. Most Africans live in rural areas that are tough to wire for Internet access.\nNow, some phone companies are trying to introduce Internet-ready phones into African markets. Certain companies have started selling simple smartphones for only $20. Previously, the lowest price had been around $40, well out of reach for many people.\nThese devices are powered by software from the giant electronics company, KaiOS Technologies Limited. Most companies are trying to make phones ever more powerful and capable. But KaiOS went the other way. It made every effort to keep the essential capabilities of smartphones, but strip out costs and preserve battery life for people who likely have inadequate access to electricity.\nThe KaiOS devices offer an alternative to the more expensive models that remain out of reach of many Africans and contribute to the digital divide. The body of KaiOS phones is as basic as it gets. Instead of a touchscreen, they're controlled with an old-school keypad. They're designed for 3G networks because 4G coverage doesn't reach two thirds of Africa's customers. In total, KaiOS phones are made from about $15 worth of parts, while Apple's top-of-the-line iPhone has $390 worth of stuff.\nFor years, using recycled plastic to make plastic products was cheap. By contrast, fossil fuel plastic was more expensive. Thus this sustainable option was an economic option too.\nBut now it is cheaper for major manufacturers to use new plastic.\nAccording to one recent business report, recycled plastic now costs an extra $72 a tonne compared with newly-made plastic. This may be because of consumer demands. They are pushing for more recycled plastics in new products. Meanwhile, new plastic is becoming cheaper. This is because of a boom in petroleum chemical production from the U.S. The price increase of recycled plastic could cost sustainable manufacturers an extra $250 million a year.\nSmaller manufacturers may also be forced to use new plastic to reduce costs. Makers of clear plastic bottles may also opt for new fossil-fuel based plastic to save money.\nPlastic packaging makers are being pressured to use more recycled plastic. This is done in hopes of reducing the enormous amount of plastic pollution in the oceans.\nThe UK government plans to tax companies which don't use at least 30% recycled plastic in their products. Additionally, the government is planning to increase the quantity of recycled plastic in the market.\nThis could mean incentives for new recycling plants. Additionally, recycling facilities may be improved at a local council level and recycled plastic could be imported.\nThis would help increase the amount of recycled plastic in circulation.\nAt the Dreamery, a business in Manhattan, naps are for sale. A 45-minute session in a darkened enclosure with peace and quiet costs $25. To be clear, this institution is no hotel. This is a nap joint. It sells the idea of the nap as much as the nap itself.\nIs a nap worth $25? The answer is obviously yes. Here, at this point in the argument, it's traditional for me to bring up all the studies that show the benefits of napping. But do you really need experts to tell you that? Just look at the world around you at 2:30 in the afternoon.\nI've been working from home for more than 10 years now. And the quality and quantity of work I can do emerges directly from my ability to concentrate. I don't understand how people have creative careers without napping. Every day at about 1 p.m., everyone faces the same choice: sleep until 2 p.m. and then work until 5, or daydream and drift around social media and attend pointless meetings until 7 p.m.\nThe friends I have who still work in offices inform me their bosses insist that they take the second option, and that napping is associated with laziness. I genuinely find it odd. For if you nap properly, it's like waking up from a full night's sleep and you can double your day's worth of concentration.",
+    "cn": "一名女子被指控涉嫌违反罗德岛州某市禁止喂食野生动物的法律。这名55岁女子的邻居指责她加剧了该地区的老鼠问题。\n新安装的摄像头拍摄到数只老鼠在白天活动。邻居们表示夜间情况更加严重。\n这名女子及其拥有该房产的父母告诉记者,她被指控的原因是喂鸟。\n她说:\"谁能想到仅仅是喜爱动物就会惹来这么大的麻烦。\"\n在罗德岛市,禁止喂食包括鸟类在内的任何野生动物。然而,尽管该女子的本意是喂鸟,但显然老鼠也从中受益。\n市政管理部门主任Anthony Moretti表示,他在该女子家附近看到了20多只老鼠。他说控制这个问题需要数月时间。\n为了准备最终将宇航员送往火星,NASA于周五开始接受四人申请,让他们在Mars Dune Alpha中生活一年。这是位于休斯顿一座建筑内的一个1700平方英尺的火星栖息地。\n这些有偿志愿者将在类似火星的环境中工作。他们与家人的通讯将受到限制,食物和资源也会受限。\nNASA正在计划三次实验,第一次实验将于明年秋季开始。食物将全部是即食太空食品。会种植一些植物,但不会像电影《火星救援》中那样种植土豆。\n首席科学家Grace Douglas说:\"我们想了解人类在这些环境中的表现。我们关注的是符合火星实际情况的场景。\"\n申请流程于周五开放,他们寻找的并非普通人选。要求非常严格,包括拥有科学、工程或数学领域的硕士学位或飞行员经验。只接受美国公民或美国永久居民。申请人必须年龄在30至55岁之间,身体健康状况良好。\n加拿大前宇航员Chris Hadfield表示,态度是关键。他说参与者需要非常能干、足智多谋,不依赖他人也能感到自在。\n日本一位市长周四为咬了一名垒球运动员的奥运金牌道歉。名古屋市长河村隆之在一次公开媒体活动中表扬了运动员后藤希友。他请她把奖牌挂在他的脖子上。随后河村咬了那枚奖牌。\n在记者和摄影师面前咬奖牌已成为奥运奖牌获得者的常见姿势。然而,这只适用于获奖者本人,而非其他人。\n河村周四告诉记者:\"我真的很抱歉伤害了金牌得主的珍宝。\"\n市长表示奖牌没有损坏,不过他提出愿意支付一枚新奖牌的费用。\n然而,据日本媒体报道,后藤已接受国际奥委会提供的替换奖牌。\n电视上播出的这一幕引发了数千人向市政厅投诉。一些奥运选手表示,他们把奖牌视为珍宝,河村咬奖牌是不尊重的、不可接受的行为。\n另一位运动员高藤直寿说:\"如果这发生在我身上,我会哭的。我对待自己的金牌非常温柔,不会让它划伤。\"\nM: 你电脑屏幕上那个橙色的东西是什么？\nW: 这是我昨天买的。是一张能阻挡蓝光的塑料贴膜。我还有一张用来贴手机屏幕的。\nM: 你说的蓝光是什么意思？\nW: 蓝光包括自然光，但也包括非自然光，比如来自电脑、手机、电视和其他电子设备的光。\nM: 所以蓝光是有害的，这就是你想阻挡它的原因。\nW: 没那么简单。蓝光不一定对我们有害。事实上，我们白天需要蓝光来保持健康。但过多的蓝光，尤其是来自电子设备的蓝光，会削弱我们的视力，让我们更难入睡，从而损害我们的健康。而睡眠不好会导致各种健康问题。\nM: 我不太确定睡眠真的像人们常说的那么重要。我好几个月都没睡够了，因为工作太多，但我感觉挺好的。我大多数朋友也是这样。睡眠不好可能对老年人是个问题，但年轻人肯定能应付熬夜吧。\nW: 嗯，我读到的研究表明，睡眠可能比我们想象的还要重要，睡眠不足会导致肥胖和心脏病等严重的健康问题。而且电子设备发出的所有人造蓝光意味着我们必须更努力才能睡好。\nM: 也许你说得对。我大多数晚上都很晚还在用电脑，这可能就是我睡眠不足的原因。\nW: 你小时候知道自己长大后想做什么工作吗？\nM: 不知道。每次大人问我长大后想做什么，我都觉得烦。\nW: 我也是。我也受够了别人老问我10岁女儿这个问题。我女儿的标准答案是篮球运动员、流行歌手、机械工程师。大人们特别喜欢最后那个，因为它既实际又有抱负，是完美的结合。我女儿小时候曾说她想当云朵女王，我特别喜欢这个。这才是我希望在孩子身上看到的那种目标设定，源于他们无边无际的想象力。\nM: 是啊，我们成年人为了现实可能会变得乏味和局限。而且我们给孩子灌输了一种非常灰暗的成年生活形象——无论我们孩子的未来是什么样的，都必须放在工作这个框架里看。\nW: 这太让人喘不过气来了，而且多无聊啊！\nM: 每当有人问我儿子长大后想做什么时，我都得忍住不说：嘿，别对我孩子的梦想指手画脚！\nW: 我们不能否认青少年确实需要为毕业后做点什么而规划，家长也有权希望那不仅仅是每天花10个小时玩电脑游戏。\nM: 但问\"你想做什么\"并不会引导孩子走向充实的人生，反而至少会带来错误的期望和很大的失望可能。\nW: 没错。我们应该帮助孩子了解他们自己是谁，即使这意味着放下我们认为他们应该成为什么样的人。\n互联网接入的扩大与医疗保健、教育和经济发展的改善直接相关。然而,生活在农村地区的人们在网络使用方面落后,这限制了他们获得政府服务、银行业务和就业机会的途径。\n这一挑战在非洲表现得最为明显。大多数非洲人生活在难以铺设互联网接入线路的农村地区。\n现在,一些手机公司正试图将支持互联网的手机引入非洲市场。某些公司已经开始销售售价仅为20美元的简易智能手机。此前,最低价格约为40美元,这对许多人来说遥不可及。\n这些设备由大型电子公司KaiOS Technologies Limited的软件驱动。大多数公司都在努力让手机变得更强大、功能更多。但KaiOS反其道而行之。它竭尽全力保留智能手机的基本功能,同时降低成本并延长电池续航时间,以满足那些可能无法充分获得电力供应的人们的需求。\nKaiOS设备为许多非洲人提供了一种替代选择,那些价格更高的机型仍然遥不可及,并加剧了数字鸿沟。KaiOS手机的机身设计极其简单。它们不使用触摸屏,而是通过老式键盘进行操控。它们是为3G网络设计的,因为4G覆盖范围无法触及非洲三分之二的用户。总的来说,KaiOS手机由价值约15美元的零部件制成,而苹果公司的顶级iPhone则使用了价值390美元的材料。\n多年来，使用再生塑料制造塑料产品的成本较低。相比之下，化石燃料塑料则更加昂贵。因此，这种可持续选择也是一种经济选择。\n但现在对于大型制造商来说，使用新塑料更便宜。\n根据最近的一份商业报告，与新制塑料相比，再生塑料现在每吨要多花费72美元。这可能是因为消费者的需求。他们推动在新产品中使用更多再生塑料。与此同时，新塑料正变得更便宜。这是因为美国石油化工生产的繁荣。再生塑料价格的上涨可能会使可持续制造商每年多支出2.5亿美元。\n较小的制造商也可能被迫使用新塑料以降低成本。透明塑料瓶的制造商也可能选择使用新的化石燃料基塑料来省钱。\n塑料包装制造商正面临使用更多再生塑料的压力。这样做是为了减少海洋中大量的塑料污染。\n英国政府计划对产品中再生塑料使用量未达到至少30%的公司征税。此外，政府正计划增加市场上再生塑料的数量。\n这可能意味着对新回收工厂的激励措施。此外，地方议会层面的回收设施可能会得到改善，再生塑料也可以进口。\n这将有助于增加流通中再生塑料的数量。\n在曼哈顿的 Dreamery，小睡是用来出售的。在一个幽暗的封闭空间里享受平静与安宁的 45 分钟小睡需要 25 美元。需要明确的是，这家机构不是酒店。这是一家小睡店。它出售的是小睡这个理念，就像出售小睡本身一样。\n一次小睡值 25 美元吗？答案显然是肯定的。在论证的这一点上，按惯例我应该列举所有显示小睡益处的研究。但你真的需要专家告诉你这些吗？只需看看下午两点半你周围的世界。\n我在家工作已经超过 10 年了。我能完成的工作质量和数量直接来源于我的专注能力。我不明白人们如何能在不小睡的情况下从事创意职业。每天大约下午一点，每个人都面临同样的选择：睡到下午两点然后工作到五点，或者做白日梦、在社交媒体上闲逛、参加毫无意义的会议直到晚上七点。\n我那些仍在办公室工作的朋友告诉我，他们的老板坚持让他们选择第二种方案，而且小睡被认为与懒惰联系在一起。我真的觉得这很奇怪。因为如果你好好小睡，那就像从一整夜的睡眠中醒来，你可以让一天的专注力翻倍。"
+  }
+}

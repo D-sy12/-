@@ -1,0 +1,670 @@
+{
+  "id": "2025-12-2",
+  "writing": "Directions: Suppose it is proposed that all university students should be required to learn academic writing. You are now to write a response by stating what you think of the proposal. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What do we learn from the news report about the egg price in the U.S.?",
+      "options": {
+        "A": "It has gone up sharply.",
+        "B": "It has been fluctuating.",
+        "C": "It has risen because of bird flu.",
+        "D": "It has been consumers' concern."
+      },
+      "stem_cn": "从新闻报道中我们了解到美国鸡蛋价格的什么情况？",
+      "options_cn": {
+        "A": "价格大幅上涨。",
+        "B": "价格一直在波动。",
+        "C": "价格因禽流感而上涨。",
+        "D": "价格一直是消费者关注的问题。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What does the news report say about most people arriving at American borders with eggs?",
+      "options": {
+        "A": "They don't want to abandon their eggs.",
+        "B": "They don't know they will be heavily fined.",
+        "C": "They don't know they are forbidden to bring eggs.",
+        "D": "They don't declare their eggs during the inspection."
+      },
+      "stem_cn": "新闻报道关于携带鸡蛋抵达美国边境的大多数人说了什么？",
+      "options_cn": {
+        "A": "他们不想放弃自己的鸡蛋。",
+        "B": "他们不知道会被处以重罚。",
+        "C": "他们不知道禁止携带鸡蛋。",
+        "D": "他们在检查时没有申报自己的鸡蛋。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What do we learn from the news report about the restaurant Nettie's House?",
+      "options": {
+        "A": "It is no longer critical of younger customers.",
+        "B": "It has banned kids under 10 from dining there.",
+        "C": "It is no longer as noisy and crowded as before.",
+        "D": "It has implemented a decision to expand business."
+      },
+      "stem_cn": "从新闻报道中我们了解到关于Nettie's House餐厅的什么信息?",
+      "options_cn": {
+        "A": "它不再对年轻顾客持批评态度。",
+        "B": "它已禁止10岁以下儿童在那里就餐。",
+        "C": "它不再像以前那样嘈杂和拥挤。",
+        "D": "它已实施了一项扩大业务的决定。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What do supporters say in response to the restaurant's new policy?",
+      "options": {
+        "A": "It is fully aware of frequent customers' feelings.",
+        "B": "It caters to the tastes of different customers.",
+        "C": "It is entitled to adopt any rules it wants.",
+        "D": "It should announce its decisions online."
+      },
+      "stem_cn": "支持者对餐厅的新政策作何回应?",
+      "options_cn": {
+        "A": "它充分了解常客的感受。",
+        "B": "它迎合不同顾客的口味。",
+        "C": "它有权采用任何它想要的规则。",
+        "D": "它应该在网上公布其决定。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What does the report say security officers were searching for?",
+      "options": {
+        "A": "A missing pet.",
+        "B": "A grown-up snake.",
+        "C": "A huge animal skin.",
+        "D": "A snake specialist."
+      },
+      "stem_cn": "报道称安全人员在搜寻什么？",
+      "options_cn": {
+        "A": "一只走失的宠物。",
+        "B": "一条成年蛇。",
+        "C": "一张巨大的动物皮。",
+        "D": "一位蛇类专家。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "Where does the report say the discovery was made?",
+      "options": {
+        "A": "In a government office.",
+        "B": "In a deserted house.",
+        "C": "At a local zoo.",
+        "D": "At a construction site."
+      },
+      "stem_cn": "报道称在哪里有了这一发现？",
+      "options_cn": {
+        "A": "在一个政府办公室。",
+        "B": "在一座废弃的房子里。",
+        "C": "在当地一家动物园。",
+        "D": "在一处建筑工地。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What did the government say would be done if security officers found what they were searching for?",
+      "options": {
+        "A": "Figuring out where it came from.",
+        "B": "Curing it of any possible diseases.",
+        "C": "Protecting its babies against harm.",
+        "D": "Determining how to catch it safely."
+      },
+      "stem_cn": "政府表示如果安全人员找到了他们搜寻的目标，将会采取什么措施？",
+      "options_cn": {
+        "A": "查明它来自哪里。",
+        "B": "治疗它可能患有的疾病。",
+        "C": "保护它的幼崽免受伤害。",
+        "D": "确定如何安全地捕捉它。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "Why does the woman say she swears it?",
+      "options": {
+        "A": "The man doesn't agree Hannah is poor.",
+        "B": "The man doesn't believe what she says.",
+        "C": "The man doesn't think she can be a millionaire.",
+        "D": "The man doesn't consider her to be trustworthy."
+      },
+      "stem_cn": "为什么女人说她发誓?",
+      "options_cn": {
+        "A": "男人不同意Hannah很穷。",
+        "B": "男人不相信她说的话。",
+        "C": "男人不认为她能成为百万富翁。",
+        "D": "男人不认为她值得信任。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What do we learn about Hannah from the conversation?",
+      "options": {
+        "A": "She no longer has any money left.",
+        "B": "She has been betrayed by her family.",
+        "C": "She can no longer hold on to her job.",
+        "D": "She has been robbed of 5 million Euros."
+      },
+      "stem_cn": "从对话中我们了解到关于Hannah的什么情况?",
+      "options_cn": {
+        "A": "她已经没有任何钱了。",
+        "B": "她被家人背叛了。",
+        "C": "她不能再保住她的工作了。",
+        "D": "她被抢劫了500万欧元。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What does the man think really matters to people?",
+      "options": {
+        "A": "Fortune.",
+        "B": "Family.",
+        "C": "Harmony.",
+        "D": "Happiness."
+      },
+      "stem_cn": "男人认为对人们来说真正重要的是什么?",
+      "options_cn": {
+        "A": "财富。",
+        "B": "家庭。",
+        "C": "和睦。",
+        "D": "幸福。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does Hannah's husband say he'll do if she sells the new car?",
+      "options": {
+        "A": "Divorce her.",
+        "B": "Leave home.",
+        "C": "Buy her a more expensive model.",
+        "D": "Let the best thing happen to them."
+      },
+      "stem_cn": "如果她卖掉新车,Hannah的丈夫说他会做什么?",
+      "options_cn": {
+        "A": "和她离婚。",
+        "B": "离开家。",
+        "C": "给她买一辆更贵的车。",
+        "D": "让最好的事情发生在他们身上。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What does the man say about Jake?",
+      "options": {
+        "A": "He is not outstanding in Science and Math.",
+        "B": "He does not have a strong academic record.",
+        "C": "He is not yet mature enough to live on his own.",
+        "D": "He does not like Westwood Elementary School."
+      },
+      "stem_cn": "男士对Jake有什么评价?",
+      "options_cn": {
+        "A": "他在科学和数学方面不突出。",
+        "B": "他没有优秀的学业成绩。",
+        "C": "他还不够成熟,无法独立生活。",
+        "D": "他不喜欢Westwood小学。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "Why does the woman feel uncomfortable about sending Jake to Lakeview School?",
+      "options": {
+        "A": "It is too far away.",
+        "B": "It is newly opened.",
+        "C": "It lacks outdoor sports facilities.",
+        "D": "It has too few first-class teachers."
+      },
+      "stem_cn": "女士为什么对把Jake送到Lakeview学校感到不安?",
+      "options_cn": {
+        "A": "太远了。",
+        "B": "刚开办不久。",
+        "C": "缺少户外运动设施。",
+        "D": "一流教师太少。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the man say about their local school?",
+      "options": {
+        "A": "It has a beautiful campus.",
+        "B": "It is within walking distance.",
+        "C": "It has a wonderful arts program.",
+        "D": "It is helpful to Jake's breathing problems."
+      },
+      "stem_cn": "男士对他们当地学校有什么评价?",
+      "options_cn": {
+        "A": "它有美丽的校园。",
+        "B": "步行就能到。",
+        "C": "它有出色的艺术课程。",
+        "D": "它对Jake的呼吸问题有帮助。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the woman suggest at the end of the conversation?",
+      "options": {
+        "A": "Asking Jake which school he himself prefers to enroll in.",
+        "B": "Thinking twice about what is best for Jake's education next year.",
+        "C": "Consulting her mother about which school Jake is to attend.",
+        "D": "Sending Jake to the school near the home of the man's mother."
+      },
+      "stem_cn": "女士在对话结尾建议什么?",
+      "options_cn": {
+        "A": "询问Jake本人更愿意就读哪所学校。",
+        "B": "再三考虑什么对Jake明年的教育最有利。",
+        "C": "咨询她母亲关于Jake该上哪所学校。",
+        "D": "把Jake送到男士母亲家附近的学校。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What does the passage say is a major flaw of analytical decision-making?",
+      "options": {
+        "A": "It is time consuming.",
+        "B": "It is unfit for crucial issues.",
+        "C": "It relies too much on solid data.",
+        "D": "It dulls a leader's sense of urgency."
+      },
+      "stem_cn": "文章认为分析式决策的一个主要缺陷是什么?",
+      "options_cn": {
+        "A": "它耗费时间。",
+        "B": "它不适合关键问题。",
+        "C": "它过于依赖可靠数据。",
+        "D": "它削弱了领导者的紧迫感。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does a leader tend to do when they are committed to analytical decision-making?",
+      "options": {
+        "A": "Depend on digital technology.",
+        "B": "Make assumptions and guesses.",
+        "C": "Ignore others' thoughts and ideas.",
+        "D": "Lay emphasis on thinking flexibly."
+      },
+      "stem_cn": "当领导者致力于分析式决策时,他们往往会做什么?",
+      "options_cn": {
+        "A": "依赖数字技术。",
+        "B": "做出假设和猜测。",
+        "C": "忽视他人的想法和意见。",
+        "D": "强调灵活思考。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What is a key strength of analytical decision-making?",
+      "options": {
+        "A": "Maximizing the advantage of available resources.",
+        "B": "Minimizing the possibility of a wrong decision.",
+        "C": "Discovering new potential markets.",
+        "D": "Perfecting promotional strategies."
+      },
+      "stem_cn": "分析式决策的一个关键优势是什么?",
+      "options_cn": {
+        "A": "最大化可用资源的优势。",
+        "B": "最小化错误决策的可能性。",
+        "C": "发现新的潜在市场。",
+        "D": "完善推广策略。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What do we learn about Branyas Morera?",
+      "options": {
+        "A": "She is one of the world's best-known pianists.",
+        "B": "She celebrated her 110th birthday this April.",
+        "C": "She moved to the U.S. at a young age.",
+        "D": "She is the world's oldest individual."
+      },
+      "stem_cn": "我们对Branyas Morera有什么了解?",
+      "options_cn": {
+        "A": "她是世界上最著名的钢琴家之一。",
+        "B": "她在今年四月庆祝了她的110岁生日。",
+        "C": "她在年轻时移居美国。",
+        "D": "她是世界上最年长的个人。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What is one of Branyas Morera's secrets to living a long life?",
+      "options": {
+        "A": "Being always active on social media.",
+        "B": "Doing regular and vigorous exercise.",
+        "C": "Playing the piano from a young age.",
+        "D": "Following a specific diet every day."
+      },
+      "stem_cn": "Branyas Morera长寿的秘诀之一是什么?",
+      "options_cn": {
+        "A": "在社交媒体上始终保持活跃。",
+        "B": "进行规律且高强度的运动。",
+        "C": "从小弹钢琴。",
+        "D": "每天遵循特定的饮食。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What does Branyas Morera think also contributes to a long life?",
+      "options": {
+        "A": "Eating as little as one can possibly manage.",
+        "B": "Having the ability to forget things selectively.",
+        "C": "Figuring out the positive properties of each food item.",
+        "D": "Knowing how to remember major events in one's life."
+      },
+      "stem_cn": "Branyas Morera认为还有什么有助于长寿?",
+      "options_cn": {
+        "A": "尽可能少吃。",
+        "B": "有选择性地忘记事情的能力。",
+        "C": "弄清每种食物的有益特性。",
+        "D": "知道如何记住人生中的重大事件。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What is of great importance to students according to the speaker?",
+      "options": {
+        "A": "The ability to learn.",
+        "B": "The first day of school.",
+        "C": "How teachers perceive them.",
+        "D": "Where they sit in the classroom."
+      },
+      "stem_cn": "根据讲话者的观点,什么对学生来说非常重要?",
+      "options_cn": {
+        "A": "学习能力。",
+        "B": "开学第一天。",
+        "C": "教师如何看待他们。",
+        "D": "他们在教室里坐在哪里。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What did one study find about students seated in the middle of the classroom?",
+      "options": {
+        "A": "They often received close attention from the instructors.",
+        "B": "They obtained the highest grade average in their class.",
+        "C": "They actually wanted a clear vision of the blackboard.",
+        "D": "They scored higher than students sitting behind them."
+      },
+      "stem_cn": "一项研究发现坐在教室中间的学生有什么特点?",
+      "options_cn": {
+        "A": "他们经常受到教师的密切关注。",
+        "B": "他们获得了班级中最高的平均成绩。",
+        "C": "他们实际上想要清楚地看到黑板。",
+        "D": "他们的分数高于坐在他们后面的学生。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What can eye contact, visibility and more interaction probably bring about?",
+      "options": {
+        "A": "A higher grade average among all students of a class.",
+        "B": "A better connection between instructors and students.",
+        "C": "A stronger support for a student-centered teaching approach.",
+        "D": "A more favorable atmosphere for effective classroom learning."
+      },
+      "stem_cn": "眼神接触、可见度和更多互动可能会带来什么?",
+      "options_cn": {
+        "A": "一个班级所有学生的平均成绩更高。",
+        "B": "教师与学生之间更好的联系。",
+        "C": "对以学生为中心的教学方法更有力的支持。",
+        "D": "更有利于有效课堂学习的氛围。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What do we learn about extremely shy students sitting in the front row of the classroom?",
+      "options": {
+        "A": "They may experience some unwanted stress.",
+        "B": "They may try hard to show their preparedness.",
+        "C": "They may receive extra attention from the instructor.",
+        "D": "They may feel helpless when called on by the instructor."
+      },
+      "stem_cn": "关于坐在教室前排的极度害羞的学生,我们了解到什么?",
+      "options_cn": {
+        "A": "他们可能会经历一些不必要的压力。",
+        "B": "他们可能会努力展示自己的准备情况。",
+        "C": "他们可能会受到教师的额外关注。",
+        "D": "他们在被教师点名时可能会感到无助。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "actually",
+    "B": "consequently",
+    "C": "contributing",
+    "D": "fair",
+    "E": "feels",
+    "F": "manageable",
+    "G": "mends",
+    "H": "observed",
+    "I": "phase",
+    "J": "plotting",
+    "K": "quality",
+    "L": "recently",
+    "M": "taxing",
+    "N": "tends",
+    "O": "yielded"
+  },
+  "cloze_passage": "Some music inspires you to move your feet, some inspires you to get out there and change the world. In any case, it's 26 to say that music moves people in special ways.\nIf you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which 27 to you like a sting in your brain.\nIt turns out that ASMR is pretty special. According to a 28 published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's. Alzheimer's 29 to put people into layers of confusion, and the study confirms that music can sometimes 30 lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while. ASMR is powerful stuff!\nThis phenomenon has been 31 several times but rarely studied properly. One of the most famous examples of this is the story of 92-year-old Henry Dryer, who comes out of dementia(痴呆) while listening to songs from his youth.\nJeff Anderson, associate professor in Radiology at the University of Utah and 32 author on the study, says \"In our society, the diagnoses of dementia are 33 resources to the maximum. No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more 34 , decrease the cost of care and improve a patient's 35 of life.\"",
+  "long_reading_passage": "A) The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé. But why not? Businesses are waking up to the skills gamers can bring to the workplace.\nB) One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations. And Game Academy reckons its belief is backed up by hard data. Do you enjoy unusual puzzle games like Portal, or tower defence games like Defense Grid? The team has found that IT workers play those more than average. But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers.\nC) Game Academy's idea is simple: analyse gamers' habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes — skills they can practise and refine in-game. And there is already a growing acceptance that gaming skills are transferable.\nD) Even the military is hiring gamers. \"The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,\" according to a Royal Air Force spokesperson. Those skills are part of what the Royal Air Force is looking for \"in a variety of roles\". \"Skills acquired through gaming can be very relevant to certain areas.\"\nE) \"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment. But does that really mean your top 100 ranking in Overwatch should go down in your résumé? \"It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,\" Mr Gardner says.\nF) Two years ago, a Glasgow University study made headlines for suggesting gaming could make students more successful. But \"the research hasn't really changed minds, at least not yet,\" says one of the authors of the study, Dr Matthew Barr. He's now writing a book on the topic. \"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job. But if someone can explain how they've led a team in an online game, for example, they may be able to persuade an employer that this is useful,\" says Dr Barr.\nG) Playing games casually is unlikely to help your career prospects. But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills. \"We see gameplay as a resource of talent,\" says co-founder David Barrie. \"Why can't we put in our résumé our gaming victories and achievements?\" he asks. \"If they say they want leadership — why can't I point to my years of leading World of Warcraft raids?\"\nH) There are already plenty of gamers out there who know that their hobby has made them who they are. Earlier this year, Matthew Ricci told gaming site Kotaku: \"If you're playing EVE Online you basically already have an MBA.\" Often made fun of in gaming circles as a \"spreadsheet simulator(电子表格模拟)\", the economy of the fictional EVE universe is driven by real market principles. If you want to build a new spaceship, the raw material has to be mined by another player. Manufacturing costs come into effect, and commodities fluctuate in price based on demand and the distance to haul the commodity.\nI) Mr Ricci, who had always dreamed of being the boss of his own company, ran an in-game corporation comprising hundreds of players. Eventually, he realised he could transfer his skills to real-life business — instead of doing it for free. He restructured Zentech, once a taxation vehicle for his father's business, and it is now in its fourth year helping international brands enter the Canadian market. EVE teaches skills like creativity, leadership, organisation, and conflict resolution, he maintains. He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\".\nJ) Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says. \"It also helps with meta-skills — learning how to learn, experimentation, and creative thinking.\"\nK) Twelve years into his career, Mark Long, a radiotherapy physicist with the NHS in Surrey, doesn't get as much gaming time as he used to. \"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. Gaming also encouraged a competitive spirit — and that, he believes, translates. \"When creating treatment plans, the aim is to optimise the radiation dose to the tumour and restrict it as much as possible to healthy surrounding tissues and organs,\" he says. It's about \"repeating the process, but each time doing something slightly different to improve the result\". Not unlike achieving a high score or a perfect run. \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\"\nL) \"Over at Game Academy, Mr Barrie is aware they still have a mountain to climb. The employer community will need the science,\" he says, but confesses he only became a true believer when he started asking players about their biggest in-game achievements. \"The scale and scope of their answers were amazing,\" he says. \"But ask them the same about their work, and they don't know.\" \"The engagement and powerful skills that people get playing a game — why can't work be like that?\" he asks.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "They convey the idea that their products are ok if consumers exercise more.",
+        "B": "They send the message that bad diets are responsible for Americans' obesity.",
+        "C": "They usually feature sports stars to emphasize the benefits of their snack foods.",
+        "D": "They claim that lack of exercise is to blame for the increasing obesity rates."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "It has shed light on teens' instinct for rebellion and autonomy.",
+        "B": "It has placed much more emphasis on cure than on prevention.",
+        "C": "It has contributed little to the campaigns against obesity.",
+        "D": "It has largely failed to turn teens away from junk food."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "They motivated teens to stay away from junk food only temporarily.",
+        "B": "They focused on the benefits young people would reap in the future.",
+        "C": "They were based on the assumption that motivation was the only key.",
+        "D": "They were incapable of appealing to teens' instinct for rebelliousness."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "It emphasizes people's sense of social responsibility.",
+        "B": "It cleverly exploits teenagers' personal weaknesses.",
+        "C": "It takes advantage of teenagers' natural inclination.",
+        "D": "It promises immediate rather than future benefits."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "A totally different approach could be adopted to combat advertising campaigns for snack food.",
+        "B": "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle.",
+        "C": "Obesity can be hopefully prevented by building links between teenagers' values and healthy eating.",
+        "D": "An innovative way to beat obesity is to expose food companies' manipulative and deceptive practices."
+      }
+    }
+  ],
+  "reading_passage_2": "Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams.\nBut scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages.\nSince your baby doesn't dream at this stage of brain development, it's safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life.\nAre you wondering, what do babies dream about? Good question, but the answer is nothing! So, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall.\nFoulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too.\nDreams of very small kids are usually just snapshots(快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes, \"Children's dream life…seems to be similar to their waking imagination and narration.\" Kids ages 5 – 9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9.\nSo, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "It is a sign of dreaming in adults and infants alike.",
+        "B": "It is essential to human beings' language learning.",
+        "C": "It determines the formation of connections in the brain.",
+        "D": "It performs a different function in babies than in adults."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "They occur often in people with an active imagination.",
+        "B": "They occur in people suffering from emotional stress.",
+        "C": "They vary in different stages of brain development.",
+        "D": "They appear in the sleep of both adults and infants."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "To reveal the secrets of children's dreams.",
+        "B": "To see if children start dreaming at age two.",
+        "C": "To solve the mystery of dreaming and brain growth.",
+        "D": "To confirm the general consensus on when kids dream."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "They feature strange animals.",
+        "B": "They are unsurprising to adults.",
+        "C": "They grow and evolve with age.",
+        "D": "They reflect kids' waking life."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "They have been roused against their will.",
+        "B": "They have been disturbed by a nightmare.",
+        "C": "They have trouble recollecting the images of their dreams.",
+        "D": "They have been affected by something other than dreaming."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2025年12月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 近年来，\"城市漫步(city walk)\"在中国的年轻人中悄然兴起，已成为一种旅游新潮流。与传统旅游不同，城市漫步不追求在短时间内游览尽可能多的景点。而是随意行走或按照主题路线漫步在城市的大街小巷。漫步者品尝地道小吃，欣赏特色建筑，了解当地生活方式。他们还用相机或手机记录城市的风景和人物。这种旅游方式能让城市漫步者更深入了解城市的历史与文化。",
+  "answers": {
+    "1": "A",
+    "2": "C",
+    "3": "B",
+    "4": "C",
+    "5": "B",
+    "6": "D",
+    "7": "A",
+    "8": "B",
+    "9": "A",
+    "10": "D",
+    "11": "A",
+    "12": "C",
+    "13": "B",
+    "14": "C",
+    "15": "D",
+    "16": "A",
+    "17": "C",
+    "18": "B",
+    "19": "D",
+    "20": "C",
+    "21": "B",
+    "22": "D",
+    "23": "D",
+    "24": "B",
+    "25": "A",
+    "26": "D",
+    "27": "E",
+    "28": "L",
+    "29": "N",
+    "30": "A",
+    "31": "H",
+    "32": "C",
+    "33": "M",
+    "34": "F",
+    "35": "K",
+    "36": "D",
+    "37": "I",
+    "38": "F",
+    "39": "A",
+    "40": "K",
+    "41": "G",
+    "42": "B",
+    "43": "J",
+    "44": "E",
+    "45": "H",
+    "46": "A",
+    "47": "D",
+    "48": "B",
+    "49": "C",
+    "50": "C",
+    "51": "D",
+    "52": "B",
+    "53": "A",
+    "54": "C",
+    "55": "D"
+  },
+  "listening_script": {
+    "en": "Customs and Border Protection officials are seeing a rise in people illegally bringing eggs from Mexico into border states, such as Texas.\nThe U.S. average price for a dozen large eggs last month hit $4.25. That's more than double their $1.78 price in December, 2023. Meanwhile, 30 eggs in Mexico sell for just $3.4.\nThose bringing eggs into the U.S. risk fines of up to $10,000. But officials say they usually seize and destroy the eggs. They also impose a $300 penalty. The Department of Agriculture banned eggs from Mexico in 2012. This was due to the risk of bird flu. Officials said most people arriving at international borders with eggs are truthful about their purchases. They simply don't know bringing eggs is not allowed.\n\"Generally, the items are declared during the first inspection. Then the person can abandon the eggs without consequence,\" a Customs and Border Protection spokesperson said.\nEven so, there have been a very small number of cases recently when authorities discovered eggs during further inspections.\nNettie's House, a restaurant in America, has been hit with criticism after announcing on the website that children under the age of 10 are no longer welcome.\nAmong the reasons given for the decision, the restaurant cited \"noise levels, lack of space for high chairs, cleaning up crazy messes, and the liability of kids running around the restaurant\". They decided that it was time to take control. The decision wasn't made lightly, but some recent events pushed them to implement this new policy.\nResponding to the post, one person commented that \"It is messed up beyond another level. Children are children. Mums are tired and don't have time to cook. Not welcoming children under 10 is a complete slap in the face to families.\" He felt so disappointed in the establishment.\nThere are others, however, who showed support for the restaurant's decision. They said it has the right to implement any rules it wants.\nSecurity officers were searching a suburb in Australia where an adult snake was believed to be wandering after the discovery of a huge, \"freshly shed\" snake skin.\nThe skin was found at a construction site, and the government wrote to residents to warn them. They were told to observe and, if possible, photograph the animal. If it was moving, watch where it went. It was recommended not to make contact with the animal.\nThe type of snake was determined to be one of the world's largest snake species. It is not poisonous, but can still attack and kill its victims. This type of snake is classified as a threat to humans, especially small children, as well as pets. They may carry viruses that are fatal to native snakes, which do not have resistance.\nIf officers found the snake, they would employ a licensed snake catcher to catch it and transport it to a specialist animal doctor, the government said. If caught, the snake would be examined to determine where it came from, how long it had been in the area, what it had been eating, whether it was carrying any diseases of concern and whether it had produced babies.\nW: Poor Hannah!\nM: Why? What happened?\nW: Didn't you hear? She won a TV competition and became a millionaire overnight.\nM: No way. That's incredible. Are you kidding?\nW: No, I'm serious. I swear it. She went on a TV show where they quiz on general knowledge, and she won first prize.\nM: Wow. That's so lucky of her. How much did she win?\nW: I'm not sure of the exact figure, but it's a few million Euros, maybe five million Euros after tax.\nM: I can't believe it. You're really not joking, are you?\nW: Honestly, look at my face. Our friend Hannah won a ton of money.\nM: Unbelievable. Then why were you saying \"poor Hannah\"?\nW: Well, it turns out that she's spent it all already.\nM: Five million Euros? How is that even possible?\nW: She bought a house for herself and her husband, a house for her parents, and then a house for each of her four brothers and sisters. And then she bought her husband a ridiculously expensive sports car.\nM: Wow. Are they all happy? Because that's what matters, isn't it?\nW: I know for a fact Hannah isn't. You see, she was planning to quit the job she hates and retire early. But now that she ran out of money, she can't. Basically, she miscalculated how fast she was burning through the money, and she's now full of regret.\nM: Why don't they sell that flashy new car?\nW: She wants to, but her husband refuses to get rid of it. He says the car is the best thing that has ever happened to him, and if she sells it, he will divorce her.\nW: If you have time right now, I think we need to sit down and discuss what exactly we are going to do for Jake's education next year. I've been thinking it over, and I'd like to send him to Westwood Elementary.\nM: You mean that boarding school? I thought we agreed that we would not be sending him away at such a young age. I admit that their academic record is very strong with many outstanding awards for achievements in Science and Math, but he is just not mature enough to live on his own at this point. What about enrolling him in Lakeview School?\nW: They do have a great outdoor campus where he could finally learn all those outdoor sports you have been wanting him to try. With so much greenery and fresh air, I think his current breathing problems would probably disappear. They did just open, though, so I don't think I feel comfortable having our son in the first class of a brand-new school.\nM: Yeah, the classrooms would probably smell like paint, making the air in the school all stuffy. What about our local school then? They have a wonderful arts program that would really challenge Jake in terms of creativity and imagination. Being practically next door, one of us could take him to school every day before going to work.\nW: I don't know. They have a reputation of being overly strict with the students, not to mention the overwhelming amount of homework they assign, which would lead to a lot of pressure for Jake and me. What if we send him to the place near your mother's house?\nAnalytical decision-making is a decision-making approach where a manager makes important business decisions only with solid data. This style contrasts with more instinctive leadership styles where managers make many decisions using instinct or opinion. While analytical decision-makers benefit from a deliberate, thoughtful approach, this style also has some shortcomings.\nA key flaw with analytical decision-making is that it takes time. While this approach is beneficial when you have the time and the decision is important, it is problematic when time is crucial. Analytical decision-makers struggle with deadlines and a sense of urgency with decisions. In situations where you need more timely action, decisions based on some information and instinct may work better.\nThe desire to be right is a major driver of analytical decision-making. Leaders who use this style don't want to make mistakes. This commitment, one right way of thinking or doing things, hinders the manager's flexibility. Inflexibility causes you to ignore or avoid listening to the thoughts and ideas of others. You only want to utilize hard data or facts.\nDespite its restrictions, analytical decision-making does have several key strengths. By relying on facts and data, you minimize your potential for a wrong decision. You also get away from the habit of making guesses or following instincts. Database technology enables business leaders to look to hard evidence in analyzing target markets and promotional strategies, rather than making assumptions or guesses on what works.\nWhat is the secret to living past 100? Playing the piano is among the things the world's oldest person believes has contributed to her long life. Branyas Morera is now 115 years and 320 days old. That means she's been alive longer than any other living individual.\nBranyas was born in the United States on April 4th, 1907. But her family moved to Spain, where they were originally from, when she was a young child. She has lived there ever since.\nThe 115-year-old is active on social media, regularly sharing aspects of her life. She also shares some of her secrets to living so long. These include playing the piano from a young age. Unfortunately, she had to give up the practice seven years ago at 108.\nHer other secrets for living a long life? She led an active lifestyle until her later years, but has never followed a specific diet. \"Many people ask me what diet I follow to live so many years,\" Branyas wrote. \"I have always eaten little, but everything, and I have never followed any plan.\" But she does eat yogurt every day, which she said has \"an infinite number of positive properties\" for the body. She has also said that the secret to a long life is \"knowing how to choose\" what to forget.\n\"Life would be impossible if we remembered everything,\" she said.\nIt's the first day of school, and your teacher tells you to find a seat in the classroom. Where do you sit? Does it matter? Yes. It does matter where you sit in your classroom, so choose and choose carefully. Studies report that where you sit in the classroom can impact your ability to learn and the way your teacher perceives you. Guess what else? Your grade.\nThen what is the best seat in the classroom?\nIn one study, students who sat in the front and center of the classroom received a higher grade average and scored higher on tests than those sitting towards the back of the classroom. Get this. Students sitting in the middle of the classroom also outscored students sitting behind them. This study gathered that students had a clearer vision of the blackboard and were able to focus more attention on the instructor. By sitting front and center, students were able to hear better too.\nThe instructors said that they also formed a better connection with the students who sat in front. Perhaps the connection is made because of eye contact and visibility and more interaction. But when you sit in the front row, you may be called on more by your teacher, mainly due to the fact that you are easier to see. So for students who are not prepared and for those who are extremely shy, the attention could cause some unwanted stress.",
+    "cn": "美国海关与边境保护局官员发现,从墨西哥非法携带鸡蛋进入得克萨斯州等边境州的人数正在增加。\n上个月美国一打大号鸡蛋的平均价格达到4.25美元。这是2023年12月1.78美元价格的两倍多。与此同时,墨西哥30个鸡蛋的售价仅为3.4美元。\n将鸡蛋带入美国的人面临最高1万美元的罚款。但官员表示,他们通常会没收并销毁鸡蛋。他们还会处以300美元的罚金。农业部于2012年禁止从墨西哥进口鸡蛋。这是由于禽流感的风险。官员表示,大多数携带鸡蛋抵达国际边境的人对其购买行为如实申报。他们只是不知道携带鸡蛋是不被允许的。\n美国海关与边境保护局发言人表示:\"通常情况下,这些物品在首次检查时就会申报。然后当事人可以放弃这些鸡蛋而不会产生后果。\"\n即便如此,最近仍有极少数情况是当局在进一步检查时发现了鸡蛋。\n美国一家名为Nettie's House的餐厅在其网站上宣布不再欢迎10岁以下儿童后遭到批评。\n餐厅给出的决定理由包括\"噪音水平、高脚椅空间不足、清理混乱不堪的场面以及孩子在餐厅跑来跑去的责任问题\"。他们决定是时候采取管控措施了。这个决定并非轻率做出,但最近发生的一些事件促使他们实施这项新政策。\n针对这篇帖子,有人评论说\"这简直乱得不成样子。孩子就是孩子。妈妈们很累,没有时间做饭。不欢迎10岁以下儿童完全是对家庭的一记耳光。\"他对这家餐厅感到非常失望。\n然而,也有其他人对餐厅的决定表示支持。他们说餐厅有权实施任何它想要的规定。\n在澳大利亚一个郊区发现了一张巨大的\"新脱落\"蛇皮后,安全官员正在搜寻该地区,据信有一条成年蛇在游荡。\n这张蛇皮是在一处建筑工地发现的,政府向居民发出书面警告。他们被告知要观察这条蛇,如有可能对其拍照。如果它在移动,要观察它去了哪里。建议不要与该动物接触。\n经确定,这种蛇是世界上最大的蛇类物种之一。它没有毒性,但仍然可以攻击并杀死猎物。这种蛇被归类为对人类构成威胁,特别是对幼儿以及宠物。它们可能携带对本地蛇类致命的病毒,而本地蛇类对这些病毒没有抵抗力。\n政府表示,如果官员找到这条蛇,他们将雇用有执照的捕蛇人将其捕获并运送到专业动物医生处。如果被捕获,将对这条蛇进行检查,以确定它来自哪里、在该地区待了多长时间、吃了什么、是否携带任何令人担忧的疾病以及是否产下了幼蛇。\nW: 可怜的Hannah!\nM: 怎么了?发生什么事了?\nW: 你没听说吗?她赢了一个电视竞赛,一夜之间成了百万富翁。\nM: 不会吧。太不可思议了。你在开玩笑吗?\nW: 没有,我是认真的。我发誓。她参加了一个电视节目,那种考常识问答的,然后她赢得了头奖。\nM: 哇。她太幸运了。她赢了多少钱?\nW: 我不确定具体数字,但有几百万欧元,税后大概五百万欧元。\nM: 我真不敢相信。你真的不是在开玩笑,对吧?\nW: 真的,你看我的表情。咱们的朋友Hannah赢了一大笔钱。\nM: 难以置信。那你为什么说\"可怜的Hannah\"?\nW: 嗯,结果她已经把钱全花光了。\nM: 五百万欧元?这怎么可能?\nW: 她给自己和丈夫买了一套房子,给她父母买了一套房子,然后又给她四个兄弟姐妹每人买了一套房子。之后她又给她丈夫买了一辆贵得离谱的跑车。\nM: 哇。他们都开心吗?因为这才是最重要的,不是吗?\nW: 我确定Hannah不开心。你看,她本来计划辞掉她讨厌的工作,提前退休。但现在她钱花光了,做不到了。基本上,她错误估计了花钱的速度,现在她满心懊悔。\nM: 他们为什么不把那辆炫酷的新车卖掉?\nW: 她想卖,但她丈夫拒绝放弃那辆车。他说那辆车是他这辈子遇到的最好的东西,如果她把它卖了,他就跟她离婚。\nW: 如果你现在有时间的话,我觉得我们需要坐下来讨论一下明年Jake的教育问题。我一直在考虑这件事,我想把他送到Westwood小学。\nM: 你是说那所寄宿学校?我以为我们说好了不会在他这么小的年纪就把他送走。我承认他们的学术成绩非常优秀,在科学和数学方面获得了许多杰出的奖项,但他现在还不够成熟,不能独自生活。把他送到Lakeview学校怎么样?\nW: 他们确实有一个很棒的户外校园,在那里他终于可以学习你一直想让他尝试的那些户外运动了。有这么多的绿化和新鲜空气,我想他目前的呼吸问题可能会消失。不过他们刚开办,所以我不太放心让我们的儿子成为一所全新学校的第一届学生。\nM: 是啊,教室里可能还有油漆味,让学校里的空气都很闷。那我们本地的学校呢?他们有一个很棒的艺术课程,能真正在创造力和想象力方面挑战Jake。就在家门口,我们其中一个人每天上班前都可以送他去学校。\nW: 我不知道。他们以对学生过于严格而闻名,更不用说布置的作业量大得惊人,这会给Jake和我带来很大压力。要不我们把他送到你妈妈家附近的那所学校?\n分析型决策是一种决策方法,管理者仅凭可靠数据做出重要商业决策。这种风格与更依赖直觉的领导风格形成对比,后者的管理者运用本能或观点做出许多决策。虽然分析型决策者受益于审慎、深思的方法,但这种风格也存在一些缺陷。\n分析型决策的一个关键缺陷是耗费时间。虽然当你有时间且决策重要时这种方法是有益的,但当时间紧迫时就会产生问题。分析型决策者难以应对截止日期和决策的紧迫感。在需要更及时行动的情况下,基于部分信息和直觉的决策可能效果更好。\n追求正确是分析型决策的主要驱动力。采用这种风格的领导者不想犯错。这种对唯一正确思维或做事方式的执着,妨碍了管理者的灵活性。缺乏灵活性导致你忽视或避免倾听他人的想法和观点。你只想利用硬数据或事实。\n尽管存在局限性,分析型决策确实具有几个关键优势。通过依赖事实和数据,你将做出错误决策的可能性降至最低。你也摆脱了猜测或遵循直觉的习惯。数据库技术使商业领导者能够依靠确凿证据来分析目标市场和促销策略,而不是对有效方法进行假设或猜测。\n活过100岁的秘诀是什么?弹钢琴是世界上最长寿的人认为有助于她长寿的事情之一。Branyas Morera现在已经115岁零320天了。这意味着她比任何其他在世的人活得都久。\nBranyas于1907年4月4日出生在美国。但她的家人在她还是小孩时搬回了他们原来所在的西班牙。从那以后她就一直住在那里。\n这位115岁的老人活跃在社交媒体上,经常分享她生活的方方面面。她还分享了一些长寿的秘诀。其中包括从小弹钢琴。不幸的是,她在七年前108岁时不得不放弃了这个练习。\n她长寿的其他秘诀?她在晚年之前保持着积极的生活方式,但从未遵循过特定的饮食。\"很多人问我遵循什么饮食才能活这么多年,\"Branyas写道。\"我一直吃得很少,但什么都吃,从未遵循过任何计划。\"但她确实每天吃酸奶,她说酸奶对身体有\"无数积极的作用\"。她还说过长寿的秘诀是\"知道如何选择\"要忘记什么。\n\"如果我们记住一切,生活将是不可能的,\"她说。\n这是开学第一天,老师让你在教室里找个座位。你会坐在哪里?这重要吗?是的。你坐在教室的哪个位置确实很重要,所以要慎重选择。研究表明,你在教室里的座位会影响你的学习能力以及老师对你的看法。你猜还有什么?你的成绩。\n那么教室里最好的座位是哪里呢?\n在一项研究中,坐在教室前排和中间位置的学生比坐在教室后排的学生获得了更高的平均成绩,考试分数也更高。还有一点。坐在教室中间的学生的成绩也超过了坐在他们后面的学生。这项研究发现,学生们对黑板有更清晰的视野,能够将更多注意力集中在授课教师身上。坐在前排和中间位置,学生们也能听得更清楚。\n授课教师表示,他们与坐在前排的学生建立了更好的联系。也许这种联系是由于眼神交流、可见度以及更多互动而形成的。但是当你坐在前排时,你可能会更多地被老师提问,主要是因为老师更容易看到你。所以对于没有准备好的学生以及极度害羞的学生来说,这种关注可能会带来一些不必要的压力。"
+  }
+}

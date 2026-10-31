@@ -1,0 +1,48 @@
+@use '@/styles/variables.scss' as *;
+
+.circle {
+  border-radius: $radius-round;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #fff;
+  box-shadow: 0 8rpx 24rpx rgba(79, 124, 255, 0.25);
+}
+
+.lg {
+  width: 200rpx;
+  height: 200rpx;
+
+  .num {
+    font-size: 72rpx;
+  }
+}
+
+.md {
+  width: 160rpx;
+  height: 160rpx;
+
+  .num {
+    font-size: 56rpx;
+  }
+}
+
+.num {
+  font-weight: 800;
+  line-height: 1;
+}
+
+.good {
+  background: linear-gradient(135deg, #38d39f, $color-success);
+  box-shadow: 0 8rpx 24rpx rgba(39, 174, 96, 0.3);
+}
+
+.mid {
+  background: linear-gradient(135deg, $color-primary, $color-primary-dark);
+}
+
+.bad {
+  background: linear-gradient(135deg, #ff8a65, $color-error);
+  box-shadow: 0 8rpx 24rpx rgba(231, 76, 60, 0.3);
+}

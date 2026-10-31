@@ -1,0 +1,28 @@
+@use '@/styles/variables.scss' as *;
+
+.page {
+  min-height: 100vh;
+}
+
+.banner {
+  margin: 20rpx $page-padding 0;
+  padding: 28rpx 28rpx;
+  border-radius: $radius-lg;
+  background: linear-gradient(135deg, $color-primary, $color-primary-dark);
+  box-shadow: $shadow-card;
+  display: flex;
+  flex-direction: column;
+}
+
+.bannerTitle {
+  font-size: 32rpx;
+  font-weight: $font-weight-bold;
+  color: #fff;
+}
+
+.bannerDesc {
+  margin-top: 10rpx;
+  font-size: 23rpx;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.85);
+}

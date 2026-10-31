@@ -1,0 +1,40 @@
+@use '@/styles/variables.scss' as *;
+
+.page {
+  min-height: 100vh;
+  padding: 20rpx $page-padding 60rpx;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8rpx 10rpx 16rpx;
+}
+
+.headText {
+  font-size: 25rpx;
+  color: $color-text-tertiary;
+}
+
+.headNum {
+  color: $color-primary;
+  font-weight: $font-weight-bold;
+  font-size: 28rpx;
+}
+
+.headAction {
+  font-size: 24rpx;
+  color: $color-primary;
+
+  &:active {
+    opacity: 0.7;
+  }
+}
+
+.listWrap {
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  overflow: hidden;
+}

@@ -1,0 +1,670 @@
+{
+  "id": "2021-06-1",
+  "writing": "Directions: For this part , you are allowed 30 minutes to write an essay titled“Are people becoming addicted to technology?”.The statement given below is for your reference. You should write at least 120 words but no more than 180 words. Numerous studies claim that addiction to technology is real and it has the same effect on the brain as drug addiction.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What did Joe's parents decide to do?",
+      "options": {
+        "A": "Enrol him in a Newcastle football club.",
+        "B": "Send him to an after-school art class.",
+        "C": "Forbid him to draw in his workbook.",
+        "D": "Help him post his drawings online."
+      },
+      "stem_cn": "Joe的父母决定做什么?",
+      "options_cn": {
+        "A": "让他加入Newcastle足球俱乐部。",
+        "B": "送他去课后美术班。",
+        "C": "禁止他在作业本上画画。",
+        "D": "帮他把画作发布到网上。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What did the restaurant \"Number 4\" do?",
+      "options": {
+        "A": "Contacted Joe to decorate its dining-room.",
+        "B": "Hired Joe to paint all the walls of its buildings.",
+        "C": "Renovated its kitchen and all the dining-rooms.",
+        "D": "Asked Joe for permission to use his online drawings."
+      },
+      "stem_cn": "名为\"Number 4\"的餐厅做了什么?",
+      "options_cn": {
+        "A": "联系Joe装饰其餐厅。",
+        "B": "雇用Joe粉刷其建筑物的所有墙壁。",
+        "C": "翻新了其厨房和所有餐厅。",
+        "D": "请求Joe允许使用他在网上的画作。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What is Kirsteen Marshall trying to do?",
+      "options": {
+        "A": "Get her pet dog back.",
+        "B": "Identify the suspect on the security video.",
+        "C": "Beg for help from the police.",
+        "D": "Post pictures of her pet dog on social media."
+      },
+      "stem_cn": "Kirsteen Marshall 正试图做什么?",
+      "options_cn": {
+        "A": "找回她的宠物狗。",
+        "B": "辨认监控视频中的嫌疑人。",
+        "C": "向警方求助。",
+        "D": "在社交媒体上发布她宠物狗的照片。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What does the news report say about Kirsteen Marshall's family?",
+      "options": {
+        "A": "It is suffering a great deal from the incident.",
+        "B": "It is helping the police with the investigation.",
+        "C": "It is bringing the case to the local district court.",
+        "D": "It is offering a big reward to anyone who helps."
+      },
+      "stem_cn": "新闻报道关于 Kirsteen Marshall 的家人说了什么?",
+      "options_cn": {
+        "A": "他们正因这一事件遭受巨大痛苦。",
+        "B": "他们正在协助警方调查。",
+        "C": "他们正在把案件提交到当地地方法院。",
+        "D": "他们正在向任何提供帮助的人提供丰厚奖励。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What does Guy Wilson say his café aims to do?",
+      "options": {
+        "A": "Provide free meals to the local poor.",
+        "B": "Help people connect with each other.",
+        "C": "Help eliminate class difference in his area.",
+        "D": "Provide customers with first-class service."
+      },
+      "stem_cn": "Guy Wilson 说他的咖啡馆旨在做什么?",
+      "options_cn": {
+        "A": "为当地穷人提供免费餐食。",
+        "B": "帮助人们彼此建立联系。",
+        "C": "帮助消除他所在地区的阶层差异。",
+        "D": "为顾客提供一流的服务。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What does the news report say about Eggs & Bread café?",
+      "options": {
+        "A": "It does not supervise its employees.",
+        "B": "It donates regularly to a local charity.",
+        "C": "It does not use volunteers.",
+        "D": "It is open round the clock."
+      },
+      "stem_cn": "新闻报道关于 Eggs & Bread 咖啡馆说了什么?",
+      "options_cn": {
+        "A": "它不监督其员工。",
+        "B": "它定期向当地慈善机构捐款。",
+        "C": "它不使用志愿者。",
+        "D": "它全天候营业。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What happens when people start to know each other according to Guy Wilson?",
+      "options": {
+        "A": "They will realise the importance of communication.",
+        "B": "They will come to the café even more frequently.",
+        "C": "They will care less about their own background.",
+        "D": "They will find they have something in common."
+      },
+      "stem_cn": "根据 Guy Wilson 的说法,当人们开始相互了解时会发生什么?",
+      "options_cn": {
+        "A": "他们会意识到沟通的重要性。",
+        "B": "他们会更频繁地来到这家咖啡馆。",
+        "C": "他们会不那么在意自己的背景。",
+        "D": "他们会发现彼此有共同之处。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What are the speakers mainly talking about?",
+      "options": {
+        "A": "A surprise party for Paul's birthday.",
+        "B": "Travel plans for the coming weekend.",
+        "C": "Preparations for Saturday's get-together.",
+        "D": "The new market on the other side of town."
+      },
+      "stem_cn": "说话者主要在谈论什么?",
+      "options_cn": {
+        "A": "为Paul的生日举办惊喜派对。",
+        "B": "即将到来的周末的旅行计划。",
+        "C": "周六聚会的准备工作。",
+        "D": "城镇另一边的新市场。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "Why does the woman say it is a good idea to serve foods that guests can help themselves to?",
+      "options": {
+        "A": "It makes the hostess's job a whole lot easier.",
+        "B": "It enables guests to walk around and chat freely.",
+        "C": "It saves considerable time and labor.",
+        "D": "It requires fewer tables and chairs."
+      },
+      "stem_cn": "女士为什么说提供客人可以自取的食物是个好主意?",
+      "options_cn": {
+        "A": "这让女主人的工作轻松了许多。",
+        "B": "这让客人能够四处走动并自由交谈。",
+        "C": "这节省了大量时间和劳动。",
+        "D": "这需要更少的桌椅。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What does the woman say about the new supermarket?",
+      "options": {
+        "A": "It offers some big discounts.",
+        "B": "It is quite close to her house.",
+        "C": "It is more spacious and less crowded.",
+        "D": "It sells local wines and soft drinks."
+      },
+      "stem_cn": "女士对新超市说了什么?",
+      "options_cn": {
+        "A": "它提供一些大幅折扣。",
+        "B": "它离她家非常近。",
+        "C": "它更宽敞、不那么拥挤。",
+        "D": "它出售当地的葡萄酒和软饮料。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the man suggest they ask Paul to do?",
+      "options": {
+        "A": "Cook a dish for the party.",
+        "B": "Arrive 10 minutes earlier.",
+        "C": "Prepare a few opening remarks.",
+        "D": "Bring his computer and speakers."
+      },
+      "stem_cn": "男士建议他们让Paul做什么?",
+      "options_cn": {
+        "A": "为聚会做一道菜。",
+        "B": "提前10分钟到达。",
+        "C": "准备几句开场白。",
+        "D": "带上他的电脑和扬声器。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "Why does the woman want to have a car?",
+      "options": {
+        "A": "For commuting to work.",
+        "B": "For long-distance travel.",
+        "C": "For getting around in Miami.",
+        "D": "For convenience at weekends."
+      },
+      "stem_cn": "女士为什么想要一辆车?",
+      "options_cn": {
+        "A": "为了通勤上班。",
+        "B": "为了长途旅行。",
+        "C": "为了在迈阿密四处出行。",
+        "D": "为了周末方便。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What does the woman say about German cars?",
+      "options": {
+        "A": "They are reliable.",
+        "B": "They are compact.",
+        "C": "They are spacious.",
+        "D": "They are easy to drive."
+      },
+      "stem_cn": "女士对德国车有什么看法?",
+      "options_cn": {
+        "A": "它们很可靠。",
+        "B": "它们很紧凑。",
+        "C": "它们很宽敞。",
+        "D": "它们很容易驾驶。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the man recommend the woman do?",
+      "options": {
+        "A": "Buy a second-hand car.",
+        "B": "Trust her own judgment.",
+        "C": "Seek advice from his friend.",
+        "D": "Look around before deciding."
+      },
+      "stem_cn": "男士建议女士做什么?",
+      "options_cn": {
+        "A": "买一辆二手车。",
+        "B": "相信她自己的判断。",
+        "C": "向他的朋友寻求建议。",
+        "D": "在决定之前多看看。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What do we learn about the man's friend from the conversation?",
+      "options": {
+        "A": "He sells new cars.",
+        "B": "He can be trusted.",
+        "C": "He is starting a business.",
+        "D": "He is a successful car dealer."
+      },
+      "stem_cn": "从对话中我们了解到男士的朋友什么信息?",
+      "options_cn": {
+        "A": "他销售新车。",
+        "B": "他值得信赖。",
+        "C": "他正在创业。",
+        "D": "他是一位成功的汽车经销商。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What do we learn about early pigs in North America?",
+      "options": {
+        "A": "Many escaped from farms and became wild.",
+        "B": "They were actually native to North America.",
+        "C": "Many got killed in the wild when searching for food.",
+        "D": "They were hunted by Spanish and Russian explorers."
+      },
+      "stem_cn": "关于北美早期的猪，我们了解到什么？",
+      "options_cn": {
+        "A": "许多猪从农场逃脱并变成了野猪。",
+        "B": "它们实际上原产于北美。",
+        "C": "许多猪在野外觅食时被杀死。",
+        "D": "它们被西班牙和俄罗斯探险家猎杀。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "Why are wild pigs a threat to humans?",
+      "options": {
+        "A": "They often make sudden attacks on people.",
+        "B": "They break up nature's food supply chain.",
+        "C": "They cause much environmental pollution.",
+        "D": "They carry a great many diseases."
+      },
+      "stem_cn": "为什么野猪对人类构成威胁？",
+      "options_cn": {
+        "A": "它们经常对人发动突然袭击。",
+        "B": "它们破坏了自然界的食物供应链。",
+        "C": "它们造成了严重的环境污染。",
+        "D": "它们携带大量疾病。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What does the passage say about the native foxes on the US island?",
+      "options": {
+        "A": "They lived peacefully with wild pigs.",
+        "B": "They ran out of food completely.",
+        "C": "They fell victim to eagles.",
+        "D": "They reproduced quickly."
+      },
+      "stem_cn": "文章关于美国岛屿上的本地狐狸说了什么？",
+      "options_cn": {
+        "A": "它们与野猪和平共处。",
+        "B": "它们的食物完全耗尽了。",
+        "C": "它们成了老鹰的猎物。",
+        "D": "它们繁殖迅速。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What are a pair of entrepreneurs planning to do?",
+      "options": {
+        "A": "Taste coffee while in outer space.",
+        "B": "Roast coffee beans in outer space.",
+        "C": "Develop a new strain of coffee bean.",
+        "D": "Use a pressurised tank to brew coffee."
+      },
+      "stem_cn": "一对企业家正计划做什么?",
+      "options_cn": {
+        "A": "在外太空品尝咖啡。",
+        "B": "在外太空烘焙咖啡豆。",
+        "C": "培育一种新的咖啡豆品种。",
+        "D": "使用加压罐冲泡咖啡。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What does the passage say about coffee beans roasted on Earth?",
+      "options": {
+        "A": "They can easily get burned.",
+        "B": "They float around in the oven.",
+        "C": "They have to be heated to 360℃.",
+        "D": "They receive evenly distributed heat."
+      },
+      "stem_cn": "文章关于在地球上烘焙的咖啡豆说了什么?",
+      "options_cn": {
+        "A": "它们很容易被烤焦。",
+        "B": "它们在烤箱中四处漂浮。",
+        "C": "它们必须被加热到360℃。",
+        "D": "它们受到均匀分布的热量。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What did the two Italian companies do in 2015?",
+      "options": {
+        "A": "They charged a high price for their space-roasted coffee beans.",
+        "B": "They set up a branch in Dubai to manufacture coffee roasters.",
+        "C": "They collaborated on building the first space coffee machine.",
+        "D": "They abandoned the attempt to roast coffee beans in space."
+      },
+      "stem_cn": "两家意大利公司在2015年做了什么?",
+      "options_cn": {
+        "A": "它们为其太空烘焙的咖啡豆定了高价。",
+        "B": "它们在Dubai设立分公司制造咖啡烘焙机。",
+        "C": "它们合作建造了第一台太空咖啡机。",
+        "D": "它们放弃了在太空烘焙咖啡豆的尝试。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "Why do a lot of people come to the village of Takotna every March?",
+      "options": {
+        "A": "It is the best time for sightseeing.",
+        "B": "A race passes through it annually.",
+        "C": "They come to clean the Iditarod Trail.",
+        "D": "It is when the villagers choose a queen."
+      },
+      "stem_cn": "为什么每年三月都有很多人来到Takotna村？",
+      "options_cn": {
+        "A": "这是观光的最佳时间。",
+        "B": "一场比赛每年都会经过这里。",
+        "C": "他们来清理Iditarod Trail。",
+        "D": "这是村民们选举女王的时候。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What is the village of Takotna famous for?",
+      "options": {
+        "A": "Its children's baking skills.",
+        "B": "Its unique winter scenery.",
+        "C": "Its tasty fruit pies.",
+        "D": "Its great food variety."
+      },
+      "stem_cn": "Takotna村以什么而闻名？",
+      "options_cn": {
+        "A": "孩子们的烘焙技艺。",
+        "B": "独特的冬季景色。",
+        "C": "美味的水果派。",
+        "D": "丰富多样的食物。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "Who comes to help with the event of the year?",
+      "options": {
+        "A": "The contestants.",
+        "B": "The entire village.",
+        "C": "Jan Newton and her friends.",
+        "D": "People from the state of Idaho."
+      },
+      "stem_cn": "谁来帮助这一年度盛事？",
+      "options_cn": {
+        "A": "参赛者们。",
+        "B": "全村的人。",
+        "C": "Jan Newton和她的朋友们。",
+        "D": "来自Idaho州的人们。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What does the passage say about Jan Newton?",
+      "options": {
+        "A": "She owned a restaurant in Idaho.",
+        "B": "She married her husband in 1972.",
+        "C": "She went to Alaska to compete in a race.",
+        "D": "She helped the village to become famous."
+      },
+      "stem_cn": "文章关于Jan Newton说了什么？",
+      "options_cn": {
+        "A": "她在Idaho拥有一家餐厅。",
+        "B": "她在1972年与丈夫结婚。",
+        "C": "她去Alaska参加比赛。",
+        "D": "她帮助这个村庄变得出名。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "adapting",
+    "B": "consciously",
+    "C": "crawling",
+    "D": "crowded",
+    "E": "extreme",
+    "F": "hunt",
+    "G": "literally",
+    "H": "moderate",
+    "I": "remote",
+    "J": "removed",
+    "K": "species",
+    "L": "specimens",
+    "M": "thick",
+    "N": "tiny",
+    "O": "unique"
+  },
+  "cloze_passage": "Most animals seek shade when temperatures in the Sahara Desert soar to 120 degrees Fahrenheit. But for the Saharan silver ant, 26 from their underground nests into the sun's brutal rays to 27 for food, this is the perfect time to seek lunch. In 2015 these ants were joined in the desert by scientists from two Belgian universities, who spent a month in the 28 heat tracking the ants and digging out their nests. The goal was simple, to discover how the 29 adapted to the kind of heat that can 30 melt the bottom of shoes.\nBack in Belgium, the scientists looked at the ants under an electronic microscope and found that their 31 , triangular hair reflects light like a prism(棱镜), giving them a metallic reflection and protecting them from the sun's awful heat. When Ph.D. student Quentin Willot 32 the hair from an ant with a 33 knife and put it under a heat lamp, its temperature jumped.\nThe ants' method of staying cool is 34 among animals. Could this reflective type of hair protect people? Willot says companies are interested in 35 these ants' method of heat protection for human use, including everything from helping to protect the lives of firefighters to keeping homes cool in summer.",
+  "long_reading_passage": "A) This month, more than 4 million students across the nation will begin high school. Many will do well. But many will not. Consider that nearly two-thirds of students will experience the \"ninth-grade shock,\" which refers to a dramatic drop in a student's academic performance. Some students cope with this shock by avoiding challenges. For instance, they may drop difficult coursework. Others may experience a hopelessness that results in failing their core classes, such as English, science and math.\nB) This should matter a great deal to parents, teachers and policymakers. Ultimately it should matter to the students themselves and society at large, because students' experience of transitioning(过渡) to the ninth grade can have long-term consequences not only for the students themselves but for their home communities. We make these observations as research psychologists who have studied how schools and families can help young people thrive.\nC) In the new global economy, students who fail to finish the ninth grade with passing grades in college preparatory coursework are very unlikely to graduate on time and go on to get jobs. One study has calculated that the lifetime benefit to the local economy for a single additional student who completes high school is half a million dollars or more. This is based on higher earnings and avoided costs in health care, crime, welfare dependence and other things.\nD) The consequences of doing poorly in the ninth grade can impact more than students' ability to find a good job. It can also impact the extent to which they enjoy life. Students lose many of the friends they turned to for support when they move from the eighth to the ninth grade. One study of ninth-grade students found that 50 percent of friendships among ninth graders changed from one month to the next, signaling striking instability in friendships.\nE) In addition, studies find the first year of high school typically shows one of the greatest increases in depression of any year over the lifespan. Researchers think that one explanation is that ties to friends are broken while academic demands are rising. Furthermore, most adult cases of clinical depression first emerge in adolescence(青春期). The World Health Organization reports that depression has the greatest burden of disease worldwide, in terms of the total cost of treatment and the loss of productivity.\nF) Given all that's riding on having a successful ninth grade experience, it pays to explore what can be done to meet the academic, social and emotional challenges of the transition to high school. So far, our studies have yielded one main insight: Students' beliefs about change—their beliefs about whether people are stuck one way forever, or whether people can change their personalities and abilities—are related to their ability to cope, succeed academically and maintain good mental health. Past research has called these beliefs \"mindsets(思维模式),\" with a \"fixed mindset\" referring to the belief that people cannot change and a \"growth mindset\" referring to the belief that people can change.\nG) In one recent study, we examined 360 adolescents' beliefs about the nature of \"smartness\"—that is, their fixed mindsets about intelligence. We then assessed biological stress responses for students whose grades were dropping by examining their stress hormones(荷尔蒙). Students who believed that intelligence is fixed—that you are stuck being \"not smart\" if you struggle in school—showed higher levels of stress hormones when their grades were declining at the beginning of the ninth grade. If students believed that intelligence could improve—that is to say, when they held more of a growth mindset of intelligence—they showed lower levels of stress hormones when their grades were declining. This was an exciting result because it showed that the body's stress responses are not determined solely by one's grades. Instead, declining grades only predicted worse stress hormones among students who believed that worsening grades were a permanent and hopeless state of affairs.\nH) We also investigated the social side of the high school transition. In this study, instead of teaching students that their smartness can change, we taught them that their social standing—that is, whether they are bullied or excluded or left out—can change over time. We then looked at high school students' stress responses to daily social difficulties. That is, we taught them a growth mindset about their social lives. In this study, students came into the laboratory and were asked to give a public speech in front of upper-year students. The topic of the speech was what makes one popular in high school. Following this, students had to complete a difficult mental math task in front of the same upper-year students.\nI) Experiment results showed that students who were not taught that people can change showed poor stress responses. When these students gave the speech, their blood vessels contracted and their hearts pumped less blood through the body—both responses that the body shows when it is preparing for damage or defeat after a physical threat. Then they gave worse speeches and made more mistakes in math. But when students were taught that people can change, they had better responses to stress, in part because they felt like they had the resources to deal with the demanding situation. Students who got the growth mindset intervention(干预) showed less-contracted blood vessels and their hearts pumped more blood—both of which contributed to more oxygen getting to the brain, and, ultimately, better performance on the speech and mental math tasks.\nJ) These findings lead to several possibilities that we are investigating further. First, we are working to replicate(复制) these findings in more diverse school communities. We want to know in which types of schools and for which kinds of students these growth mindset ideas help young people adapt to the challenges of high school. We also hope to learn how teachers, parents or school counselors can help students keep their ongoing academic or social difficulties in perspective. We wonder what would happen if schools helped to make beliefs about the potential for change and improvement a larger feature of the overall school culture, especially for students starting the ninth grade.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "Educators and business leaders have more in common than it may seem. Teachers want to prepare students for a successful future. Technology companies have an interest in developing a workforce with the STEM (science, technology, engineering and math) skills needed to grow the company and advance the industry. How can they work together to achieve these goals? Play may be the answer.\nFocusing on STEM skills is important, but the reality is that STEM skills are enhanced and more relevant when combined with traditional, hands-on creative activities. This combination is proving to be the best way to prepare today's children to be the makers and builders of tomorrow. That is why technology companies are partnering with educators to bring back good, old-fashioned play.\nIn fact many experts argue that the most important 21st-century skills aren't related to specific technologies or subject matter, but to creativity; skills like imagination, problem-finding and problem-solving, teamwork, optimism, patience and the ability to experiment and take risks. These are skills acquired when kids tinker(鼓捣小玩意). High-tech industries such as NASA's Jet Propulsion Laboratory have found that their best overall problem solvers were master tinkerers in their youth.\nThere are cognitive(认知的) benefits of doing things the way we did as children—building something, tearing it down, then building it up again. Research shows that given 15 minutes of free play, four- and five-year-olds will spend a third of this time engaged in spatial, mathematical, and architectural activities. This type of play—especially with building blocks—helps children discover and develop key principles in math and geometry.\nIf play and building are critical to 21st-century skill development, that's really good news for two reasons: Children are born builders, makers, and creators, so fostering(培养) 21st-century skills may be as simple as giving kids room to play, tinker and try things out, even as they grow older. Secondly, it doesn't take 21st-century technology to foster 21st-century skills. This is especially important for under-resourced schools and communities. Taking whatever materials are handy and tinkering with them is a simple way to engage those important \"maker\" skills. And anyone, anywhere, can do it.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "They seek advice from technology companies to achieve teaching goals.",
+        "B": "They have been successful in preparing the workforce for companies.",
+        "C": "They help students acquire the skills needed for their future success.",
+        "D": "They partner with technology companies to enhance teaching efficiency."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "By blending them with traditional, stimulating activities.",
+        "B": "By inviting business leaders to help design curriculums.",
+        "C": "By enhancing students' ability to think in a critical way.",
+        "D": "By showing students the best way to learn is through play."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "By engaging in activities involving specific technologies.",
+        "B": "By playing with things to solve problems on their own.",
+        "C": "By familiarizing themselves with high-tech gadgets.",
+        "D": "By mastering basic principles through teamwork."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "Stimulate their interest as early as possible.",
+        "B": "Spend more time playing games with them.",
+        "C": "Encourage them to make things with hands.",
+        "D": "Allow them to tinker freely with calculators."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Train students to be makers to meet future market demands.",
+        "B": "Develop students' creative skills with the resources available.",
+        "C": "Engage students with challenging tasks to foster their creativity.",
+        "D": "Work together with companies to improve their teaching facilities."
+      }
+    }
+  ],
+  "reading_passage_2": "Being an information technology, or IT, worker is not a job I envy. They are the ones who, right in the middle of a critical meeting, are expected to instantly fix the projector that's no longer working. They have to tolerate the bad tempers of colleagues frustrated at the number of times they've had to call the help desk for the same issue. They are also the ones who know there are systems that are more powerful, reliable and faster, but their employer simply will not put up the funds to buy them.\nAccording to a recent survey, employees who have a job reliant on IT support consider IT a major source of job dissatisfaction. Through no fault of their own, they can suddenly find their productivity deteriorating or quality control non-existent. And there's little they can do about it.\nThe experience of using IT penetrates almost the entire work field. It has become a crucial part of employees' overall work experience. When IT is operating as it should, employee self-confidence swells. Their job satisfaction, too, can surge when well-functioning machines relieve them of dull tasks or repetitive processes. But if there's one thing that triggers widespread employee frustration, it's an IT transformation project gone wrong, where swollen expectations have been popped and a long list of promised efficiencies has been reversed. This occurs when business leaders implement IT initiatives with little consideration of how those changes will impact the end user.\nWhich is why managers should appreciate just how influential the IT user experience is to their employees, and exert substantial effort in ensuring their IT team eliminates programming errors and application crashes. Adequate and timely IT support should also be available to enable users to cope with technological issues at work. More importantly, IT practitioners need to understand what employees experience mentally when they use IT.\nTherefore, businesses need to set up their IT infrastructure so that it is designed to fit in with their employees' work, rather than adjust their work to fit in with the company's IT limitations.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "It is envied by many.",
+        "B": "It does not appeal to him.",
+        "C": "It is financially rewarding.",
+        "D": "It does not match his abilities."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "IT helps boost productivity.",
+        "B": "IT helps improve quality control.",
+        "C": "Many employees are deeply frustrated by IT.",
+        "D": "Most employees rely heavily on IT in their work."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "There is a big boost in employees' work efficiency.",
+        "B": "Employees become more dependent on machines.",
+        "C": "There are no longer any boring or repetitive tasks.",
+        "D": "Employees become more confident in their work."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Consider the various expectations of their customers.",
+        "B": "Draw up a list of the efficiencies to be promised.",
+        "C": "Assess the swollen cost of training the employees.",
+        "D": "Think about the possible effects on their employees."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "By designing systems that suit their needs.",
+        "B": "By ensuring that their mental health is sound.",
+        "C": "By adjusting their work to suit the IT system.",
+        "D": "By offering them regular in-service training."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2021年6月·第1套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 铁观音(Tieguanyin)是中国最受欢迎的茶之一,原产于福建省安溪县西坪镇,如今安溪全县普遍种植，但该县不同地区生产的铁观音又各具风味。铁观音一年四季均可采摘,尤以春秋两季采摘的茶叶品质最佳。铁观音的加工非常复杂,需要专门的技术和丰富的经验。铁观音含有多种维生素,喝起来口感独特。常饮铁观音有助于预防心脏病、降低血压、增强记忆力。",
+  "answers": {
+    "1": "B",
+    "2": "A",
+    "3": "A",
+    "4": "D",
+    "5": "B",
+    "6": "C",
+    "7": "D",
+    "8": "C",
+    "9": "B",
+    "10": "A",
+    "11": "D",
+    "12": "D",
+    "13": "A",
+    "14": "C",
+    "15": "B",
+    "16": "A",
+    "17": "D",
+    "18": "C",
+    "19": "B",
+    "20": "A",
+    "21": "C",
+    "22": "B",
+    "23": "C",
+    "24": "B",
+    "25": "D",
+    "26": "C",
+    "27": "F",
+    "28": "E",
+    "29": "K",
+    "30": "G",
+    "31": "M",
+    "32": "J",
+    "33": "N",
+    "34": "O",
+    "35": "A",
+    "36": "E",
+    "37": "G",
+    "38": "J",
+    "39": "C",
+    "40": "H",
+    "41": "E",
+    "42": "D",
+    "43": "A",
+    "44": "I",
+    "45": "F",
+    "46": "C",
+    "47": "A",
+    "48": "B",
+    "49": "C",
+    "50": "B",
+    "51": "B",
+    "52": "C",
+    "53": "D",
+    "54": "D",
+    "55": "A"
+  },
+  "listening_script": {
+    "en": "And finally in tonight's news, a 9-year-old boy named Joe, told not to draw in class, wins a job decorating a restaurant with his drawings. Rather than shutting down the habit of drawing in his school's workbook, Joe's parents decided to encourage his creativity by sending their son to an after-school art class. His teacher recognized Joe's talent and posted all his work online, which led to something pretty wonderful.\nA restaurant named \"Number 4\" in Newcastle contacted Joe's teacher to ask if the 9-year-old could come and decorate its dining-room with his drawings. Every day after school, Joe's dad drives him to the restaurant so he can put his ideas straight on the wall. Once he's all done, the work will remain there permanently.\nJoe's dad said Joe is a really talented little boy. He's excellent at school. He's great at football. But drawing is definitely what he is most passionate about.\nKirsteen Marshall, a 34-year-old mum of one, posted a tearful video on social media Wednesday, begging for the safe return of her beloved pet dog. After combing through the security video outside a Gorbals shop, Kirsteen has now posted an image of a man suspected of stealing the dog.\nThe image appears to show a man carrying the dog in his arms. Kirsteen also believes the video obtained from the shop shows the dog being stolen by a man before driving off in a car which had been waiting nearby.\nThe family is now offering a £5,000 reward for the safe return of the dog after launching a social media campaign to find the thief.\nThe dog is six and a half years old and was last seen wearing a red collar.\nKirsteen said: \"We'll pay that to anyone who brings him home as long as they are not responsible for his disappearance.\"\nPolice are investigating the incident.\nLondon's Eggs & Bread café offers boiled eggs, toast, jam, and bacon, as well as tea, coffee and orange juice. But at the end of the meal, customers don't have to worry about the bill. Hungry customers can pay whatever amount they can afford to eat at the café, or nothing at all.\nOwner Guy Wilson says his café aims to build community, rather than profits. He wants to provide a bridge for people to connect in an area that has been divided by class and wealth by providing affordable breakfasts.\nThe café is open in the mornings every day of the year and has two members of staff or supervisors on shift every day. The café doesn't use volunteers, but pays its staff to ensure consistency in its service. It doesn't take donations and doesn't want to be seen as a charity.\nMr. Wilson says, when people start to know other people around them, they realize they're not that different. And whatever their financial background, or their educational background, most people will have something in common with each other. He says it's important that his café can offer his customers security and permanence.\nM: So what time do you think we should have the party on Saturday?\nW: How about inviting people to come at 6:00 p.m.? Then we'll have the afternoon to prepare food and drink, and stuff like that.\nM: Yes, I was thinking that around 6:00 would be good too. What food should we provide?\nW: Well, I had thought about baking a cake, and some biscuits. And now I think we should prepare some sandwiches and snacks, and some other kinds of food, so that people can just help themselves, rather than getting everyone to sit down at the table to eat a meal. I think that's a bit too formal. It's better to let people walk around and talk to each other, or sit where they like.\nM: Yes, that sounds good. I'll go to the supermarket to get some drinks. I think I might try that big new supermarket on the other side of town and see what they have. I've not been there before. I think we should get some beer and wine, and some fruit juice, and other soft drinks. What do you think?\nW: Sounds great. I think those drinks will be enough. And I heard that the new supermarket offers some big discounts to attract customers. So going there should be a great idea. What should we do about music?\nM: Maybe we should ask Paul to bring his computer and speakers, so that we can play some music. He has a great collection of different stuff.\nW: Yes. All right.\nW: I'm thinking of buying a car. I wouldn't need to use it every day, but I think it would be very convenient to have one for the weekends.\nM: That's exciting. Would this be your first car?\nW: No, I actually owned a car for a little while when I lived in Miami. You see in America, many cities don't have good public transport. So, most people need their own car to get around.\nM: I see. So have you got your mind set on a specific model?\nW: No, not really. I've heard that German cars are very reliable, but I haven't decided on a specific model yet. I'd also like it to be small, so that it's easy to drive in the city.\nM: I have a friend who sells second-hand cars. In fact, I think his family owns the business. He's a really nice guy, and he knows a lot about cars. I could give you his phone number if you want, and you could call him and ask him questions.\nW: Hmm, that's nice of you, but I don't want to feel obliged to buy one of his cars.\nM: Oh, no, he's not like that. He's a good friend of mine, and he would never try to pressure you or cheat you.\nW: Well, if you trust him, then, I guess it should be OK. To be honest, I could use some help in deciding what type of vehicle would best suit my needs. Speaking to an expert would be a good idea.\nM: Exactly. You have nothing to worry about. He's a lovely guy, and he'll be happy to help.\nPigs are not native to North America. They were first introduced to California by Spanish and Russian explorers and settlers many centuries ago. In the early times, pigs were allowed to wander freely in search of food. This practice also allowed many pigs to escape from farms and live in the wild, which became a problem.\nIn fact, as one of the most damaging invasive species on the continent, wild pigs cause millions of dollars in crop damage yearly. They also harbor dozens of diseases that threaten both humans and farm animals. Forest patches with wild pigs have been found to have considerably reduced plant and animal diversity. In addition to either eating other animals or their food supply, wild pigs damage native habitats by rooting up grasses and rubbing on trees. Their activities may also create opportunities for invasive plants to colonize these areas. Wild pigs will eat almost anything containing calories. Mice, deer, birds, snakes and frogs are among their victims. They can also harm other wild species through indirect competition, rather than eating them or shrinking their food supply. On one particular United States island, wild pigs themselves became an attractive food source for a species of mainland eagle. The eagles began breeding on the island, and also feeding on a species of native fox. The foxes were almost wiped out completely.\nA pair of entrepreneurs are planning to build and launch a spacecraft that would carry and roast coffee beans in outer space.\nThe craft will use the heat of re-entry to roast coffee beans as they float inside it in a pressurised tank. The effect would be to roast the beans all over, and produce perfect coffee. The businessmen say that on Earth, beans can easily break apart and get burned in the roaster. But if gravity is removed, the beans float around in a heated oven, receiving 360 degrees of evenly distributed heat and roast to near perfection.\nThe spacecraft will reach a height of around 200 km. The beans would then be roasted in the heat generated by the craft's 20-minute re-entry into Earth's atmosphere. Temperatures in the pressurised tank will be kept to around 200℃.\nOnce back on Earth, the planet's first space-roasted beans would be used to make coffee that would be sold for the first time in Dubai. This is where the pair's company is based. It is not clear how much they would charge for a cup.\nSurprisingly, the Space Roaster concept—should it go ahead—will not be the first attempt to take coffee into space. In 2015, two Italian companies collaborated on the construction of a similar type of spacecraft, which was the first coffee machine designed for use in space.\nIn cold and snowy Alaska, there's a village called Takotna. It has a population of a mere 49 souls. Each March, this tiny village swells up in numbers, because it is located in the middle of a race that takes place every year. It is a seven-day race, called the Iditarod Trail, and participants stop at Takotna for their obligatory 24-hour rest. Lucky for them, Takotna is famous for its delicious fruit pies.\nWeeks before the competitors arrive, the residents of Takotna start preparing for what is without question their biggest event of the year. The whole village chips in to help, including the kids, who end up developing their baking skills at an early age. The exhausted and hungry racers are greeted with delightful pies of all kinds, such as apple, orange, lemon or banana. They consume the pies as stomach warming race fuel. The toughness of the race allows for racers to eat pretty much whatever they want. The more calories, the better.\nTakotna has gained a reputation for its dessert-based hospitality since the 1970s. It started with one person, Jan Newton. Jan moved from Idaho with her husband in 1972 and opened a restaurant. Her rich and filling-fruit pies quickly got the racers' attention, and the village gained some fame as a result. Proud residents then started to refer to Jan as Queen of Takotna.",
+    "cn": "最后是今晚的新闻，一名9岁男孩Joe在课堂上被禁止画画，却凭借自己的画作赢得了一份装饰餐厅的工作。Joe的父母没有制止他在学校作业本上画画的习惯，而是决定鼓励他的创造力，送他去参加课后艺术班。他的老师认可了Joe的天赋，并把他所有的作品发布到网上，这带来了一件非常美好的事情。\nNewcastle一家名为\"Number 4\"的餐厅联系了Joe的老师，询问这个9岁的孩子能否来用他的画作装饰餐厅的用餐区。每天放学后，Joe的爸爸开车送他去餐厅，这样他就可以把自己的创意直接画在墙上。一旦全部完成，这些作品将永久保留在那里。\nJoe的爸爸说Joe是一个非常有天赋的小男孩。他在学校表现出色。他足球踢得很好。但画画绝对是他最热爱的事情。\n34岁的单亲妈妈Kirsteen Marshall周三在社交媒体上发布了一段含泪视频,恳求安全归还她心爱的宠物狗。在仔细查看Gorbals一家商店外的监控视频后,Kirsteen现已发布了一名涉嫌偷狗男子的照片。\n照片似乎显示一名男子抱着这只狗。Kirsteen还认为从商店获得的视频显示,这只狗被一名男子偷走,随后乘坐一辆在附近等候的汽车离开。\n在发起社交媒体活动寻找窃贼后,这家人现在悬赏5000英镑以安全找回这只狗。\n这只狗六岁半,最后被看到时戴着红色项圈。\nKirsteen说:\"只要他们不是对狗的失踪负有责任,我们会付钱给任何把它带回家的人。\n警方正在调查此事。\n伦敦的Eggs & Bread咖啡馆提供煮鸡蛋、吐司、果酱和培根,以及茶、咖啡和橙汁。但在用餐结束时,顾客不必担心账单。饥饿的顾客可以支付他们能承受的任何金额在这家咖啡馆用餐,或者什么都不付。\n店主Guy Wilson说,他的咖啡馆旨在建立社区,而非追求利润。他希望通过提供人们负担得起的早餐,为这个被阶级和财富分割的地区的人们搭建一座连接的桥梁。\n这家咖啡馆全年每天早上营业,每天有两名员工或主管值班。咖啡馆不使用志愿者,而是支付员工工资以确保服务的一致性。它不接受捐赠,也不希望被视为慈善机构。\nWilson先生说,当人们开始了解周围的其他人时,他们会意识到彼此并没有那么不同。无论他们的经济背景或教育背景如何,大多数人都会与彼此有一些共同点。他说,他的咖啡馆能够为顾客提供安全感和稳定性是很重要的。\nM: 那你觉得我们星期六的聚会应该定在什么时候？\nW: 邀请大家下午6点来怎么样？这样我们下午就有时间准备食物、饮料这些东西了。\nM: 是的,我也在想6点左右比较好。我们应该准备什么食物？\nW: 嗯,我本来想烤个蛋糕,还有一些饼干。现在我觉得我们应该准备一些三明治和零食,还有其他种类的食物,这样大家可以自己取用,而不是让所有人都坐在餐桌前吃正餐。我觉得那样有点太正式了。最好让大家随意走动聊天,或者坐在他们喜欢的地方。\nM: 好的,听起来不错。我去超市买些饮料。我想去镇子另一边那家新开的大超市看看他们有什么。我以前没去过那儿。我觉得我们应该买些啤酒和葡萄酒,还有一些果汁和其他软饮料。你觉得呢？\nW: 听起来很好。我觉得这些饮料就够了。而且我听说那家新超市为了吸引顾客有很大的折扣。所以去那里应该是个好主意。音乐方面我们怎么办？\nM: 也许我们应该让Paul带上他的电脑和音箱,这样我们就能放些音乐了。他收藏了很多不同类型的音乐。\nW: 好的。行。\nW: 我在考虑买辆车。我不需要每天都用，但我觉得周末有辆车会很方便。\nM: 那挺让人兴奋的。这会是你的第一辆车吗？\nW: 不是，实际上我在Miami住的时候拥有过一辆车，时间不长。你知道在美国，很多城市的公共交通都不太好。所以大多数人需要自己的车来出行。\nM: 我明白了。那你心里有想好要哪个具体型号吗？\nW: 没有，还没定。我听说德国车很可靠，但我还没决定具体型号。我还想要辆小点的，这样在城里开起来方便。\nM: 我有个朋友卖二手车。实际上，我觉得他家就是做这个生意的。他人特别好，而且很懂车。如果你愿意的话，我可以把他的电话号码给你，你可以打给他问问题。\nW: 嗯，你人挺好的，但我不想觉得有义务必须买他的车。\nM: 哦，不会的，他不是那样的人。他是我的好朋友，他绝不会试图向你施压或者骗你。\nW: 嗯，如果你信任他的话，那我想应该没问题。说实话，在决定什么类型的车最适合我的需求这方面，我确实需要一些帮助。跟专家聊聊会是个好主意。\nM: 没错。你完全不用担心。他人很好，会很乐意帮忙的。\n猪并非北美洲的原生物种。它们最早是在许多世纪前由西班牙和俄罗斯的探险者及定居者引入加利福尼亚的。在早期,猪被允许自由游荡觅食。这种做法也使许多猪从农场逃脱并在野外生活,这成为了一个问题。\n事实上,作为该大陆上破坏性最强的入侵物种之一,野猪每年造成数百万美元的作物损失。它们还携带数十种威胁人类和家畜的疾病。有野猪出没的林地被发现植物和动物多样性大幅减少。除了吃掉其他动物或它们的食物来源外,野猪还通过拱掘草地和摩擦树木破坏原生栖息地。它们的活动也可能为入侵植物在这些地区定殖创造机会。野猪几乎会吃任何含有热量的东西。老鼠、鹿、鸟类、蛇和青蛙都是它们的受害者。它们还可以通过间接竞争而非吃掉其他野生物种或减少其食物供应来伤害它们。在美国的一个特定岛屿上,野猪本身成为了一种大陆鹰的诱人食物来源。这些鹰开始在岛上繁殖,并且也以一种本地狐狸为食。这些狐狸几乎被完全消灭。\n一对创业者正计划建造并发射一艘航天器，用于在外太空中携带并烘焙咖啡豆。\n该航天器将利用再入大气层时产生的热量来烘焙咖啡豆,豆子会在一个加压舱内漂浮。这种方式能够全方位烘焙咖啡豆,制作出完美的咖啡。这两位商人表示,在地球上,咖啡豆在烘焙机中很容易破碎和烧焦。但如果去除重力,咖啡豆就会在加热的烤箱中四处漂浮,接受360度均匀分布的热量,烘焙至近乎完美的状态。\n航天器将到达约200公里的高度。随后咖啡豆将在航天器重返地球大气层的20分钟过程中,利用产生的热量进行烘焙。加压舱内的温度将保持在200℃左右。\n返回地球后,这些地球上首批太空烘焙的咖啡豆将被用来制作咖啡,并首次在Dubai销售。这正是这对创业者公司的所在地。目前尚不清楚他们会对一杯咖啡收取多少费用。\n令人惊讶的是,Space Roaster概念——如果能够实施的话——将不是首次尝试将咖啡带入太空。2015年,两家意大利公司合作建造了一种类似的航天器,那是首台为太空使用而设计的咖啡机。\n在寒冷多雪的阿拉斯加，有一个名叫Takotna的村庄。它的人口仅有49人。每年三月，这个小村庄的人数会激增，因为它位于一年一度举行的比赛路线中途。这是一场为期七天的比赛，名为Iditarod Trail，参赛者会在Takotna停留进行规定的24小时休息。对他们来说幸运的是，Takotna以其美味的水果派而闻名。\n在参赛者到来前几周，Takotna的居民就开始为这场毫无疑问是他们全年最盛大的活动做准备。全村人都参与帮忙，包括孩子们，他们因此在很小的时候就开始培养烘焙技能。筋疲力尽且饥肠辘辘的参赛者会受到各种美味派的款待，比如苹果派、橙子派、柠檬派或香蕉派。他们将这些派作为暖胃的比赛燃料来食用。比赛的艰苦程度使得参赛者几乎可以想吃什么就吃什么。卡路里越高越好。\n自20世纪70年代以来，Takotna因其以甜点为特色的热情好客而声名远扬。这一切始于一个人，Jan Newton。Jan和她的丈夫在1972年从Idaho搬来，并开了一家餐厅。她制作的香浓饱腹的水果派很快引起了参赛者的注意，村庄也因此获得了一些名气。自豪的居民随后开始称Jan为Takotna女王。"
+  }
+}

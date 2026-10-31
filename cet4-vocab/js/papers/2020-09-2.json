@@ -1,0 +1,670 @@
+{
+  "id": "2020-09-2",
+  "writing": "Directions: For this part, you are allowed 30 minutes to write an essay on the use of PowerPoint（PPT) in class. You can start your essay with the sentence “The use of PowerPoint is becoming increasingly popular in class.” You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What has caused the thick clouds in the photos taken by NASA satellite?",
+      "options": {
+        "A": "Ship traffic in the Atlantic.",
+        "B": "Warm currents in the ocean.",
+        "C": "Exhaust from cars in Europe.",
+        "D": "Particles emitted by power plants."
+      },
+      "stem_cn": "NASA卫星拍摄的照片中厚云层是什么原因造成的?",
+      "options_cn": {
+        "A": "大西洋的船舶交通。",
+        "B": "海洋中的暖流。",
+        "C": "欧洲汽车的尾气。",
+        "D": "发电厂排放的颗粒物。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What do NASA officials think about the thick clouds?",
+      "options": {
+        "A": "They need to be taken seriously.",
+        "B": "They have a huge effect on fishery.",
+        "C": "They might be causing trouble to air flights.",
+        "D": "They may be affecting the world's climate."
+      },
+      "stem_cn": "NASA官员如何看待这些厚云层?",
+      "options_cn": {
+        "A": "需要认真对待它们。",
+        "B": "它们对渔业有巨大影响。",
+        "C": "它们可能给航班造成麻烦。",
+        "D": "它们可能正在影响世界气候。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "For what purpose did the staff at a supermarket in Melbourne sign a letter?",
+      "options": {
+        "A": "To appeal for higher wages.",
+        "B": "To demand better health care.",
+        "C": "To call for a permanent security guard.",
+        "D": "To dismiss the bad-tempered supervisor."
+      },
+      "stem_cn": "墨尔本一家超市的员工签署联名信的目的是什么?",
+      "options_cn": {
+        "A": "呼吁提高工资。",
+        "B": "要求更好的医疗保健。",
+        "C": "呼吁配备常驻保安。",
+        "D": "解雇脾气暴躁的主管。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What did the spokesman of the supermarket say regarding the employees' demand?",
+      "options": {
+        "A": "It had already taken strong action.",
+        "B": "It would put customers' needs first.",
+        "C": "It would take their appeal seriously.",
+        "D": "It was seeking help from the police."
+      },
+      "stem_cn": "该超市的发言人对员工的要求说了什么?",
+      "options_cn": {
+        "A": "它已经采取了强有力的行动。",
+        "B": "它会把顾客的需求放在首位。",
+        "C": "它会认真对待他们的呼吁。",
+        "D": "它正在向警方寻求帮助。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What did drivers on the motorway to Warsaw find?",
+      "options": {
+        "A": "The road was flooded.",
+        "B": "The road was blocked.",
+        "C": "The road was frozen with snow.",
+        "D": "The road was covered with spilled gas."
+      },
+      "stem_cn": "在通往华沙的高速公路上，司机们发现了什么？",
+      "options_cn": {
+        "A": "道路被水淹了。",
+        "B": "道路被堵住了。",
+        "C": "道路被雪冻住了。",
+        "D": "道路被洒出的汽油覆盖了。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What does the report say about the accident?",
+      "options": {
+        "A": "A truck plunged into a pool of liquid chocolate.",
+        "B": "The heavy snow made driving very difficult.",
+        "C": "The truck driver dozed off while driving.",
+        "D": "A truck hit a barrier and overturned."
+      },
+      "stem_cn": "报道对这起事故是怎么说的？",
+      "options_cn": {
+        "A": "一辆卡车坠入了液态巧克力池中。",
+        "B": "大雪使得驾驶非常困难。",
+        "C": "卡车司机在驾驶时打瞌睡了。",
+        "D": "一辆卡车撞上护栏并侧翻了。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What did the firefighters' representative tell the local TV?",
+      "options": {
+        "A": "It was a long time before the cleanup was finished.",
+        "B": "It was a hard task to remove the spilled substance.",
+        "C": "It was fortunate that no passenger got injured.",
+        "D": "It was difficult to contact the manufacturer."
+      },
+      "stem_cn": "消防员代表对当地电视台说了什么？",
+      "options_cn": {
+        "A": "清理工作过了很长时间才完成。",
+        "B": "清除洒出的物质是一项艰巨的任务。",
+        "C": "幸运的是没有乘客受伤。",
+        "D": "联系制造商很困难。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "Why did the woman decide to go back to cash for payment?",
+      "options": {
+        "A": "She wanted to save for a new phone.",
+        "B": "She found it much safer to use cash.",
+        "C": "She could enjoy discount with cash.",
+        "D": "She had been cheated using phone apps."
+      },
+      "stem_cn": "这位女士为什么决定回归使用现金支付?",
+      "options_cn": {
+        "A": "她想为一部新手机存钱。",
+        "B": "她发现使用现金安全得多。",
+        "C": "她用现金可以享受折扣。",
+        "D": "她使用手机应用程序时被骗过。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What happens when people use apps for payment according to the woman?",
+      "options": {
+        "A": "They can save a lot more time and trouble.",
+        "B": "They find it less difficult to make purchases.",
+        "C": "They derive greater pleasure from buying things.",
+        "D": "They are less aware of the value of their money."
+      },
+      "stem_cn": "根据这位女士的说法,人们使用应用程序支付时会发生什么?",
+      "options_cn": {
+        "A": "他们可以节省大量时间和麻烦。",
+        "B": "他们发现购物不那么困难了。",
+        "C": "他们从购物中获得更大的乐趣。",
+        "D": "他们对自己金钱的价值不那么敏感。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What might the man tend to buy with payment apps?",
+      "options": {
+        "A": "More valuable items.",
+        "B": "More non-essential things.",
+        "C": "Everyday necessities.",
+        "D": "Electronic devices."
+      },
+      "stem_cn": "这位男士可能倾向于用支付应用程序购买什么?",
+      "options_cn": {
+        "A": "更有价值的物品。",
+        "B": "更多非必需品。",
+        "C": "日常必需品。",
+        "D": "电子设备。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the man think of electronic payment?",
+      "options": {
+        "A": "It can improve shopping efficiency.",
+        "B": "It is altering the way of shopping.",
+        "C": "It may lead to excessive spending.",
+        "D": "It appeals more to younger people."
+      },
+      "stem_cn": "这位男士如何看待电子支付?",
+      "options_cn": {
+        "A": "它可以提高购物效率。",
+        "B": "它正在改变购物方式。",
+        "C": "它可能导致过度消费。",
+        "D": "它对年轻人更有吸引力。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "Why did the man call the woman?",
+      "options": {
+        "A": "He wanted to order some wooden furniture.",
+        "B": "He had to change the furniture delivery time.",
+        "C": "He had a problem with the furniture delivered.",
+        "D": "He wanted the furniture store to give him a refund."
+      },
+      "stem_cn": "男士为什么给女士打电话?",
+      "options_cn": {
+        "A": "他想订购一些木制家具。",
+        "B": "他不得不更改家具配送时间。",
+        "C": "他对配送的家具有问题。",
+        "D": "他想让家具店给他退款。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What did the woman ask the man to do?",
+      "options": {
+        "A": "Send the furniture back to the store.",
+        "B": "Describe the furniture he received.",
+        "C": "Collect the furniture he ordered.",
+        "D": "Buy another brand of furniture."
+      },
+      "stem_cn": "女士要求男士做什么?",
+      "options_cn": {
+        "A": "把家具退回商店。",
+        "B": "描述他收到的家具。",
+        "C": "取他订购的家具。",
+        "D": "购买另一个品牌的家具。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What did the woman promise to do for the man?",
+      "options": {
+        "A": "Correct their mistake.",
+        "B": "Improve their service.",
+        "C": "Apologize to his wife.",
+        "D": "Give the money back."
+      },
+      "stem_cn": "女士承诺为男士做什么?",
+      "options_cn": {
+        "A": "纠正他们的错误。",
+        "B": "改进他们的服务。",
+        "C": "向他的妻子道歉。",
+        "D": "把钱退回。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What did the woman do at the end of the conversation?",
+      "options": {
+        "A": "She recommended a new style.",
+        "B": "She offered some gift to the man.",
+        "C": "She apologized to the man once more.",
+        "D": "She checked all the items with the man."
+      },
+      "stem_cn": "女士在对话结束时做了什么?",
+      "options_cn": {
+        "A": "她推荐了一种新款式。",
+        "B": "她给男士提供了一些礼品。",
+        "C": "她再次向男士道歉。",
+        "D": "她和男士核对了所有物品。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What is Marie Kondo's TV show about?",
+      "options": {
+        "A": "Reading books of wisdom.",
+        "B": "Tidying up one's home.",
+        "C": "Sharing with others.",
+        "D": "Donating to charity."
+      },
+      "stem_cn": "Marie Kondo 的电视节目是关于什么的?",
+      "options_cn": {
+        "A": "阅读智慧书籍。",
+        "B": "整理自己的家。",
+        "C": "与他人分享。",
+        "D": "捐赠给慈善机构。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What things can be kept in one's home according to Marie Kondo?",
+      "options": {
+        "A": "Things that make one happy.",
+        "B": "Things that are becoming rare.",
+        "C": "Things that occupy little space.",
+        "D": "Things that cost a lot of money."
+      },
+      "stem_cn": "根据 Marie Kondo 的说法,什么东西可以保留在家中?",
+      "options_cn": {
+        "A": "让人感到快乐的东西。",
+        "B": "正在变得稀有的东西。",
+        "C": "占用空间小的东西。",
+        "D": "花费很多钱的东西。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What do we learn about one used bookstore this January?",
+      "options": {
+        "A": "It joined the city's clean-up campaign.",
+        "B": "It sold as many as fifty boxes of books.",
+        "C": "It received an incredibly large number of donated books.",
+        "D": "It did little business because of the unusual cold weather."
+      },
+      "stem_cn": "关于今年一月的一家旧书店,我们了解到什么?",
+      "options_cn": {
+        "A": "它加入了该市的清理运动。",
+        "B": "它售出了多达五十箱书。",
+        "C": "它收到了数量极其庞大的捐赠书籍。",
+        "D": "由于异常寒冷的天气,它几乎没有生意。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What does Mike Hannon do to help people in his town?",
+      "options": {
+        "A": "Give free meals to the homeless.",
+        "B": "Provide shelter for the homeless.",
+        "C": "Help the vulnerable to cook lunches.",
+        "D": "Call for change in the local government."
+      },
+      "stem_cn": "Mike Hannon 做了什么来帮助他镇上的人们?",
+      "options_cn": {
+        "A": "为无家可归者提供免费餐食。",
+        "B": "为无家可归者提供庇护所。",
+        "C": "帮助弱势群体烹饪午餐。",
+        "D": "呼吁地方政府做出改变。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What does Mike hope others will do?",
+      "options": {
+        "A": "Strengthen co-operation.",
+        "B": "Promote understanding.",
+        "C": "Win national support.",
+        "D": "Following his example."
+      },
+      "stem_cn": "Mike 希望其他人做什么?",
+      "options_cn": {
+        "A": "加强合作。",
+        "B": "促进理解。",
+        "C": "赢得全国支持。",
+        "D": "效仿他的榜样。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "How are people all over the country responding to what Mike is doing?",
+      "options": {
+        "A": "Spreading news of his deeds.",
+        "B": "Writing him thank-you notes.",
+        "C": "Following the example he sets.",
+        "D": "Sending him hand-made bags."
+      },
+      "stem_cn": "全国各地的人们如何回应 Mike 所做的事情?",
+      "options_cn": {
+        "A": "传播他的事迹。",
+        "B": "给他写感谢信。",
+        "C": "效仿他树立的榜样。",
+        "D": "给他寄送手工制作的袋子。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What were the college students in both groups required to do in the study?",
+      "options": {
+        "A": "To solve word search puzzles.",
+        "B": "To send smartphone messages.",
+        "C": "To test their eyesight using a phone app.",
+        "D": "To install some audio equipment in a lab."
+      },
+      "stem_cn": "研究中要求两组大学生做什么?",
+      "options_cn": {
+        "A": "解字谜游戏。",
+        "B": "发送智能手机消息。",
+        "C": "使用手机应用程序测试他们的视力。",
+        "D": "在实验室安装一些音频设备。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What do we learn about many of the students in the second test group after the phone rang?",
+      "options": {
+        "A": "They could not go on until the ringing stopped.",
+        "B": "They could no longer concentrate on their task.",
+        "C": "They grabbed the phone and called back right away.",
+        "D": "They asked their experimenter to hang up the phone."
+      },
+      "stem_cn": "关于第二个测试组中的许多学生在手机响起后我们了解到什么?",
+      "options_cn": {
+        "A": "他们无法继续进行,直到铃声停止。",
+        "B": "他们无法再集中精力完成任务。",
+        "C": "他们立即抓起手机回拨。",
+        "D": "他们要求实验人员挂断电话。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "According to the passage, what is the most dramatic impact of smartphone use?",
+      "options": {
+        "A": "A rise in emotional problems.",
+        "B": "A decline in sports activities.",
+        "C": "A reduction in the amount of sleep.",
+        "D": "A decline in academic performance."
+      },
+      "stem_cn": "根据文章,智能手机使用最显著的影响是什么?",
+      "options_cn": {
+        "A": "情绪问题的增加。",
+        "B": "体育活动的减少。",
+        "C": "睡眠时间的减少。",
+        "D": "学业成绩的下降。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What does the speaker suggest people do?",
+      "options": {
+        "A": "Protect the eyesight of the younger generation.",
+        "B": "Take effective measures to raise productivity.",
+        "C": "Realize the disruptive effects of technology.",
+        "D": "Ensure they have sufficient sleep every day."
+      },
+      "stem_cn": "说话者建议人们做什么?",
+      "options_cn": {
+        "A": "保护年轻一代的视力。",
+        "B": "采取有效措施提高生产力。",
+        "C": "认识到技术的破坏性影响。",
+        "D": "确保他们每天有充足的睡眠。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "associated",
+    "B": "coincidence",
+    "C": "determined",
+    "D": "drastically",
+    "E": "enormous",
+    "F": "imitate",
+    "G": "indication",
+    "H": "integrate",
+    "I": "maximizes",
+    "J": "natural",
+    "K": "principal",
+    "L": "recognizable",
+    "M": "simply",
+    "N": "stressful",
+    "O": "symbolizes"
+  },
+  "cloze_passage": "It can be seen from the cheapest budget airlines to the world's largest carriers: Airlines across the globe 26 various shades of blue in their cabin seats, and it is no 27 . There does appear to be some psychology behind it. Blue is 28 with the positive qualities of trust, efficiency, quietness, coolness, reflection and calm.\nNigel Goode is a leading aviation designer who works at a company which has been delivering aircraft interiors for airlines for 30 years. \"Our job as designers is to reinforce the airline's brand and make it more 29 ,\" he says. \"But our primary concern is to deliver an interior that 30 comfort to create a pleasant environment.\"\n\"It's all about making the traveling experience less 31 and blue is said to induce a feeling of calm. While some of the budget airlines might use brighter, bolder shades, most others go with softened tones. The 32 aim is to create a home-like relaxing feel, so airlines tend to use soft colors that feel domestic, 33 and earthy for that reason.\"\nIt's also a trend that emerged decades ago and has 34 stuck. \"Blue became the color of choice because it's a conservative, agreeable, corporate shade that 35 being trustworthy and safe. That's why you see it used in all of the older airlines like British Airways,\" Nigel Goode added.",
+  "long_reading_passage": "A) I still remember my fourth-grade social studies project. Our class was studying the Gold Rush, something all California fourth-graders learned. I was excited because I had asked to research Chinese immigrants during that era. Growing up in the San Francisco Bay Area, I had always known that \"San Francisco\" translated to \"Gold Mountain\" in Chinese. The name had stuck ever since Chinese immigrants arrived on the shores of Northern California in the 1850s, eager to try their luck in the gold mines. Now I'd have the chance to learn about them.\nB) My excitement was short-lived. I remember heading to the library with my class and asking for help. I remember the librarian's hesitation. She finally led me past row after row of books, to a corner of the library where she pulled an oversized book off the shelf. She checked the index and turned over to a page about early Chinese immigrants in California. That was all there was in my entire school library in San Francisco, home of the nation's first Chinatown. That was it.\nC) I finally had the opportunity to learn about Asian Americans like myself, and how we became part of the fabric of the United States when I took an introductory class on Asian-American history in college. The class was a revelation. I realized how much had been missing in my textbooks as I grew up. My identity had been shaped by years of never reading, seeing, hearing, or learning about people who had a similar background as me. Why, I wondered, weren't the stories, histories, and contributions of Asian Americans taught in K-12 schools, especially in the elementary schools? Why are they still not taught?\nD) Our students—Asian, Latino, African American, Native American, and, yes, white—stand to gain from a multicultural curriculum. Students of color are more engaged and earn better grades when they see themselves in their studies. Research has also found that white students benefit by being challenged and exposed to new perspectives.\nE) For decades, activists have called for schools to offer anti-racism or multicultural curricula. Yet a traditional American K-12 curriculum continues to be taught from a Eurocentric point of view. Being multicultural often falls back on weaving children of color into photographs, or creating a few supporting characters that happen to be ethnic—an improvement, but superficial nonetheless. Elementary school classrooms celebrate cultural holidays—Lunar New Year! Red envelopes! Lion dancers!—but they're quick to gloss over(掩饰) the challenges and injustices that Asian Americans have faced. Most students don't, for example, learn about the laws that for years excluded Asians from immigrating to the U.S. They don't hear the narratives of how and why Southeast Asian refugees(难民) had to rebuild their lives here.\nF) Research into what students learn in school has found just how much is missing in their studies. In an analysis, Christine Sleeter, a professor in the College of Professional Studies at California State University, Monterey Bay, reviewed California's history and social studies framework, the curriculum determined by state educators that influences what is taught in K-12 classrooms. Of the nearly 100 Americans recommended to be studied, 77% were white, 18% were African American, 4% were Native American, and 1% were Latino. None were Asian American.\nG) Worse, when Asian Americans do make an appearance in lesson books, it is often laced with problems. \"There hasn't been much progress,\" says Nicholas Hartlep, an assistant professor at Metropolitan State University. His 2016 study of K-12 social studies textbooks and teacher manuals found that Asian Americans were poorly represented at best, and subjected to racist caricatures(拙劣的模仿) at worst. The wide diversity of Asian Americans was overlooked; there was very little mention of South Asians or Pacific Islanders, for example. And chances were, in the images, Asian Americans appeared in stereotypical(模式化的) roles, such as engineers.\nH) Teachers with a multicultural background or training could perhaps overcome such curriculum challenges, but they're few and far between. In California, 65% of K-12 teachers are white, compared with a student population that is 75% students of color. Nationwide, the gap is even greater. It isn't a requirement that teachers share the same racial or ethnic background as their students, but the imbalance poses challenges, from the potential for unconscious bias to a lack of knowledge or comfort in discussing race and culture.\nI) How race and ethnicity is taught is crucial, says Allyson Tintiangco-Cubales, an Asian-American studies professor at San Francisco State University. She added that it's not so much about the teacher's background, but about training. \"You can have a great curriculum but if you don't have teachers dedicated(专注于) to teaching it well,\" she says, \"it won't work as well as you want it to.\"\nJ) Some teachers are finding ways to expose students to Asian-American issues — if not during school hours, then outside of them. This summer, Wilson Wong will lead a class of rising fifth-graders at a day camp dedicated to Chinese culture and the Chinese-American community in Oakland, California. His students, for instance, will learn about how Chinese immigrants built the railroads in California, and even have a chance to \"experience\" it themselves: They will race each other to build a railroad model on the playground, with some students being forced to \"work\" longer and faster and at cheaper wages. Wong, a middle school teacher during the school year, hopes he's exposing the students to how Chinese Americans contributed to the U.S., something that he didn't get as a student growing up in the San Francisco Bay Area. \"I planted the seeds early,\" he says. \"That's what I'm hoping for.\"\nK) And, despite setbacks, the tide may finally be turning. California legislators passed a bill last year that will bring ethnic studies to all its public high schools. Some school districts, including San Francisco and Los Angeles, already offer ethnic studies at their high schools. High schools in Portland, Chicago, and elsewhere have either implemented or will soon introduce ethnic studies classes. And, as more high schools begin teaching it, the door could crack open for middle schools, and, perhaps inevitably, elementary schools, to incorporate a truly more multicultural curriculum. Doing so will send an important message to the nation's youngest citizens: Whatever your race or ethnicity, you matter. Your history matters. Your story matters.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "When was cleaning a crime? When you're doing it to create art, obviously. A number of street artists around the world have started expressing themselves through a practice known as reverse graffiti(涂鸦). They find dirty surfaces and paint them with images or messages using cleaning brushes or pressure hoses(高压水管). Either way, it's the same principle: the image is made by cleaning away the dirt. Each artist has their own individual style but all artists share a common aim: to draw attention to the pollution in our cities. The UK's Paul Curtis, better known as Moose, operates around Leeds and London and has been commissioned by a number of companies to make reverse graffiti advertisements.\nBrazilian artist, Alexandre Orion, turned one of Sao Paulo's transport tunnels into an amazing wall painting in 2006 by getting rid of the dirt. Made up of a series of white skulls(颅骨), the painting reminds drivers of the effect their pollution is having on the planet. \"Every motorist sits in the comfort of their car, but they don't give any consideration to the price their comfort has for the environment and consequently for themselves,\" says Orion.\nThe anti-pollution message of the reverse graffiti artists confuses city authorities since the main argument against graffiti is that it spoils the appearance of both types of property: public and private. This was what Leeds City Council said about Moose's work: \"Leeds residents want to live in clean and attractive neighbourhoods. We view this kind of advertising as environmental damage and will take strong action against it.\" Moose was ordered to \"clean up his act.\" How was he supposed to do this: by making all property he had cleaned dirty again?\nAs for the Brazilian artist's work, the authorities were annoyed but could find nothing to charge him with. They had no other option but to clean the tunnel—but only the parts Alexandre had already cleaned. The artist merely continued his campaign on the other side. The city officials then decided to take drastic action. They not only cleaned the whole tunnel but every tunnel in Sao Paulo.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "It uses paint to create anti-pollution images.",
+        "B": "It creates a lot of trouble for local residents.",
+        "C": "It causes lots of distraction to drivers.",
+        "D": "It turns dirty walls into artistic works."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Publicise their artistic pursuit.",
+        "B": "Beautify the city environment.",
+        "C": "Raise public awareness of environmental pollution.",
+        "D": "Express their dissatisfaction with local governments."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "He was good at painting white skulls.",
+        "B": "He chose tunnels to do his graffiti art.",
+        "C": "He suggested banning all polluting cars.",
+        "D": "He was fond of doing creative artworks."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "It is simply absurd.",
+        "B": "It is well-informed.",
+        "C": "It is rather unexpected.",
+        "D": "It is quite sensible."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "They made him clean all the tunnels in Sao Paulo.",
+        "B": "They took drastic action to ban all reverse graffiti.",
+        "C": "They charged him with polluting tunnels in the city.",
+        "D": "They made it impossible for him to practice his art."
+      }
+    }
+  ],
+  "reading_passage_2": "The practice of paying children an allowance became popular in America about 100 years ago. Nowadays, American kids on average receive about $800 per year in allowance. But the vast majority of American parents who pay allowance tie it to the completion of housework. Although many parents believe that paying an allowance for completing chores benefits their children, a range of experts expressed concern that tying allowance very closely to chores may not be ideal. In fact, the way chores work in many households worldwide points to another way.\nSuniya Luthar, a psychologist, is against paying kids for chores. Luthar is not opposed to giving allowances, but she thinks it's important to establish that chores are done not because they will lead to payment, but because they keep the household running. Luthar's suggested approach to allowance is compatible with that of writer Ron Lieber, who advises that allowances be used as a means of showing children how to save, give, and spend on things they care about. Kids should do chores, he writes, \"for the same reason adults do, because the chores need to be done, and not with the expectation of compensation.\"\nThis argument has its critics, but considering the way chores are undertaken around the world may change people's thinking. Professor David Lancy of Utah State University has studied how families around the world handle chores. At about 18 months of age, Lancy says, most children become eager to help their parents, and in many cultures, they begin helping with housework at that age. They begin with very simple tasks, but their responsibilities gradually increase. And they do these tasks without payment. Lancy contrasts this with what happens in America. \"We deny our children's bids to help until they are 6 or 7 years old,\" Lancy says, \"when many have lost the desire to help and then try to motivate them with payment. The solution to this problem is not to try to use money as an incentive to do housework, but to get children involved in housework much earlier, when they actually want to do it.\"",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "It may benefit children in more ways than one.",
+        "B": "It may help children learn the worth of labor.",
+        "C": "It may not turn out to be the best thing to do.",
+        "D": "It may not be accepted by low-income parents."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "share family responsibilities",
+        "B": "appreciate the value of work",
+        "C": "cultivate the spirit of independence",
+        "D": "manage domestic affairs themselves"
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "To help to strengthen family ties.",
+        "B": "To teach them how to manage money.",
+        "C": "To motivate them to do more housework.",
+        "D": "To show parents' appreciation of their help."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "They have a natural instinct to help around the house.",
+        "B": "They are too young to request money for what they do.",
+        "C": "They should learn to understand family responsibilities.",
+        "D": "They need a little incentive to get involved in housework."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Set a good example for children in doing housework.",
+        "B": "Make children do housework without compensation.",
+        "C": "Teach children how to do housework.",
+        "D": "Accept children's early bids to help."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2020年9月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 茶拥有5000年的历史。传说，神农氏(Shen Nong)喝开水时，几片野树叶子落进壶里开水顿时散发出宜人的香味。他喝了几口，觉得很提神。茶就这样发现了。自此，茶在中国开始流行。茶园遍布全国，茶商变得富有。昂贵、雅致的茶具成了地位的象征。今天，茶不仅是一种健康的饮品，而且是中国文化的一个组成部分。越来越多的国际游客一边品茶，一边了解中国文化。",
+  "answers": {
+    "1": "A",
+    "2": "D",
+    "3": "C",
+    "4": "A",
+    "5": "B",
+    "6": "D",
+    "7": "B",
+    "8": "A",
+    "9": "D",
+    "10": "B",
+    "11": "C",
+    "12": "C",
+    "13": "B",
+    "14": "A",
+    "15": "C",
+    "16": "B",
+    "17": "A",
+    "18": "C",
+    "19": "A",
+    "20": "D",
+    "21": "D",
+    "22": "A",
+    "23": "B",
+    "24": "C",
+    "25": "C",
+    "26": "H",
+    "27": "B",
+    "28": "A",
+    "29": "L",
+    "30": "I",
+    "31": "N",
+    "32": "K",
+    "33": "J",
+    "34": "M",
+    "35": "O",
+    "36": "E",
+    "37": "B",
+    "38": "J",
+    "39": "F",
+    "40": "H",
+    "41": "D",
+    "42": "K",
+    "43": "G",
+    "44": "C",
+    "45": "I",
+    "46": "D",
+    "47": "C",
+    "48": "B",
+    "49": "A",
+    "50": "D",
+    "51": "C",
+    "52": "A",
+    "53": "B",
+    "54": "A",
+    "55": "D"
+  },
+  "listening_script": {
+    "en": "A NASA satellite orbiting over Portugal took photographs that reveal the effects of pollution from ships. One of the photos shows a thin film of clouds above the brilliant blue of the North Atlantic, cut by white lines of thicker clouds that look like scars. NASA officials explained those thicker clouds are signs of ship traffic below. When ships power their way through the ocean, they pump exhaust into the atmosphere, just as cars do. And those massive amounts of particles can cause clouds to form. Get enough of those particles in one place, as from the exhaust of a ship, and they can lead to the creation of new clouds easily visible from space. \"These clouds can be huge. Some of them stretch hundreds of kilometres from end to end,\" NASA officials said. It's likely that these sorts of clouds are having some effect on the global climate, according to NASA officials. But scientists aren't yet sure what effect it has.\nStaff at a suburban supermarket in Melbourne say they feel unsafe at work after security guards were removed. This came after a series of physical attacks and verbal abuse by customers. More than 50 workers at the store have signed a letter calling for a permanent security guard following a series of incidents, including a customer threatening to attack a supervisor with a knife. A security worker had guarded the store each night from 7 p.m. until 12 a.m., but that had stopped suddenly on Monday, employees said. One worker said an angry customer had thrown a chicken at his head after complaining about how long she had waited to be served. Another worker said the lack of protection at the store made her feel uncomfortable at work. However, the spokesman of the supermarket said the store had taken strong action in response to incidents. \"We have found very few instances of bad customer behavior at our store in the past year. In the rare cases we have seen bad behavior, we have taken strong action in response, including banning a customer from the store.\"\nDrivers on their way to the Polish capital of Warsaw on Wednesday morning found the road blocked by an unusual obstacle: tons of liquid chocolate that spilled onto the motorway. A truck carrying the sweet load hit a road barrier and overturned, blocking two lanes. The cracked tank spilled a pool of rapidly-hardening chocolate, which quickly covered the width of the road. While the driver was taken to hospital with a broken arm, firefighters struggled to remove a reported twelve tons of solid chocolate from the road. A representative for the firefighters told the local TV that removing the chocolate was worse than dealing with snow. After contacting the chocolate manufacturer, the firefighters resorted to spraying hot, pressurized water to get rid of the sticky substance. The local TV also noted that the cleanup spanned more than a mile, because drivers simply drove through the chocolate after the crash, leaving a long chocolate trail. But despite the sticky situation, firefighters and police attending to the cleanup were reportedly cheerful about the long task ahead. After all, who could be mad about twelve tons of chocolate?\nM: Lisa, why did you pay for your meal with cash instead of the payment apps on your phone?\nW: Well, I've gone back to cash. I'm only using payment apps if that's the only option. I'm trying to save money for a new phone, and I find that using cash rather than payment apps helps me to save.\nM: But how? Money is money, isn't it? I don't think it matters whether you take it out to the bank and put it in your wallet or simply transfer from your bank account to the seller's bank account using an app.\nW: No, I believe it does matter. It's a psychological phenomenon. I believe we have less connection with the value of our money when we just tap the \"Approve\" buttons on our phones.\nM: You might have a point. Since I stopped carrying cash around and started using my phone apps to pay, I may have developed a tendency to buy more small or non-essential items.\nW: That's highly possible. Think about the amount of time we spend with our phones in our hands, and all the things we do with our phones. It sometimes seems that our phone is buying the product for us, not ourselves.\nM: So cashless payment affects our ability to budget?\nW: I believe so. If we spend a hundred yuan in cash, we realize that we don't have that hundred yuan to spend on something else. But if we're spending electronically, we are less likely to make that mental calculation.\nM: I stopped using my credit card because I found I was spending excessively. Perhaps I should take the same approach of paying using my phone.\nW: It's worth considering.\nW: Hello, Mr. Brown. I was expecting your call. My secretary told me you were having some problems with the wooden table. Is that right?\nM: No, no. The table is fine. The problem is the chairs.\nW: Oh, the chairs. So what exactly is the issue?\nM: Well, put simply, these are not the chairs my wife and I selected in your store last week. There must be some confusion with our order.\nW: Oh, I see. I'm looking through my files now, and I see that the delivery was this morning. Is that correct?\nM: Yes.\nW: Do you mind describing the chairs that were delivered to your apartment, Mr. Brown?\nM: Sure. These have a flat back with a rounded top and are very heavy. They are light brown and look kind of cheap. The ones we ordered were dark brown to match the table.\nW: Right, of course. It says here you purchased the Arlington table and four Milano chairs. As you said, there must have been some confusion with the order. I'm terribly sorry. We will send a van to collect those four and replace them with the Milano you purchased. Will tomorrow 9 a.m. be okay, Mr. Brown?\nM: Yes, that would be great. Thank you.\nW: Good. Did everything else you ordered from us arrive okay?\nM: Yes, I think so. Let me check. The mirror and two paintings are here. The two coffee tables are also here. And the sofa… Yes, we haven't noticed anything else wrong or missing. But if we do, we will certainly let you know.\nW: Okay, great. Once again, I'm sorry for the confusion and trouble caused.\nDo you have too much stuff? Are you, dare we say it \"untidy\"? Say hello to a TV show called \"Tidying Up with Marie Kondo\", a home improvement show based on her wildly popular book The Life-Changing Magic of Tidying Up. In the show, Marie Kondo acts as a tiny garbage fairy for messy people, visiting their houses to share the wisdom of the \"KonMari\" method. This method is simple in theory but can be endlessly complex in practice. You divide all the stuff in your house—all of it—into several categories, and then examine each item—all of them—to see if it sparks joy. If it does, you keep it. If it doesn't, you thank it and neatly discard it. So, is the TV show inspiring people to tidy up? Firsthand accounts seem to indicate a small wave of people bringing piles of donation bags to used goods stores. One store received thousands of bags of used possessions in one day. January is usually the stores' slow season for donations because it's cold and people don't want to bother, but not this January. People seemed determined to clean up their homes. One used bookstore received a month's worth of books in donations in a week when a man gave over fifty boxes of books from his home. It seems Marie's TV show is having a big impact after all.\nAt just 12 years old, Mike Hannon is making a difference in his community one lunch at a time. \"Mike's Lunches of Love\" has fed more than 2,000 of the town's most vulnerable residents. Mike delivers meals to the homeless. \"It's like a way to give people joy, maybe spark something in them that can change them,\" Mike told WBZ-TV. The mayor of Mike's town feels that Mike is a great community leader, especially in such times of so much negative news. While his father commented on how proud he was of his son, yet, Mike isn't looking for praise, but kindness in return. He hopes his acts of charity will influence others to spread positive actions in their own towns. Mike includes a handwritten message of joy on each bag. His message and star power have spread all over the country. To date, his online page to raise funds has brought in more than $44,000 and counting, raising more than $17,000 in just one day, with the help of many famous actors and others. People from all over the country are sending special handcrafted bags to help the young man with his mission to help those in need. Many are hoping the simple act of kindness spreads. Mike is seen as hope for the future of the town, the country and the world.\nIn a recent study carried out by psychologists on the disruptive effects of smartphones, two groups of college students were given word search puzzles. The first group was told to complete the puzzles with its participants' smartphones in their line of sight. The second group, however, was told that the phones would interfere with the equipment in the experiment, and would need to be moved away from the testing area. Midway through the second group's solving of the puzzles, the experimenter called one of the phones and let it ring for a while before hanging up. Many of the students in that group were unable to focus from then on, becoming anxious and performing more poorly than the first group.\nUse of electronics has also been known to lead to a decline in human interactions. Rather than having real-life conversations, many express emotions and engage in deep conversations through social media sites. Many students use their phones and computers during class for non-academic activities, which leads to poor grades. Perhaps the most dramatic impact is the reduction in the amount of sleep, which leads to poor health and weight gain.\nTechnology is a great tool; however, it's important to recognize its downsides. Lack of sleep, reduction of productivity and weight gain are only a few. If we're not careful about all these minor problems right now, the effect on the future generation is going to be much bigger.",
+    "cn": "NASA一颗在葡萄牙上空运行的卫星拍摄的照片揭示了船舶污染的影响。其中一张照片显示,在北大西洋耀眼的蓝色上方有一层薄薄的云,被看起来像伤疤的白色粗云线条切割开来。NASA官员解释说,那些较厚的云是下方船舶交通的迹象。当船舶在海洋中航行时,它们会像汽车一样向大气中排放废气。而那些大量的颗粒物会导致云的形成。当足够多的这些颗粒物聚集在一个地方,比如来自船舶的废气,它们就会导致新云层的形成,从太空中很容易看到。NASA官员说:'这些云可能非常巨大。其中一些从一端到另一端绵延数百公里。'据NASA官员称,这类云很可能对全球气候产生某种影响。但科学家们还不确定它会产生什么影响。\nMelbourne郊区一家超市的员工表示，在保安人员被撤走后，他们感到工作不安全。此前发生了一系列顾客对员工的肢体攻击和言语辱骂事件。该店超过50名员工签署了一封信函，要求配备常驻保安，此前发生了一系列事件,包括一名顾客威胁要用刀攻击一名主管。员工称，此前每晚7点到午夜12点都有一名保安值守，但这一安排在周一突然停止了。一名员工说，一位愤怒的顾客在抱怨等待服务时间过长后，向他头部扔了一只鸡。另一名员工表示，店内缺乏保护措施让她在工作时感到不安。然而，该超市的发言人表示，店方已对这些事件采取了强有力的应对措施。\"我们发现过去一年中本店极少出现顾客不当行为。在我们遇到的罕见不当行为案例中，我们都采取了强有力的应对措施，包括禁止某位顾客进入本店。\n周三上午，前往波兰首都华沙的司机们发现道路被一个不寻常的障碍物堵住了：数吨液体巧克力洒在了高速公路上。一辆装载着这些甜蜜货物的卡车撞上了道路护栏并侧翻,堵塞了两条车道。破裂的储罐溢出了一大片迅速凝固的巧克力,很快覆盖了整个路面宽度。司机因手臂骨折被送往医院,而消防员则艰难地清除路面上据报道有十二吨的固体巧克力。消防队的一名代表告诉当地电视台,清除巧克力比处理积雪还要困难。在联系了巧克力制造商后,消防员采取了喷洒热的高压水来清除这种黏性物质。当地电视台还指出,清理工作跨越了一英里多,因为事故发生后司机们直接开车穿过巧克力,留下了一条长长的巧克力痕迹。但尽管情况棘手,据报道参与清理工作的消防员和警察对眼前的漫长任务都很乐观。毕竟,谁会因为十二吨巧克力而生气呢?\nM: Lisa,你为什么用现金付餐费,而不是用手机上的支付应用?\nW: 嗯,我已经改回用现金了。只有在别无选择的情况下我才用支付应用。我想攒钱买个新手机,我发现用现金而不是支付应用能帮我省钱。\nM: 但怎么会呢?钱就是钱,不是吗?我觉得不管你是从银行取出来放进钱包,还是用应用从你的银行账户转到卖家的银行账户,都没什么区别。\nW: 不,我认为确实有区别。这是一种心理现象。我觉得当我们只是在手机上点\"确认\"按钮时,我们和钱的价值之间的联系就少了。\nM: 你说得有道理。自从我不再随身带现金,开始用手机应用支付以后,我可能养成了更多购买小件或非必需品的倾向。\nW: 很有可能。想想我们手里拿着手机的时间有多长,还有我们用手机做的所有事情。有时候感觉好像是我们的手机在买东西,而不是我们自己。\nM: 所以无现金支付影响我们做预算的能力?\nW: 我认为是的。如果我们花了一百元现金,我们会意识到我们没有那一百元去花在别的东西上了。但如果我们是电子支付,我们就不太可能做那种心理计算。\nM: 我不用信用卡了,因为我发现我花得太多。也许我应该对手机支付采取同样的做法。\nW: 值得考虑。\nW: 您好，Brown先生。我一直在等您的电话。我的秘书告诉我您那张木桌子出了些问题。是这样吗？\nM: 不不不。桌子没问题。问题出在椅子上。\nW: 哦，椅子。那具体是什么问题呢？\nM: 嗯，简单来说，这些椅子不是我和我妻子上周在你们店里选的那些。我们的订单肯定搞混了。\nW: 哦，我明白了。我现在正在查我的文件，我看到送货是今天早上。对吗？\nM: 是的。\nW: Brown先生，您介意描述一下送到您公寓的那些椅子吗？\nM: 当然可以。这些椅子是平背的，顶部是圆的，而且非常重。它们是浅棕色的，看起来有点廉价。我们订的那些是深棕色的，要和桌子配套。\nW: 好的，当然。这里显示您购买的是Arlington桌子和四把Milano椅子。正如您所说，订单肯定搞混了。非常抱歉。我们会派车去收回那四把椅子，换成您购买的Milano椅子。明天早上9点可以吗，Brown先生？\nM: 可以，那太好了。谢谢您。\nW: 好的。您从我们这订的其他东西都到齐了吗？\nM: 是的，我想是的。让我检查一下。镜子和两幅画在这儿。两张茶几也在这儿。还有沙发……是的，我们没注意到有其他东西不对或缺失。但如果有的话，我们一定会告诉您。\nW: 好的，太好了。再次为造成的混乱和麻烦向您道歉。\n你是否拥有太多东西？你是否，容我直言，\"不整洁\"？来认识一下一档名为《跟着Marie Kondo学整理》的电视节目，这是一档基于她极受欢迎的书籍《怦然心动的人生整理魔法》的家居改造节目。在节目中，Marie Kondo扮演着凌乱之人的小小垃圾仙子，造访他们的房屋以分享\"KonMari\"方法的智慧。这个方法在理论上很简单,但在实践中可能无限复杂。你要把家里的所有东西——所有东西——分成几个类别,然后检查每一件物品——每一件——看它是否能激发喜悦。如果能,你就保留它。如果不能,你就感谢它并整齐地丢弃它。那么,这档电视节目是否激励人们去整理呢?第一手资料似乎表明出现了一小波人们将成堆的捐赠袋带到二手商店的浪潮。一家商店在一天内收到了数千袋二手物品。一月通常是这些商店捐赠的淡季,因为天气寒冷,人们不想费事,但今年一月不同。人们似乎下定决心清理他们的家。一家二手书店在一周内收到了相当于一个月的捐赠书籍,当时一名男子从家里捐出了五十多箱书。看来Marie的电视节目毕竟产生了巨大影响。\n年仅12岁的Mike Hannon正在通过一份份午餐为他的社区带来改变。\"Mike的爱心午餐\"已经为镇上2000多名最脆弱的居民提供了食物。Mike为无家可归者送餐。\"这就像是给人们带来快乐的一种方式，也许能在他们心中点燃某种可以改变他们的东西，\"Mike告诉WBZ-TV。Mike所在镇的镇长认为Mike是一位优秀的社区领袖，尤其是在充斥着如此多负面新闻的时期。他的父亲评论说他为儿子感到多么自豪，然而Mike并不是在寻求赞扬，而是希望得到善意的回报。他希望自己的慈善行为能影响其他人在他们自己的城镇传播积极的行动。Mike在每个袋子上都附有一条手写的快乐留言。他的留言和明星影响力已经传遍全国。迄今为止，他的在线筹款页面已经筹集了超过44000美元并且还在增加，仅一天就筹集了超过17000美元，这得益于许多著名演员和其他人的帮助。来自全国各地的人们正在寄送特制的手工袋子，以帮助这位年轻人完成帮助需要帮助的人的使命。许多人希望这种简单的善举能够传播开来。Mike被视为该镇、该国和世界未来的希望。\n在心理学家最近开展的一项关于智能手机干扰效应的研究中,两组大学生被要求完成单词搜索谜题。第一组被告知在参与者视线范围内有智能手机的情况下完成谜题。然而,第二组被告知手机会干扰实验设备,需要移到测试区域之外。在第二组解谜题进行到一半时,实验人员拨打了其中一部手机,让它响了一会儿后才挂断。该组中许多学生从那时起无法集中注意力,变得焦虑,表现也比第一组差。\n电子产品的使用也被认为会导致人际互动的减少。许多人不是进行现实生活中的对话,而是通过社交媒体网站表达情感和进行深入交流。许多学生在课堂上将手机和电脑用于非学术活动,这导致成绩不佳。也许最显著的影响是睡眠时间的减少,这会导致健康状况不佳和体重增加。\n技术是一个伟大的工具;然而,认识到它的缺点很重要。睡眠不足、生产力下降和体重增加只是其中几个问题。如果我们现在不注意所有这些小问题,对未来一代的影响将会大得多。"
+  }
+}

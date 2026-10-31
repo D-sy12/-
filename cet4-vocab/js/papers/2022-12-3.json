@@ -1,0 +1,670 @@
+{
+  "id": "2022-12-3",
+  "writing": "Directions: In this task, you are to write an essay on the necessity of developing social skills for college students. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What event will take place in Glasgow?",
+      "options": {
+        "A": "A free car show.",
+        "B": "A yearly concert.",
+        "C": "A sports competition.",
+        "D": "A pipe band contest."
+      },
+      "stem_cn": "什么活动将在格拉斯哥举行?",
+      "options_cn": {
+        "A": "一场免费车展。",
+        "B": "一场年度音乐会。",
+        "C": "一场体育比赛。",
+        "D": "一场风笛乐队比赛。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What does Glasgow City Council say the event will do?",
+      "options": {
+        "A": "Improve the image of Glasgow city.",
+        "B": "Enrich the local culture of Glasgow.",
+        "C": "Contribute a lot to the local economy.",
+        "D": "Entertain people in local communities."
+      },
+      "stem_cn": "格拉斯哥市议会说这个活动将会做什么?",
+      "options_cn": {
+        "A": "改善格拉斯哥市的形象。",
+        "B": "丰富格拉斯哥的当地文化。",
+        "C": "为当地经济做出很大贡献。",
+        "D": "娱乐当地社区的人们。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What is scientists' warning in the news report?",
+      "options": {
+        "A": "Surprising rise in global sea levels.",
+        "B": "Dangerous ice melts in Greenland.",
+        "C": "Changing weather patterns in summer.",
+        "D": "Record growth of Greenland's ice sheets."
+      },
+      "stem_cn": "新闻报道中科学家们发出了什么警告?",
+      "options_cn": {
+        "A": "全球海平面出人意料地上升。",
+        "B": "格陵兰岛危险的冰层融化。",
+        "C": "夏季天气模式的变化。",
+        "D": "格陵兰岛冰盖创纪录的增长。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What do we learn about this year's ice melting?",
+      "options": {
+        "A": "It began in late May.",
+        "B": "It lasted three months.",
+        "C": "It started a month earlier than usual.",
+        "D": "It ended a month earlier than before."
+      },
+      "stem_cn": "关于今年的冰层融化我们了解到什么?",
+      "options_cn": {
+        "A": "它始于五月下旬。",
+        "B": "它持续了三个月。",
+        "C": "它比往常提前一个月开始。",
+        "D": "它比以前提前一个月结束。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What happened on the streets of Blackhall Colliery?",
+      "options": {
+        "A": "Bundles of £20 notes kept turning up.",
+        "B": "A villager was searching for his lost cash.",
+        "C": "Local policemen came across bundles of £20 notes.",
+        "D": "A bundle containing thousands of pounds got stolen."
+      },
+      "stem_cn": "Blackhall Colliery 的街道上发生了什么？",
+      "options_cn": {
+        "A": "成捆的20英镑纸币不断出现。",
+        "B": "一位村民正在寻找他丢失的现金。",
+        "C": "当地警察偶然发现了成捆的20英镑纸币。",
+        "D": "一捆装有数千英镑的现金被盗。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What do the local police do with the money if not claimed in two weeks?",
+      "options": {
+        "A": "They give it to charity.",
+        "B": "They return it to the finder.",
+        "C": "They hand it over to the local government.",
+        "D": "They place a notice in The Northern Echo."
+      },
+      "stem_cn": "如果两周内无人认领，当地警方会如何处理这笔钱？",
+      "options_cn": {
+        "A": "他们将其捐给慈善机构。",
+        "B": "他们将其归还给拾得者。",
+        "C": "他们将其移交给当地政府。",
+        "D": "他们在 The Northern Echo 上刊登启事。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What did the policeman John Forster say about the villagers?",
+      "options": {
+        "A": "They cooperated well with the police.",
+        "B": "They enjoyed a fairly affluent life.",
+        "C": "They were puzzled by the mystery.",
+        "D": "They had a strong community spirit."
+      },
+      "stem_cn": "警察 John Forster 对村民们说了什么？",
+      "options_cn": {
+        "A": "他们与警方配合良好。",
+        "B": "他们过着相当富裕的生活。",
+        "C": "他们对这个谜团感到困惑。",
+        "D": "他们有很强的社区精神。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "How does the man often feel on his birthday?",
+      "options": {
+        "A": "Excited.",
+        "B": "Delighted.",
+        "C": "Indifferent.",
+        "D": "Strange."
+      },
+      "stem_cn": "这位男士在生日时常常有什么感觉?",
+      "options_cn": {
+        "A": "兴奋的。",
+        "B": "高兴的。",
+        "C": "无所谓的。",
+        "D": "奇怪的。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What does the woman say many people tend to do on their birthday?",
+      "options": {
+        "A": "Search for the meaning of their life.",
+        "B": "Look back on their years at school.",
+        "C": "Call on their relatives and friends.",
+        "D": "Talk about future plans with friends."
+      },
+      "stem_cn": "这位女士说许多人在生日时往往会做什么?",
+      "options_cn": {
+        "A": "寻找他们人生的意义。",
+        "B": "回顾他们在校的岁月。",
+        "C": "拜访他们的亲戚和朋友。",
+        "D": "与朋友谈论未来的计划。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What does the man say about birthday celebrations?",
+      "options": {
+        "A": "He prefers to have them shown on social media.",
+        "B": "He loves them but does not want to make a fuss.",
+        "C": "He enjoys celebrating others' birthdays rather than his own.",
+        "D": "He looks forward to receiving presents from his close friends."
+      },
+      "stem_cn": "这位男士对生日庆祝有什么看法?",
+      "options_cn": {
+        "A": "他更喜欢把它们展示在社交媒体上。",
+        "B": "他喜欢生日庆祝但不想大张旗鼓。",
+        "C": "他喜欢庆祝别人的生日而不是自己的。",
+        "D": "他期待收到亲密朋友送的礼物。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the woman suggest the man do about his birthday celebration at the end of the conversation?",
+      "options": {
+        "A": "Hold it on a modest scale to remove birthday anxieties.",
+        "B": "View it as a chance for people to socialize and have fun.",
+        "C": "Extend invitation to those he trusts most.",
+        "D": "Make it an occasion to collect donations."
+      },
+      "stem_cn": "在对话结束时,这位女士建议这位男士如何处理他的生日庆祝?",
+      "options_cn": {
+        "A": "以适度的规模举办以消除生日焦虑。",
+        "B": "把它看作人们社交和娱乐的机会。",
+        "C": "向他最信任的人发出邀请。",
+        "D": "把它作为募集捐款的场合。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What does the woman say about her subway ride?",
+      "options": {
+        "A": "It was absolutely exhausting.",
+        "B": "There was a terrible smell.",
+        "C": "There was too long a delay.",
+        "D": "She got off at the wrong station."
+      },
+      "stem_cn": "女士对她乘坐地铁的经历有何评价?",
+      "options_cn": {
+        "A": "绝对令人精疲力竭。",
+        "B": "有一股难闻的气味。",
+        "C": "延误时间太长了。",
+        "D": "她在错误的站下车了。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "Why hasn't the woman got her own car?",
+      "options": {
+        "A": "She hasn't saved enough money.",
+        "B": "She is worried about traffic jams.",
+        "C": "She hasn't passed the driving test yet.",
+        "D": "She is used to taking public transport."
+      },
+      "stem_cn": "女士为什么没有自己的汽车?",
+      "options_cn": {
+        "A": "她还没有攒够钱。",
+        "B": "她担心交通堵塞。",
+        "C": "她还没有通过驾驶考试。",
+        "D": "她习惯了乘坐公共交通工具。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What does the woman say about electric motorbikes?",
+      "options": {
+        "A": "They are popular.",
+        "B": "They are dangerous.",
+        "C": "They are a bit expensive for her.",
+        "D": "They are environmentally friendly."
+      },
+      "stem_cn": "女士对电动摩托车有何评价?",
+      "options_cn": {
+        "A": "它们很受欢迎。",
+        "B": "它们很危险。",
+        "C": "对她来说它们有点贵。",
+        "D": "它们环保。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "How was the woman going to get to work?",
+      "options": {
+        "A": "By bus.",
+        "B": "By jogging.",
+        "C": "By renting a bike.",
+        "D": "By sharing a ride."
+      },
+      "stem_cn": "女士打算如何去上班?",
+      "options_cn": {
+        "A": "乘公交车。",
+        "B": "慢跑。",
+        "C": "租一辆自行车。",
+        "D": "拼车。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What do we learn about Steve Miller?",
+      "options": {
+        "A": "He is a sign language interpreter.",
+        "B": "He is a deaf person working in IT.",
+        "C": "He doesn't like speaking at meetings.",
+        "D": "He doesn't use email or text messages."
+      },
+      "stem_cn": "关于Steve Miller我们了解到什么?",
+      "options_cn": {
+        "A": "他是一名手语翻译员。",
+        "B": "他是一名在IT行业工作的聋人。",
+        "C": "他不喜欢在会议上发言。",
+        "D": "他不使用电子邮件或短信。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does Miller say is making things better for people like him?",
+      "options": {
+        "A": "Improved communication skills.",
+        "B": "Speech recognition technology.",
+        "C": "Big advances in sign language.",
+        "D": "Transformation in the IT industry."
+      },
+      "stem_cn": "Miller说什么正在改善像他这样的人的处境?",
+      "options_cn": {
+        "A": "沟通技能的提升。",
+        "B": "语音识别技术。",
+        "C": "手语的巨大进步。",
+        "D": "IT行业的变革。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "In what way can Miller benefit from attending meetings via video?",
+      "options": {
+        "A": "He can avoid being mistaken.",
+        "B": "He can take notes on the spot.",
+        "C": "He can understand with ease.",
+        "D": "He can see the speakers' images."
+      },
+      "stem_cn": "Miller通过视频参加会议能在哪方面受益?",
+      "options_cn": {
+        "A": "他可以避免被误解。",
+        "B": "他可以当场做笔记。",
+        "C": "他可以轻松理解。",
+        "D": "他可以看到发言者的影像。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What do people want upon returning home according to the passage?",
+      "options": {
+        "A": "To find pure white walls shining.",
+        "B": "To enter a house well looked after.",
+        "C": "To get a hug from family members.",
+        "D": "To see cheerful colours all around."
+      },
+      "stem_cn": "根据文章,人们回到家后想要什么?",
+      "options_cn": {
+        "A": "发现纯白色的墙壁闪闪发光。",
+        "B": "进入一个照料良好的房子。",
+        "C": "得到家人的拥抱。",
+        "D": "看到周围都是令人愉快的色彩。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What does the passage say people should avoid doing in home decoration?",
+      "options": {
+        "A": "Choosing a colour because it is fashionable.",
+        "B": "Painting the interior of their cupboards.",
+        "C": "Doing the painting job all by themselves.",
+        "D": "Designing all window frames the same way."
+      },
+      "stem_cn": "文章说人们在家居装饰中应该避免做什么?",
+      "options_cn": {
+        "A": "因为流行而选择一种颜色。",
+        "B": "粉刷橱柜的内部。",
+        "C": "自己完成所有粉刷工作。",
+        "D": "把所有窗框设计成同样的样式。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What can one do to make a room look bigger?",
+      "options": {
+        "A": "Fit most of the cupboards into walls.",
+        "B": "Hang landscape paintings all around.",
+        "C": "Match the room's ceiling with all the furniture in colour.",
+        "D": "Paint the wooden frameworks and walls the same colour."
+      },
+      "stem_cn": "怎样做可以让房间看起来更大?",
+      "options_cn": {
+        "A": "把大部分橱柜嵌入墙内。",
+        "B": "在四周悬挂风景画。",
+        "C": "使房间的天花板与所有家具颜色相配。",
+        "D": "把木制框架和墙壁刷成同一颜色。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What does the passage say parents increasingly understand?",
+      "options": {
+        "A": "Children must read at least 3 times a week.",
+        "B": "Reading is a habit every child can develop.",
+        "C": "Reading to their children is important.",
+        "D": "Children should start reading at age 3."
+      },
+      "stem_cn": "文章指出父母越来越理解什么?",
+      "options_cn": {
+        "A": "孩子必须每周至少阅读3次。",
+        "B": "阅读是每个孩子都能养成的习惯。",
+        "C": "给孩子读书很重要。",
+        "D": "孩子应该在3岁开始阅读。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What can predict children's reading skills according to recent research?",
+      "options": {
+        "A": "The number of books they have read by age four.",
+        "B": "The speed of their brain development in infancy.",
+        "C": "The number and quality of books parents read to them in infancy.",
+        "D": "The quality and quantity of time parents spend playing with them."
+      },
+      "stem_cn": "根据近期研究,什么可以预测孩子的阅读能力?",
+      "options_cn": {
+        "A": "他们在四岁前读过的书籍数量。",
+        "B": "他们婴儿期大脑发育的速度。",
+        "C": "父母在婴儿期给他们读的书籍的数量和质量。",
+        "D": "父母与他们玩耍所花费时间的质量和数量。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What kind of books are said to help babies learn more?",
+      "options": {
+        "A": "Books with specifically labeled images.",
+        "B": "Books with pictures of dolls and toys.",
+        "C": "Books describing the lives of animals.",
+        "D": "Books telling very interesting stories."
+      },
+      "stem_cn": "什么样的书据说能帮助婴儿学到更多?",
+      "options_cn": {
+        "A": "带有明确标注图像的书。",
+        "B": "带有玩偶和玩具图片的书。",
+        "C": "描述动物生活的书。",
+        "D": "讲述非常有趣故事的书。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What are parents advised to do at the end of the passage?",
+      "options": {
+        "A": "Read as many books as possible to their children.",
+        "B": "Choose carefully what to read to their children.",
+        "C": "Share experience with other parents.",
+        "D": "Create picture books for their children."
+      },
+      "stem_cn": "文章结尾建议父母做什么?",
+      "options_cn": {
+        "A": "尽可能多地给孩子读书。",
+        "B": "仔细选择给孩子读什么。",
+        "C": "与其他父母分享经验。",
+        "D": "为孩子创作图画书。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "absorbed",
+    "B": "addicted",
+    "C": "behavior",
+    "D": "constantly",
+    "E": "context",
+    "F": "exercise",
+    "G": "inseparable",
+    "H": "nationally",
+    "I": "recruited",
+    "J": "shape",
+    "K": "solution",
+    "L": "specific",
+    "M": "summary",
+    "N": "usage",
+    "O": "vaguely"
+  },
+  "cloze_passage": "Phones influence all aspects of teenage life. Ninety-five percent of Americans ages 13 to 17 have a smartphone or have access to one, and nearly half report using the internet \"almost 26 .\"\nBut as recent survey data and interviews have suggested, many teens find much of that time to be unsatisfyingly spent. Continuous 27 shouldn't be mistaken for endless enjoyment. A new 28 representative survey about \"screen time and device distractions\" from the Pew Research Center indicates that it's not just parents who think teenagers are worryingly 29 from their phones—many teens themselves do too. Fifty-four percent of the 13- to 17-year-olds surveyed said they spend too much time 30 in their phones.\nVicky Rideout, who runs a research firm that studies children's interactions with media and technology, was not surprised by this finding. She says it's hardly 31 to teenagers. \"They are dealing with the same challenges that adults are, as far as they are living in the 32 of a tech environment designed to suck as much of their time onto their devices as possible,\" Rideout says.\nThe way parents interact with technology can 33 the way they interact with their kids. Rideout thus thinks it's up to parents to model good 34 : Kids tend to take note if their parents put their phone away at dinner or charge it in another room while they sleep. Witnessing habits like that can help kids \"realize that they can 35 some more control over their devices,\" she says.",
+  "long_reading_passage": "A) A few years ago I found myself teaching a university class on evil. It was for third-year criminology students to help them contextualize theory and research within controversial current topics. It was a huge success. The debates were heated and interesting. I could see people's views change within the course of a single lecture. Over the past 13 years, as a student, lecturer and researcher, I've enjoyed discussing the science of evil with anyone willing to listen. What I like most is destroying the cliche(陈词滥调) of good and evil, and replacing them with scientific insight. We need a more informed way of discussing behavior that at first we cannot, or should not, begin to understand.\nB) Without understanding, we risk dehumanizing others, writing off human beings simply because we don't comprehend them. We must try to understand what we have labeled evil. We tend to think evil is something that other people are. We think of ourselves as \"good people\", and even when we do morally wrong things, we understand the context of our decisions. With others, however, it is far easier to write them off. If their actions deviate(偏离) substantially from what we consider acceptable, we may label them evil. We need to be careful with this. Calling someone evil is often similar to saying they cannot change, and perhaps aren't even a human at all. However, when you actually go monster-hunting, and you look deeply at the people behind shocking behavior, you may be surprised.\nC) As a child I used to love the Scooby-Doo cartoons. Arriving in their \"Mystery Machine\", the gang would have to find a monster who was terrorizing a neighborhood. They would run around looking for clues and at the end unmask the bad guy. It was always a normal person in a costume. There were no monsters. Like the Scooby crew, we may find ourselves hunting for an easy fix, one word for people who do bad things. But if we take a good look, the word \"evil\" is insufficient—there are no simple explanations for why humans do bad things: instead there are many, and they are all marvelously different.\nD) Evil is typically referred to when there is deviance from social norms: formal deviance is the violation of laws, like theft, murder, and attacks, while informal deviance involves violations of social norms, like lying. Evil behavior is typically thought to embrace one or both forms. However, deviance can also describe a behavior that simply differs from the norm.\nE) Perhaps this is where we can find the good side of our bad side. Deviating from the norm can make us villains(恶棍), but it can also make us heroes. A child deviates from social pressures when they stand up for another child being bullied in school. A soldier deviates when they choose not to follow orders to kill an innocent civilian. An employee in a big tech company deviates when they expose its wrongdoings.\nF) Creativity is also a deviation. Here, too, things are complex. Thinking creatively has given us modern medicine, technology and modern political structures, but it has also given us poison and nuclear weapons. Great benefit and great harm can come from the same human tendency.\nG) In a research paper, Evil Genius, published in 2014, the behavioral scientists Francesca Gino and Scott Wiltermuth wanted to examine whether people who behave unethically in one task are more creative than others on a subsequent task, even after controlling for differences in baseline creative skills. The unethical behavior they chose was dishonesty.\nH) Over five experiments, researchers gave participants tasks in which they could cheat. In one study, they were given matrices(矩阵) and had to find two numbers that added up to 10. Participants were asked to self-report how well they did at the end of the study: 59% cheated by saying that they solved more matrices than they actually had.\nI) After each task, the researchers measured participants' performance on the Remote Associates Test. This shows participants three words at a time that appear to be unrelated, and the person has to think of a fourth word that is associated with all of them. For example, you might get \"Fox, Man, Peep\", or \"Dust, Cereal, Fish\". In order to find the linking words (\"Hole\" for the first, \"Bowl\" for the second) you need to be creative. The more you get right, the more creative you are thought to be because you have come up with uncommon associations.\nJ) For every one of the five studies, they found the same thing—participants who cheated in the first task did better on the creativity task. Why? Like other forms of unethical behavior, lying means breaking rules. It involves being deviant, going against the social principle that people should tell the truth. Similarly, being creative involves \"thinking outside the box\", deviating from expectations. They involve similar thought patterns, so stimulating one stimulates the other. Can we learn from this? Perhaps. To be more creative, we could try lying in a controlled environment. Find online logic games and cheat at them, play Scrabble(拼字游戏) with a dictionary, or write a story about something that is untrue? Such tasks can get our brains thinking flexibly, beyond our normal comfort zone. This is not a call to become a compulsive(强迫性的) liar, but a controlled liar.\nK) In addition to benefits for creativity, deviance can be a good thing in other ways. Even Philip Zimbardo, the author of the Stanford prison experiment, who showed how easily we can be led to behave badly, believes that the future of deviance research may lie more in understanding extreme pro-social behavior, such as heroism. Like evil, we often view heroism as only a possibility for outliers—for people who are abnormal. But Zimbardo asks: \"What if the capability to act heroically is also fundamentally ordinary and available to all of us?\" Some say we should never meet our heroes, lest they disappoint us when we find out how normal they are. But this should be liberating, not disappointing. We are all capable of behaving like outliers. It's time for us to understand deviance, and realize its potential for good as well as for harm.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "Even though we are living in an age where growing old is thought of as an inevitable misery, this doctor has been changing the game for seniors over the last 25 years.\nIt all started in 1991 when the Harvard-educated physician was transferred from working in a stressful emergency room to being the medical director of a nursing home in upstate New York. The depressing and regimented(严格管制的) environment got him thinking on what exactly could improve the residents' conditions.\nEven though animals in nursing homes were illegal at the time, Dr. Bill Thomas took a chance. Based on a hunch(直觉), he brought in two dogs, four cats, hens, rabbits, 100 birds, a multitude of plants, a flower garden, and a vegetable patch.\nThe change was dramatic. There was a 50% drop in medical prescriptions along with a dramatic decrease in death rates—but most importantly, the residents were simply happier.\nDr. Thomas's approach, named the Eden Alternative, has driven nursing homes to allow a more autonomous(自主的) and creative living space for their elderly. It erases the belief that growing old means growing useless. He encourages residents to think of their age as an enriching new phase of life rather than the end of it.\nThomas, now a speaker and author of several books, also created small, independently-run residences with their own bedrooms and bathrooms, and he has been preaching a singular message that getting old is not a bad thing.\n\"Within six weeks, they had to send a truck around to pick up all the wheelchairs,\" Thomas told the Washington Post. \"You know why most people in nursing homes use wheelchairs? Because the buildings are so big.\"\nThe 56-year-old doctor's methods have been adopted in Australia, Japan, Canada, and America with enormous success. Last year he published Second Wind: Navigating the Passage to a Slower, Deeper, and More Connected Life, a guide on how to shift our perspectives on aging and growth.\nHe is currently traveling through North America performing with his guitar and his enthusiasm on his Age of Disruption Tour.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "Transforming people's lifestyle.",
+        "B": "Honoring his Harvard education.",
+        "C": "Changing people's philosophy of life.",
+        "D": "Shifting people's perspective on aging."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "He wanted to make it more pleasant for seniors.",
+        "B": "He wanted to apply his Harvard training to practice.",
+        "C": "He felt it his duty to revolutionize its management.",
+        "D": "He felt disappointed working in the environment."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "He made a mess of the nursing home.",
+        "B": "He did something all professionals would do.",
+        "C": "He won instant support from the state authorities.",
+        "D": "He acted in violation of the state law."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "Good health is not just a privilege of the young.",
+        "B": "Nursing homes should be strictly limited in size.",
+        "C": "Getting old is by no means something miserable.",
+        "D": "Residences for seniors should be run independently."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "It is gaining ground in many countries.",
+        "B": "It is being heatedly debated worldwide.",
+        "C": "It is considered revolutionary everywhere.",
+        "D": "It is winning approval from the government."
+      }
+    }
+  ],
+  "reading_passage_2": "Research shows that in developed countries, more affluent and educated people tend to consume higher-quality diets—including more fruits and vegetables, fish and whole grains. On the contrary, economically disadvantaged people report diets that are nutrient-poor and energy-dense. They are less likely to have food-purchasing habits that conform to public health recommendations.\nThese dietary differences are often accompanied by higher rates of obesity and diabetes among lower-income people. This relationship between social class and diet quality and health is extensively documented. However, the research does not explain why this is the case—a question that has significant implications for designing effective policies and initiatives to improve diets and prevent chronic diseases.\nPublic-health initiatives to promote healthy diets often focus on providing nutrition education and recipes(食谱). These approaches, however, often presume less food literacy (i.e., food knowledge and skills) among low-income people. Are unhealthy diets really the result of poor choices, limited food skills and knowledge?\nResearch suggests that adults in food-insecure households are just as likely as those in food-secure households to adjust recipes to make them more healthy. They are also just as proficient in food preparation and cooking skills. There is no indication that increasing food skills or budgeting skills will reduce food insecurity.\nInstead, disadvantaged groups are constrained by their economic, material and social circumstances. For example, low income is the strongest predictor of food insecurity in Canada, where one in eight households experiences insufficient access to nutritious foods.\nIt's well-established that food prices are an important determinant of food choice. Low-income households report that they find it difficult to adopt dietary guidelines because food prices are a barrier to improving their diets.\nWhen researchers estimate the cost of diets people actually eat, higher-quality diets are typically more costly.\nWhile this may be so, it does not, in itself, prove that healthy diets are necessarily more expensive or cost-prohibitive. After all, not all socioeconomically disadvantaged people consume poor diets.\nWe can easily think of a number of foods and recipes that are both inexpensive and nutritious. The internet is full of recipes for \"eating well on a budget.\"",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "Dietary recommendations are not fit for underprivileged people.",
+        "B": "People from different social groups vary in their dietary habits.",
+        "C": "People's choice of food depends on their individual taste",
+        "D": "There is no consensus on what high-quality diets are."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "A better understanding of the relationship between social class and health.",
+        "B": "A greater emphasis on studying the cause of obesity and chronic diseases.",
+        "C": "Prioritizing the provision of better nutrition for lower classes.",
+        "D": "Designing education programs and initiatives on public health."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "Their eating habits need to be changed.",
+        "B": "Their food literacy has been improving.",
+        "C": "They do not pay much attention to their food recipes.",
+        "D": "They do not lack food knowledge or budgeting skills."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Teaching them budgeting skills.",
+        "B": "Increasing their food choices.",
+        "C": "Enabling them to have more access to nutritious foods.",
+        "D": "Taking more effective measures to increase food supplies."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Adopt a positive attitude towards dietary guidelines.",
+        "B": "Choose diets that are both healthy and affordable.",
+        "C": "Make sure to purchase healthy foods on the internet.",
+        "D": "Change their eating habits and consumption patterns."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2022年12月·第3套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 冬至(Winter Solstice)是全年白昼最短、黑夜最长的一天，标志着一年中最寒冷时节的开始。冬至过后，气温越来越低，人们的户外活动逐渐减少。农民地里活儿不多，主要忙于灌溉系统的维护和农作物的防冻，同时为来年春天播种做准备。 中国人历来很重视冬至，许多地方都把冬至当作一个节日，庆祝方式各地不尽相同。北方人有冬至吃饺子(jiaozi)的习俗，南方人有冬至吃汤圆(tangyuan)的传统。",
+  "answers": {
+    "1": "D",
+    "2": "C",
+    "3": "B",
+    "4": "C",
+    "5": "A",
+    "6": "B",
+    "7": "D",
+    "8": "D",
+    "9": "A",
+    "10": "C",
+    "11": "B",
+    "12": "A",
+    "13": "A",
+    "14": "B",
+    "15": "D",
+    "16": "B",
+    "17": "B",
+    "18": "C",
+    "19": "D",
+    "20": "A",
+    "21": "D",
+    "22": "C",
+    "23": "C",
+    "24": "A",
+    "25": "B",
+    "26": "D",
+    "27": "N",
+    "28": "H",
+    "29": "G",
+    "30": "A",
+    "31": "L",
+    "32": "E",
+    "33": "J",
+    "34": "C",
+    "35": "F",
+    "36": "D",
+    "37": "J",
+    "38": "B",
+    "39": "G",
+    "40": "A",
+    "41": "I",
+    "42": "K",
+    "43": "C",
+    "44": "H",
+    "45": "F",
+    "46": "D",
+    "47": "A",
+    "48": "D",
+    "49": "C",
+    "50": "A",
+    "51": "B",
+    "52": "A",
+    "53": "D",
+    "54": "C",
+    "55": "B"
+  },
+  "listening_script": {
+    "en": "The World Pipe Band Championships will take place in Glasgow on Saturday.\nOver 120 of the world's best pipe bands will compete at the championships. Over 4,000 pipers and drummers are expected to descend on the city for the annual event.\nIt will take place at the St. James Playing Fields in Glasgow on Saturday, 18 May from 10:00 am until 7:00 pm. The event is free. Also, a free shuttle bus will run between the event car parks and the competition site. Shuttle buses will run every 15 minutes from 8:00 am until 8:00 pm.\nGlasgow City Council says it is estimated to bring £300,000 to the local economy.\nThe first World Pipe Band Championships were held in Edinburgh in 1947. The event first took place in Glasgow in 1948. It has been held regularly in Glasgow since 1986.\nSummer doesn't begin for two more days, but scientists are already sounding the alarm about dangerous ice melts going on right now in Greenland.\nThe vast island usually locks away enough fresh water in its ice sheet, which if melted can raise global sea levels by six meters. And research shows that in recent years its ice has melted faster than ever before. This month, as temperatures in northwestern Greenland approach all-time highs, researchers are encountering unusual, surprising levels of melting ice in the region.\nThe most significant concern here is how early this is all happening. Greenland experiences annual ice melt and growth cycles. But this year, the melting season began in early May. That's a month earlier than normal and something that's happened only once before in the historical record in 2016.\nThat means that not only is the ice melting very fast, it has more time to melt this summer than it would in a normal climate system. Longer melt seasons like this one seem to lead to much greater contributions to sea-level rise than in previous decades.\nBundles containing thousands of pounds in cash keep turning up on the streets of Blackhall Colliery in northern England, according to police. Residents of the village have been coming across bundles of £20 notes—usually worth £2,000—in the former mining village in County Durham.\nThe latest discovery was on Monday, meaning four of these cash bundles have been handed in this year and 13 since 2014.\nThe bundles are usually left in plain sight and have been scattered across the small coastal village. The owner has two weeks to collect the cash, which is then returned to the finder if not claimed, according to Peterlee Police.\nA Durham Police spokesperson said the money has been returned to the lucky finders in all cases except yesterday.\nPoliceman John Forster said in a statement: \"The circumstances remain a mystery so we would welcome any information that will help us get to the bottom of these random incidents.\"\nHe told The Northern Echo: \"It isn't an affluent part of the world, so for them to find cash of that amount and instantly think about taking it to the police stations shows the community spirit there is.\"\nW: It's your birthday next week. What have you got planned?\nM: I'm not sure. I often feel strange on my birthday. It's like my brain decides to have a crisis.\nW: It's not entirely unusual to feel anxious or sad around your birthday. Birthdays can tap into a lot of things people worry about, including their achievements in life in the past decade, or their accomplishments of the past year. Many begin to search for the meaning of their existence, leading to behaviors such as ending or starting a relationship, or plans, like starting a vigorous diet or fitness program.\nM: I have wonderful friends and I love celebrating their birthdays. But I don't like being the center of attention, receiving gifts and having a fuss made. It seems to trigger a type of social anxiety. I think social media too can intensify things as birthdays now play out more publicly. Birthday reminders can be helpful, but I kind of worry I won't be able to drum up my own day and show it to look as exciting as it is supposed to be.\nW: Well, to deal with the birthday blues, you should not isolate yourself. It's best to gradually face your birthday with people you trust. That would help you learn self-acceptance, or that it's okay to be the focus.\nM: Perhaps. Or I could perceive my birthday as an opportunity to do something for others like asking people to make a donation instead of buying a gift.\nW: Exactly. Or even simply see your birthday as an opportunity to bring people together for them to have fun.\nW: The metro was absolutely terrible this morning.\nM: Oh, was there a delay?\nW: No, but the train was so packed that I could barely move, and it was difficult to breathe too. At every station, more people squeezed in and I got pushed further and further inside. When I got to my station, I could hardly get out. Once I did get out, I was totally exhausted.\nM: That sounds like a nightmare. Why didn't you take the bus?\nW: The bus takes twice as long and it's just as crowded.\nM: Well, what's the alternative? Haven't you got a car?\nW: I've got a driver's license, but that's all. I'm saving up to buy something reasonably small and cute, but it's still a bit expensive for me, and it'll take a while before I have enough money.\nM: Have you thought about getting an electric motorbike?\nW: I consider that for maybe a minute. But honestly, I've just seen too many horrible accidents involving those dangerous monsters.\nM: What about those popular shared bikes? You could register to use one.\nW: Yeah, that's a possibility. There are always several of those bikes out in front of our apartment complex.\nM: Or you could just walk to work.\nW: Well, it's five kilometers from home to the office. But you've given me a thought. I could take a change of clothes and jog to work. But at this time of year, the air pollution is a real problem.\nM: Oh, yeah. I didn't think of that. You take a taxi if you really have to.\nW: Well, that's an expensive way to get to work.\nM: Not if you use a ride sharing app.\nW: Good idea. I'll download one immediately. Thank you.\nSteve Miller began his career in IT back in the late 1980s. Being a deaf person in tech required a huge amount of effort in organization. Because there was no email or text message service, everything had to be done face to face, or by telephone. Communicating in meetings was very difficult. He needed a sign language interpreter for every meeting, but it was a huge effort to coordinate.\nThese days, although challenges still remain, it's a good time to be a deaf person in tech, says Miller. Big advances in speech recognition technology have enabled communication tools to turn live speech into text in real time on your smartphone or laptop, and sign language into text as well.\nNew Tech coupled with improvements in hearing aid technology and medical advances means that Miller is able to focus far more on his work. He has benefited to a great extent from a tiny hearing device in his ear. It gives him a degree of hearing, and he can use a variety of communication methods depending on the situation. He can employ lip-reading and have meetings via video instead of on the phone. These things have made a huge difference. He no longer has to worry about whether or not he can understand. He can just concentrate on how interesting the meeting might be and what he needs to get out of it in order to progress.\nColour is now spreading through our homes, up staircases, across wood frames and ceilings, filling in neutral spaces.\nAccording to one interior designer, when people return home, they want to see colours that cheer them up and give them a hug. Pure white walls simply don't do that. They don't look after you.\nAnother interior designer commented that certain combinations can key into something on a deeper level, transporting you to a different moment in time. That's the power of colour.\nIf you are thinking to try colour on some of your neutral walls, the advice is refreshingly simple: Choose a colour you actually like.\nDon't go for a colour because it's in fashion, or you've seen it in a magazine.\nIf you're weary of full colour, test your tolerance with smaller spaces, such as the inside of a cupboard or a bright window frame. If it gives you joy every time you open the cupboard, you can start to take it further.\nOne can also paint the wooden frameworks the same colour as the walls, helping the rooms look bigger. In the kitchen, painting the overhead cupboards and the walls in the same colour can make it feel more spacious.\nWhile painting the kitchen counters, a bold colour can make everything feel more open and lighter. Additionally, a painted ceiling is a magical thing without being too obvious and can affect how the space feels as well.\nParents often hear that reading to their children is critical for supporting development, and the message is getting through to them. In fact, in the United States, a little over half of children between the ages of three and five were read to every day in 2007, and 83% of children in that age group in the same country were read to three or more times per week in 2012.\nThis is good news, because reading to young children helps their language and brain development. In fact, recent research has found that both the quality and quantity of shared book reading in infancy predicted later childhood vocabulary and reading skills. In other words, the more time parents spend reading, the greater the developmental benefits in their four-year-old children.\nThis is an important finding. But does it matter what books parents read? A new study has investigated this question. It followed infants across the second six months of life and found that when parents showed babies books that had faces or objects with specific labels, they learned more. This is in contrast to books that did not name images, or books that had the same label under each image. Books that named different characters also promoted greater learning. So what does this mean for parents? Not all books are created equal, so parents need to choose the books they share with their children with great care.",
+    "cn": "世界风笛乐队锦标赛将于周六在格拉斯哥举行。\n超过120支世界顶尖风笛乐队将参加锦标赛。预计超过4000名风笛手和鼓手将涌入该市参加这一年度盛事。\n比赛将于5月18日周六上午10点至晚上7点在格拉斯哥的St. James运动场举行。该活动免费入场。此外,将有免费班车往返于活动停车场和比赛场地之间。班车从上午8点至晚上8点每15分钟一班。\n格拉斯哥市议会表示,预计该活动将为当地经济带来30万英镑的收益。\n首届世界风笛乐队锦标赛于1947年在爱丁堡举行。该活动于1948年首次在格拉斯哥举办。自1986年以来一直定期在格拉斯哥举行。\n距离夏季开始还有两天,但科学家们已经对格陵兰岛目前正在发生的危险冰层融化发出警报。\n这座广袤的岛屿通常将足够多的淡水锁在其冰盖中,如果融化可使全球海平面上升六米。研究表明,近年来其冰层融化速度比以往任何时候都快。本月,随着格陵兰岛西北部气温接近历史最高值,研究人员在该地区遇到了异常且令人惊讶的冰层融化水平。\n这里最重大的担忧是这一切发生得如此之早。格陵兰岛经历着年度冰层融化和增长周期。但今年,融化季节始于五月初。这比正常情况提前了一个月,而且在历史记录中只在2016年发生过一次。\n这意味着冰层不仅融化得非常快,而且今年夏天它有比正常气候系统中更多的时间融化。像这样更长的融化季节似乎会导致对海平面上升的贡献远大于前几十年。\n据警方称,在英格兰北部的Blackhall Colliery街道上不断出现装有数千英镑现金的捆包。这个村庄的居民一直在Durham郡这个前矿业村发现成捆的20英镑纸币——通常价值2000英镑。\n最近一次发现是在周一,这意味着今年已有四个这样的现金捆包被上交,自2014年以来共有13个。\n这些捆包通常被放置在显眼位置,散布在这个沿海小村庄各处。据Peterlee警方称,失主有两周时间来认领现金,如果无人认领,现金将归还给发现者。\nDurham警方发言人表示,除了昨天的情况外,所有案例中的钱款都已归还给幸运的发现者。\n警察John Forster在一份声明中说:\"具体情况仍是一个谜,因此我们欢迎任何能帮助我们查明这些随机事件真相的信息。\"\n他告诉The Northern Echo:\"这里并不是一个富裕的地方,所以他们发现那么多现金后立即想到送到警察局,这显示了当地的社区精神。\"\nW: 下周就是你的生日了。你有什么计划吗？\nM: 我还不确定。我在生日的时候经常感觉怪怪的。就好像我的大脑决定要来一场危机。\nW: 在生日前后感到焦虑或悲伤并不完全罕见。生日会触及人们担心的很多事情，包括他们过去十年的人生成就，或者过去一年的成绩。许多人开始寻找自己存在的意义，导致一些行为，比如结束或开始一段关系，或者制定计划，比如开始严格的饮食或健身计划。\nM: 我有很棒的朋友，我也喜欢庆祝他们的生日。但我不喜欢成为关注的焦点，收礼物，被大家围着忙活。这似乎会引发一种社交焦虑。我觉得社交媒体也会让事情更严重，因为现在生日更多是公开展示的。生日提醒可能有帮助,但我有点担心我没法把自己的生日搞得看起来像应该的那么激动人心。\nW: 嗯，要应对生日忧郁，你不应该把自己孤立起来。最好是和你信任的人一起逐渐面对你的生日。这会帮助你学会自我接纳，或者说成为焦点也没关系。\nM: 也许吧。或者我可以把生日看作是为别人做点什么的机会，比如请人们捐款而不是买礼物。\nW: 没错。或者甚至可以简单地把你的生日看作是把大家聚在一起让他们开心的机会。\nW: 今天早上地铁真是糟糕透了。\nM: 哦,是晚点了吗?\nW: 不是,但是车厢挤得我几乎动弹不得,连呼吸都困难。每到一站,就有更多人挤进来,我被越挤越往里面。到我那站的时候,我几乎下不了车。好不容易出来了,整个人都累瘫了。\nM: 听起来像噩梦一样。你为什么不坐公交车呢?\nW: 公交车要花两倍的时间,而且一样挤。\nM: 那还有什么办法?你没有车吗?\nW: 我有驾照,但也就仅此而已。我在攒钱买辆比较小巧可爱的车,但对我来说还是有点贵,还得攒一阵子才够。\nM: 你考虑过买电动摩托车吗?\nW: 我可能考虑了一分钟吧。但说实话,我见过太多涉及那些危险怪物的可怕事故了。\nM: 那些流行的共享单车怎么样?你可以注册用一辆。\nW: 嗯,这倒是个可能。我们小区门口总有好几辆那种车。\nM: 或者你可以走路去上班。\nW: 嗯,从家到办公室有五公里。不过你倒是给了我一个想法。我可以带套换洗衣服,跑步去上班。但这个时节,空气污染真的是个问题。\nM: 哦,对。我没想到这个。实在不行你可以打车。\nW: 嗯,那上班成本太高了。\nM: 如果用拼车软件就不贵了。\nW: 好主意。我马上下载一个。谢谢你。\nSteve Miller 在 20 世纪 80 年代末开始了他的 IT 职业生涯。作为一名科技行业的失聪人士,需要在组织协调方面付出巨大努力。因为那时没有电子邮件或短信服务,一切都必须面对面进行,或者通过电话完成。在会议中交流非常困难。他每次会议都需要一名手语翻译,但协调这件事需要付出巨大努力。\nMiller 说,如今尽管挑战依然存在,但对于科技行业的失聪人士来说是个好时代。语音识别技术的重大进步使得通信工具能够在智能手机或笔记本电脑上实时将现场语音转换为文本,也能将手语转换为文本。\n新技术加上助听器技术的改进和医学进步,意味着 Miller 能够更加专注于他的工作。他从耳中的一个微型助听设备中获益匪浅。它给了他一定程度的听力,他可以根据情况使用各种交流方式。他可以使用唇读,通过视频而不是电话进行会议。这些事情带来了巨大的改变。他不再需要担心自己能否理解。他可以只专注于会议可能有多有趣,以及他需要从中获得什么才能取得进展。\n色彩正在我们的家中蔓延，爬上楼梯，延伸至木框架和天花板，填充着中性色空间。\n据一位室内设计师说,当人们回到家时,他们想看到能让他们振奋精神、给予他们拥抱的色彩。纯白色的墙壁根本做不到这一点。它们不会照顾你。\n另一位室内设计师评论说,某些色彩组合可以触及更深层次的东西,将你带到不同的时刻。这就是色彩的力量。\n如果你正在考虑在一些中性色墙面上尝试色彩,建议非常简单:选择一个你真正喜欢的颜色。\n不要因为某种颜色流行或你在杂志上看到过就选择它。\n如果你对全彩色心存疑虑,可以用较小的空间测试你的接受度,比如橱柜内部或明亮的窗框。如果每次打开橱柜它都能给你带来快乐,你就可以开始进一步尝试。\n人们还可以将木框架漆成与墙壁相同的颜色,帮助房间看起来更大。在厨房里,将吊柜和墙壁漆成相同的颜色可以让空间感觉更宽敞。\n在粉刷厨房台面时,大胆的色彩可以让一切感觉更开阔、更轻盈。此外,粉刷天花板是一件神奇的事情,既不会太明显,也能影响空间的感觉。\n家长们经常听说给孩子读书对支持其发展至关重要，而且这一信息正在被他们接受。事实上，在美国，2007年有略高于一半的三至五岁儿童每天被朗读，而2012年同一国家该年龄段83%的儿童每周被朗读三次或更多次。\n这是个好消息,因为给幼儿读书有助于他们的语言和大脑发育。事实上,最近的研究发现,婴儿期共享读书的质量和数量都能预测儿童后期的词汇量和阅读技能。换句话说,父母花在阅读上的时间越多,他们四岁孩子的发育益处就越大。\n这是一个重要的发现。但父母读什么书重要吗?一项新研究调查了这个问题。该研究跟踪了婴儿生命中第二个六个月的情况,发现当父母给婴儿展示有面孔或带有特定标签的物体的书籍时,他们学到的更多。这与那些不标注图像名称的书籍或每张图像下都有相同标签的书籍形成对比。标注不同角色名称的书籍也促进了更多的学习。那么这对父母意味着什么呢?并非所有书籍都是一样的,因此父母需要非常谨慎地选择与孩子分享的书籍。"
+  }
+}

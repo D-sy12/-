@@ -1,0 +1,670 @@
+{
+  "id": "2023-12-2",
+  "writing": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on the recent development in their hometown.You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "Why did the police officer stop the SUV car?",
+      "options": {
+        "A": "He noticed the driver was too young to drive.",
+        "B": "He found there was no one sitting at the wheel.",
+        "C": "He thought something must be wrong with the driver.",
+        "D": "He saw the driver changing lanes much too frequently."
+      },
+      "stem_cn": "警察为什么拦停那辆SUV?",
+      "options_cn": {
+        "A": "他注意到驾驶员太年轻,不能开车。",
+        "B": "他发现驾驶座上没有人。",
+        "C": "他认为驾驶员一定出了什么问题。",
+        "D": "他看到驾驶员变换车道过于频繁。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What did the boy tell the police officers he was planning to do?",
+      "options": {
+        "A": "Buy a sports car.",
+        "B": "Drive across town.",
+        "C": "Leave California.",
+        "D": "Visit his sister."
+      },
+      "stem_cn": "男孩告诉警察他打算做什么?",
+      "options_cn": {
+        "A": "买一辆跑车。",
+        "B": "开车穿过城镇。",
+        "C": "离开California。",
+        "D": "看望他的姐姐。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What does the report say we have not yet understood about mobile phones?",
+      "options": {
+        "A": "How they change the way we shop.",
+        "B": "How they alter human skeletons.",
+        "C": "How they cause increased headaches.",
+        "D": "How they affect our communication."
+      },
+      "stem_cn": "报告称我们尚未了解手机的哪个方面？",
+      "options_cn": {
+        "A": "手机如何改变我们的购物方式。",
+        "B": "手机如何改变人类骨骼。",
+        "C": "手机如何导致头痛增加。",
+        "D": "手机如何影响我们的沟通。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What happens to the skin when rubbed or pressed constantly?",
+      "options": {
+        "A": "It loosens.",
+        "B": "It brightens.",
+        "C": "It hardens.",
+        "D": "It softens."
+      },
+      "stem_cn": "当皮肤持续受到摩擦或按压时会发生什么？",
+      "options_cn": {
+        "A": "它变松弛。",
+        "B": "它变亮。",
+        "C": "它变硬。",
+        "D": "它变软。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What does the report say the village is going to do for the cat Wilbur?",
+      "options": {
+        "A": "Create Internet pages for him.",
+        "B": "Ask a local pet shop to adopt him.",
+        "C": "Name an orange tree after him.",
+        "D": "Hold a birthday party for him."
+      },
+      "stem_cn": "报道中说村子将为猫Wilbur做什么?",
+      "options_cn": {
+        "A": "为它创建网页。",
+        "B": "请当地宠物店收养它。",
+        "C": "用它的名字命名一棵橙树。",
+        "D": "为它举办生日派对。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What do we learn from the report about the cat?",
+      "options": {
+        "A": "He is a bold and aggressive pet.",
+        "B": "He pays regular visits to village shops.",
+        "C": "He once bit a doctor's receptionist.",
+        "D": "He likes to sit on the hairdresser's chair."
+      },
+      "stem_cn": "从报道中我们了解到关于这只猫的什么信息?",
+      "options_cn": {
+        "A": "它是一只大胆好斗的宠物。",
+        "B": "它定期光顾村里的商店。",
+        "C": "它曾咬过一位医生的接待员。",
+        "D": "它喜欢坐在理发师的椅子上。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What does the pub owner, Lesley Harper, say about the cat?",
+      "options": {
+        "A": "He is fond of luxury cat food.",
+        "B": "He likes to stay in villagers' houses.",
+        "C": "He knows everybody in the village.",
+        "D": "He often seeks food around her pub."
+      },
+      "stem_cn": "酒吧老板Lesley Harper关于这只猫说了什么?",
+      "options_cn": {
+        "A": "它喜欢高档猫粮。",
+        "B": "它喜欢待在村民家里。",
+        "C": "它认识村里的每个人。",
+        "D": "它经常在她的酒吧周围寻找食物。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What are the speakers talking about in this conversation?",
+      "options": {
+        "A": "Who to order the food.",
+        "B": "Whether to have sandwiches.",
+        "C": "When to go for their meal.",
+        "D": "Where to have their lunch."
+      },
+      "stem_cn": "说话者在这段对话中谈论什么?",
+      "options_cn": {
+        "A": "由谁来订餐。",
+        "B": "是否吃三明治。",
+        "C": "何时去用餐。",
+        "D": "在哪里吃午餐。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "Where did the speakers see Brigette Clark, the famous movie star?",
+      "options": {
+        "A": "In the shopping center nearby.",
+        "B": "In the expensive Italian style diner.",
+        "C": "At the Sandwich Place on Camden Street.",
+        "D": "At the American restaurant they frequent."
+      },
+      "stem_cn": "说话者在哪里看到著名电影明星Brigette Clark?",
+      "options_cn": {
+        "A": "在附近的购物中心。",
+        "B": "在昂贵的意大利风格餐厅。",
+        "C": "在Camden Street的三明治店。",
+        "D": "在他们常去的美式餐厅。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "Why does the woman say she needs to get back by 2:30?",
+      "options": {
+        "A": "There is to be a conference call.",
+        "B": "She has to meet with her boss then.",
+        "C": "There will be crowds of people waiting for her.",
+        "D": "She will have a photo taken with Brigette Clark."
+      },
+      "stem_cn": "女士为什么说她需要在2点半之前回去?",
+      "options_cn": {
+        "A": "将有一个电话会议。",
+        "B": "她那时必须与老板会面。",
+        "C": "将有许多人等着她。",
+        "D": "她将与Brigette Clark合影。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "Why does the woman say Jeremy should throw his soup in the bin?",
+      "options": {
+        "A": "She doesn't deem homemade soup tasty.",
+        "B": "She doesn't think his wife cooks well.",
+        "C": "She feels Jeremy would rather dine out.",
+        "D": "She has found the soup smells terrible."
+      },
+      "stem_cn": "女士为什么说Jeremy应该把他的汤扔进垃圾桶?",
+      "options_cn": {
+        "A": "她认为自制汤不好吃。",
+        "B": "她认为他妻子厨艺不好。",
+        "C": "她觉得Jeremy宁愿在外面吃饭。",
+        "D": "她发现这汤闻起来很难闻。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "Who is the man talking to in the conversation?",
+      "options": {
+        "A": "A landlady.",
+        "B": "A waitress.",
+        "C": "A receptionist.",
+        "D": "A saleswoman."
+      },
+      "stem_cn": "对话中男士在和谁说话?",
+      "options_cn": {
+        "A": "女房东。",
+        "B": "女服务员。",
+        "C": "接待员。",
+        "D": "女销售员。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What do we learn about the man's father-in-law from the conversation?",
+      "options": {
+        "A": "He was involved in a terrible car accident last April.",
+        "B": "He has much difficulty getting up and down stairs.",
+        "C": "He is expected to undergo a knee operation.",
+        "D": "He prefers to stay next door to the children."
+      },
+      "stem_cn": "从对话中我们了解到男士的岳父有什么情况?",
+      "options_cn": {
+        "A": "他去年四月遭遇了一场严重的车祸。",
+        "B": "他上下楼梯非常困难。",
+        "C": "他预计要接受膝关节手术。",
+        "D": "他更愿意住在孩子们隔壁。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "Why does the man say they will explore all the options available?",
+      "options": {
+        "A": "To please his parents-in-law.",
+        "B": "To find the best trip for his kids.",
+        "C": "To satisfy his curiosity.",
+        "D": "To compare prices."
+      },
+      "stem_cn": "男士为什么说他们会探索所有可行的选择?",
+      "options_cn": {
+        "A": "为了取悦他的岳父母。",
+        "B": "为了给他的孩子们找到最好的旅行。",
+        "C": "为了满足他的好奇心。",
+        "D": "为了比较价格。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the woman suggest the man and his family do close to the end of the conversation?",
+      "options": {
+        "A": "Visit a local art gallery.",
+        "B": "Go on a boat trip.",
+        "C": "Take some photos of the islands.",
+        "D": "Try her hand-made clothing."
+      },
+      "stem_cn": "在对话接近尾声时,女士建议男士和他的家人做什么?",
+      "options_cn": {
+        "A": "参观当地的美术馆。",
+        "B": "进行一次乘船游览。",
+        "C": "拍摄一些岛屿的照片。",
+        "D": "试穿她手工制作的衣服。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What does the passage say about artificial intelligence agents?",
+      "options": {
+        "A": "They are more intelligent than many of us.",
+        "B": "They have already become our new friends.",
+        "C": "They have begun to affect our social behavior.",
+        "D": "They play increasingly more important roles."
+      },
+      "stem_cn": "文章关于人工智能代理说了什么?",
+      "options_cn": {
+        "A": "它们比我们许多人更聪明。",
+        "B": "它们已经成为我们的新朋友。",
+        "C": "它们已经开始影响我们的社会行为。",
+        "D": "它们发挥着越来越重要的作用。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does the new study want to find out about using an artificial intelligence agent?",
+      "options": {
+        "A": "Whether it might have any effect on the way we negotiate.",
+        "B": "Whether it might actually outperform human negotiators.",
+        "C": "Whether it can facilitate business transactions.",
+        "D": "Whether it can speed up legal procedures."
+      },
+      "stem_cn": "这项新研究想要了解关于使用人工智能代理的什么问题?",
+      "options_cn": {
+        "A": "它是否可能对我们谈判的方式产生影响。",
+        "B": "它是否可能实际上超越人类谈判者。",
+        "C": "它能否促进商业交易。",
+        "D": "它能否加快法律程序。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What did participants tend to do when assigned an AI agent to negotiate on their behalf?",
+      "options": {
+        "A": "Choose to be tough.",
+        "B": "Sympathize with their opponent.",
+        "C": "Use deceptive strategies.",
+        "D": "Appear to be pleasant."
+      },
+      "stem_cn": "当被分配一个人工智能代理代表他们进行谈判时,参与者倾向于做什么?",
+      "options_cn": {
+        "A": "选择表现强硬。",
+        "B": "同情他们的对手。",
+        "C": "使用欺骗性策略。",
+        "D": "表现得令人愉快。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What do we learn about the benefits the participants gained from the healthy cooking course?",
+      "options": {
+        "A": "They were perceived differently by some academics.",
+        "B": "They still existed six months after the course ended.",
+        "C": "They varied greatly among the course participants.",
+        "D": "They were only measurable within seven weeks."
+      },
+      "stem_cn": "关于参与者从健康烹饪课程中获得的益处，我们了解到什么？",
+      "options_cn": {
+        "A": "它们被一些学者以不同方式看待。",
+        "B": "它们在课程结束六个月后仍然存在。",
+        "C": "它们在课程参与者之间差异很大。",
+        "D": "它们只能在七周内测量。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What do the new research findings suggest about mental health benefits?",
+      "options": {
+        "A": "They can be easily seen among participants in a healthy weight range.",
+        "B": "They should be attributed to participants' change in diet behaviors.",
+        "C": "They are linked to cooking confidence and cooking satisfaction.",
+        "D": "They actually result from eating more fruits and vegetables."
+      },
+      "stem_cn": "关于心理健康益处，新的研究发现表明了什么？",
+      "options_cn": {
+        "A": "它们可以在体重处于健康范围的参与者中轻易观察到。",
+        "B": "它们应归因于参与者饮食行为的改变。",
+        "C": "它们与烹饪信心和烹饪满意度相关。",
+        "D": "它们实际上源于摄入更多水果和蔬菜。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What plays a role in determining who benefits most from learning to cook?",
+      "options": {
+        "A": "Gender.",
+        "B": "Confidence.",
+        "C": "Health.",
+        "D": "Practice."
+      },
+      "stem_cn": "什么因素在决定谁从学习烹饪中获益最多方面发挥作用？",
+      "options_cn": {
+        "A": "性别。",
+        "B": "信心。",
+        "C": "健康。",
+        "D": "实践。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What does research show about our personal space?",
+      "options": {
+        "A": "It keeps others away.",
+        "B": "It causes discomfort.",
+        "C": "It remains visible.",
+        "D": "It varies in size."
+      },
+      "stem_cn": "研究表明我们的个人空间有什么特点?",
+      "options_cn": {
+        "A": "它使他人保持距离。",
+        "B": "它会引起不适。",
+        "C": "它保持可见。",
+        "D": "它的大小会变化。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What happens if a mere acquaintance enters our intimate space?",
+      "options": {
+        "A": "It makes us feel uncomfortable.",
+        "B": "It renders the acquaintance a stranger.",
+        "C": "It brings the acquaintance closer to us.",
+        "D": "It causes the bubble around us to vanish."
+      },
+      "stem_cn": "如果一个泛泛之交进入我们的亲密空间会发生什么?",
+      "options_cn": {
+        "A": "它使我们感到不舒服。",
+        "B": "它使这个熟人变成陌生人。",
+        "C": "它使这个熟人与我们更亲近。",
+        "D": "它导致我们周围的气泡消失。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "Where do people feel comfortable interacting with new acquaintances or strangers?",
+      "options": {
+        "A": "In personal space.",
+        "B": "In social space.",
+        "C": "Within a distance of 18 inches.",
+        "D": "Over 2 feet away from one another."
+      },
+      "stem_cn": "人们在哪里与新相识者或陌生人互动时感到舒适?",
+      "options_cn": {
+        "A": "在个人空间。",
+        "B": "在社交空间。",
+        "C": "在18英寸距离内。",
+        "D": "在相互距离超过2英尺的地方。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "When are the sizes of our bubbles fixed?",
+      "options": {
+        "A": "When we begin to feel fear.",
+        "B": "When we develop a sense of space.",
+        "C": "When we are 3 or 4 years old.",
+        "D": "When we enter our teens."
+      },
+      "stem_cn": "我们的气泡大小在什么时候固定下来?",
+      "options_cn": {
+        "A": "当我们开始感到恐惧时。",
+        "B": "当我们形成空间意识时。",
+        "C": "当我们3岁或4岁时。",
+        "D": "当我们进入青少年时期时。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "boost",
+    "B": "case",
+    "C": "casually",
+    "D": "efficiency",
+    "E": "estate",
+    "F": "exhausted",
+    "G": "faculty",
+    "H": "interfere",
+    "I": "normal",
+    "J": "prevalent",
+    "K": "relative",
+    "L": "removed",
+    "M": "scratch",
+    "N": "shaped",
+    "O": "surprisingly"
+  },
+  "cloze_passage": "A number of studies have looked at how family life can affect productivity and satisfaction in the workplace. However, there has been 26 little research on the influence of leisure activities. So Ciara Kelly and colleagues recruited 129 hobbyists to look at how the time spent on their hobbies 27 their work life.\nThe researchers found that when participants spent longer than 28 on their leisure activity, their belief in their ability to perform their job was strengthened. But this was only the 29 when they had a serious hobby that was dissimilar to their job, or when their hobby was similar to their work but they only did it 30 . When their hobby was both serious and similar to their job, then spending more time on it actually decreased their work 31 .\nWhy might that be? To maintain a serious hobby, people need to invest significant psychological resources, say the authors—so if the activity has the same kinds of demands as their work, they may be left 32 and unable to perform well at their job. But if their hobby is quite different from their career, it may not 33 in the same way but instead help them develop other knowledge and skills that can 34 their confidence at work. \"Consider a scientist who is a keen rock climber,\" says Kelly. \"Since climbing is so far 35 from their day-to-day work activities, they can still recover from the demands of their job with plenty of resources.\"",
+  "long_reading_passage": "A) Attitudes towards paternity leave(陪产假) have drastically changed in America in the last five years as more fathers feel comfortable taking extended time off, but gender bias persists when it comes to career prospects and the home, according to a new study of working parents.\nB) Research by the Boston College Center for Work & Family, which surveyed new parents at four large US companies who were qualified for taking at least six weeks paid parental leave, found that 81% of the 1,240 employees surveyed said the notion of fathers taking leave has become more acceptable.\nC) Of those surveyed, 62% of fathers took the maximum amount of time off compared to 93% of mothers, and around three-quarters of workers said their employer was equally supportive of mothers and fathers taking parental leave and over half said leave policies had made workplace culture better.\nD) The US is one of only three countries in the world not to offer statutory(法定的) paid leave, but increasingly states and companies are starting to take up the issue. So far, eight states and the District of Columbia have their own paid family leave laws.\nE) Brad Harrington, executive director of the center and lead author of the study, estimates only 20% to 30% of companies in the US offer paid parental leave. He feels the research findings reflect an obvious change in corporate attitudes to new fathers taking time off.\nF) \"We did a study on paternity leave five years ago. Compared with those findings, these numbers were shocking to me. I did not expect 80% of people to say the organisation finds dads taking this leave acceptable and three-quarters to say it's equally supportive of women and men taking leave,\" Harrington said.\nG) The previous study found that nearly three-quarters of fathers saw two to four weeks as an appropriate duration for paternity leave and 76% said they would prefer not to take all their time off at once.\nH) Since then, there have been a number of legal cases against companies involving paternity leave—including cases against JPMorgan Chase and Estee Lauder—which have helped put pressure on companies to make their parental leave policies gender neutral.\nI) However, the study also shows how traditional gender roles endure both at work, where more women than men reported changes in their perceived career potential, and at home—even among workers who claim to have a strong desire for equality.\nJ) The vast majority of men, 97%, said one of the top reasons to take leave was to share caregiving with their partner. But when they were asked about how caregiving and household tasks were divided, their answers painted a different picture. While about 75% of employees said both genders should give the same amount of care, the majority of men and nearly half of women admitted that in reality the female actually did most of it. A tiny fraction, 2%, of men said they did more of the childcare.\nK) Men and women's experiences of the return to work following parental leave were also considerably different. Of the women surveyed, 32% reported a downturn in their job satisfaction, while 14% said it increased. In comparison, 17% of men said their job satisfaction went down and 20% said it went up. Meanwhile, more women reported an increase in their responsibilities and manager expectations after childbirth. Half of the women said they used flexible work arrangements after becoming a parent, while just 27% of men did. Similar percentages of men and women said they enjoyed their careers and that it gave them a sense of achievement, while around half of women and 44% of men said it was a key part of their identity.\nL) On the subject of career advancement, 59% of women and 49% of men said leave could be limiting and both genders said they feared it would have an impact on their progress long-term. But on opportunity for promotion, more than double the number of women, 30% compared with 15% of men, believed their chances to be lower after becoming a parent. Despite progress, the struggle for women to reach the highest positions of power is demonstrated in this year's Fortune 500 list, which featured a record 33 female CEOs, but this still represents a tiny fraction of the total.\nM) Harrington said culture change depends on companies putting more focus on men and their responsibilities. \"By that I mean companies need to give men paternity leave and encourage men to take time off to be with their kids early on in the kids' life. They also need to recognise that men have to make significant adjustments when they become parents. Companies cannot do all these things to enhance women's advancement and then turn around and say, 'Oh, but we don't expect the men to take over for the women at home.'\"\nN) In May, the American Civil Liberties Union (ACLU) and Outten & Golden LLP announced a historic class-action $5m settlement with JPMorgan Chase on behalf of male employees who claim they were illegally denied access to paid parental leave. Derek Rotondo, 35, filed the discrimination charge against his company after he was allegedly told by his HR department that mothers were considered primary caregivers. Thus, they were allowed to take 16 weeks of paid parental leave. Fathers, however, could take just two weeks.\nO) The father of two from Columbus, Ohio, who still works at the company as an associate and investigator, said he has witnessed a \"domino effect(多米诺效应)\" across companies since the settlement, but that there is still substantial progress to be made towards changing attitudes towards paternity leave.\nP) \"I do think there's still some way to go…there's still going to be sort of the unstated expectation for new dads to essentially come right back to work, but I think the research is showing that's starting to change.\" He said equal parental leave is an essential component to creating gender equality in the workplace. \"The old standard of women staying home, having babies and cooking doesn't apply and hasn't applied for a long time.\"",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "Having a rival can keep you committed to achieving your goals and enhance your overall performance. But before you go out and find an entrepreneur to outcompete, it's important to understand and avoid the traps that often come with rivalry. After all, competitive rivalry can also hinder effective decision-making and increase your willingness to take risks, behaviors that can ultimately hurt your venture's success.\nFinding someone you're committed to outcompeting can be a great way to stay focused on your goals and push your venture to the next level. But when you're intently focused on outperforming your rivals, you may begin to develop a \"win-at-all-costs\" mentality that causes you to ignore how you achieve success. One group of researchers, for example, examined the link between rivalry and unethical behavior. They found that when people compete against their rivals, they are more willing to behave unethically to win. But such behavior may stain your reputation and strain relationships important to your success. One way to avoid this trap is to stop and reflect on what's important. While outperforming your rivals may provide short-term benefits, the loss of your integrity will have long-term consequences.\nOne reason having a rival can enhance your venture's performance is that it creates a level of excitement that drives you to work harder. But this eagerness to win may also hurt your venture's success, particularly when it causes you to make impulsive, insensible decisions. But it's possible to avoid such costly mistakes by making a habit of engaging in critical thinking, such as considering opposing viewpoints and conducting cost-benefit analyses, especially for those decisions that are complex and can determine the future of your venture.\nThe sense of eagerness that comes with having a rival can not only cause you to make poorer decisions, but it can also lead you to take greater risks that put your venture in peril. One way you can overcome the risk-inducing effects of rivalry that stand to endanger your venture's success is to remain attentive to your emotional state and actively monitor how such feelings are affecting your decision-making.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "By enabling them to outcompete other entrepreneurs.",
+        "B": "By enabling them to make their venture a success.",
+        "C": "By helping them to reach long-term goals.",
+        "D": "By helping them to stay goal-oriented."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "They may adopt strategies that are bound to ruin their venture.",
+        "B": "They may resort to unethical means to outperform their rivals.",
+        "C": "They may be too eager to succeed while ignoring the huge labor cost.",
+        "D": "They may be intently focused on winning at the current market level."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Deliberate on what really matters.",
+        "B": "Prioritize reaping immediate benefits.",
+        "C": "Estimate the long-term consequences.",
+        "D": "Reflect on what successes are achievable."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "By engaging themselves in critical reasoning.",
+        "B": "By developing a habit of keeping their integrity.",
+        "C": "By criticizing themselves for previous poor performances.",
+        "D": "By refraining from being too excited about their successes."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "By paying close attention to their current performance.",
+        "B": "By taking steps that stand to endanger their rivals' success.",
+        "C": "By monitoring how their decision-making impacts their mentality.",
+        "D": "By keeping their emotions in check to avoid making poor decisions."
+      }
+    }
+  ],
+  "reading_passage_2": "A multitasker is one who can perform two or more tasks effectively at the same time, which—apart from the obvious differences—is similar to what a computer does. The concept does indeed come from the realms of technology, where it is used to refer to an operating system that can execute multiple tasks at the same time. However, the question is: can a person really be a multitasker?\nFor most scientists, the answer is no. So much so that, according to experts in neuroscience(神经系统科学), our brains do not handle multitasking situations well. As soon as two tasks require our attention, productivity suffers. What we call multitasking, therefore, is in reality the ability to move more or less quickly from one task to another. This requires two essential conditions: that one of the tasks needs to be automatic, like walking or eating, and that they both need different mental processes. Answering the phone and writing at the same time, for example.\nHowever, on the other side of the coin there are people who maintain that it is possible to be, or at least seem to be, multitasking. A recent study concluded that regardless of whether people are actually handling several tasks or not, the mere fact that they perceive this activity as multitasking has a positive effect on their performance.\nThe business perspective offers a different view: multitasking is understood as the ability to adapt to all types of environment within a company and effectively undertake different activities within a set time frame. Indeed, many companies look for people who are skilled in multitasking to improve their productivity. From this different perspective, you can not only be multitasking but this ability can also be taught: something that is easier in fluid organisations, which favour flexibility in their working practices.\nThe benefits of multitasking are clear. Being quicker and more efficient increases our performance and the number of tasks completed. But having to pay attention to several things at once means that the powers of concentration are reduced and that can lead to more mistakes.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "An operating system capable of doing several tasks at once.",
+        "B": "A skilled worker executing more than one task at the same time.",
+        "C": "A sophisticated technology doing several tasks effectively at once.",
+        "D": "An efficient person able to perform multiple tasks at the same time."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "They are not sufficiently exposed to multitasking situations.",
+        "B": "They are not comparable to mechanical operating systems.",
+        "C": "Their brains do not allow them to multitask.",
+        "D": "Their attention span cannot be expanded."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "People make greater achievements by maintaining whatever they are doing is multitasking.",
+        "B": "People's performance benefits from the perception of what they are doing as multitasking.",
+        "C": "People's active mental processes exert a positive effect on their multitasking.",
+        "D": "People can improve their capabilities by handling multitasking situations."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "It is a rare skill often found in fluid organisations.",
+        "B": "It is an adaptable capability required of all workers.",
+        "C": "It is an essential quality many employees lack.",
+        "D": "It is a desirable ability that can be developed."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Work in a flexible way.",
+        "B": "Learn from mistakes.",
+        "C": "Avoid multitasking.",
+        "D": "Increase efficiency"
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2023年12月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 改革开放以来，中国人的饮食(diet)发生了显著变化。过去由于经济落后，食品种类有限、数量不足 ，人们仅仅满足于吃得饱。如今中国经济快速发展，食品不仅更加丰富多样，质量也大幅提高。随着生活水平不断提升，人们对饮食的要求越来越高，更加注重吃得营养健康。因此，目前市场上推出的低脂、低糖、有机食品受到人们的普遍欢迎。",
+  "answers": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "C",
+    "5": "D",
+    "6": "B",
+    "7": "A",
+    "8": "D",
+    "9": "C",
+    "10": "A",
+    "11": "B",
+    "12": "C",
+    "13": "B",
+    "14": "D",
+    "15": "B",
+    "16": "D",
+    "17": "A",
+    "18": "C",
+    "19": "B",
+    "20": "C",
+    "21": "A",
+    "22": "D",
+    "23": "A",
+    "24": "B",
+    "25": "D",
+    "26": "O",
+    "27": "N",
+    "28": "I",
+    "29": "B",
+    "30": "C",
+    "31": "D",
+    "32": "F",
+    "33": "H",
+    "34": "A",
+    "35": "L",
+    "36": "D",
+    "37": "J",
+    "38": "P",
+    "39": "B",
+    "40": "F",
+    "41": "I",
+    "42": "C",
+    "43": "L",
+    "44": "E",
+    "45": "H",
+    "46": "D",
+    "47": "B",
+    "48": "A",
+    "49": "A",
+    "50": "D",
+    "51": "A",
+    "52": "C",
+    "53": "B",
+    "54": "D",
+    "55": "C"
+  },
+  "listening_script": {
+    "en": "A police officer in the U.S. stopped a large SUV car that was going very slowly and drifting across lanes on a highway. He expected to find a driver who was either very drunk or having a medical emergency. Instead, the officer discovered a five-year-old boy sat on the edge of the driver's seat. His feet could barely reach the brake, and his head was only just high enough to see out of the windows. The child had taken the keys to the family car while his teenage sister was napping. He then drove three kilometers across town before getting on the highway. The boy later told confused officers that he was planning to travel to California and buy a Lamborghini sports car. Although he only had three dollars in his wallet, at least he was driving in the right direction.\nMobile phones have changed the way we live, how we read, work, communicate, and shop. But we already know this. What we have not yet understood is the way the tiny machines in front of us are changing our skeletons, possibly altering not just the way we behave but even the very shape of our bodies.\nNew scientific research at the University of the Sunshine Coast in Queensland, Australia, suggests that young people are developing extra pieces of bone at the backs of their heads. These pieces of bone are caused by the way people bend their heads when they use the phone. This shifts weight onto the muscles at the back of the head and causes the bone to grow in a way that is not normal. This process can be compared to the way the skin hardens in response to constant rubbing or pressure. The result is a piece of bone like a horn that sticks out from the head by the neck.\nA village is going to throw a birthday party for an orange cat named Wilbur, who has become famous for making a regular appearance at local shops.\nWilbur has his own Internet pages as he approaches his 10th birthday on July 7. Wilbur is both bold and friendly. He spends most of his time in shops and businesses around the village. He'll just take himself into any shop, anywhere. There was one time when the doctor's receptionist came back and he was sitting on her chair. Among his favorite haunts are a local hairdresser, two pubs, and the Nottingham Primary School.\nLesley Harper, who runs one of the pubs, said the cat has been a big hit with their customers. \"He's been a regular visitor for most of this year,\" she told the Press Association. \"He's a very relaxed cat, happy for customers and villagers young and old to come in and say hello.\" She also said he is a cat of expensive tastes who likes his high priced cat food.\nSarah Godfrey, who is organizing Wilbur's party, told the local newspaper, \"Wilbur is part of our lives, as he is for everyone who lives in the village.\"\nM: So, where do you want to go for lunch?\nW: I don't know. Do you have anything in mind?\nM: What about the Sandwich Place on Camden Street?\nW: Hmm… No, sorry. I don't feel like sandwiches today. It's a great place, but I think we go there too often.\nM: That's true. Remember that's where we saw Brigette Clark, the famous movie star.\nW: Of course. How could I ever forget? There were crowds of people around her asking for a photo with her.\nM: What about hamburgers, then? There's that American style diner on the way to the mall.\nW: I like that place. Their chips are great, but their service takes a long time. And I need to get back by 2:30 for a conference call. How about trying something new? We could try Mario's, the new Italian restaurant on the corner. It looks all right. Have you been there?\nM: No, I haven't, but I've noticed that it has great reviews on the Internet. It's supposed to be one of the best Italians in town. I think Jeremy has been there and said it was amazing. I'm up for that.\nW: Cool. Have you asked Jeremy if he would like to come with us?\nM: I already have. He says he can't. He has brought his own lunch today, so he will stay in. I think his wife made him soup.\nW: Poor Jeremy. His wife is a terrible cook. He should throw that soup in the bin and join us.\nW: Hi, there. How are you today? Do you have a reservation with us already?\nM: Good afternoon. Yes, we reserved our rooms yesterday morning on your website for three nights. The name's Patterson.\nW: Okay. Let me have a look. Yes, we have it here. You brought the whole family with you, I see.\nM: Yes, the two kids, my wife and I, and her parents too.\nW: Great. So we have a family room for you and your wife and the kids, and another double room for your parents-in-law. They are right next to each other on the ground floor, since you mentioned in your message that they have trouble with stairs.\nM: That's wonderful. My father-in-law has had terrible problems getting up and down stairs since his knee operation last April.\nW: I'm sorry to hear that. And if you need any help to find transportation for the whole family, we can definitely recommend someone for you.\nM: We were thinking of renting a car, but we will explore all the options available for sure. So, yes, that would be very helpful in comparing prices. We're also wondering what tours and day trips are available.\nW: We have bunches of brochures here. I would recommend getting out on a boat trip. The kids will love it and there are so many islands nearby to explore. There's also a great night market further into town that has all kinds of food and cool little shops selling souvenirs and local jewelry and clothing made by hand.\nM: That all sounds marvelous.\nW: Now, all I need is to photocopy your passports and then I can get you all checked in and show you to your rooms.\nArtificial intelligence agents play ever more influential roles in our lives. They do everything from suggesting new friends to recommending purchases. They're even beginning to drive our cars. Another role that they are expected to take over is negotiating on our behalf in commercial transactions or legal disputes. So, it's important to know whether using an artificial intelligence agent might affect how we negotiate. Research indicates that it does. In a new study, participants were told to imagine that they were negotiating for something important to them, like a house. Next they were told either that they would negotiate for themselves, or they would program an artificial intelligence agent to negotiate for them. Participants then completed a survey indicating how tough, deceptive and pleasant or otherwise they wanted to be, or wanted their agent to be, in the negotiations. For example, participants could choose to be tough by making an opening demand far greater than what they'd be willing to accept. They could also choose to express sympathy with their opponent to appear pleasant. But they could also indicate that they—or their agent—would strategically express anger toward the opponent to gain advantage, or they could opt to convey dissatisfaction with the encounter so that the other party would think they were losing interest. These are both examples of deceptive strategies. Participants were more willing to employ deceptive strategies when assigned an agent to negotiate on their behalf.\nNew research has studied the effects of a seven-week healthy cooking course. Academics measured the program's effect on cooking confidence and self-perceived mental health. Researchers also measured participants' overall satisfaction around cooking and diet-related behaviors.\nWhat were the findings? Course participants saw significant improvements in general health. They also reported improved mental health and subjective vitality immediately after the program. These benefits remained six months after the completion of the course.\nWhat caused these improvements? Researchers have previously found a link between eating more fruits and vegetables, and improved longer term mental health. This would imply that the participants in the current study may have felt better due to improved diet.\nHowever, the study showed participants' mental health improved even if their reported diet did not change after completing the program. Also, the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range. This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits.\nWho benefits most from learning to cook? Gender plays a part. At the start of the program, 77 per cent of female participants were confident about cooking, but just 23 per cent of males were confident. At the end of the program, cooking confidence and skills were equal across both counterparts. This change in confidence could lead to a gender balance in home cooking. This in turn could reduce consumption of unhealthy, high-calorie processed meals.\nWhat is personal space? We often think of it as an invisible bubble of space surrounding us that others can't enter, without causing discomfort. Research shows, however, that we actually have bubbles of different sizes. Each of these bubbles applies to a different set of people.\nThe smallest zone, called \"intimate space\", extends outward from our bodies 18 inches in every direction. Only family, pets and one's closest friends may enter it. A mere acquaintance entering our intimate space makes us uncomfortable. Next is the bubble called \"personal space\", extending from 1.5 feet to 4 feet away. Friends and acquaintances can comfortably occupy this zone, especially during informal conversations, but strangers are forbidden. Extending from 4 to 12 feet away from us is \"social space\". Here people feel comfortable conducting routine social interactions with new acquaintances or total strangers.\nThose are the average sizes of American's personal bubbles, anyway. It is important to keep in mind that personal space varies depending on culture and context. Furthermore, there are significant individual differences. As we all know, cultural or individual differences in personal bubble diameters are all too often the cause of discomfort. How did these personal bubbles arise? According to research, we begin to develop our individual sense of personal space around age 3 or 4. The sizes of our bubbles are fixed by our teens. These bubbles are constructed and monitored by the brain region involved in fear.",
+    "cn": "美国一名警察拦下了一辆在高速公路上行驶缓慢并跨车道漂移的大型SUV。他原以为会发现一个醉酒严重或突发疾病的司机。然而，警察却发现一个五岁男孩坐在驾驶座边缘。他的脚几乎够不到刹车，头部也刚好高到能看出车窗外。这个孩子趁十几岁的姐姐午睡时拿走了家里的车钥匙。然后他开车穿过城镇行驶了三公里后上了高速公路。男孩后来告诉困惑的警察，他计划去加利福尼亚州买一辆Lamborghini跑车。尽管他钱包里只有三美元，但至少他开车的方向是对的。\n手机已经改变了我们的生活方式，改变了我们阅读、工作、交流和购物的方式。但我们已经知道这一点。我们尚未理解的是，我们面前的这些小型机器正在改变我们的骨骼，可能不仅改变我们的行为方式，甚至改变我们身体的形状。\n澳大利亚昆士兰阳光海岸大学的最新科学研究表明，年轻人的后脑勺正在长出额外的骨块。这些骨块是由人们使用手机时低头的方式造成的。这会将重量转移到后脑勺的肌肉上，并导致骨骼以不正常的方式生长。这一过程可以与皮肤因持续摩擦或压力而变硬的方式相比较。其结果是在颈部附近从头部突出的一块类似角的骨头。\n一个村庄将为一只名叫Wilbur的橘猫举办生日派对,这只猫因定期光顾当地商店而出名。\nWilbur即将在7月7日迎来10岁生日,它有自己的网页。Wilbur既大胆又友好,它大部分时间都在村里的商店和企业中度过。它会自己走进任何商店、任何地方。有一次医生的接待员回来时,发现它正坐在她的椅子上。它最喜欢去的地方包括一家当地理发店、两家酒吧和Nottingham小学。\n经营其中一家酒吧的Lesley Harper说这只猫深受顾客喜爱。她告诉Press Association:\"今年大部分时间它都是常客。它是一只非常放松的猫,乐意让顾客和村民不论老少进来打招呼。\"她还说它是一只品味昂贵的猫,喜欢吃高价猫粮。\n正在组织Wilbur派对的Sarah Godfrey告诉当地报纸:\"Wilbur是我们生活的一部分,对村里每个人来说都是如此。\nM: 那么，你想去哪儿吃午饭？\nW: 我不知道。你有什么想法吗？\nM: Camden Street 上的三明治店怎么样？\nW: 嗯……不好意思。我今天不想吃三明治。那地方很不错，但我觉得我们去得太频繁了。\nM: 确实。还记得我们就是在那儿看到电影明星 Brigette Clark 的。\nW: 当然记得。我怎么可能忘记？当时一群人围着她要跟她合影。\nM: 那汉堡怎么样？去购物中心路上有家美式餐厅。\nW: 我喜欢那家店。他们的薯条很棒，但是上菜要等很久。而且我需要在两点半之前回去开电话会议。要不试试新地方？我们可以去 Mario's，拐角处那家新开的意大利餐厅。看起来不错。你去过吗？\nM: 没有，我没去过，但我注意到它在网上评价很好。据说是城里最好的意大利餐厅之一。我想 Jeremy 去过，说那里很棒。我没意见。\nW: 好啊。你问过 Jeremy 想不想跟我们一起去吗？\nM: 我问过了。他说不行。他今天自己带了午饭，所以要待在办公室。我想是他妻子给他做的汤。\nW: 可怜的 Jeremy。他妻子厨艺太差了。他应该把那汤扔进垃圾桶，然后跟我们一起去。\nW: 你好，今天怎么样？您已经在我们这里预订了吗？\nM: 下午好。是的，我们昨天早上在你们的网站上预订了三晚的房间。名字是Patterson。\nW: 好的，让我看看。是的，在这里找到了。我看您带着全家人一起来。\nM: 是的，两个孩子，我妻子和我，还有她的父母。\nW: 很好。我们为您和您的妻子以及孩子们准备了一间家庭房，还有另一间双人房给您的岳父岳母。两间房紧挨着，在一楼，因为您在留言中提到他们上下楼梯有困难。\nM: 太好了。我岳父自从去年四月做了膝盖手术后，上下楼梯就一直很困难。\nW: 听到这个我很遗憾。如果您需要任何帮助为全家人找交通工具，我们绝对可以为您推荐。\nM: 我们本来在考虑租车，但我们肯定会了解所有可选的方案。所以，是的，这对比较价格会很有帮助。我们还想知道有哪些旅游团和一日游可以参加。\nW: 我们这里有很多宣传册。我建议您去坐船游览。孩子们会喜欢的，附近有很多岛屿可以探索。镇里还有一个很棒的夜市，有各种各样的食物和很酷的小店，卖纪念品、当地的珠宝和手工制作的服装。\nM: 听起来都很棒。\nW: 现在，我只需要复印一下您的护照，然后就可以为您办理入住手续，带您去房间了。\n人工智能代理在我们的生活中扮演着越来越有影响力的角色。它们做各种事情，从推荐新朋友到推荐购物。它们甚至开始驾驶我们的汽车。它们预计将接管的另一个角色是在商业交易或法律纠纷中代表我们进行谈判。因此，了解使用人工智能代理是否会影响我们的谈判方式很重要。研究表明确实会。在一项新研究中，参与者被告知想象他们正在为对自己重要的东西进行谈判,比如一套房子。接下来他们被告知要么自己谈判,要么编程一个人工智能代理代表他们谈判。然后参与者完成了一项调查,表明他们希望在谈判中表现得多么强硬、多么具有欺骗性和多么令人愉快,或者希望他们的代理表现得如何。例如,参与者可以选择通过提出远高于他们愿意接受的开价来表现强硬。他们也可以选择对对手表示同情以显得令人愉快。但他们也可以表示他们或他们的代理会策略性地向对手表达愤怒以获得优势,或者他们可以选择表达对这次接触的不满,这样对方就会认为他们正在失去兴趣。这些都是欺骗性策略的例子。当被分配一个代理代表他们进行谈判时,参与者更愿意使用欺骗性策略。\n新研究考察了为期七周的健康烹饪课程的效果。学者们测量了该项目对烹饪信心和自我感知心理健康的影响。研究人员还测量了参与者对烹饪的总体满意度以及与饮食相关的行为。\n研究发现了什么?课程参与者的总体健康状况有了显著改善。他们还报告称,在项目结束后心理健康和主观活力立即得到改善。这些益处在课程完成六个月后仍然保持。\n是什么导致了这些改善?研究人员此前发现,摄入更多水果和蔬菜与长期心理健康改善之间存在联系。这意味着当前研究中的参与者可能因饮食改善而感觉更好。\n然而,研究显示,即使参与者报告的饮食在完成项目后没有改变,他们的心理健康也有所改善。此外,超重或肥胖参与者与体重正常参与者获得的心理健康益处相当。这表明烹饪信心和对烹饪的满意度与心理健康益处之间存在联系。\n谁从学习烹饪中受益最多?性别起到一定作用。在项目开始时,77%的女性参与者对烹饪有信心,但只有23%的男性有信心。项目结束时,双方的烹饪信心和技能达到了平衡。这种信心的变化可能导致家庭烹饪中的性别平衡。这反过来又可以减少不健康、高热量加工食品的消费。\n什么是个人空间？我们常常认为它是环绕我们周围的一个无形气泡，他人不能进入，否则会引起不适。然而，研究表明，我们实际上拥有不同大小的气泡。这些气泡中的每一个都适用于不同的人群。\n最小的区域称为\"亲密空间\",从我们身体向外延伸18英寸的各个方向。只有家人、宠物和最亲密的朋友可以进入。仅仅是熟人进入我们的亲密空间就会让我们感到不舒服。接下来是称为\"个人空间\"的气泡,从1.5英尺延伸到4英尺之外。朋友和熟人可以舒适地占据这个区域,尤其是在非正式交谈期间,但陌生人是被禁止的。从我们4到12英尺之外延伸的是\"社交空间\"。在这里,人们可以舒适地与新认识的人或完全陌生的人进行日常社交互动。\n无论如何,这些是美国人个人气泡的平均大小。重要的是要记住,个人空间因文化和环境而异。此外,还存在显著的个体差异。众所周知,个人气泡直径的文化或个体差异往往是造成不适的原因。这些个人气泡是如何产生的？根据研究,我们在3岁或4岁左右开始发展我们个人的个人空间意识。我们气泡的大小在青少年时期就固定下来了。这些气泡是由与恐惧有关的大脑区域构建和监控的。"
+  }
+}

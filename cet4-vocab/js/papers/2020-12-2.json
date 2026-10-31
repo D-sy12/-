@@ -1,0 +1,670 @@
+{
+  "id": "2020-12-2",
+  "writing": "Directions: For this part , you are allowed 30 minutes to write an essay on the topic Changes in the way of Transportation . You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What does the news report say about the waiter?",
+      "options": {
+        "A": "He wanted to buy a home.",
+        "B": "He suffered from a shock.",
+        "C": "He lost a huge sum of money.",
+        "D": "He did an unusual good deed."
+      },
+      "stem_cn": "新闻报道中关于这位服务员说了什么?",
+      "options_cn": {
+        "A": "他想买房。",
+        "B": "他遭受了震惊。",
+        "C": "他损失了一大笔钱。",
+        "D": "他做了一件不同寻常的好事。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What did the customer try to do when she got her check back?",
+      "options": {
+        "A": "Invite the waiter to a fancy dinner.",
+        "B": "Tell her story to the Daily News.",
+        "C": "Give some money to the waiter.",
+        "D": "Pay the waiter's school tuition."
+      },
+      "stem_cn": "当这位顾客拿回她的账单时,她试图做什么?",
+      "options_cn": {
+        "A": "邀请这位服务员去高档餐厅用餐。",
+        "B": "把她的故事告诉《每日新闻》。",
+        "C": "给这位服务员一些钱。",
+        "D": "支付这位服务员的学费。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What is Maref's vote on Tuesday about?",
+      "options": {
+        "A": "Whether or not to move to the state's mainland.",
+        "B": "How to keep the village from sinking into the sea.",
+        "C": "Where to get the funds for rebuilding their village.",
+        "D": "What to do about the rising level of the seawater."
+      },
+      "stem_cn": "Maref在周二的投票是关于什么的?",
+      "options_cn": {
+        "A": "是否搬迁到该州的大陆。",
+        "B": "如何防止村庄沉入海中。",
+        "C": "从哪里获得重建村庄的资金。",
+        "D": "如何应对海平面上升的问题。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "Why did Donna Barr say they wouldn't see the plan carried out any time soon?",
+      "options": {
+        "A": "It takes too long a time.",
+        "B": "It costs too much money.",
+        "C": "It has to wait for the state's final approval.",
+        "D": "It faces strong opposition from many villagers."
+      },
+      "stem_cn": "为什么Donna Barr说他们不会很快看到该计划得以实施?",
+      "options_cn": {
+        "A": "需要太长时间。",
+        "B": "花费太多资金。",
+        "C": "必须等待州政府的最终批准。",
+        "D": "面临许多村民的强烈反对。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What is the purpose of the social experiment?",
+      "options": {
+        "A": "To investigate whether people are grateful for help.",
+        "B": "To see whether people hold doors open for strangers.",
+        "C": "To explore ways of inducing gratitude in people.",
+        "D": "To find out how people express gratitude."
+      },
+      "stem_cn": "这项社会实验的目的是什么?",
+      "options_cn": {
+        "A": "调查人们是否对帮助心存感激。",
+        "B": "看人们是否会为陌生人扶门。",
+        "C": "探索激发人们感恩之心的方法。",
+        "D": "弄清人们如何表达感激之情。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What did Steve Foran and his team do in the experiment?",
+      "options": {
+        "A": "They induced strangers to talk with them.",
+        "B": "They helped 15 to 20 people in a bad mood.",
+        "C": "They held doors open for people at various places.",
+        "D": "They interviewed people who didn't say thank you."
+      },
+      "stem_cn": "Steve Foran和他的团队在实验中做了什么?",
+      "options_cn": {
+        "A": "他们引导陌生人与他们交谈。",
+        "B": "他们帮助了15到20个心情不好的人。",
+        "C": "他们在不同地点为人们扶门。",
+        "D": "他们采访了没有说谢谢的人。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What do we learn from the news report?",
+      "options": {
+        "A": "People can be educated to be grateful.",
+        "B": "Most people express gratitude for help.",
+        "C": "Most people have bad days now and then.",
+        "D": "People are ungrateful when in a bad mood."
+      },
+      "stem_cn": "我们从这则新闻报道中了解到什么?",
+      "options_cn": {
+        "A": "人们可以被教育得懂感恩。",
+        "B": "大多数人会对帮助表达感激。",
+        "C": "大多数人时不时会有糟糕的日子。",
+        "D": "人们在心情不好时不懂感恩。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What is the man's purpose for calling the woman?",
+      "options": {
+        "A": "To order a solar panel installation.",
+        "B": "To report a serious leak in his roof.",
+        "C": "To enquire about solar panel installations.",
+        "D": "To complain about the faulty solar panels."
+      },
+      "stem_cn": "男士打电话给女士的目的是什么?",
+      "options_cn": {
+        "A": "订购太阳能电池板安装服务。",
+        "B": "报告他屋顶有严重漏水。",
+        "C": "咨询太阳能电池板安装事宜。",
+        "D": "投诉有问题的太阳能电池板。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What do we learn about the man's neighbor from the conversation?",
+      "options": {
+        "A": "He plans to install solar panels.",
+        "B": "He owns a four-bedroom house.",
+        "C": "He saves $300 a year.",
+        "D": "He has a large family."
+      },
+      "stem_cn": "从对话中我们了解到关于男士邻居的什么信息?",
+      "options_cn": {
+        "A": "他计划安装太阳能电池板。",
+        "B": "他拥有一栋四居室房屋。",
+        "C": "他每年节省300美元。",
+        "D": "他有一个大家庭。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What is one of the man's chief concerns?",
+      "options": {
+        "A": "The service of the solar panel company.",
+        "B": "The cost of a solar panel installation.",
+        "C": "The maintenance of the solar panels.",
+        "D": "The quality of the solar panels."
+      },
+      "stem_cn": "男士主要关心的问题之一是什么?",
+      "options_cn": {
+        "A": "太阳能电池板公司的服务。",
+        "B": "太阳能电池板安装的费用。",
+        "C": "太阳能电池板的维护。",
+        "D": "太阳能电池板的质量。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "How long will it take a typical household to make back the initial investment?",
+      "options": {
+        "A": "One year and a half.",
+        "B": "Less than four years.",
+        "C": "Roughly six years.",
+        "D": "About five years."
+      },
+      "stem_cn": "典型家庭需要多长时间收回初始投资?",
+      "options_cn": {
+        "A": "一年半。",
+        "B": "不到四年。",
+        "C": "大约六年。",
+        "D": "大约五年。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "Where is the conversation taking place?",
+      "options": {
+        "A": "At a travel agency.",
+        "B": "At an Australian airport.",
+        "C": "At an airline transfer service.",
+        "D": "At a local transportation authority."
+      },
+      "stem_cn": "对话发生在哪里?",
+      "options_cn": {
+        "A": "在旅行社。",
+        "B": "在澳大利亚的机场。",
+        "C": "在航空公司中转服务处。",
+        "D": "在当地交通管理局。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "Why is the woman interested in package holidays?",
+      "options": {
+        "A": "She would be able to visit more scenic spots.",
+        "B": "She wanted to save as much money as possible.",
+        "C": "She would like to have everything taken care of.",
+        "D": "She wanted to spend more time with her family."
+      },
+      "stem_cn": "女士为什么对跟团游感兴趣?",
+      "options_cn": {
+        "A": "她能够游览更多景点。",
+        "B": "她想尽可能多地省钱。",
+        "C": "她希望一切都有人安排妥当。",
+        "D": "她想和家人度过更多时间。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "How long does the woman want to go for the holiday?",
+      "options": {
+        "A": "Four days.",
+        "B": "Five days.",
+        "C": "One week.",
+        "D": "Two weeks."
+      },
+      "stem_cn": "女士想去度假多长时间?",
+      "options_cn": {
+        "A": "四天。",
+        "B": "五天。",
+        "C": "一周。",
+        "D": "两周。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the woman say she likes about the holiday package?",
+      "options": {
+        "A": "Choosing some activities herself.",
+        "B": "Spending Christmas with Australians.",
+        "C": "Driving along the Great Ocean Road.",
+        "D": "Learning more about wine making."
+      },
+      "stem_cn": "女士说她喜欢这个度假套餐的什么?",
+      "options_cn": {
+        "A": "自己选择一些活动。",
+        "B": "与澳大利亚人一起过圣诞节。",
+        "C": "沿着大洋路自驾。",
+        "D": "更多地了解葡萄酒酿造。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What would tourists have to do when they visit Indonesia's Bali Island?",
+      "options": {
+        "A": "Bring their own bags when shopping.",
+        "B": "Use public transport when traveling.",
+        "C": "Dispose of their trash properly.",
+        "D": "Pay a green tax upon arrival."
+      },
+      "stem_cn": "游客在访问印度尼西亚的巴厘岛时必须做什么?",
+      "options_cn": {
+        "A": "购物时自带购物袋。",
+        "B": "旅行时使用公共交通。",
+        "C": "妥善处理自己的垃圾。",
+        "D": "抵达时缴纳绿色税。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What does the passage say about Indonesia?",
+      "options": {
+        "A": "It has not been doing a good job in recycling.",
+        "B": "It has witnessed a rise in accidental drowning.",
+        "C": "It has not attracted many tourists in recent years.",
+        "D": "It has experienced an overall decline in air quality."
+      },
+      "stem_cn": "文章关于印度尼西亚说了什么?",
+      "options_cn": {
+        "A": "它在回收利用方面做得不好。",
+        "B": "它目睹了意外溺水事件的增加。",
+        "C": "近年来它没有吸引很多游客。",
+        "D": "它经历了空气质量的整体下降。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What is the new plan Governor Koster recently announced?",
+      "options": {
+        "A": "To charge a small fee on plastic products in supermarkets.",
+        "B": "To ban single-use plastic bags and straws on Bali Island.",
+        "C": "To promote the use of paper bags for shopping.",
+        "D": "To impose a penalty on anyone caught littering."
+      },
+      "stem_cn": "Koster省长最近宣布的新计划是什么?",
+      "options_cn": {
+        "A": "对超市里的塑料产品收取小额费用。",
+        "B": "禁止在巴厘岛使用一次性塑料袋和吸管。",
+        "C": "推广使用纸袋购物。",
+        "D": "对任何被抓到乱扔垃圾的人处以罚款。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What do we learn from the passage about the North Atlantic right whale?",
+      "options": {
+        "A": "It gives birth to several babies at a time.",
+        "B": "It is the least protected mammal species.",
+        "C": "It's breeding grounds are now better preserved.",
+        "D": "It's population is now showing signs of increase."
+      },
+      "stem_cn": "从文章中我们对北大西洋露脊鲸了解到什么?",
+      "options_cn": {
+        "A": "它一次产下几头幼崽。",
+        "B": "它是受保护程度最低的哺乳动物物种。",
+        "C": "它的繁殖地现在得到了更好的保护。",
+        "D": "它的种群数量现在显示出增长的迹象。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What has caused the decline of the whale population in recent years?",
+      "options": {
+        "A": "Global warming.",
+        "B": "Polluted seawaters.",
+        "C": "Commercial hunting.",
+        "D": "Decreasing birthrates."
+      },
+      "stem_cn": "是什么导致了近年来鲸鱼种群数量的下降?",
+      "options_cn": {
+        "A": "全球变暖。",
+        "B": "海水污染。",
+        "C": "商业捕猎。",
+        "D": "出生率下降。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "Why do the whales travel to the Northeast Coast of America in the early spring?",
+      "options": {
+        "A": "To mate.",
+        "B": "To look for food.",
+        "C": "To escape hunters.",
+        "D": "To seek breeding grounds."
+      },
+      "stem_cn": "为什么鲸鱼在早春时节前往美国东北海岸?",
+      "options_cn": {
+        "A": "交配。",
+        "B": "寻找食物。",
+        "C": "逃避捕猎者。",
+        "D": "寻找繁殖地。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What does the passage say about Americans?",
+      "options": {
+        "A": "They prefer to drink low-fat milk.",
+        "B": "They think milk is good for health.",
+        "C": "They consume less milk these days.",
+        "D": "They buy more milk than the British."
+      },
+      "stem_cn": "这篇文章关于美国人说了什么?",
+      "options_cn": {
+        "A": "他们更喜欢喝低脂牛奶。",
+        "B": "他们认为牛奶有益健康。",
+        "C": "他们如今消耗的牛奶更少了。",
+        "D": "他们购买的牛奶比英国人多。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "How do Americans and British people think of milk nowadays?",
+      "options": {
+        "A": "It is not as healthy as once thought.",
+        "B": "It is not easy to stay fresh for long.",
+        "C": "It benefits the elderly more.",
+        "D": "It tends to make people fat."
+      },
+      "stem_cn": "美国人和英国人现在如何看待牛奶?",
+      "options_cn": {
+        "A": "它不像曾经认为的那样健康。",
+        "B": "它不容易长时间保持新鲜。",
+        "C": "它对老年人更有益。",
+        "D": "它往往使人发胖。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "Why does drinking milk cause pain in some people?",
+      "options": {
+        "A": "They drink too many pints every day.",
+        "B": "They are sensitive to certain minerals.",
+        "C": "They lack the necessary proteins to digest it.",
+        "D": "They have eaten food incompatible with milk."
+      },
+      "stem_cn": "为什么喝牛奶会导致某些人疼痛?",
+      "options_cn": {
+        "A": "他们每天喝太多品脱的牛奶。",
+        "B": "他们对某些矿物质敏感。",
+        "C": "他们缺乏消化牛奶所需的蛋白质。",
+        "D": "他们吃了与牛奶不相容的食物。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What does the passage say is a benefit of milk?",
+      "options": {
+        "A": "It is easier for sick people to digest.",
+        "B": "It provides some necessary nutrients.",
+        "C": "It is healthier than other animal products.",
+        "D": "It supplies the body with enough calories."
+      },
+      "stem_cn": "这篇文章说牛奶有什么好处?",
+      "options_cn": {
+        "A": "病人更容易消化它。",
+        "B": "它提供一些必需的营养素。",
+        "C": "它比其他动物产品更健康。",
+        "D": "它为身体提供足够的卡路里。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "choose",
+    "B": "constant",
+    "C": "disappointing",
+    "D": "distinguish",
+    "E": "exhausting",
+    "F": "experienced",
+    "G": "negative",
+    "H": "outcome",
+    "I": "pattern",
+    "J": "plural",
+    "K": "repeatedly",
+    "L": "rewarded",
+    "M": "separately",
+    "N": "simply",
+    "O": "undertaken"
+  },
+  "cloze_passage": "When my son completes a task, I can't help but praise him. It's only natural to give praise where praise is due, right? But is there such a thing as too much praise?\nAccording to psychologist Katherine Phillip, children don't benefit from 26 praise as much as we'd like to think. \"Parents often praise, believing they are building their child's self-confidence. However, over-praising can have a 27 effect,\" says Phillip. \"When we use the same praise 28 , it may become empty and no longer valued by the child. It can also become an expectation that anything they do must be 29 with praise. This may lead to the child avoiding taking risks due to fear of 30 their parents.\"\nDoes this mean we should do away with all the praise? Phillip says no. \"The key to healthy praise is to focus on the process rather than the 31 . It is the recognition of a child's attempt, or the process in which they achieved something, that is essential,\" she says. \"Parents should encourage their child to take the risks needed to learn and grow.\"\nSo how do we break the 32 of praise we're all so accustomed to? Phillip says it's important to 33 between \"person praise\" and \"process praise\". \"Person praise is 34 saying how great someone is. It's a form of personal approval. Process praise is acknowledgement of the efforts the person has just 35 . Children who receive person praise are more likely to feel shame after losing,\" says Phillip.",
+  "long_reading_passage": "A) Too often still, we think we know what poverty looks like. It's the way we've been taught, the images we've been force-fed for decades. The chronically homeless. The undocumented immigrant. The urban poor, usually personified as a woman of color, the \"welfare queen\" politicians still too often reference.\nB) But as income inequality rises to record levels in the United States, even in the midst of a record economic expansion, those familiar images are outdated, hurtful, and counterproductive to focusing attention on solutions and building ladders of opportunity.\nC) Today's faces of income inequality and lack of opportunity look like all of us. It's Anna Landre, a disabled Georgetown University student fighting to keep health benefits that allow her the freedom to live her life. It's Tiffanie Standard, a counselor for young women of color in Philadelphia who want to be tech entrepreneurs—but who must work multiple jobs to stay afloat. It's Ken Outlaw, a welder in rural North Carolina whose dream of going back to school at a local community college was dashed by Hurricane Florence—just one of the extreme weather events that have tipped the balance for struggling Americans across the nation.\nD) If these are the central characters of our story about poverty, what layers of perceptions, myths, and realities must we unearth to find meaningful solutions and support? In pursuit of revealing this complicated reality, Mothering Justice, led by women of color, went last year to the state capital in Lansing, Michigan, to lobby on issues that affect working mothers. One of the Mothering Justice organizers went to the office of a state representative to talk about the lack of affordable childcare—the vestiges(痕迹) of a system that expected mothers to stay home with their children while their husbands worked. A legislative staffer dismissed the activist's concerns, telling her \"my husband took care of that—I stayed home.\"\nE) That comment, says Mothering Justice director Danielle Atkinson, \"was meant to shame\" and relied on the familiar notion that a woman of color concerned about income inequality and programs that promote mobility must by definition be a single mom, probably with multiple kids. In this case, the Mothering Justice activist happened to be married. And in most cases in the America of 2019, the images that come to mind when we hear the words poverty or income inequality fail miserably in reflecting a complicated reality: poverty touches virtually all of us. The face of income inequality, for all but a very few of us, is the one we each see in the mirror.\nF) How many of us are poor in the U.S.? It depends on who you ask. According to the Census Bureau, 38 million people in the U.S. are living below the official poverty thresholds. Taking into account economic need beyond that absolute measure, the Institute for Policy Studies found that 140 million people are poor or low-income. That's almost half the U.S. population.\nG) Whatever the measure, within that massive group, poverty is extremely diverse. We know that some people are more affected than others, like children, the elderly, people with disabilities, and people of color.\nH) But the fact that 4 in 10 Americans can't come up with $400 in an emergency is a commonly cited statistic for good reason: economic instability stretches across race, gender, and geography. It even reaches into the middle classes, as real wages have stagnated(不增长) for all but the very wealthy and temporary spells of financial instability are not uncommon.\nI) Negative images remain of who is living in poverty as well as what is needed to move out of it. The big American myth is that you can pull yourself up by your own efforts and change a bad situation into a good one. The reality is that finding opportunity without help from families, friends, schools, and community is virtually impossible. And the playing field is nothing close to level.\nJ) The FrameWorks Institute, a research group that focuses on public framing of issues, has studied what sustains stereotypes and narratives of poverty in the United Kingdom. \"People view economic success and wellbeing in life as a product of choice, willpower, and drive,\" says Nat Kendall-Taylor, CEO of FrameWorks. \"When we see people who are struggling,\" he says, those assumptions \"lead us to the perception that people in poverty are lazy, they don't care, and they haven't made the right decisions.\"\nK) Does this sound familiar? Similar ideas surround poverty in the U.S. And these assumptions give a false picture of reality. \"When people enter into that pattern of thinking,\" says Kendall-Taylor, \"it's cognitively comfortable to make sense of issues of poverty in that way. It creates a kind of cognitive blindness—all of the factors external to a person's drive and choices that they've made become invisible and fade from view.\"\nL) Those external factors include the difficulties accompanying low-wage work or structural discrimination based on race, gender, or ability. Assumptions get worse when people who are poor use government benefits to help them survive. There is a great tension between \"the poor\" and those who are receiving what has become a dirty word: \"welfare.\"\nM) According to the General Social Survey, 71 percent of respondents believe the country is spending too little on \"assistance to the poor\". On the other hand, 22 percent think we are spending too little on \"welfare\": 37 percent believe we are spending too much.\nN) \"Poverty has been interchangeable with people of color—specifically black women and black mothers,\" says Atkinson of Mothering Justice. It's true that black mothers are more affected by poverty than many other groups, yet they are disproportionately the face of poverty. For example, Americans routinely overestimate the share of black recipients of public assistance programs.\nO) In reality, most people will experience some form of financial hardship at some point in their lives. Indeed, people tend to dip in and out of poverty, perhaps due to unexpected obstacles like losing a job, or when hours of a low-wage job fluctuate.\nP) Something each of us can do is to treat each other with the dignity and sympathy that is deserved and to understand deeply that the issue of poverty touches all of us.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "Boredom has, paradoxically, become quite interesting to academics lately. In early May, London's Boring Conference celebrated seven years of delighting in dullness. At this event, people flocked to talks about weather, traffic jams and vending-machine sounds, among other sleep-inducing topics.\nWhat, exactly, is everybody studying? One widely accepted psychological definition of boredom is \"the distasteful experience of wanting, but being unable, to engage in satisfying activity.\" But how can you quantify a person's boredom level and compare it with someone else's? In 1986, psychologists introduced the Boredom Proneness Scale, designed to measure an individual's overall tendency to feel bored. By contrast, the Multidimensional State Boredom Scale, developed in 2008, measures a person's feelings of boredom in a given situation.\nBoredom has been linked to behavior issues including inattentive driving, mindless snacking, excessive drinking, and addictive gambling. In fact, many of us would choose pain over boredom. One team of psychologists discovered that two-thirds of men and a quarter of women would rather self-administer electric shocks than sit alone with their thoughts for 15 minutes. Researching this phenomenon, another team asked volunteers to watch boring, sad, or neutral films, during which they could self-administer electric shocks. The bored volunteers shocked themselves more and harder than the sad or neutral ones did.\nBut boredom isn't all bad. By encouraging self-reflection and daydreaming, it can spur creativity. An early study gave participants abundant time to complete problem-solving and word-association exercises. Once all the obvious answers were exhausted, participants gave more and more inventive answers to combat boredom. A British study took these findings one step further, asking subjects to complete a creative challenge (coming up with a list of alternative uses for a household item). One group of subjects did a boring activity first, while the others went straight to the creative task. Those whose boredom pumps had been primed were more productive.\nIn our always-connected world, boredom may be a hard-to-define state, but it is a fertile one. Watch paint dry or water boil, or at least put away your smartphone for a while, and you might unlock your next big idea.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "When they don't have the chance to do what they want.",
+        "B": "When they don't enjoy the materials they are studying.",
+        "C": "When they experience something unpleasant.",
+        "D": "When they engage in some routine activities."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Determination.",
+        "B": "Concentration.",
+        "C": "Mental deterioration.",
+        "D": "Harmful conduct."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Volunteers prefer watching a boring movie to sitting alone deliberating.",
+        "B": "Many volunteers choose to hurt themselves rather than endure boredom.",
+        "C": "Male volunteers are more immune to the effects of boredom than females.",
+        "D": "Many volunteers are unable to resist boredom longer than fifteen minutes."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "It stimulates memorization.",
+        "B": "It allows time for relaxation.",
+        "C": "It may promote creative thinking.",
+        "D": "It may facilitate independent learning."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Stop idling and think big.",
+        "B": "Unlock one's smartphone.",
+        "C": "Look around oneself for stimulation.",
+        "D": "Allow oneself some time to be bored."
+      }
+    }
+  ],
+  "reading_passage_2": "Forests in countries like Brazil and the Congo get a lot of attention from environmentalists, and it is easy to see why. South America and sub-Saharan Africa are experiencing deforestation on an enormous scale: every year almost 5 million hectares are lost. But forests are also changing in rich Western countries. They are growing larger, both in the sense that they occupy more land and that the trees in them are bigger. What is going on?\nForests are spreading in almost all Western countries, with the fastest growth in places that historically had rather few trees. In 1990 28% of Spain was forested; now the proportion is 37%. In both Greece and Italy, the growth was from 26% to 32% over the same period. Forests are gradually taking more land in America and Australia. Perhaps most astonishing is the trend in Ireland. Roughly 1% of that country was forested when it became independent in 1922. Now forests cover 11% of the land, and the government wants to push the proportion to 18% by the 2040s.\nTwo things are fertilising this growth. The first is the abandonment of farmland, especially in high, dry places where nothing grows terribly well. When farmers give up trying to earn a living from farming or herding, trees simply move in. The second is government policy and subsidy. Throughout history, governments have protected and promoted forests for diverse reasons, ranging from the need for wooden warships to a desire to promote suburban house-building. Nowadays forests are increasingly welcome because they suck in carbon pollution from the air. The justifications change, the desire for more trees remains constant.\nThe greening of the West does not delight everyone. Farmers complain that land is being taken out of use by generously subsidised tree plantations. Parts of Spain and Portugal suffer from terrible forest fires. Others simply dislike the appearance of forests planted in neat rows. They will have to get used to the trees, however. The growth of Western forests seems almost as unstoppable as deforestation elsewhere.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "Rich countries are stripping poor ones of their resources.",
+        "B": "Forests are fast shrinking in many developing countries.",
+        "C": "Forests are eating away the fertile farmland worldwide.",
+        "D": "Rich countries are doing little to address deforestation."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "Those that have newly achieved independence.",
+        "B": "Those that have the greatest demand for timber.",
+        "C": "Those that used to have the lowest forest coverage.",
+        "D": "Those that provide enormous government subsidies."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "The government's advocacy.",
+        "B": "The use of wood for fuel.",
+        "C": "The favourable climate.",
+        "D": "The green movement."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Their unique scenic beauty.",
+        "B": "Their use as fruit plantations.",
+        "C": "Their capability of improving air quality.",
+        "D": "Their stable supply of building materials."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Deserts in sub-Saharan Africa will diminish gradually.",
+        "B": "It will play a more and more important role in people's lives.",
+        "C": "Forest destruction in the developing world will quickly slow down.",
+        "D": "Developed and developing countries are moving in opposite directions."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2020年12月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 春节前夕吃团圆饭是中国人的传统。团圆饭是一年中最重要的晚餐,也是家庭团聚的最佳时机,家人生活在不同地方的家庭尤其如此。团圆饭上的菜肴丰富多样,其中有些菜肴有特殊含义。例如,鱼是不可缺少的一道菜,因为汉语中的\"鱼\"字和\"余\"字听上去一样。在中国的许多地方,饺子也是一道重要的佳肴,因为饺子象征着财富和好运。",
+  "answers": {
+    "1": "D",
+    "2": "C",
+    "3": "A",
+    "4": "B",
+    "5": "A",
+    "6": "C",
+    "7": "B",
+    "8": "C",
+    "9": "D",
+    "10": "B",
+    "11": "D",
+    "12": "A",
+    "13": "C",
+    "14": "D",
+    "15": "A",
+    "16": "D",
+    "17": "A",
+    "18": "B",
+    "19": "D",
+    "20": "C",
+    "21": "B",
+    "22": "C",
+    "23": "A",
+    "24": "C",
+    "25": "B",
+    "26": "B",
+    "27": "G",
+    "28": "K",
+    "29": "L",
+    "30": "C",
+    "31": "H",
+    "32": "I",
+    "33": "D",
+    "34": "N",
+    "35": "O",
+    "36": "E",
+    "37": "H",
+    "38": "M",
+    "39": "J",
+    "40": "D",
+    "41": "F",
+    "42": "N",
+    "43": "I",
+    "44": "C",
+    "45": "L",
+    "46": "A",
+    "47": "D",
+    "48": "B",
+    "49": "C",
+    "50": "D",
+    "51": "B",
+    "52": "C",
+    "53": "A",
+    "54": "C",
+    "55": "D"
+  },
+  "listening_script": {
+    "en": "A waiter has returned a check worth nearly $424,000 to the retired social worker who lost it. The waiter found a bank envelope while cleaning off a table last Saturday at a restaurant. He ran outside but the customer was gone. He opened the envelope and got a shock. After an unsuccessful search, the restaurant's owner called the Daily News for help. The \"relieved\" customer was reunited with her check on Wednesday. It contained money from her apartment sale, already planned for a down payment on a new home. The customer did not tip the waiter after her meal. She tried to give him money later on, but he graciously declined. The waiter, who's working his way through school, did accept the customer's apology and gratitude and said he was happy to have helped her.\nThe village of Maref in Alaska voted on Tuesday to move to the state's mainland. The move is due to global warming and rising sea levels. Most of the village's 169 registered voters took part in the town hall meeting. They decided in a vote of 89 to 78 to move from their land on Sarichef Island, near the Arctic Circle. Maref Council Secretary Donna Barr said the vote was largely symbolic. It will be costly financially to the community. \"About 15 years ago, they estimated the cost at $180 million. I would figure it's much higher now,\" Barr said. \"We don't see the move happening in our lifetime because of the funding.\" The village's roughly 650 residents have seen warming temperatures melt sea ice and permanently frozen land. This has resulted in houses falling into the water. At least 31 villages in Alaska face \"immediate threats\" due to climate change, the Government Accountability Office reported in 2009.\nA man in Halifax, Canada, wanted to find out if people were thankful for someone holding the door open for them. The social experiment showed that 99 out of 100 people expressed gratitude. \"I didn't think we were going to get 99. I don't know why, but I was pleasantly surprised because it went beyond just 'thank you.' People got into conversations with us,\" said Steve Foran, CEO of Gratitude at Work. \"What we know from research is that from grateful people come good things,\" he said. \"A simple way to induce gratitude in people is opening doors and so we went to six places and opened the doors for people.\" For the experiment, Foran's team went to a shopping center, a mall, two office buildings, and a coffee shop. The door was held for 15 to 20 people at a time at each location. \"We did have one that didn't say thank you. We're not here to judge them because on any given day, that could be me or you. I suspect out of the 100 people, there were probably a bunch of them having a bad day, but grateful people make people grateful,\" said Foran.\nW: Rays Solar. Lisa's speaking. How can I help?\nM: Hi, my name is Winston. I wish to enquire about solar panel installations.\nW: Yes. What would you like to know?\nM: Well. My neighbor installed panels on his roof about a year ago in order to power his hot water. He tells me it has saved him over $500 thus far. Does that sound about right to you?\nW: Well. I'm not familiar with your neighbor or his particular setup, but that amount is definitely possible. I can tell you that the average four-bedroom house may typically have a roof with 50 square meters of surface area. Four panels on one side of that roof could save a family of four around $300 a year.\nM: OK. That sounds about right then. My house is about the size you described, but my neighbor's is bigger. I'm not sure how many panels he has up there, but he does have a large family of six.\nW: Are you interested in installing some solar panels on your roof, sir?\nM: Yes, I'm considering it.\nW: If you wish to come into our office, we could show you the different solutions we offer.\nM: OK. I might do that. But just quickly, if you don't mind, could you tell me approximately how much a typical installation costs, like, say, four panels?\nW: Prices do vary depending on different factors, but as a rough estimate, it's around $2,000. But you know a typical household will make back that initial investment in about five years.\nM: OK. I see. Thank you.\nM: Good afternoon. Sorry to have kept you waiting. How can I help you?\nW: Oh, no problem. I'm interested in booking a holiday to Australia and wonder if you could tell me what deals you have.\nM: Sure. Are you only looking for flights or a package holiday with everything included?\nW: When you say \"everything,\" what do you mean?\nM: Well, a package holiday would include your flights, hotels, meals, day trips to different places of interest and transport to and from the airport.\nW: Yeah, that sounds pretty good. I'm going with my family, so it would be nice to have everything taken care of. So, what sort of deals do you have for package holidays then?\nM: All sorts, really. How long do you want to go for and what dates?\nW: Two weeks around Christmas time would be great.\nM: Okay, let me check that for you. Here's one, 14 nights in southeastern Australia. Five nights in Sydney and five nights in Melbourne, and then for the other four nights you can choose from a list of trips to other places nearby. You could visit Canberra, for example, or the Blue Mountains, or you could go for a drive down the Great Ocean Road. Also, if you're interested in wine, you could go on a tour of the places where they grow grapes and make wine.\nW: That sounds great. It's good we can choose some activities ourselves.\nTourists taking a holiday in the Indonesian island of Bali are facing a new $14-per-person tax when they arrive on the holiday island from next year. But this is a green tax, which Bali Governor Wayan Koster has been working on for months, and which is designed to help clean up the island's natural environment, and with good reason, too. Indonesia is drowning in plastics. Recycling is not one of the country's strong points. It's not uncommon to be offered many more plastic bags than one could ever need when visiting supermarkets and shopping malls. But, slowly, things are starting to change for the better. Back in 2016, the medium-sized city of Banjarmasin banned single-use plastic bags. The city of Bogor followed suit in 2018. A few months ago, Koster announced a plan that would not only ban single-use plastic bags from supermarkets and convenience stores, but plastic bags and straws across the island. The regulation will come into full effect next month. \"We received a fast and quick response from the Balinese people. Not only positive responses from the Balinese, we received good responses from the central government, other local governments and even from overseas.\" Koster told the Sydney Morning Herald this week during an interview. The governor is a determined environmentalist and he has more laws planned to protect the island's waterways, in particular, and to support the introduction of electric vehicles too.\nAn endangered species of whale is experiencing a small-baby boom off the coast of America. The North Atlantic right whale is one of the rarest species of whale on the planet, numbering only about 411. But the Center for Coastal Studies said Friday that its aerial survey team spotted a mum with two babies in Cape Cod Bay a day earlier. That brings the number seen in nearby waters alone this year to three. That's big news because the whale population has been falling, and no baby whales were seen last year. In all, seven baby whales have been spotted so far this year. The whale population has become endangered due to commercial whaling activities in recent years. This is because they are sometimes hunted for their meat or their skin. Over-hunting could lead to the disappearance of the whale population, possibly causing major problems to the global food chain. The whales give birth off the Southeast Coast of America in the winter and travel to feeding grounds off the Northeast Coast in the early spring. The Northeast Coast is a critically important source of food. The animals often feed close to shore. This provides watchers on land with \"unbeatable views of one of the rarest of marine mammals.\" It's illegal to get within 1,500 feet of the animals without a federal research permit, so whale watchers are discouraged from attempting to get close to the whales.\nAn average person consumes 144 pints of milk a year, but 40% of that is poured onto cereal. And 60% of those people are children. But what was once advertised as nutritious is becoming unpopular. Americans drink 37% less milk than they did in the 1970s. And in the UK, dairy consumption overall has fallen by a third in the past 20 years. Milk is increasingly being described in a negative light. A recent blog suggested maybe people are drinking less milk because it is poisonous to many of us. Lactose is the sugar found in milk and dairy products. It needs a series of complex proteins to break it down. Without enough of these proteins, the lactose is broken down by bacteria in the human body. This can cause physical pain and produce gas in the stomach. However, after we have finished breast or formula feeding, most of us don't continue producing the complex proteins in our body, which are necessary to break down the lactose. Despite the problems in digesting milk, it does provide many benefits. Milk is nutritious. It contains vitamins A and D, as well as protein and isn't full of calories. You can test yourself by drinking a large glass of milk. If you get sick in your stomach within the next 24 hours, you are lacking in the proteins to digest milk.",
+    "cn": "一名服务员将一张价值近42.4万美元的支票归还给了遗失它的退休社工。上周六，这名服务员在餐厅清理桌子时发现了一个银行信封。他跑到外面，但顾客已经离开了。他打开信封后大吃一惊。在搜寻未果后,餐厅老板致电《每日新闻》寻求帮助。周三,这位\"如释重负\"的顾客与她的支票重聚。支票里的钱来自她公寓的售款,原本计划用作新房的首付。这位顾客用餐后没有给服务员小费。她后来试图给他钱,但他礼貌地拒绝了。这名正在半工半读的服务员接受了顾客的道歉和感谢,并表示很高兴能帮助到她。\nAlaska的Maref村在周二投票决定迁往该州大陆。此次搬迁是由于全球变暖和海平面上升。该村169名登记选民中的大多数参加了市政厅会议。他们以89票对78票的结果决定从北极圈附近Sarichef岛上的土地搬迁。Maref委员会秘书Donna Barr表示，这次投票在很大程度上具有象征意义。这将给社区带来巨大的财政负担。\"大约15年前,他们估计费用为1.8亿美元。我认为现在肯定要高得多，\"Barr说。\"由于资金问题，我们认为这次搬迁不会在我们有生之年发生。\"该村约650名居民目睹了气温升高导致海冰融化和永久冻土消融。这导致房屋掉入水中。美国政府问责办公室在2009年报告称，Alaska至少有31个村庄因气候变化面临\"直接威胁\"。\n加拿大Halifax的一名男子想要了解人们是否会对为他们开门的人表示感谢。这项社会实验表明,100人中有99人表达了感激之情。\"我没想到会得到99个,'感恩职场'(Gratitude at Work)首席执行官Steve Foran说,'我不知道为什么,但我感到惊喜,因为人们的反应不仅仅是说声'谢谢',他们还和我们交谈。'他说:'研究表明,心怀感恩的人会带来美好的事物。'他说:'引发人们感恩之情的一个简单方法就是为他们开门,所以我们去了六个地方为人们开门。'在这项实验中,Foran的团队前往了一个购物中心、一个商场、两栋办公楼和一家咖啡店。在每个地点,他们每次为15到20人开门。'确实有一个人没有说谢谢。我们不是来评判他们的,因为在任何一天,那个人可能就是我或你。我估计在这100人中,可能有一些人正在经历糟糕的一天,但心怀感恩的人会让其他人也心怀感恩,'Foran说。\nW: Rays Solar,我是Lisa。有什么可以帮您?\nM: 你好,我叫Winston。我想咨询一下太阳能板安装的事。\nW: 好的。您想了解什么?\nM: 嗯,我邻居大概一年前在他屋顶上装了太阳能板,用来给热水供电。他告诉我到目前为止已经省了500多美元。这听起来对吗?\nW: 嗯,我不了解您邻居的情况或他的具体配置,但这个金额是完全有可能的。我可以告诉您,一般四居室的房子屋顶表面积通常有50平方米。在屋顶一侧安装四块太阳能板,一个四口之家每年大约能省300美元。\nM: 好的,那听起来差不多。我家大概是您说的那个大小,但我邻居家更大。我不确定他屋顶上装了多少块板,但他家有六口人,是个大家庭。\nW: 先生,您有兴趣在您的屋顶上安装太阳能板吗?\nM: 是的,我在考虑。\nW: 如果您愿意来我们办公室,我们可以向您展示我们提供的不同方案。\nM: 好的,我可能会去。但如果您不介意的话,能不能快速告诉我大概的安装费用是多少,比如说四块板?\nW: 价格会因不同因素而有所变化,但粗略估计大约是2000美元。不过您知道,一般家庭大约五年就能收回最初的投资。\nM: 好的,明白了。谢谢。\nM: 下午好。抱歉让您久等了。有什么可以帮您的吗？\nW: 哦，没关系。我想预订去澳大利亚的假期，想了解一下你们有什么优惠套餐。\nM: 当然。您只是想订机票，还是想要包含所有服务的套餐假期？\nW: 您说的\"所有服务\"是指什么？\nM: 嗯，套餐假期会包括您的机票、酒店、餐食、去各个景点的一日游以及机场往返接送。\nW: 是的，听起来很不错。我要和家人一起去，所以如果一切都安排好了就太好了。那么，套餐假期有什么优惠呢？\nM: 各种各样的都有。您想去多长时间，什么日期？\nW: 圣诞节前后两周就很好。\nM: 好的，让我给您查一下。这有一个，在澳大利亚东南部住14晚。在悉尼住5晚，在墨尔本住5晚，然后剩下的4晚您可以从附近其他地方的行程清单中选择。比如您可以去堪培拉，或者蓝山，或者沿着大洋路自驾游。另外，如果您对葡萄酒感兴趣，还可以去参观葡萄种植和酿酒的地方。\nW: 听起来很棒。我们能自己选择一些活动真不错。\n明年起，前往印度尼西亚Bali岛度假的游客抵达这个度假岛屿时将面临每人14美元的新税费。但这是一项绿色税收，Bali省长Wayan Koster为此已经筹备了数月，旨在帮助清理该岛的自然环境，而且理由充分。印度尼西亚正被塑料淹没。回收利用并非该国的强项。在超市和购物中心购物时，被提供的塑料袋数量远超实际需要的情况并不罕见。但情况正在慢慢好转。早在2016年，中等规模城市Banjarmasin就禁止了一次性塑料袋。Bogor市于2018年效仿。几个月前,Koster宣布了一项计划,不仅要在超市和便利店禁止一次性塑料袋,还要在全岛范围内禁止塑料袋和吸管。该法规将于下月全面生效。\"我们收到了Bali人民快速而迅捷的回应。不仅有来自Bali人的积极反馈,我们还收到了中央政府、其他地方政府甚至海外的良好反馈。\"Koster本周在接受《悉尼先驱晨报》采访时表示。这位省长是一位坚定的环保主义者,他还计划制定更多法律来保护该岛的水域,特别是支持引入电动汽车。\n一种濒危鲸鱼物种正在美国海岸附近经历一次小规模的婴儿潮。北大西洋露脊鲸是地球上最稀有的鲸鱼物种之一,数量仅约411头。但海岸研究中心周五表示,其空中调查团队前一天在科德角湾发现了一头母鲸和两头幼鲸。这使得今年仅在附近水域发现的幼鲸数量达到三头。这是个重大消息,因为鲸鱼数量一直在下降,而去年没有发现任何幼鲸。到目前为止,今年总共发现了七头幼鲸。近年来,由于商业捕鲸活动,鲸鱼数量已变得濒危。这是因为它们有时会因肉或皮被猎捕。过度捕猎可能导致鲸鱼种群消失,可能对全球食物链造成重大问题。这些鲸鱼在冬季于美国东南海岸产仔,并在早春前往东北海岸的觅食地。东北海岸是极其重要的食物来源。这些动物经常在近岸觅食。这为陆地上的观察者提供了'观赏这种最稀有海洋哺乳动物之一的绝佳视野'。未经联邦研究许可,靠近这些动物1500英尺以内是违法的,因此不鼓励观鲸者试图接近这些鲸鱼。\n一个普通人每年消费144品脱牛奶，但其中40%被倒在麦片上。而这些人中60%是儿童。但曾经被宣传为营养食品的牛奶正变得不受欢迎。美国人喝的牛奶比20世纪70年代少了37%。而在英国，过去20年乳制品消费总体下降了三分之一。牛奶越来越多地被负面描述。最近一篇博客文章提出，也许人们喝更少牛奶是因为它对我们许多人来说有毒。乳糖是牛奶和乳制品中发现的糖。它需要一系列复杂的蛋白质来分解它。如果没有足够的这些蛋白质，乳糖会被人体内的细菌分解。这可能导致身体疼痛并在胃中产生气体。然而，在我们断奶或停止配方奶喂养后，我们大多数人不再继续在体内产生分解乳糖所必需的复杂蛋白质。尽管消化牛奶存在问题，它确实提供许多益处。牛奶有营养。它含有维生素A和D，以及蛋白质，并且不含大量卡路里。你可以通过喝一大杯牛奶来测试自己。如果你在接下来的24小时内胃部不适，你就缺乏消化牛奶的蛋白质。"
+  }
+}

@@ -1,0 +1,111 @@
+@use '@/styles/variables.scss' as *;
+
+.page {
+  min-height: 100vh;
+  padding-bottom: 48rpx;
+}
+
+// ---------- 搜索区 ----------
+.searchCard {
+  padding: 20rpx $page-padding 16rpx;
+  background: linear-gradient(180deg, rgba(79, 124, 255, 0.08), $color-bg-page 100%);
+}
+
+.searchBox {
+  display: flex;
+  align-items: center;
+  height: 80rpx;
+  background: $color-bg-card;
+  border-radius: $radius-button;
+  padding: 0 28rpx;
+  box-shadow: $shadow-card;
+}
+
+.searchIcon {
+  font-size: 30rpx;
+  margin-right: 12rpx;
+}
+
+.searchInput {
+  flex: 1;
+  height: 80rpx;
+  font-size: 28rpx;
+  color: $color-text-primary;
+}
+
+.clearBtn {
+  padding: 8rpx 12rpx;
+  font-size: 26rpx;
+  color: $color-text-tertiary;
+}
+
+.searchHint {
+  display: block;
+  margin-top: 12rpx;
+  font-size: 22rpx;
+  color: $color-text-tertiary;
+}
+
+// ---------- 九宫格 ----------
+.gridWrap {
+  padding: 8rpx $page-padding 0;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  padding: 24rpx 0;
+  box-shadow: $shadow-card;
+}
+
+.gridItem {
+  width: 33.33%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20rpx 0;
+
+  &:active {
+    opacity: 0.7;
+    transform: scale(0.96);
+  }
+}
+
+.gridIcon {
+  width: 88rpx;
+  height: 88rpx;
+  border-radius: $radius-lg;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 42rpx;
+  margin-bottom: 10rpx;
+}
+
+.gridName {
+  font-size: 24rpx;
+  color: $color-text-secondary;
+}
+
+// ---------- 搜索结果 ----------
+.resultList {
+  margin: 16rpx $page-padding 0;
+  border-radius: $radius-md;
+  overflow: hidden;
+  box-shadow: $shadow-card;
+}
+
+.resultHead {
+  padding: 20rpx 24rpx;
+  font-size: 24rpx;
+  color: $color-text-tertiary;
+  background: $color-bg-card;
+  border-bottom: 1rpx solid $color-divider;
+}
+
+.resultCount {
+  color: $color-primary;
+  font-weight: $font-weight-semibold;
+}

@@ -1,0 +1,156 @@
+@use '@/styles/variables.scss' as *;
+
+.page {
+  min-height: 100vh;
+  padding: 24rpx $page-padding 60rpx;
+}
+
+// ---------- 主卡 ----------
+.heroCard {
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  padding: 36rpx 32rpx;
+}
+
+.heroTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.word {
+  font-size: 52rpx;
+  font-weight: $font-weight-bold;
+  color: $color-primary-dark;
+}
+
+.phonetic {
+  display: block;
+  margin-top: 12rpx;
+  font-size: 27rpx;
+  color: $color-text-tertiary;
+}
+
+.meaning {
+  display: block;
+  margin-top: 22rpx;
+  font-size: 31rpx;
+  line-height: 1.6;
+  color: $color-text-primary;
+}
+
+.tagBox {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+  margin-top: 28rpx;
+}
+
+.tag {
+  display: flex;
+  align-items: center;
+  background: rgba(79, 124, 255, 0.08);
+  border-radius: $radius-round;
+  padding: 10rpx 22rpx;
+}
+
+.tagLabel {
+  font-size: 22rpx;
+  color: $color-primary;
+  margin-right: 10rpx;
+
+  &::after {
+    content: ' ';
+  }
+}
+
+.tagValue {
+  font-size: 24rpx;
+  color: $color-primary-dark;
+  font-weight: $font-weight-medium;
+}
+
+// ---------- 同根词 ----------
+.relCard {
+  margin-top: 24rpx;
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  overflow: hidden;
+}
+
+.relHead {
+  padding: 24rpx 28rpx 16rpx;
+  border-bottom: 1rpx solid $color-divider;
+}
+
+.relTitle {
+  font-size: 29rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+}
+
+.relSub {
+  display: block;
+  margin-top: 6rpx;
+  font-size: 22rpx;
+  color: $color-text-tertiary;
+}
+
+.relList {
+  // 行自带分割
+}
+
+.relItem,
+.relItemSelf {
+  display: flex;
+  align-items: center;
+  padding: 24rpx 28rpx;
+  border-bottom: 1rpx solid $color-divider;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.relItem {
+  &:active {
+    background: $color-bg-hover;
+  }
+}
+
+.relItemSelf {
+  background: rgba(79, 124, 255, 0.05);
+}
+
+.relMain {
+  flex: 1;
+  min-width: 0;
+}
+
+.relWord {
+  font-size: 28rpx;
+  font-weight: $font-weight-medium;
+  color: $color-text-primary;
+}
+
+.relMeaning {
+  display: block;
+  margin-top: 6rpx;
+  font-size: 24rpx;
+  color: $color-text-tertiary;
+}
+
+.relArrow {
+  font-size: 38rpx;
+  color: $color-text-disabled;
+}
+
+.selfTag {
+  font-size: 21rpx;
+  color: $color-primary;
+  background: rgba(79, 124, 255, 0.12);
+  border-radius: $radius-round;
+  padding: 6rpx 18rpx;
+}

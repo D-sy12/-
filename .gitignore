@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.swc/
+.pai/
+*.log
+.DS_Store

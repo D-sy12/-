@@ -1,0 +1,670 @@
+{
+  "id": "2025-06-1",
+  "writing": "Part I Writing (30 minutes) 英语四级2025年6月·第1套真题 Directions : Suppose your university is seeking students' opinions on the necessity of making College Chinese a compulsory course. You are now to write an essay to express your view. You will have 30 minutes for the task. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "How did Tariq make corn taste better?",
+      "options": {
+        "A": "By slapping some butter on it.",
+        "B": "By enhancing its nourishment.",
+        "C": "By growing it in South Dakota.",
+        "D": "By cooking it in vegetable oil."
+      },
+      "stem_cn": "Tariq 是如何让玉米味道更好的?",
+      "options_cn": {
+        "A": "在玉米上涂一些黄油。",
+        "B": "通过增强其营养价值。",
+        "C": "通过在 South Dakota 种植它。",
+        "D": "通过用植物油烹饪它。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "Why were Tariq and his family invited to South Dakota?",
+      "options": {
+        "A": "To introduce their corn to tourists.",
+        "B": "To attend an honorary ceremony.",
+        "C": "To share experience with other corn growers.",
+        "D": "To exhibit their corn at the state's Corn Palace."
+      },
+      "stem_cn": "为什么 Tariq 和他的家人被邀请到 South Dakota?",
+      "options_cn": {
+        "A": "向游客介绍他们的玉米。",
+        "B": "参加一个荣誉典礼。",
+        "C": "与其他玉米种植者分享经验。",
+        "D": "在该州的玉米宫展示他们的玉米。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What did Jordan Jax and Tarod Goodman do according to a news release?",
+      "options": {
+        "A": "Stole mail several times.",
+        "B": "Forged postal keys illegally.",
+        "C": "Attacked postmen on multiple occasions.",
+        "D": "Broke a number of postal collection boxes."
+      },
+      "stem_cn": "根据一则新闻稿，Jordan Jax 和 Tarod Goodman 做了什么?",
+      "options_cn": {
+        "A": "多次盗窃邮件。",
+        "B": "非法伪造邮政钥匙。",
+        "C": "多次袭击邮递员。",
+        "D": "破坏了多个邮政收集箱。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What do Jordan Jax and Tarod Goodman face?",
+      "options": {
+        "A": "A sentence for life.",
+        "B": "Loss of all their possessions.",
+        "C": "Twenty-three years' hard labor.",
+        "D": "Up to fifteen years in prison."
+      },
+      "stem_cn": "Jordan Jax 和 Tarod Goodman 面临什么?",
+      "options_cn": {
+        "A": "终身监禁。",
+        "B": "失去所有财产。",
+        "C": "二十三年苦役。",
+        "D": "最高十五年监禁。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "Why has the clothing industry come under attack?",
+      "options": {
+        "A": "It escapes regulation and misleads consumers.",
+        "B": "It ignores economically feasible recycling options.",
+        "C": "It creates waste and severely impacts the environment.",
+        "D": "It produces clothes affordable only to a tiny minority."
+      },
+      "stem_cn": "为什么服装行业受到抨击?",
+      "options_cn": {
+        "A": "它逃避监管并误导消费者。",
+        "B": "它忽视经济上可行的回收选择。",
+        "C": "它制造废物并严重影响环境。",
+        "D": "它生产的服装只有极少数人能够负担得起。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "Why did the researchers put forth such policies as production tax?",
+      "options": {
+        "A": "To cut consumers' expenses in buying quality clothes.",
+        "B": "To enable the whole fast-fashion industry to be sustainable.",
+        "C": "To incentivize manufacturers to be more consumer-friendly.",
+        "D": "To urge manufacturers and consumers to reduce waste."
+      },
+      "stem_cn": "为什么研究人员提出诸如生产税之类的政策?",
+      "options_cn": {
+        "A": "为了削减消费者购买优质服装的开支。",
+        "B": "为了使整个快时尚行业能够可持续发展。",
+        "C": "为了激励制造商更加关注消费者利益。",
+        "D": "为了敦促制造商和消费者减少废物。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What should be done first to eliminate the harm caused by the clothing industry?",
+      "options": {
+        "A": "Recognizing the impact on consumers.",
+        "B": "Identifying the source of the problem.",
+        "C": "Abandoning the current business model.",
+        "D": "Establishing powerful regulatory bodies."
+      },
+      "stem_cn": "要消除服装行业造成的危害,首先应该做什么?",
+      "options_cn": {
+        "A": "认识到对消费者的影响。",
+        "B": "找出问题的根源。",
+        "C": "放弃当前的商业模式。",
+        "D": "建立强有力的监管机构。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "Why is the woman complaining?",
+      "options": {
+        "A": "The city's rush-hour traffic is intolerable.",
+        "B": "She cannot avoid rush-hour traffic.",
+        "C": "The local government is inefficient.",
+        "D": "The city is too big to move around easily."
+      },
+      "stem_cn": "女士为什么在抱怨?",
+      "options_cn": {
+        "A": "这座城市的高峰时段交通令人无法忍受。",
+        "B": "她无法避开高峰时段的交通。",
+        "C": "当地政府效率低下。",
+        "D": "这座城市太大了,出行不便。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What does the woman suggest doing?",
+      "options": {
+        "A": "Upgrading subway carriages.",
+        "B": "Increasing the number of bus routes.",
+        "C": "Air conditioning the city's subway.",
+        "D": "Learning from other big cities."
+      },
+      "stem_cn": "女士建议做什么?",
+      "options_cn": {
+        "A": "升级地铁车厢。",
+        "B": "增加公交线路数量。",
+        "C": "为城市地铁安装空调。",
+        "D": "向其他大城市学习。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What do we learn about the man from the conversation?",
+      "options": {
+        "A": "He suffers from rush-hour crowding too.",
+        "B": "He is fortunate to live very near to work.",
+        "C": "He takes a half-hour bus ride to work.",
+        "D": "He is going to move closer to his office."
+      },
+      "stem_cn": "从对话中我们了解到男士的什么情况?",
+      "options_cn": {
+        "A": "他也深受高峰时段拥挤之苦。",
+        "B": "他很幸运住得离工作地点非常近。",
+        "C": "他乘坐半小时公交车上班。",
+        "D": "他打算搬到离办公室更近的地方。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What does the woman ask the man to do at the end of the conversation?",
+      "options": {
+        "A": "Recommend to her a good house near his office.",
+        "B": "Send her his housing agent's telephone number.",
+        "C": "Tell her exactly what kind of property to look for.",
+        "D": "Make sure the agent finds something good for her."
+      },
+      "stem_cn": "对话结束时女士要求男士做什么?",
+      "options_cn": {
+        "A": "向她推荐他办公室附近的好房子。",
+        "B": "把他的房产中介的电话号码发给她。",
+        "C": "准确告诉她应该寻找什么类型的房产。",
+        "D": "确保中介为她找到好房子。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What does the man say about Johnny?",
+      "options": {
+        "A": "He was remembered for the scar on his cheek.",
+        "B": "He received a heart operation a few days ago.",
+        "C": "He used to wear a sad face in school.",
+        "D": "He had some plastic surgery done."
+      },
+      "stem_cn": "男士对Johnny说了什么?",
+      "options_cn": {
+        "A": "他因脸颊上的疤痕而被人记住。",
+        "B": "他几天前接受了心脏手术。",
+        "C": "他在学校时常常一副悲伤的表情。",
+        "D": "他做了一些整形手术。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What does the woman find puzzling?",
+      "options": {
+        "A": "The man's deep sympathy for Johnny.",
+        "B": "The man's use of the expression 'fixed'.",
+        "C": "The man's covering up of what happened.",
+        "D": "The man's good memory of his childhood."
+      },
+      "stem_cn": "女士觉得什么令人困惑?",
+      "options_cn": {
+        "A": "男士对Johnny的深切同情。",
+        "B": "男士使用\"fixed\"这个表达。",
+        "C": "男士对所发生事情的掩饰。",
+        "D": "男士对童年时光的良好记忆。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What did the man think of Johnny's scar?",
+      "options": {
+        "A": "It gave him a noticeable smartness.",
+        "B": "It made him appear even more manly.",
+        "C": "It seemed to give him a certain uniqueness.",
+        "D": "It seemed to make up for his physical defects."
+      },
+      "stem_cn": "男士对Johnny的疤痕有何看法?",
+      "options_cn": {
+        "A": "它赋予了他明显的精明。",
+        "B": "它使他显得更加阳刚。",
+        "C": "它似乎赋予了他某种独特性。",
+        "D": "它似乎弥补了他的身体缺陷。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "How could we describe the speakers' attitude towards Johnny's girlfriend?",
+      "options": {
+        "A": "Liberal.",
+        "B": "Hostile.",
+        "C": "Indifferent.",
+        "D": "Critical."
+      },
+      "stem_cn": "我们可以如何描述说话者对Johnny女友的态度?",
+      "options_cn": {
+        "A": "宽容的。",
+        "B": "敌对的。",
+        "C": "漠不关心的。",
+        "D": "批评的。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "How did language come into being according to researchers?",
+      "options": {
+        "A": "Through deliberation.",
+        "B": "Through evolution.",
+        "C": "Through invention.",
+        "D": "Through collaboration."
+      },
+      "stem_cn": "根据研究人员的说法,语言是如何产生的?",
+      "options_cn": {
+        "A": "通过深思熟虑。",
+        "B": "通过进化。",
+        "C": "通过发明。",
+        "D": "通过协作。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "How did language start according to the first theory?",
+      "options": {
+        "A": "With people imitating sounds around them.",
+        "B": "With people interacting with animals close by.",
+        "C": "With people showing each other things nearby.",
+        "D": "With people trying to string sounds together."
+      },
+      "stem_cn": "根据第一种理论,语言是如何起源的?",
+      "options_cn": {
+        "A": "人们模仿周围的声音。",
+        "B": "人们与附近的动物互动。",
+        "C": "人们相互展示附近的事物。",
+        "D": "人们试图将声音串联起来。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "Why did people switch from gesturing to making sounds according to the more recent theory?",
+      "options": {
+        "A": "Making sounds can free one's hands for doing other things.",
+        "B": "Making sounds proves markedly easier than sign languages.",
+        "C": "Making sounds enables one to express their ideas more explicitly.",
+        "D": "Making sounds helps one communicate with people they can't see."
+      },
+      "stem_cn": "根据较新的理论,人们为什么从做手势转向发出声音?",
+      "options_cn": {
+        "A": "发出声音可以解放双手去做其他事情。",
+        "B": "发出声音明显比手语更容易。",
+        "C": "发出声音使人能够更明确地表达自己的想法。",
+        "D": "发出声音有助于人们与看不见的人交流。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "How would people describe someone who shows off their social status according to new research?",
+      "options": {
+        "A": "Well disciplined.",
+        "B": "Quite confident.",
+        "C": "Somewhat selfish.",
+        "D": "Highly intelligent."
+      },
+      "stem_cn": "根据新研究,人们会如何描述炫耀自己社会地位的人?",
+      "options_cn": {
+        "A": "纪律严明的",
+        "B": "相当自信的",
+        "C": "有些自私的",
+        "D": "高度聪明的"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "When were participants more likely to choose someone who signaled their wealth or status?",
+      "options": {
+        "A": "When they wanted to have a competitive team member.",
+        "B": "When they were looking for a cooperative workmate.",
+        "C": "When they found collaboration essential to them.",
+        "D": "When they were seeking someone to help them."
+      },
+      "stem_cn": "参与者在什么情况下更可能选择那些展示自己财富或地位的人?",
+      "options_cn": {
+        "A": "当他们想要一个有竞争力的团队成员时",
+        "B": "当他们在寻找一个合作的工作伙伴时",
+        "C": "当他们发现合作对自己至关重要时",
+        "D": "当他们在寻找能帮助自己的人时"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What should people do when sharing their wealth and status online?",
+      "options": {
+        "A": "Avoid frightening competitors.",
+        "B": "Make clear their social goal.",
+        "C": "Adopt persuasive strategies.",
+        "D": "Consider the consequences."
+      },
+      "stem_cn": "人们在网上分享自己的财富和地位时应该做什么?",
+      "options_cn": {
+        "A": "避免吓到竞争对手",
+        "B": "明确自己的社交目标",
+        "C": "采用有说服力的策略",
+        "D": "考虑后果"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What can we see in the oldest cave paintings?",
+      "options": {
+        "A": "Much evidence of humans capturing animals.",
+        "B": "More images of animals than humans.",
+        "C": "Fewer images of buildings than animals.",
+        "D": "Little proof of human fascination with animals."
+      },
+      "stem_cn": "我们能在最古老的洞穴壁画中看到什么?",
+      "options_cn": {
+        "A": "人类捕捉动物的大量证据。",
+        "B": "动物的图像多于人类的图像。",
+        "C": "建筑物的图像少于动物的图像。",
+        "D": "人类对动物着迷的证据很少。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What do we learn about the first-known collections of animals?",
+      "options": {
+        "A": "They were open to the public.",
+        "B": "They were primarily native.",
+        "C": "They were kept by royalty.",
+        "D": "They were hardly injured."
+      },
+      "stem_cn": "关于最早已知的动物收藏,我们了解到什么?",
+      "options_cn": {
+        "A": "它们向公众开放。",
+        "B": "它们主要是本地的。",
+        "C": "它们由皇室饲养。",
+        "D": "它们几乎没有受伤。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What might be the reason the Egyptian Queen created the zoo?",
+      "options": {
+        "A": "To enable the public to watch animals close by.",
+        "B": "To introduce to Egyptians animals from Punt.",
+        "C": "To protect the endangered animals.",
+        "D": "To show off her riches and power."
+      },
+      "stem_cn": "埃及女王创建动物园的原因可能是什么?",
+      "options_cn": {
+        "A": "使公众能够近距离观看动物。",
+        "B": "向埃及人介绍来自Punt的动物。",
+        "C": "保护濒危动物。",
+        "D": "炫耀她的财富和权力。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What do we learn about King Henry I's collection of animals in England?",
+      "options": {
+        "A": "It was part of the royal estate.",
+        "B": "It was a shelter for wild animals.",
+        "C": "It was the kingdom's best-equipped zoo.",
+        "D": "It was the first public exhibit of animals."
+      },
+      "stem_cn": "关于英格兰国王亨利一世的动物收藏,我们了解到什么?",
+      "options_cn": {
+        "A": "它是皇家庄园的一部分。",
+        "B": "它是野生动物的庇护所。",
+        "C": "它是王国中设备最齐全的动物园。",
+        "D": "它是第一个公开展出动物的地方。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "accepted",
+    "B": "audiences",
+    "C": "building",
+    "D": "complex",
+    "E": "constitutes",
+    "F": "deputies",
+    "G": "previously",
+    "H": "revolving",
+    "I": "samples",
+    "J": "selected",
+    "K": "solemn",
+    "L": "struggle",
+    "M": "suddenly",
+    "N": "understand",
+    "O": "vary"
+  },
+  "cloze_passage": "Psychologists have long been interested in how we construct our identities and the sorts of strategies that we use to present ourselves in society. New findings suggest that the kinds of 26 and strategic self-presentation behaviour we see in adults appear at a much younger age than 27 known.\nResearch shows that a child's awareness of social standing comes from adults. Like grown-ups, kids want to be 28 by those they admire. Interactive experiences may provide opportunities for children to learn about what 29 a desirable reputation and the kinds of strategies that are effective for 30 a good reputation in their social environment.\nFive-year-olds aren't just aware of their reputations, they also behave strategically to alter their outward image. They will 31 their behaviour in order to appear moral or socially good in the eyes of key observers. While we know that adults use a large variety of attributes to manage and create impressions, we don't yet know whether children 32 and use the fact that different attributes are valuable at different times to different 33 . It's important for us to further consider where in this process children succeed in controlling their reputation and where they 34 .\nA question to think about is, \"What happens even earlier than age five?\" Children don't just show up to the first day of kindergarten and have the idea of reputation pop 35 into existence. The logical question to ask is, \"What happens even earlier?\"",
+  "long_reading_passage": "A) Recently, a leading design federation in the UK warned that the UK could face a creative skills shortage, after the latest figures revealed a drop of almost 10 percent in students studying Design and Technology. These figures showed that the number of pupils that sat exams in Design and Technology fell 10 percent from 204,788 to 185,279 last year.\nB) Chief executive John Kampfner of the Creative Industries Federation thinks that this drop in figures has worrying implications for the skills pipeline in Britain's hugely successful arts and creative industries. He said, \"We already have skills shortages in many jobs such as animation(动画制作) and special effects.\" He added: \"Engineering, which requires a similar mix of creative and technical skills, also has recruitment problems.\"\nC) Many other designers and architects have expressed concern over the future supply of home-grown talent for UK firms, and industry bodies have pointed out that there has been a lack of roots-level support. However, if these designers had visited the Design Museum shop in London earlier this year their fears may have been eased. With £10 to spend, they could have bought a fascinating children's toy called \"Dazzle Racer\". An automotive cylinder(圆柱体), it included a wind-up, elastic(有弹性的)-band-powered mechanism, minimal parts, all 100 percent recycled, and lots of stickers. It was good fun, simple, eye-catching and very original.\nD) Well, you'd expect the Design Museum to commission and make some interesting items, but this one was different. Designed by a group of six Year 9 and Year 10 boys from Finchley Catholic High School, the toy was the winning entry in the museum's 2015 Design Ventura competition, which brings the business of design to life for students aged 13 to 16 by challenging them to develop a new creative, sustainable and commercially feasible product for the Design Museum shop and attracts hundreds of entries nationwide.\nE) \"We did Design Ventura in my previous school,\" says Liam Hourican, Finchley Catholic High School's design technology curriculum leader. \"Then when I changed schools four years ago, I introduced it here because it helps to develop so many skills.\"\nF) The theme for last year's competition was \"Move\", and Hourican began with three groups working in lunch breaks and after school before selecting the group with the most innovative idea. Each participating school may submit just one proposal. \"It's the taking part and doing the work which is important,\" he says. \"And I never dreamt we'd win.\"\nG) Catherine Ritman Smith, head of learning at the Design Museum, is expecting around 10,000 participants aged 13 to 16 to take part this year and says that the project—funded by Deutsche Bank as part of its youth engagement programme Born To Be—is the biggest event in the museum's calendar. \"We started Design Ventura with around 800 young people in 2010 and it has grown steadily since,\" she says. \"Teachers like it because the skills are all transferable and it helps to validate the value of design as a subject,\" she explains, telling me that nearly 600 schools have taken part so far.\nH) So how does the competition work? A single-word theme is announced in the summer. This year it is \"Change\". Schools work with groups to produce imaginative design ideas for a product in simple materials that could sell for £10 in the Design Museum shop. Participating schools then register by November and eventually submit their design idea. Along the way there is training and support for teachers and tutoring for students from designers. An additional bonus is when the winners see their design on sale in the spring of the following year.\nI) Hourican and his pupils have happy memories of spending a whole day at the museum, having been selected as one of 10 shortlisted schools to present their idea to a panel of judges, including designer Jasper Conran. Then they worked with the Kin Design Studio in Shoreditch, met designers at their school and attended a lunch with Deutsche Bank employees. The students helped to make decisions and there were plenty of discussions—they changed the product's name, for example.\nJ) \"One of the really useful things about this competition,\" says Hourican, \"is that there's a commercial element because the product is going on sale for real and the boys had to learn about budgeting and marketing, as well as designing their game.\" Profits go to charity. \"The winning team chooses where it wants the profits to go,\" says Ritman Smith. \"The Finchley Catholic High School product raised about £1,000 for Great Ormond Street Hospital.\" Winning entries in past years have included a make-your-own cloth kit called Dove Bunting and a threefold, wallet-sized travel game with goals at each end, called Badoiiing.\nK) It costs the schools nothing to participate in Design Ventura; the professional designers provide their services for free. Among them are architect Asif Khan, a Design Museum trustee who has worked as designer-in-residence at the museum, helping emerging architects. He has recently been commissioned to design the new Museum of London building in Smithfield.\nL) Another is television presenter and interior designer Naomi Cleaver, who is one of the competition's judges. \"I'm very keen to encourage young people,\" she says, observing that design brings together other subjects such as literature, art, history, geography and science. \"Now that design education is limited in the curriculum, I'm all in favour of competitions such as Design Ventura, which helps to bring the standard curriculum to life,\" says Cleaver. \"And the judging day is terrific fun. Some of these students are very imaginative. One group presented their idea in the form of a puppet show and we see some marvelous demonstration models. I'm always impressed by the levels of confidence and the support the students get from their teachers.\"\nM) Ritman Smith adds: \"Design technology has become a tricky subject to make a case for, and we've heard of departments closing in some schools. We find that if pupils take part in Design Ventura in Year Nine it can be the trigger which leads them to opt for it at General Certificate of Secondary Education, so we are helping to keep alive something which is crucial to industry and entrepreneurship.\"",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "New research suggests that pandas may be at risk of dying out because they are too comfortable. Experts say too much happiness can stop the bears from searching for new mates.\nEnvironmentalists have long believed that building roads or homes near the bears may threaten their survival by \"reducing or fragmenting their natural: habitats\", The Times reported. But the new research suggests that a \"modest degree of discomfort and fragmentation\" may actually help preserve panda populations.\nThe research was conducted by scientists from Michigan State University. It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity.\nFor their study—outlined in a paper in the journal Conservation Biology—the team looked at genetic diversity and spread among a Chinese panda population. The ideal level of perfectly livable habitat was found to be only 80% of an area, with the remainder either too harsh or too affected by human activity.\nThe experts concluded that pandas should ideally \"be happy enough to thrive, but not so content that they don't want to move around and find new mates\".\nTheir conclusions about what The Guardian described as this \"sweet spot\" are in line with the so-called Goldilocks principle: that there can be just the right amount of something. The concept has been applied to a wide range of disciplines, from developmental psychology to economics and engineering.\nClaudio Sillero, a professor of conservation biology at Oxford University, told the newspaper that the new findings could have implications beyond panda conservation.\n\"Most large animals that eat meat live in increasingly fragmented landscapes,\" said Sillero, who was not involved in the research. \"It may well be that the messy nature of their relationship with human efforts induces more animals to scatter or travel further, and might result in greater genetic connectivity and enhanced population persistence.\"\nThe most recent count of pandas found that there were more than 1,800 left in the wild, putting them on the list of vulnerable, but not endangered, species.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "They are losing habitat due to the building of roads and houses.",
+        "B": "They have stopped seeking new mates for reproduction.",
+        "C": "They may not adapt to the fragmentation of their habitat.",
+        "D": "They may cease to exist as a result of enjoying too good a life."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "Environmentalists' long-time belief regarding panda conservation may be misleading.",
+        "B": "Housing development near pandas' homes may threaten their survival.",
+        "C": "Pandas' natural habitats are becoming less suitable for reproduction.",
+        "D": "The increased panda population is attributed to the fragmentation of their habitat."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "It is urgent to provide an ideal habitat for them to thrive.",
+        "B": "It is very important to preserve their genetic diversity.",
+        "C": "Their chances of finding new mates have a lot to do with their habitat.",
+        "D": "Their environment for survival has been continuously worsening."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "It needs to be confirmed by more studies on pandas.",
+        "B": "It applies to the preservation of pandas too.",
+        "C": "It has implications for future panda research.",
+        "D": "It can be used to locate the right spot for pandas."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Help discover new ways for the conservation of pandas.",
+        "B": "Help remove pandas from the list of endangered species.",
+        "C": "Shed light on the conservation of most large meat-eating animals.",
+        "D": "Show the complexity of interactions between humans and animals."
+      }
+    }
+  ],
+  "reading_passage_2": "With those born with natural talents, it feels as if they excel without really trying. But what about those of us who don't have a natural talent? We've been told all our lives that if you work hard, you too can succeed. But with the release of Angela Duckworth's Grit, we are given a new key to success.\n\"As much as talent counts, effort counts twice,\" says Duckworth in Grit. She introduces a new concept that talent may be overrated, and if you want real success, what you need is grit, the perfect combination of passion and persistence. Even if you have natural talent, it's nothing without grit.\nDuckworth says grit is the difference between success and failure. A person who has grit is more likely to succeed than a person who does not. When we think about attaining success—whether it's landing that job or learning that new skill—our thoughts are immediately burdened by all the things we must first learn. If you want that new job, you have to learn the job skills, then the interview skills, then the dress part—and you must be perfect at all of them. Grit is different because it tells us that perfection isn't the goal.\nGrit lifts the unreasonable expectations off our shoulders. Grit tells us that the door is open wider than we first thought possible. Grit allows us to redefine our goals. Think about it: what's something you've always wanted to do, but gave up because you \"don't have the skills for it\"? What's something you love but aren't good at?\nThe real workings of grit are to have sustainable passion and continue to try. Effort means more than your natural ability. Even if you haven't mastered a skill, grit tells you that you can still succeed if you can transform your passion into action. In a way, Duckworth is giving new hope to people who have shut the doors on their dreams. She is saying it is possible that you can accomplish anything. If at first you fail, then try one more time with grit.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "They seem to outdo others without hard work.",
+        "B": "They appear to know all the secrets to success.",
+        "C": "They feel it only too logical to succeed.",
+        "D": "They are bound to excel effortlessly."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "It is a new concept much too overrated.",
+        "B": "It proves necessary for big achievements.",
+        "C": "It plays a lesser role in one's success.",
+        "D": "It is a guarantee for real success in life."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "They are puzzled how to present their best to the employer.",
+        "B": "They are burdened by their expectation of perfection.",
+        "C": "They will try hard to land a job that fits their skills best.",
+        "D": "They will find themselves lacking in all the skills they need."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "It allows us to know what we are good at.",
+        "B": "It opens our eyes to new opportunities.",
+        "C": "It focuses our attention on what we do.",
+        "D": "It lets us reconsider the goals to achieve."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "We should perfect ourselves to ensure success.",
+        "B": "We should stay persistent even in face of failures.",
+        "C": "We can never master a skill without constant practice.",
+        "D": "We can never expect to reach our goals without passion."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2025年6月·第1套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 被誉为\"杂交水稻(hybrid rice)之父\"的袁隆平和他的科研团队克服重重困难,研发出了一种超级杂交水稻。这项技术获得了举世公认的巨大成功。通过这项技术的应用,水稻抗旱抗病能力更强,能适应不同的气候和土壤条件,产量可提高20-30%。超级杂交水稻营养丰富,口感更佳。目前,这项技术已经在许多国家得到广泛应用,为全球粮食安全做出了重大贡献。",
+  "answers": {
+    "1": "A",
+    "2": "B",
+    "3": "A",
+    "4": "D",
+    "5": "C",
+    "6": "D",
+    "7": "B",
+    "8": "A",
+    "9": "C",
+    "10": "C",
+    "11": "B",
+    "12": "D",
+    "13": "B",
+    "14": "C",
+    "15": "D",
+    "16": "B",
+    "17": "A",
+    "18": "D",
+    "19": "C",
+    "20": "A",
+    "21": "D",
+    "22": "B",
+    "23": "C",
+    "24": "D",
+    "25": "A",
+    "26": "D",
+    "27": "G",
+    "28": "A",
+    "29": "E",
+    "30": "C",
+    "31": "O",
+    "32": "N",
+    "33": "B",
+    "34": "L",
+    "35": "M",
+    "36": "H",
+    "37": "C",
+    "38": "L",
+    "39": "A",
+    "40": "M",
+    "41": "G",
+    "42": "K",
+    "43": "D",
+    "44": "J",
+    "45": "B",
+    "46": "D",
+    "47": "A",
+    "48": "C",
+    "49": "B",
+    "50": "C",
+    "51": "A",
+    "52": "C",
+    "53": "B",
+    "54": "D",
+    "55": "B"
+  },
+  "listening_script": {
+    "en": "Everything changed for 7-year-old Tariq when he slapped some butter on an ear of corn. He knew it tasted good, but butter made it better. His passion for produce got him a position as South Dakota's official Corn Ambassador.\nTariq's profession of love for his favorite vegetable earned him the name \"the Corn Kid\". This was after his online interview attracted millions of views and was made into a song. South Dakota is one of the top corn producers in America. The corn provides nourishment across the globe. Tariq said, \"Not everyone has to like corn, but everyone should definitely try it, especially with butter.\" Tariq and his family were invited to South Dakota to attend the honorary ceremony at the state's Corn Palace. Officials wanted to highlight South Dakota's two largest industries: tourism and agriculture. Tariq couldn't believe his eyes when he saw the palace made of corn.\nTwo arrests were announced Thursday. The arrests were in connection with a string of mail thefts from U.S. Postal Service's collection boxes in Marion County and for the possession of a stolen postal key, according to the Department of Justice.\nJordan Jax and Tarod Goodman, both 23, were arrested after evidence gathered in an investigation showed the pair stole mail on multiple occasions using a postal key, according to a news release.\nJax and Goodman stole mail for around four months. Investigators reviewed videos of the collection boxes; the video showed the two men loading the stolen mail into Jax's vehicle. Investigators were also able to recover the key that was used to open the collection boxes.\nJax and Goodman each face up to five years in federal prison in the mail thefts and up to ten years for possession of the postal key.\nCan fast-fashion be sustainable? Researchers think yes. Identifying why the fast-fashion business model creates waste and determining whether regulators can establish incentives for consumers and manufacturers are steps to reduce waste.\nRecently, the clothing industry has come under attack for creating a waste problem with serious environmental consequences. In the absence of environmentally and economically feasible recycling options, fast-fashion manufacturers pump out low-quality clothes produced in high volumes that are worn only a few times and then discarded.\nThe researchers put forth policy contributions, ranging from sustainable disposal of leftover stock to production tax to incentivize both manufacturers and consumers to be more waste conscious.\nIn order to devise effective policies to curb the environmental impact of the clothing industry, it is important to identify the source of the problem in the supply chain. Manufacturers, consumers, and regulatory bodies can then take an informed approach to recognize the environmental impact of fast-fashion and to design an ecosystem to reduce waste, incentivize innovation, and create new business models to manage waste.\nM: Hey Mary, you seem to be very much annoyed. What happened?\nW: Rush hour in this city is killing me.\nM: Ah, yes. Rush hour is terrible, especially in the morning between 8 and 9. But what else can you expect in a city this big?\nW: Well, I think the local government could help improve things. I mean, getting rid of rush hour may be impossible, but it could be made more tolerable, don't you think?\nM: Um… but I'm not sure how.\nW: Well, for example, the subway system could have air conditioning. I know many cities in the world have air conditioning in their subway, so why can't we? It gets so hot in the summer. I can hardly breathe down there. And add to that the rush-hour crowds with strangers packed close together in the subway carriages, the whole thing is just horrible.\nM: Ah, yes, you are completely right. The trains here are too old. The government should definitely invest in new ones with air conditioning. I guess I'm fortunate I take the bus instead.\nW: Oh, that's much better.\nM: Yeah, it's more convenient. Bus No. 36 goes straight from my house to the office. It's a 30-minute ride and I don't have to make any changes.\nW: That sounds nice. I tell you, my current commute is killing me. Maybe I should move closer to the office.\nM: Well, I know a great housing agent. I found the flat I'm living in now through him. And I love it.\nW: Hmm, could you send me his number, please?\nM: Sure thing. Just tell him exactly what you are looking for and I'm sure he will find something good.\nM: Did you hear about Johnny?\nW: No. Why? Is he okay?\nM: He had some plastic surgery done.\nW: What? Why?\nM: Do you remember he had a scar on his face?\nW: Yes, of course. He always had that. I've known him since primary school, and I always remember him having that on his cheek.\nM: Well, he had it fixed.\nW: Fixed? What do you mean? You can't fix a scar.\nM: You know what I mean? He had an operation done on it, plastic surgery, in order to cover it and make it less noticeable.\nW: Oh, well, that's ridiculous, isn't it? It was noticeable, sure. But it wasn't an ugly scar. It never occurred to me that he should have it taken care of like that.\nM: I agree. I can understand some scars and physical defects can be ugly and distracting, but not Johnny's. In fact, I thought it added character… like it gave him a certain uniqueness.\nW: He must have felt differently though. He must have felt self-conscious and insecure, perhaps.\nM: No, no, that's not the reason. He was totally fine with his scar. As you said, he had had it for most of his life.\nW: Then why did he have the operation?\nM: Because his girlfriend wanted him to.\nW: What? That's so superficial and selfish of her. If Johnny's girlfriend doesn't like him for who he is, then she does not deserve to be his girlfriend.\nM: You are right. So he is insane to give in to her like that. But when I told him, he said he loves her and would just do what she wants him to.\nW: What a fool he is.\nTalking is unique to humans. An animal might make 10 different sounds, but an adult human knows more than 20,000 words. Additionally, we're the only animal that expresses thoughts in full sentences. Researchers don't think language was invented; instead, they think it evolved. How did talking evolve? There are two main theories.\nThe first theory is that language started with people making different sounds, mostly imitating the things around them, like animal calls, nature sounds, and the sounds of tools. Perhaps they made the sound of wind to comment on the weather or imitated the sound of a bird to tell a friend that there was a bird nearby. Then over hundreds of thousands of years, those sounds turned into words that people began to learn as part of their language. At some point, people started stringing the words together to form sentences.\nThe other main theory, which is more recent, is that people started off by gesturing—pointing at things with their hands and imitating actions using their bodies. Eventually these gestures turned into a full sign language. This theory guesses that after developing sign languages, people eventually started making sounds along with their gestures. At some point, they switched to mostly making sounds that became words instead of just using their bodies. The reason they switched to making sounds, the theory goes, is that talking out loud lets you communicate with someone even when you can't see them.\nIs it a good idea to display luxury brands and other signals of status? It depends on the situation. Studies have shown that people who appear to be wealthy tend to be considered more intelligent, disciplined, and competent than those who do not. But new research found that people believe someone who shows off their social status cares more about benefiting themselves than helping others. This means people are less willing to collaborate with them. Modesty may be key when cooperation is essential, but the researchers also found that in some cases, status signaling has advantages.\nExperiments showed that participants were less likely to choose someone who signals their wealth or status to join a group seeking cooperative members. But participants were more likely to choose that person when they're looking for a competitive team member. These findings suggest that people should change how they present themselves depending on their social goal.\nThis is the era of social media. People can easily share their wealth and status to large audiences, but they need to consider the consequences. Posting about luxury purchases and expensive vacations online may help you to persuade others and frighten competitors, but it could also signal to potential friends or future employers that you are unlikely to think about the needs of others. This makes things tricky for people who may want to impress others while also demonstrating that they are a team player.\nHuman fascination with animals goes back as far as humans do. Of the oldest cave paintings discovered, some are up to 40,000 years old, and there are more images of animals than humans. At some point, humans began to capture and hold animals.\nThe first-known collections were held by royalty and were not open to the public. In Egypt, researchers have found buildings from around 3500 B.C., containing the remains of animals, including elephants, which were not native to Egypt. But life wasn't easy for these animals. They probably had short lives, and their remains show evidence of severe injuries.\nThe first public exhibit of animals may have been created by Egypt's Queen Hatshepsut around 1480 B.C. Researchers think the zoo was started with animals brought home from a far-off land known as Punt. It's unclear why the Queen built the zoo, but it might have been to show off her wealth and power.\nEarly zoos are found all over the world. In China, Emperor Wenwang is said to have built a \"Garden of Intelligence\" around 1060 B.C. It included deer, birds, and many fish. In England, King Henry I set up a collection of animals in about 1110 as part of the royal estate. His collection included tigers and lions. This collection eventually moved to the Tower of London in 1235. The collection stayed at that location for 600 years.",
+    "cn": "当7岁的Tariq在一根玉米上抹了些黄油时，一切都改变了。他知道玉米本来就好吃,但黄油让它变得更美味。他对农产品的热情为他赢得了南达科他州官方玉米大使的职位。\nTariq对他最喜爱的蔬菜表白的热情为他赢得了\"玉米小子\"的称号。这是在他的网络访谈吸引了数百万次观看并被制作成一首歌曲之后。南达科他州是美国顶级玉米生产州之一。这些玉米为全球提供营养。Tariq说:\"不是每个人都必须喜欢玉米,但每个人都绝对应该尝试一下,尤其是配上黄油。\"Tariq和他的家人受邀前往南达科他州参加在该州玉米宫举行的荣誉仪式。官员们希望突出南达科他州最大的两个产业:旅游业和农业。当Tariq看到用玉米建造的宫殿时,简直不敢相信自己的眼睛。\n周四宣布了两起逮捕行动。据司法部称,这些逮捕与Marion County美国邮政管理局收集箱的一系列邮件盗窃案以及持有被盗邮政钥匙有关。\n据新闻稿称,23岁的Jordan Jax和Tarod Goodman在调查中收集的证据显示两人多次使用邮政钥匙盗窃邮件后被逮捕。\nJax和Goodman盗窃邮件约四个月。调查人员查看了收集箱的监控视频;视频显示两名男子将被盗邮件装入Jax的车辆。调查人员还找回了用于打开收集箱的钥匙。\nJax和Goodman各自面临邮件盗窃罪最高五年联邦监禁,以及持有邮政钥匙罪最高十年监禁。\n快时尚能否实现可持续发展？研究人员认为可以。确定快时尚商业模式为何会造成浪费，以及判断监管机构能否建立激励机制来引导消费者和制造商，是减少浪费的关键步骤。\n近年来，服装行业因制造严重的环境后果的废物问题而受到抨击。在缺乏环境和经济上可行的回收选择的情况下，快时尚制造商大量生产低质量的服装，这些服装只穿几次就被丢弃。\n研究人员提出了一系列政策建议，从可持续处置剩余库存到征收生产税，以激励制造商和消费者更加注重减少浪费。\n为了制定有效的政策来遏制服装行业对环境的影响，确定供应链中问题的根源至关重要。然后，制造商、消费者和监管机构可以采取知情的方法来认识快时尚的环境影响，并设计一个生态系统来减少浪费、激励创新以及创建新的商业模式来管理废物。\nM: 嘿，Mary，你看起来很烦恼。怎么了?\nW: 这个城市的高峰期快把我逼疯了。\nM: 啊，是的。高峰期确实很糟糕，尤其是早上8点到9点之间。但在这么大的城市里你还能指望什么呢?\nW: 嗯，我觉得当地政府可以帮忙改善一下。我的意思是，消除高峰期可能不太可能，但可以让它变得更能忍受一些，你不觉得吗?\nM: 嗯……但我不太确定怎么做。\nW: 嗯，比如说，地铁系统可以装空调。我知道世界上很多城市的地铁都有空调，那我们为什么不能有呢?夏天的时候太热了。我在下面几乎喘不过气来。再加上高峰期的人群，陌生人在地铁车厢里挤在一起，整个事情简直太可怕了。\nM: 啊，是的，你说得完全对。这里的列车太旧了。政府绝对应该投资购买带空调的新列车。我想我很幸运，我坐公交车。\nW: 哦，那好多了。\nM: 是啊，更方便。36路公交车从我家直达办公室。30分钟的车程，而且不用换乘。\nW: 听起来不错。告诉你，我现在的通勤快把我逼疯了。也许我应该搬到离办公室近一点的地方。\nM: 嗯，我认识一个很棒的房产中介。我现在住的公寓就是通过他找到的。我很喜欢。\nW: 嗯，你能把他的号码发给我吗?\nM: 当然可以。只要告诉他你具体在找什么，我相信他会找到好房子的。\nM: 你听说Johnny的事了吗？\nW: 没有。怎么了？他还好吗？\nM: 他做了整形手术。\nW: 什么？为什么？\nM: 你还记得他脸上有道疤吗？\nW: 记得，当然记得。他一直都有那道疤。我从小学就认识他了，一直记得他脸颊上有那道疤。\nM: 嗯，他把它修复了。\nW: 修复？什么意思？疤痕是修复不了的。\nM: 你懂我的意思吧？他做了个手术，整形手术，用来遮盖疤痕，让它不那么明显。\nW: 哦，这太荒唐了，不是吗？那道疤确实挺明显的。但它并不丑。我从来没想过他应该那样处理它。\nM: 我同意。我能理解有些疤痕和身体缺陷可能很丑、很扎眼，但Johnny的不是。事实上，我觉得那道疤为他增添了个性……让他有了某种独特性。\nW: 但他肯定想法不一样。他可能觉得难为情、不自信吧。\nM: 不，不，不是那个原因。他对自己的疤完全没问题。就像你说的，他大半辈子都带着那道疤。\nW: 那他为什么要做手术？\nM: 因为他女朋友想让他做。\nW: 什么？她也太肤浅、太自私了。如果Johnny的女朋友不喜欢真实的他，那她就不配做他女朋友。\nM: 你说得对。所以他那样向她妥协简直疯了。但当我跟他说的时候，他说他爱她，愿意做她想让他做的事。\nW: 他真是个傻瓜。\n说话是人类独有的能力。动物可能会发出10种不同的声音,但成年人掌握的词汇超过20,000个。此外,我们是唯一能用完整句子表达思想的动物。研究人员认为语言不是被发明出来的,而是进化而来的。说话是如何进化的?有两种主要理论。\n第一种理论认为,语言起源于人们发出不同的声音,主要是模仿周围的事物,比如动物叫声、自然界的声音以及工具的声音。也许他们发出风的声音来评论天气,或者模仿鸟叫声来告诉朋友附近有一只鸟。然后在数十万年的时间里,这些声音演变成了词汇,人们开始将其作为语言的一部分来学习。在某个时刻,人们开始将词汇串联起来形成句子。\n另一种主要理论更为近期,认为人们最初是通过手势——用手指向事物并用身体模仿动作来交流的。最终这些手势演变成了完整的手语。这个理论推测,在发展出手语之后,人们最终开始在做手势的同时发出声音。在某个时刻,他们转变为主要发出声音形成词汇,而不仅仅是使用身体。该理论认为,他们转向发出声音的原因是,出声说话可以让你即使在看不见对方的情况下也能进行交流。\n展示奢侈品牌和其他地位象征是个好主意吗？这取决于具体情况。研究表明,看起来富有的人往往被认为比那些看起来不富有的人更聪明、更自律、更有能力。但新研究发现,人们认为炫耀社会地位的人更关心自身利益而非帮助他人。这意味着人们不太愿意与他们合作。当合作至关重要时,谦逊可能是关键,但研究人员也发现,在某些情况下,地位信号具有优势。\n实验表明,当参与者寻找合作型成员加入团队时,他们不太可能选择那些展示财富或地位的人。但当他们寻找竞争型团队成员时,参与者更有可能选择那个人。这些发现表明,人们应该根据自己的社交目标来改变展示自己的方式。\n这是社交媒体的时代。人们可以轻松地向广大受众分享自己的财富和地位,但他们需要考虑后果。在网上发布关于奢侈品购买和昂贵假期的内容可能有助于你说服他人并威慑竞争对手,但它也可能向潜在朋友或未来雇主发出信号,表明你不太可能考虑他人的需求。这使得那些既想给他人留下深刻印象又想表明自己是团队合作者的人处境尴尬。\n人类对动物的迷恋可以追溯到人类诞生之初。在已发现的最古老洞穴壁画中,有些距今已有4万年之久,其中动物图像多于人类图像。在某个时期,人类开始捕获和饲养动物。\n已知最早的动物收藏由王室持有,不对公众开放。在埃及,研究人员发现了约公元前3500年的建筑,其中存有动物遗骸,包括并非埃及本土物种的大象。但这些动物的生活并不轻松。它们的寿命可能很短,其遗骸显示出严重受伤的痕迹。\n首个向公众展出的动物园可能由埃及女王Hatshepsut于公元前1480年左右建造。研究人员认为该动物园始于从一个名为Punt的遥远之地带回的动物。女王建造动物园的原因尚不清楚,但可能是为了炫耀她的财富和权力。\n早期动物园遍布世界各地。在中国,据说周文王于公元前1060年左右建造了一座\"灵囿\",其中包括鹿、鸟类和许多鱼类。在英国,亨利一世国王于1110年左右在皇家庄园内设立了动物收藏。他的收藏包括老虎和狮子。这个收藏最终于1235年迁至伦敦塔。该收藏在那里保留了600年。"
+  }
+}

@@ -1,0 +1,670 @@
+{
+  "id": "2024-12-3",
+  "writing": "Directions: Suppose the university newspaper is inviting submissions from the students for its coming edition on how the students can contribute to a green campus. You are now to write an essay for submission. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "Why are families across the U.S. looking to this winter with fear?",
+      "options": {
+        "A": "They will see a 27% higher price to buy natural gas.",
+        "B": "They will have insufficient heating oil to keep warm.",
+        "C": "They will have a costly bill to pay to heat their homes.",
+        "D": "They will experience the coldest winter in four decades."
+      },
+      "stem_cn": "为什么全美各地的家庭对今冬感到恐惧?",
+      "options_cn": {
+        "A": "他们购买天然气的价格将上涨27%。",
+        "B": "他们将没有足够的取暖用油来保暖。",
+        "C": "他们将支付高昂的账单来为家里供暖。",
+        "D": "他们将经历四十年来最冷的冬天。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What did the federal government do last month?",
+      "options": {
+        "A": "Provided additional funding to Low Income Home Energy Assistance Program.",
+        "B": "Assured U.S. citizens of an increase in energy supplies by the end of this year.",
+        "C": "Predicted a 10% jump in heating bills for most U.S. households this winter.",
+        "D": "Decided on this year's energy assistance package of $8 billion in total."
+      },
+      "stem_cn": "联邦政府上个月做了什么?",
+      "options_cn": {
+        "A": "为低收入家庭能源援助计划提供了额外资金。",
+        "B": "向美国公民保证今年年底前能源供应将增加。",
+        "C": "预测今冬大多数美国家庭的取暖费用将上涨10%。",
+        "D": "决定今年总额为80亿美元的能源援助方案。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What is the main finding of a new study about many Americans?",
+      "options": {
+        "A": "They care less about their diet now than before.",
+        "B": "They may lack adequate knowledge of healthy food.",
+        "C": "They may hold too optimistic a view about their diet.",
+        "D": "They pay insufficient attention to their choice of food."
+      },
+      "stem_cn": "一项关于许多美国人的新研究的主要发现是什么?",
+      "options_cn": {
+        "A": "他们现在对饮食的关注程度不如以前。",
+        "B": "他们可能缺乏关于健康食品的充分知识。",
+        "C": "他们可能对自己的饮食持过于乐观的看法。",
+        "D": "他们对食物选择的关注不足。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "Who tended to rate their diet more accurately in the survey?",
+      "options": {
+        "A": "Those who finished 24-hour food questionnaires.",
+        "B": "Those who fully understood the rating scale.",
+        "C": "Those who cared about food quality.",
+        "D": "Those who rated their diet as poor."
+      },
+      "stem_cn": "在调查中,谁倾向于更准确地评价自己的饮食?",
+      "options_cn": {
+        "A": "那些完成了24小时食物问卷的人。",
+        "B": "那些完全理解评分量表的人。",
+        "C": "那些关心食品质量的人。",
+        "D": "那些将自己的饮食评为较差的人。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What does the report say dozens of Indians did last week?",
+      "options": {
+        "A": "They experienced a heartbreaking moment.",
+        "B": "They gathered together to rescue an elephant.",
+        "C": "They heard a noise from the bottom of a well.",
+        "D": "They found an elephant wandering around a well."
+      },
+      "stem_cn": "报道称上周有数十名印度人做了什么?",
+      "options_cn": {
+        "A": "他们经历了一个令人心碎的时刻。",
+        "B": "他们聚集在一起营救一头大象。",
+        "C": "他们听到井底传来噪音。",
+        "D": "他们发现一头大象在井边徘徊。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "Why did the army officers call the local forest department?",
+      "options": {
+        "A": "To borrow their crane.",
+        "B": "To ask them for help.",
+        "C": "To report the strange noise.",
+        "D": "To get food for the elephant."
+      },
+      "stem_cn": "军官们为什么给当地林业部门打电话?",
+      "options_cn": {
+        "A": "借用他们的起重机。",
+        "B": "向他们寻求帮助。",
+        "C": "报告奇怪的噪音。",
+        "D": "为大象获取食物。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What does the news report say happened finally?",
+      "options": {
+        "A": "The elephant was able to return to the jungle.",
+        "B": "The army officers were examined for injuries.",
+        "C": "The army officers were rewarded for their rescue efforts.",
+        "D": "The elephant was given medical treatment for many days."
+      },
+      "stem_cn": "新闻报道称最终发生了什么?",
+      "options_cn": {
+        "A": "大象能够返回丛林。",
+        "B": "军官们接受了伤情检查。",
+        "C": "军官们因救援努力获得了奖励。",
+        "D": "大象接受了多日的医疗治疗。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "Why has the man stopped paying online for the last three months?",
+      "options": {
+        "A": "He found it had caused him much inconvenience.",
+        "B": "It led him to spend more money than necessary.",
+        "C": "It was much less secure than paying with cash.",
+        "D": "He wanted to be less dependent on his phone."
+      },
+      "stem_cn": "为什么这位男士在过去三个月里停止了网上支付?",
+      "options_cn": {
+        "A": "他发现这给他造成了很多不便。",
+        "B": "这导致他花费了超出必要的钱。",
+        "C": "这比用现金支付安全性差得多。",
+        "D": "他想减少对手机的依赖。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What problem does the woman say she may also have?",
+      "options": {
+        "A": "Living beyond her means.",
+        "B": "Lack of budgeting strategies.",
+        "C": "Fashion addiction.",
+        "D": "Impulse purchasing."
+      },
+      "stem_cn": "这位女士说她可能也有什么问题?",
+      "options_cn": {
+        "A": "入不敷出。",
+        "B": "缺乏预算策略。",
+        "C": "时尚成瘾。",
+        "D": "冲动购物。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What does the man say he could do at the canteen?",
+      "options": {
+        "A": "Eat healthier food with less money.",
+        "B": "Order food like burgers and chips.",
+        "C": "Avoid getting addicted to junk food",
+        "D": "Pay either in cash or with his phone."
+      },
+      "stem_cn": "这位男士说他在食堂可以做什么?",
+      "options_cn": {
+        "A": "用更少的钱吃更健康的食物。",
+        "B": "点汉堡和薯条之类的食物。",
+        "C": "避免对垃圾食品上瘾。",
+        "D": "用现金或手机支付。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "What is now just a habit for the man?",
+      "options": {
+        "A": "Making a shopping list.",
+        "B": "Sticking to his budget.",
+        "C": "Withdrawing cash only once a month.",
+        "D": "Thinking twice before buying something."
+      },
+      "stem_cn": "现在对这位男士来说什么只是一种习惯?",
+      "options_cn": {
+        "A": "列购物清单。",
+        "B": "坚持他的预算。",
+        "C": "每月只取一次现金。",
+        "D": "买东西前三思而后行。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "Why is the woman opposed to their son joining a sport like soccer?",
+      "options": {
+        "A": "He does not enjoy any ball games.",
+        "B": "He has to prepare for the future.",
+        "C": "He has breathing problems.",
+        "D": "He is not up to anything challenging."
+      },
+      "stem_cn": "为什么这位女士反对他们的儿子参加像足球这样的运动?",
+      "options_cn": {
+        "A": "他不喜欢任何球类运动。",
+        "B": "他必须为未来做准备。",
+        "C": "他有呼吸问题。",
+        "D": "他无法胜任任何有挑战性的事情。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What does the man suggest their son try in order to understand team spirit?",
+      "options": {
+        "A": "Soccer.",
+        "B": "Badminton.",
+        "C": "Volleyball.",
+        "D": "Basketball."
+      },
+      "stem_cn": "这位男士建议他们的儿子尝试什么来理解团队精神?",
+      "options_cn": {
+        "A": "足球。",
+        "B": "羽毛球。",
+        "C": "排球。",
+        "D": "篮球。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What is one of the woman's considerations in choosing a sport for her son?",
+      "options": {
+        "A": "The possibilities of joining the school sports team.",
+        "B": "The opportunities of winning some championships.",
+        "C": "The chances of getting an athletic scholarship later on.",
+        "D": "The odds of becoming a professional sportsman someday."
+      },
+      "stem_cn": "这位女士为儿子选择运动时的考虑因素之一是什么?",
+      "options_cn": {
+        "A": "加入学校运动队的可能性。",
+        "B": "赢得一些冠军的机会。",
+        "C": "日后获得体育奖学金的机会。",
+        "D": "有朝一日成为职业运动员的可能性。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the man say about beach volleyball?",
+      "options": {
+        "A": "It differs entirely from indoor volleyball.",
+        "B": "It appeals to both schoolgirls and schoolboys.",
+        "C": "It is less popular than indoor sports in the country.",
+        "D": "It is completely different from other outdoor games."
+      },
+      "stem_cn": "这位男士关于沙滩排球说了什么?",
+      "options_cn": {
+        "A": "它与室内排球完全不同。",
+        "B": "它对女学生和男学生都有吸引力。",
+        "C": "它在这个国家不如室内运动受欢迎。",
+        "D": "它与其他户外运动完全不同。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What do we learn from the passage about the lift-off of spacecraft?",
+      "options": {
+        "A": "It usually requires years of preparations.",
+        "B": "It does a lot of harm to the environment.",
+        "C": "It often burns over three hundred tonnes of refined fuel.",
+        "D": "It proves to be the most complicated stage of space missions."
+      },
+      "stem_cn": "从文章中我们了解到关于航天器升空的什么信息？",
+      "options_cn": {
+        "A": "它通常需要数年的准备。",
+        "B": "它对环境造成很大危害。",
+        "C": "它通常燃烧超过三百吨精炼燃料。",
+        "D": "它被证明是太空任务中最复杂的阶段。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What happens traditionally to boosters, fuel tanks and other components in spaceflight?",
+      "options": {
+        "A": "They are burnt up in outer space.",
+        "B": "They are guided back to Earth.",
+        "C": "They are reused up to 100 times.",
+        "D": "They are treated as expendable."
+      },
+      "stem_cn": "在太空飞行中，助推器、燃料箱和其他部件传统上会怎样处理？",
+      "options_cn": {
+        "A": "它们在外太空被烧毁。",
+        "B": "它们被引导返回地球。",
+        "C": "它们被重复使用多达100次。",
+        "D": "它们被视为一次性消耗品。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What does the passage say we already have regarding spaceflight?",
+      "options": {
+        "A": "New technologies for bringing back space vehicles for recycling.",
+        "B": "The technology for meeting the needs of commercial space travel.",
+        "C": "Many of the technologies to limit the impact of space travel on Earth.",
+        "D": "The technology for effectively protecting ozone from being destroyed."
+      },
+      "stem_cn": "文章说我们在太空飞行方面已经拥有什么？",
+      "options_cn": {
+        "A": "将太空飞行器带回以供回收利用的新技术。",
+        "B": "满足商业太空旅行需求的技术。",
+        "C": "限制太空旅行对地球影响的许多技术。",
+        "D": "有效保护臭氧层免遭破坏的技术。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What does research show about reading to a loyal and nonjudgmental companion?",
+      "options": {
+        "A": "It can help unskilled readers feel more secure.",
+        "B": "It can encourage reluctant readers to read aloud.",
+        "C": "It can strengthen children's confidence in others.",
+        "D": "It can boost children's interest in communication."
+      },
+      "stem_cn": "研究表明,向一个忠诚且不评判的伙伴阅读会产生什么效果?",
+      "options_cn": {
+        "A": "它可以帮助阅读能力不足的读者感到更安心。",
+        "B": "它可以鼓励不愿意阅读的读者大声朗读。",
+        "C": "它可以增强儿童对他人的信心。",
+        "D": "它可以提高儿童对交流的兴趣。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "How can parents make pets a fantastic subject for their children's research and learning?",
+      "options": {
+        "A": "By motivating children to find out about their favourite pets.",
+        "B": "By taking children to the library to borrow books on animals.",
+        "C": "By allowing children to surf the internet about pets by themselves.",
+        "D": "By showing children how to acquire knowledge about healthy pets."
+      },
+      "stem_cn": "家长如何使宠物成为孩子研究和学习的绝佳对象?",
+      "options_cn": {
+        "A": "通过激励孩子去了解他们喜爱的宠物。",
+        "B": "通过带孩子去图书馆借阅有关动物的书籍。",
+        "C": "通过允许孩子自己上网查询有关宠物的信息。",
+        "D": "通过向孩子展示如何获取有关健康宠物的知识。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "How can children still benefit even when their family doesn't have a pet?",
+      "options": {
+        "A": "By learning that raising pets can do much good.",
+        "B": "By watching how healthy pets are brought up.",
+        "C": "By hearing about their peers' passion for pets.",
+        "D": "By visiting friends who have household pets."
+      },
+      "stem_cn": "即使家里没有宠物,孩子如何仍能从中受益?",
+      "options_cn": {
+        "A": "通过了解饲养宠物可以带来很多好处。",
+        "B": "通过观察健康的宠物是如何被养育的。",
+        "C": "通过听说同龄人对宠物的热情。",
+        "D": "通过拜访有家养宠物的朋友。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What would the new bill in the Ohio legislature require public colleges and universities to do?",
+      "options": {
+        "A": "Send would-be students a packet of information.",
+        "B": "Update regularly all information on their websites.",
+        "C": "Inform prospective students of their yearly enrollment.",
+        "D": "Answer questions raised by applicants and their parents."
+      },
+      "stem_cn": "俄亥俄州立法机构的新法案将要求公立学院和大学做什么?",
+      "options_cn": {
+        "A": "向准学生发送一份信息资料包。",
+        "B": "定期更新其网站上的所有信息。",
+        "C": "告知未来学生其年度招生人数。",
+        "D": "回答申请者及其家长提出的问题。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What can the state only do according to Adam Mathews?",
+      "options": {
+        "A": "Oversee private institutions directly.",
+        "B": "Follow other states' example.",
+        "C": "Supervise all schools consistently.",
+        "D": "Regulate public institutions by law."
+      },
+      "stem_cn": "根据Adam Mathews的说法,州政府只能做什么?",
+      "options_cn": {
+        "A": "直接监管私立院校。",
+        "B": "效仿其他州的做法。",
+        "C": "一致地监督所有学校。",
+        "D": "依法监管公立院校。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "What do we learn about Ohio's schools from the passage?",
+      "options": {
+        "A": "They are resourceful.",
+        "B": "They are competitive.",
+        "C": "They provide the best opportunity to realize one's dream.",
+        "D": "They appeal most to students from other states in the U.S."
+      },
+      "stem_cn": "从文章中我们对俄亥俄州的学校了解到什么?",
+      "options_cn": {
+        "A": "它们富有资源。",
+        "B": "它们竞争激烈。",
+        "C": "它们提供实现梦想的最佳机会。",
+        "D": "它们对来自美国其他州的学生最具吸引力。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What is the problem with schools providing information on their websites?",
+      "options": {
+        "A": "Some students waste much time surfing the net.",
+        "B": "Students may need to visit too many websites.",
+        "C": "Students have to search for the information.",
+        "D": "Some students may lack adequate access."
+      },
+      "stem_cn": "学校在其网站上提供信息存在什么问题?",
+      "options_cn": {
+        "A": "一些学生在网上浏览浪费大量时间。",
+        "B": "学生可能需要访问过多网站。",
+        "C": "学生必须搜索相关信息。",
+        "D": "一些学生可能缺乏足够的访问途径。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "accurate",
+    "B": "allow",
+    "C": "artificial",
+    "D": "cheating",
+    "E": "deserted",
+    "F": "establish",
+    "G": "extremely",
+    "H": "immediately",
+    "I": "incorrectly",
+    "J": "normal",
+    "K": "observed",
+    "L": "passed",
+    "M": "reminding",
+    "N": "reparable",
+    "O": "resolve"
+  },
+  "cloze_passage": "Super realistic masks are made from flexible materials such as silicone and are designed to imitate real human face—down to every last detail.\nIn a study by the Universities of York and Kyoto, researchers asked participants to look at pairs of photographs and decide which showed a 26 face and which showed a person wearing a mask.\nSurprisingly, participants made the wrong call in one-in-five cases.\nThe 20% error rate 27 in the study likely underestimates the extent to which people would struggle to tell an 28 face from the real thing outside of the lab.\nThe researchers collected data from participants from both the UK and Japan to 29 any differences according to race. When trial participants were asked to choose between photographs of faces of a different race from theirs, response times were slower and selections were 5% less 30 .\nThere are now dozens of criminal cases in which offenders have 31 themselves off as people of a different age, race or gender, sending police investigations down the wrong path.\nIn one recent case, an international gang used an 32 realistic mask to pose as a French minister, 33 business executives out of millions of pounds.\nDr Jet Sanders, who worked on the study while a PhD student at the University of York, said: \"Failure to detect synthetic faces may have important implications for security and crime prevention as super realistic masks may 34 the key characteristics of a person's appearance to be 35 identified.\"",
+  "long_reading_passage": "A) Most people have a dream in life, a vision of who or what they'd like to be in the future. At a minimum, everyone has interests and values that determine what they want out of their lives. Even so, trying to set achievable goals that you'll work for over the course of many years can be extremely challenging. It can be hard to know where to even begin, and the things you hope to achieve may seem impossible. But, if you're well prepared you may be able to set goals for your life that are just as fulfilling to work toward as to achieve.\nB) We all have goals that we want to achieve in our lives. These goals may include learning a new language, eating healthier and losing weight, becoming a better parent, saving more money, and so on. It can be easy to assume that the gap between where you are now and where you want to be in the future is caused by a lack of knowledge. This is why we buy courses on how to start a business or how to lose weight fast or how to learn a new language in three months. We assume that if we knew about a better strategy, then we would get better results. We believe that a new result requires new knowledge.\nC) What I'm starting to realize, however, is that new knowledge does not necessarily drive new results. In fact, learning something new can actually be a waste of time if your goal is to make progress and not simply gain additional knowledge.\nD) It all comes down to the difference between learning and practicing. Thomas Sterner, in his book *The Practicing Mind*, explains the key difference between practicing and learning. He says: \"When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal.\" Here the words \"deliberate\" and \"intention\" are key, because they define the difference between actively practicing something and passively learning it.\nE) Learning something new and practicing something new may seem very similar, but these two methods can have profoundly different results. Here are some additional ways to think about the difference. Let's say your goal is to get stronger and more fit. You can research the best instructions on weight lifting technique, but the only way to build strength is to practice lifting weights. Let's say your goal is to grow your startup. You can learn about the best way to make a sales pitch, but the only way to actually land customers is to practice making sales calls. Let's say your goal is to write a book. You can talk to a best-selling author about writing, but the only way to become a better writer is to practice publishing consistently.\nF) Passive learning creates knowledge. Active practice creates skill. Let's consider a couple more reasons to prioritize active practice over passive learning. First, passive learning can be a stick that supports inaction. In many cases, learning is actually a way to avoid taking action on the goals and interests that we say are important to us. For example, let's say you want to learn a foreign language. Reading a book on how to learn a foreign language quickly allows you to feel like you are making progress (\"Hey, I'm figuring out the best way to do this!\"). Of course, you're not actually practicing the action that would deliver your desired outcome (speaking the foreign language).\nG) In situations like this one, we often claim that we are preparing or researching the best method, but these rationalizations allow us to feel like we are moving forward when we are merely spinning our wheels. We make the mistake of being in motion rather than taking action. Learning is valuable until it becomes a form of procrastination(拖延).\nH) Another point to consider is that practice is learning, but learning is not practice. Passive learning is not a form of practice because although you gain new knowledge, you are not discovering how to apply that knowledge. Active practice, meanwhile, is one of the greatest forms of learning because the mistakes you make while practicing reveal important insights.\nI) Even more importantly, practice is the only way to make a meaningful contribution with your knowledge. You can watch an online course about how to build a business or read an article about a terrible disaster in a developing nation, but that knowledge is unproductive unless you actually launch your business or donate to those in need. Learning by itself can be valuable for you, but if you want to be valuable to others, then you have to express your knowledge in some way.\nJ) The last important point to consider is that practice focuses your energy on the process. Thomas Sterner once said, \"Progress is a natural result of staying focused on the process of doing anything.\" The state of your life right now is a result of the habits and beliefs that you have been practicing each day. When you realize this and begin to direct your focus toward practicing better habits day-in and day-out, continual progress will be the logical outcome. It is not the things we learn nor the dreams we visualize that determine our results, but rather the habits that we practice each day. Fall in love with boredom and focus your energy on the process, not the product.\nK) What does this all mean? Is passive learning useless? Of course not. In many cases, learning for the sake of learning can be a beautiful thing. Not to mention that soaking up new information can help you make more informed decisions when you do decide to take action. That said, the main point of this article is that learning by itself does not lead to progress. We often hide behind information and use learning as an excuse to delay the more difficult and more important choice of actually doing something. Spend less time passively learning and more time actively practicing. Stop thinking and start doing.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "Research in human-vehicle interaction has shown even systems designed to automate driving are far from being error-proof. Recent evidence points to drivers' limited understanding of what these systems can and cannot do as a contributing factor to system misuse. A recent study tackles the issue of over-trusting drivers and the resulting system misuse from a legal viewpoint. It looks at what the manufacturers of self-driving cars should legally do to ensure that drivers understand how to use the vehicles appropriately.\nOne solution suggested in the study involves requiring buyers to sign end-user license agreements (EULAs), similar to the terms and conditions that require agreement when using new software products. But this is far from ideal. The agreement may not provide enough information to the driver, leading to confusion about the nature of the requests for agreement and their implications. Further, most end users don't read EULAs. A 2017 study shows 91 percent of people agree to them without reading. Among young people, 97 percent agree without reviewing the terms.\nThe issue is that, unlike using a smartphone app, operating a car has serious safety risks, whether the driver is human or software. And human drivers need to consent to take responsibility for the outcomes of the software and hardware.\n\"Warning fatigue\" and distracted driving are also causes for concern. For example, a driver, annoyed after receiving continuous warnings, could decide to just ignore the message. Or, if the message is presented while the vehicle is in motion, it could represent a distraction. Given these limitations and concerns, even if this mode of obtaining consent is to move forward, it likely won't fully protect automakers from their legal liability should the system malfunction(发生故障) or an accident occur.\nDriver training for self-driving vehicles can help ensure that drivers fully understand system capabilities and limitations. This needs to occur beyond the vehicle purchase. Recent evidence shows even relying on the information provided by the seller is not going to answer many questions. All of this considered, the road forward for self-driving cars is not going to be a smooth ride after all.",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "Automatic driving systems are by no means immune to errors.",
+        "B": "Driverless vehicles are likely to be misused by some people.",
+        "C": "Self-driving car manufacturers are not aware of the legal matters involved.",
+        "D": "There is a long way to go before humans can interact with driverless vehicles."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "End users, young and old alike, find the terms complex to interpret.",
+        "B": "Most end users sign them without bothering to read the terms.",
+        "C": "Many people are often confused by the wording of the terms.",
+        "D": "Most end users do not understand the terms after reading them through."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Waste no time keeping the car moving.",
+        "B": "Rest a while to avoid fatigue driving.",
+        "C": "Take no action despite repeated warnings.",
+        "D": "Take note of the message though fatigued."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "It will probably not guarantee the safety of drivers in case of accidents.",
+        "B": "It likely won't ensure that the automatic driving system functions properly.",
+        "C": "It likely won't fully protect automakers against accusations of deliberate cheating.",
+        "D": "It will probably not provide manufacturers adequate protection from legal responsibilities."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Training them to be experts in vehicle automation.",
+        "B": "Familiarizing them with the systems through training.",
+        "C": "Broadening their knowledge of accident-prevention mechanisms.",
+        "D": "Facilitating their access to the information provided by the seller."
+      }
+    }
+  ],
+  "reading_passage_2": "Do you ever blend up a protein drink for breakfast, or grab a protein bar following an afternoon workout? If so, you are likely among the millions of people in search of more protein-rich diets.\nProtein-enriched products are found everywhere. But contrary to all the publicity that everyone needs more protein, most Americans get twice as much as they need.\nMany of us living in the most developed countries are buying into a myth of protein deficiency created by food companies and self-identified health experts. Global retail sales of protein supplement products reached an astonishing US$18.9 billion in 2020.\nBut are we really in need of more protein? Physicians in the U.S. have never actually examined a patient with protein deficiency because simply by eating an adequate number of daily calories we are also most likely getting enough protein.\nIn fact, Americans currently consume almost twice the National Academy of Medicine's recommended daily intake of protein although the most desirable protein intake may vary depending on age and activity level.\nFor example, if you're a dedicated athlete you might need to consume higher quantities of protein. Generally, though, a 140-pound person should not exceed 120 grams of protein per day, particularly because a high protein diet can strain kidney and liver function and increase risks of developing heart disease and cancer.\nWhile fats and sugar have taken the beating in turns since over a century ago, protein has managed to remain our red-hot favorite.\nIn the 1970s through the 1990s, protein products remained visible but moved back somewhat with the dietary spotlight firmly fixed on low-calorie, low-fat, sugar-free snack foods and beverages following the publication of studies linking sugar and saturated(饱和的) fat consumption to heart disease.\nLater research in 2003, however, suggested high-protein diets could aid in weight loss, and protein quickly regained its former nutrient-superstar status.\nNow most people living in high-income nations are consuming enough protein. When we replace meals with a protein bar or drink, we also risk missing out on the rich sources of antioxidants(抗氧化剂), vitamins and many other benefits of real food.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "It has helped to create the myth of protein deficiency.",
+        "B": "It has helped Americans in search of protein-rich diets.",
+        "C": "It has raised a lot of health concerns among the public.",
+        "D": "It has been funded by food companies and health experts."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "Americans can purchase many kinds of protein-rich foods everywhere.",
+        "B": "Americans can absorb the number of calories recommended by food experts.",
+        "C": "Americans can get sufficient protein just by eating adequate foods daily.",
+        "D": "Americans can rely on food supplements to prevent protein deficiency."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "How healthy they are and what food they eat.",
+        "B": "How old they are and what activities they do.",
+        "C": "How much protein they consume and what their body weight is.",
+        "D": "How serious their protein deficiency is and what remedies they use."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Sugar-free snacks.",
+        "B": "Protein-rich foods.",
+        "C": "Both red and white meats.",
+        "D": "Sugary and fatty foods."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "Enjoy natural food.",
+        "B": "Eat vegetarian diets.",
+        "C": "Consume enough protein daily.",
+        "D": "Replace meals with protein bars."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2024年12月·第3套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2 . 敦煌莫高窟 (Mogao Grottoes) 数字展示中心于2014年开放启用, 是莫高窟保护利用工程的重要组成部分。展示中心采用数字技术和多媒体展示手段, 使游客进入洞窟参观之前就能了解莫高窟的历史文化, 鉴赏莫高窟的艺术经典。这将减少开放洞窟的数量, 缩短游客在洞窟内的逗留时间, 减轻参观对莫高窟造成的影响, 以使这一世界文化遗产得到妥善保护、长久利用。",
+  "answers": {
+    "1": "C",
+    "2": "A",
+    "3": "C",
+    "4": "D",
+    "5": "B",
+    "6": "B",
+    "7": "A",
+    "8": "B",
+    "9": "D",
+    "10": "A",
+    "11": "B",
+    "12": "C",
+    "13": "D",
+    "14": "C",
+    "15": "A",
+    "16": "B",
+    "17": "D",
+    "18": "C",
+    "19": "B",
+    "20": "A",
+    "21": "D",
+    "22": "A",
+    "23": "D",
+    "24": "B",
+    "25": "C",
+    "26": "J",
+    "27": "K",
+    "28": "C",
+    "29": "F",
+    "30": "A",
+    "31": "L",
+    "32": "G",
+    "33": "D",
+    "34": "B",
+    "35": "I",
+    "36": "C",
+    "37": "J",
+    "38": "F",
+    "39": "A",
+    "40": "E",
+    "41": "K",
+    "42": "G",
+    "43": "B",
+    "44": "I",
+    "45": "D",
+    "46": "A",
+    "47": "B",
+    "48": "C",
+    "49": "D",
+    "50": "B",
+    "51": "A",
+    "52": "C",
+    "53": "B",
+    "54": "D",
+    "55": "A"
+  },
+  "listening_script": {
+    "en": "U.S. families are looking to the winter with fear as energy costs soar. A number of factors are creating a bad situation: Global energy consumption is up, but supplies have been reduced. The Energy Department projects heating bills will jump 28% this winter for those who rely on natural gas. Natural gas is used by nearly half of U.S. households for heat. Heating oil is projected to be 27% higher and electricity 10% higher. That comes against inflation rates that accelerated last month with consumer prices growing 6.6%. That's the fastest pace in four decades.\nThe pain will be especially acute in parts of the country that heavily rely on heating oil to keep homes warm. It's projected to cost more than $2,300 to heat a typical home with heating oil this winter. Last month, the federal government added $1 billion in funding to Low Income Home Energy Assistance Program, bringing the total to $4.8 billion. But that represents a reduction from last year's energy assistance package of over $8 billion.\nMany Americans think they make healthy food choices, but they may be viewing their diet too optimistically. That's the main finding of a new study by researchers at the U.S. Department of Agriculture in Stoneville, Mississippi.\nThe study aimed to identify disconnects between how healthily Americans think they eat and how they actually do. For the study, the researchers asked participants to rate their diet as excellent, very good, good, fair or poor. Folks also completed 24-hour food questionnaires. Then, the researchers compared answers to see how well responses to the two exercises matched up.\nOf more than 9,700 people, roughly 85 percent were off base when asked to rate the quality of their diet, and almost all overestimated how healthy it was. Those who rated their diet as poor tended to be far more accurate. Their rating matched that of the researchers more than nine times out of ten.\nIt was a heartwarming moment that dozens of Indian rescuers rallied together to use a crane in order to save an elephant trapped at the bottom of a 20-foot well. The massive rescue effort took place last week close to an army camp. The elephant wandered out of the jungle and fell into the well. The army officers heard a noise coming from the well and realized an elephant was trapped deep inside. The officers then threw in some food for the creature and called the local forest department for help. Video of the rescue operation shows how the team used a crane to lift up the huge animal out of the well and onto the back of a truck. It was then taken to an examining room for evaluation of any injuries. The elephant was kept under close supervision for a few days before it was successfully released back into the wild.\nM: I need to stop at the bank to withdraw some cash.\nW: Why not just pay with your phone?\nM: Well, actually, I've stopped using online payments for the past three months now.\nW: Stopped paying online? Oh, you must be worried that online payments aren't secure.\nM: No, they are safe. But paying online is too convenient and I spent too much money on things I didn't need.\nW: Oh, impulse purchases can be an issue for me, too. I've definitely bought clothes and shoes I didn't need because they were on sale, and paying with my phone was so easy. But I've found that if I review my spending every night, that keeps me from spending too much.\nM: I tried that strategy, but it just didn't work, because I'd be busy studying all day. Then, when I was tired and hungry, I'd use my phone to order food, like burgers and other junk, instead of going to the canteen, where I could get a healthier meal for half the price.\nW: Well, what do you do now then? It seems like you'd have the same problems with cash.\nM: I go to the bank once a week, and the rest of the time I keep my bank card at home, so I can't get more cash out. And I also have a notebook where I record my expenses.\nW: But what prevents you from just going to the bank and getting more money, if you want to buy something?\nM: The first month I did withdraw extra cash twice, but I felt guilty about it. And after that I refused to spend more than what I had budgeted, and by now it's just a habit.\nM: Please hear me out. I don't want our son to spend his afternoons doing something he hates, even if it might prepare him for the future. What about getting him to join a sport, like soccer? From all the running and training, he could become quite athletic. Not to mention the great physical benefits from exercising outside every day.\nW: Um, I don't think he should be doing something so challenging with all his breathing issues. What about playing an indoor sport, like badminton? The environment is easier to control, and he can still get a good workout, in addition to improving his hand-eye coordination. Besides, I could teach him some of the basics from my time as a badminton player.\nM: Um, I'm thinking team sports should be the way to go. There's nothing like playing as part of a unit to accomplish a goal like winning a game or even a championship. He could try basketball since many of the courts are indoors now and it's a sport that could help him understand team spirit while cooperating with others. Maybe he could even join the school basketball team when he's ready.\nW: Oh, oh, what about volleyball? It's a team sport and they often have mixed-gender teams so he could socialize with both girls and boys. It's not as popular as some sports, which means he has better odds of possibly getting an athletic scholarship in the future. I also believe you were a beach volleyball athlete yourself not so long ago.\nM: As I've said many times before, beach volleyball and indoor volleyball are completely different.\nLift-off is usually the most environmentally harmful stage of any space mission, with vast quantities of fuel burnt up in a matter of minutes. For instance, SpaceX's Falcon 9 gets through 112 tonnes of refined fuel, emitting about 336 tonnes of CO₂. This is the equivalent produced by your average car driving almost 70 times around the world. As well as greenhouse gases, rocket engines emit particles that destroy ozone. These issues are growing more pressing with the emergence of commercial spaceflight. There were 114 space launches in 2020, but there may be up to 1,000 per year in future.\nSustainable fuels are the top priority to enable greener space travel. Current spacecraft use a variety of fuels, but most are based on fossil fuels. One potentially greener option is liquid hydrogen and oxygen. Hydrogen can be obtained sustainably by using solar power to break water down into oxygen and hydrogen.\nReusable rockets can cut down on some of the waste associated with spaceflight. Traditionally, boosters, fuel tanks and other components are treated as expendable. But guiding them back to Earth in a controlled manner opens new possibilities — most components from the Falcon 9 can be reused up to 100 times.\nTruly environmentally friendly space travel is still some way off. But we already have many of the technologies needed to start limiting its impact on our planet.\nHelping to look after a pet can facilitate numerous aspects of a child's emotional development. Research shows that reading to a loyal and nonjudgmental companion, such as a dog or cat, can encourage reluctant readers to read aloud, which will in turn boost their self-confidence. Having a companion to talk to about their feelings can also help children feel secure and develop communication skills.\nA household pet can also cultivate a child's sense of responsibility as their parent explains the necessary processes of keeping their pet happy and healthy. As a child matures, they can then take on more of the daily responsibilities, boosting their sense of independence.\nPets also provide a fantastic subject for research and learning. Parents can encourage their child to research their favourite pets at the library or during a supervised internet search. Taking children along to the pet shop to buy food and supplies will support their cognitive development as their passion for learning flourishes.\nA child's physical development can benefit greatly from taking pets for walks in the fresh air. Even their fine-motor skills can be utilised in taking care of a beloved animal.\nWhen responsibilities are well paced and communicated, a child can benefit greatly from involvement in bringing up a happy and healthy pet. And of course, if a child doesn't have a pet in their own household, they can still benefit from all of the above when visiting a friend who does.\nA new bill in the Ohio legislature would require state public colleges and universities to send prospective students a packet of information. This would include costs of college, grants and scholarships. It would also include expected monthly loan payments and projected salary after college.\nState Representative Adam Mathews is one of the two legislators who proposed the bill. He said it would give prospective students more information about what to expect once they graduate. \"Putting that information in front of them will give them the best opportunity to match their skills and their dreams to what our schools can provide,\" said Mathews. He notes that the state can only regulate public institutions in this way, but he hopes private institutions in Ohio follow the lead of the state and post similar information. He believes giving out this information will help Ohio's colleges and universities to be more competitive. The information will highlight what a great value they have for their very reasonable cost.\nOhio's schools are already competitive. The state attracts more undergraduate students than it sends to colleges out of state. Many colleges and universities currently provide similar information on their websites. This includes tuition, fees, graduation rates and more. But students need to search for the information. This bill would require the universities and colleges to send a packet directly to students.",
+    "cn": "随着能源成本飙升,美国家庭正怀着恐惧展望这个冬天。多种因素正在造成糟糕的局面:全球能源消费增加,但供应却减少了。能源部预测,依赖天然气供暖的家庭今年冬天的取暖费用将跃升28%。近一半的美国家庭使用天然气供暖。取暖用油预计将上涨27%,电费将上涨10%。这是在通胀率加速的背景下发生的,上个月消费者价格上涨了6.6%。这是四十年来最快的增速。\n在严重依赖取暖用油保持家庭温暖的地区,这种痛苦将尤为剧烈。预计今年冬天用取暖用油为一个典型家庭供暖将花费超过2300美元。上个月,联邦政府向低收入家庭能源援助计划增加了10亿美元资金,使总额达到48亿美元。但这比去年超过80亿美元的能源援助计划有所减少。\n许多美国人认为自己做出了健康的食物选择，但他们可能对自己的饮食过于乐观了。这是美国农业部位于密西西比州Stoneville的研究人员一项新研究的主要发现。\n该研究旨在找出美国人认为自己吃得有多健康与实际情况之间的差距。在研究中，研究人员要求参与者将自己的饮食评为优秀、非常好、好、一般或差。参与者还完成了24小时食物问卷。然后，研究人员比较了答案，看两项调查的回答匹配程度如何。\n在9700多人中，大约85%的人在被要求评价自己的饮食质量时偏离了实际情况，而且几乎所有人都高估了饮食的健康程度。那些将自己的饮食评为差的人往往准确得多。他们的评价在十次中有九次以上与研究人员的评价相符。\n这是一个温馨的时刻，数十名印度救援人员齐心协力使用起重机营救一头困在20英尺深井底的大象。这次大规模救援行动上周在一个军营附近进行。这头大象从丛林中走出来后掉进了井里。军官们听到井里传来声音，发现有一头大象被困在深处。随后军官们向井里投放了一些食物，并向当地林业部门求助。救援行动的视频显示，救援队如何使用起重机将这头巨大的动物从井里吊起并放到卡车后部。随后大象被送往检查室评估是否有任何伤情。这头大象在密切监护下待了几天后被成功放归野外。\nM: 我得去银行取点现金。\nW: 为什么不直接用手机支付呢？\nM: 嗯，实际上，我已经三个月没用线上支付了。\nW: 不用线上支付了？哦，你一定是担心线上支付不安全吧。\nM: 不，它们是安全的。但线上支付太方便了，我在不需要的东西上花了太多钱。\nW: 哦，冲动消费对我来说也是个问题。我确实买过不需要的衣服和鞋子，因为它们在打折，而且用手机支付太容易了。但我发现如果每晚检查一下我的开支，就能控制住不花太多钱。\nM: 我试过那个办法，但没用，因为我一整天都在忙着学习。然后，当我又累又饿的时候，我就会用手机点外卖，比如汉堡和其他垃圾食品，而不是去食堂，在那里我可以花一半的价钱吃到更健康的饭菜。\nW: 那你现在怎么办呢？感觉你用现金也会有同样的问题啊。\nM: 我每周去一次银行，其余时间把银行卡放在家里，这样我就取不到更多现金了。而且我还有个笔记本记录我的开支。\nW: 但如果你想买东西，有什么能阻止你直接去银行取更多钱呢？\nM: 第一个月我确实又取了两次额外的现金，但我为此感到内疚。之后我就拒绝花超出预算的钱，到现在这已经成了习惯。\nM: 请听我说完。我不想让我们的儿子把下午时间花在他讨厌的事情上,即使这可能为他的未来做准备。让他参加一项运动怎么样,比如足球?通过所有的跑步和训练,他可以变得很健壮。更不用说每天在户外锻炼带来的巨大身体益处了。\nW: 嗯,我觉得他不应该做这么有挑战性的事情,他有那么多呼吸问题。室内运动怎么样,比如羽毛球?环境更容易控制,他仍然可以得到很好的锻炼,还能提高手眼协调能力。而且,我可以教他一些基础知识,我以前是打羽毛球的。\nM: 嗯,我觉得应该选团队运动。没有什么比作为团队的一员去完成一个目标更好的了,比如赢得一场比赛甚至一个冠军。他可以试试篮球,因为现在很多球场都在室内,这项运动可以帮助他在与他人合作的同时理解团队精神。也许等他准备好了,他甚至可以加入学校篮球队。\nW: 哦,哦,排球怎么样?这是一项团队运动,他们经常有男女混合队,所以他可以和女孩和男孩都社交。它不像有些运动那么受欢迎,这意味着他将来获得体育奖学金的机会更大。我还记得你不久前自己就是沙滩排球运动员。\nM: 正如我之前说过很多次的,沙滩排球和室内排球是完全不同的。\n发射通常是任何太空任务中对环境危害最大的阶段,在短短几分钟内燃烧掉大量燃料。例如,SpaceX的猎鹰9号消耗112吨精炼燃料,排放约336吨二氧化碳。这相当于普通汽车绕地球行驶近70圈所产生的排放量。除了温室气体,火箭发动机还排放破坏臭氧的颗粒物。随着商业太空飞行的兴起,这些问题变得越来越紧迫。2020年有114次太空发射,但未来每年可能多达1000次。\n可持续燃料是实现更环保太空旅行的首要任务。目前的航天器使用多种燃料,但大多数基于化石燃料。一种潜在的更环保选择是液氢和液氧。氢可以通过利用太阳能将水分解成氧和氢来可持续地获得。\n可重复使用的火箭可以减少与太空飞行相关的一些浪费。传统上,助推器、燃料箱和其他部件被视为一次性消耗品。但以受控方式引导它们返回地球开辟了新的可能性——猎鹰9号的大部分部件可以重复使用多达100次。\n真正环保的太空旅行仍有一段路要走。但我们已经拥有许多开始限制其对地球影响所需的技术。\n帮助照顾宠物可以促进儿童情感发展的诸多方面。研究表明,向忠诚且不评判的伙伴(如狗或猫)朗读可以鼓励不愿意读书的孩子大声朗读,这反过来会增强他们的自信心。有一个可以倾诉感受的伙伴也能帮助儿童感到安全并发展沟通技能。\n家庭宠物还可以培养儿童的责任感,因为家长会向他们解释保持宠物快乐和健康的必要过程。随着儿童的成长,他们可以承担更多日常责任,增强独立感。\n宠物还为研究和学习提供了绝佳的主题。家长可以鼓励孩子在图书馆或在监督下的网络搜索中研究他们喜爱的宠物。带孩子去宠物店购买食物和用品将有助于他们的认知发展,因为他们对学习的热情会蓬勃发展。\n带宠物在新鲜空气中散步可以极大地促进儿童的身体发育。甚至他们的精细运动技能也可以在照顾心爱的动物时得到运用。\n当责任节奏得当且沟通良好时,儿童可以从参与养育一只快乐健康的宠物中受益匪浅。当然,如果孩子自己家里没有宠物,他们在拜访有宠物的朋友时仍然可以从上述所有方面受益。\n俄亥俄州立法机构的一项新法案将要求州立公立大学和学院向潜在学生发送一份信息包。其中将包括大学费用、助学金和奖学金。还将包括预期的月贷款还款额以及大学毕业后的预期薪资。\n州众议员Adam Mathews是提出该法案的两位立法者之一。他表示，这将为潜在学生提供更多关于毕业后预期情况的信息。Mathews说：\"将这些信息呈现在他们面前，将使他们有最好的机会将自己的技能和梦想与我们学校所能提供的相匹配。\"他指出，州只能以这种方式监管公立机构，但他希望俄亥俄州的私立机构效仿州的做法并发布类似信息。他相信，提供这些信息将有助于俄亥俄州的大学和学院提高竞争力。这些信息将突显出它们以非常合理的成本提供了巨大的价值。\n俄亥俄州的学校已经很有竞争力。该州吸引的本科生数量超过了流失到州外大学的数量。许多大学和学院目前在其网站上提供类似信息。这包括学费、费用、毕业率等。但学生需要主动搜索这些信息。该法案将要求大学和学院直接向学生发送信息包。"
+  }
+}

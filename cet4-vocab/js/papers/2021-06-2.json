@@ -1,0 +1,670 @@
+{
+  "id": "2021-06-2",
+  "writing": "Directions: For this part, you are allowed 30 minutes to write an essay titled“Is technology making people lazy?”.The statement given below is for your reference. You should write at least 120 words but no more than 180 words . Many studies claim that computers distract people, make them lazy thinkers and even lower their work efficiency.",
+  "listening": [
+    {
+      "num": 1,
+      "stem": "What did the old age pensioner plan to do?",
+      "options": {
+        "A": "See the Pope.",
+        "B": "Go to Newcastle.",
+        "C": "Travel to Germany.",
+        "D": "Tour an Italian city."
+      },
+      "stem_cn": "这位领取养老金的老人计划做什么?",
+      "options_cn": {
+        "A": "见教皇。",
+        "B": "去纽卡斯尔。",
+        "C": "去德国旅行。",
+        "D": "游览一座意大利城市。"
+      }
+    },
+    {
+      "num": 2,
+      "stem": "What finally happened to the old man?",
+      "options": {
+        "A": "He was taken to hospital in an ambulance.",
+        "B": "His car hit a sign and was badly damaged.",
+        "C": "His GPS system went out of order.",
+        "D": "He ended up in the wrong place."
+      },
+      "stem_cn": "这位老人最后怎么样了?",
+      "options_cn": {
+        "A": "他被救护车送往医院。",
+        "B": "他的车撞到了标志牌,严重损坏。",
+        "C": "他的GPS系统出现故障。",
+        "D": "他最终到了错误的地方。"
+      }
+    },
+    {
+      "num": 3,
+      "stem": "What do we learn from the news report?",
+      "options": {
+        "A": "Scotland will reach the national target in carbon emissions reduction ahead of schedule.",
+        "B": "Glasgow City Council has made a deal with ScottishPower on carbon emissions.",
+        "C": "Glasgow has pledged to take the lead in reducing carbon emissions in the UK.",
+        "D": "First Minister Nicola Sturgeon urged ScottishPower to reduce carbon emissions."
+      },
+      "stem_cn": "我们从新闻报道中了解到什么?",
+      "options_cn": {
+        "A": "苏格兰将提前完成碳排放减排的国家目标。",
+        "B": "Glasgow市议会已与ScottishPower就碳排放达成协议。",
+        "C": "Glasgow承诺在英国率先减少碳排放。",
+        "D": "首席大臣Nicola Sturgeon敦促ScottishPower减少碳排放。"
+      }
+    },
+    {
+      "num": 4,
+      "stem": "What did ScottishPower's chief executive say ahead of the All Energy Conference?",
+      "options": {
+        "A": "Glasgow needs to invest in new technologies to reach its goal.",
+        "B": "Glasgow is going to explore new sources of renewable energy.",
+        "C": "Stricter regulation is needed in transforming Glasgow's economy.",
+        "D": "It's necessary to create more low-emission zones as soon as possible."
+      },
+      "stem_cn": "ScottishPower的首席执行官在All Energy Conference之前说了什么?",
+      "options_cn": {
+        "A": "Glasgow需要投资新技术才能实现其目标。",
+        "B": "Glasgow将探索可再生能源的新来源。",
+        "C": "在转变Glasgow经济方面需要更严格的监管。",
+        "D": "有必要尽快建立更多低排放区。"
+      }
+    },
+    {
+      "num": 5,
+      "stem": "What do we learn from the news report about the Japanese IT firm?",
+      "options": {
+        "A": "It donates money to overpopulated animal shelters.",
+        "B": "It permits employees to bring cats into their office.",
+        "C": "It gives 5,000 yen to employees who keep pet cats.",
+        "D": "It allows workers to do whatever their hearts desire."
+      },
+      "stem_cn": "从新闻报道中我们了解到这家日本IT公司的什么情况?",
+      "options_cn": {
+        "A": "它向动物数量过多的收容所捐款。",
+        "B": "它允许员工把猫带到办公室。",
+        "C": "它给养宠物猫的员工发放5000日元。",
+        "D": "它允许员工做任何他们心里想做的事。"
+      }
+    },
+    {
+      "num": 6,
+      "stem": "What does Fukuda encourage his employees to do?",
+      "options": {
+        "A": "Keep cats off the street.",
+        "B": "Rescue homeless cats.",
+        "C": "Volunteer to help in animal shelters.",
+        "D": "Contribute to a fund for cat protection."
+      },
+      "stem_cn": "Fukuda鼓励他的员工做什么?",
+      "options_cn": {
+        "A": "让猫远离街道。",
+        "B": "救助流浪猫。",
+        "C": "自愿到动物收容所帮忙。",
+        "D": "向猫保护基金捐款。"
+      }
+    },
+    {
+      "num": 7,
+      "stem": "What does the news report say about the firm's policy?",
+      "options": {
+        "A": "It has contributed tremendously to the firm's fame.",
+        "B": "It has helped a lot to improve animals' well-being.",
+        "C": "It has led some other companies to follow suit.",
+        "D": "It has resulted in damage to office equipment."
+      },
+      "stem_cn": "新闻报道对该公司政策有何评价?",
+      "options_cn": {
+        "A": "它极大地提升了公司的知名度。",
+        "B": "它对改善动物福祉帮助很大。",
+        "C": "它促使其他一些公司效仿。",
+        "D": "它导致了办公设备的损坏。"
+      }
+    },
+    {
+      "num": 8,
+      "stem": "What does the man want to do?",
+      "options": {
+        "A": "Find out where Jimmy is.",
+        "B": "Borrow money from Jimmy.",
+        "C": "Make friends with Jimmy.",
+        "D": "Ask Jimmy what is to be done."
+      },
+      "stem_cn": "这位男士想做什么?",
+      "options_cn": {
+        "A": "找出Jimmy在哪里。",
+        "B": "向Jimmy借钱。",
+        "C": "和Jimmy交朋友。",
+        "D": "问Jimmy该做什么。"
+      }
+    },
+    {
+      "num": 9,
+      "stem": "What do we learn about the man who came to see the woman yesterday?",
+      "options": {
+        "A": "He was unsure what kind of fellow Jimmy was.",
+        "B": "He was working on a study project with Jimmy.",
+        "C": "He wanted to make a sincere apology to Jimmy.",
+        "D": "He wanted to invite her to join in a study project."
+      },
+      "stem_cn": "关于昨天来看这位女士的男士,我们了解到什么?",
+      "options_cn": {
+        "A": "他不确定Jimmy是什么样的人。",
+        "B": "他正在和Jimmy一起做一个研究项目。",
+        "C": "他想向Jimmy真诚地道歉。",
+        "D": "他想邀请她加入一个研究项目。"
+      }
+    },
+    {
+      "num": 10,
+      "stem": "What did Jimmy say happened to him one day?",
+      "options": {
+        "A": "He got a ticket for speeding.",
+        "B": "He got his car badly damaged.",
+        "C": "He was involved in a traffic accident.",
+        "D": "He had an operation for his injury."
+      },
+      "stem_cn": "Jimmy说有一天他发生了什么事?",
+      "options_cn": {
+        "A": "他因超速而被开罚单。",
+        "B": "他的车严重损坏了。",
+        "C": "他卷入了一起交通事故。",
+        "D": "他因受伤做了手术。"
+      }
+    },
+    {
+      "num": 11,
+      "stem": "Why did Jimmy borrow money according to the man?",
+      "options": {
+        "A": "He needed to make some donations to charity.",
+        "B": "He found the 60 pounds in his pocket missing.",
+        "C": "He wanted to buy a gift for his mother's birthday.",
+        "D": "He wanted to conceal something from his parents."
+      },
+      "stem_cn": "根据这位男士所说,Jimmy为什么借钱?",
+      "options_cn": {
+        "A": "他需要向慈善机构捐款。",
+        "B": "他发现口袋里的60英镑不见了。",
+        "C": "他想为母亲的生日买一份礼物。",
+        "D": "他想向父母隐瞒某事。"
+      }
+    },
+    {
+      "num": 12,
+      "stem": "What did the woman want to ask Max about?",
+      "options": {
+        "A": "Shopping delivery.",
+        "B": "Shopping online.",
+        "C": "Where he goes shopping.",
+        "D": "How often he does shopping."
+      },
+      "stem_cn": "女士想问Max什么事情?",
+      "options_cn": {
+        "A": "购物配送。",
+        "B": "网上购物。",
+        "C": "他去哪里购物。",
+        "D": "他多久购物一次。"
+      }
+    },
+    {
+      "num": 13,
+      "stem": "What does the man think is a problem with shopping in supermarkets?",
+      "options": {
+        "A": "Searching in the aisles.",
+        "B": "Dealing with the traffic.",
+        "C": "Driving too long a distance.",
+        "D": "Getting one's car parked."
+      },
+      "stem_cn": "男士认为在超市购物有什么问题?",
+      "options_cn": {
+        "A": "在过道里寻找商品。",
+        "B": "应对交通状况。",
+        "C": "开车距离太远。",
+        "D": "停车。"
+      }
+    },
+    {
+      "num": 14,
+      "stem": "What is the woman's concern about shopping online?",
+      "options": {
+        "A": "The after-sales service.",
+        "B": "The replacement policy.",
+        "C": "The quality of food products.",
+        "D": "The damage to the packaging."
+      },
+      "stem_cn": "女士对网上购物有什么顾虑?",
+      "options_cn": {
+        "A": "售后服务。",
+        "B": "退换政策。",
+        "C": "食品的质量。",
+        "D": "包装的损坏。"
+      }
+    },
+    {
+      "num": 15,
+      "stem": "What does the man find about shopping online?",
+      "options": {
+        "A": "It saves money.",
+        "B": "It offers more choice.",
+        "C": "It increases the joy of shopping.",
+        "D": "It is less time-consuming."
+      },
+      "stem_cn": "男士发现网上购物有什么特点?",
+      "options_cn": {
+        "A": "省钱。",
+        "B": "提供更多选择。",
+        "C": "增加购物的乐趣。",
+        "D": "更省时间。"
+      }
+    },
+    {
+      "num": 16,
+      "stem": "What did a recent study find about some British children?",
+      "options": {
+        "A": "They have little talent for learning math.",
+        "B": "They need medical help for math anxiety.",
+        "C": "They need extra help to catch up in the math class.",
+        "D": "They have strong negative emotions towards math."
+      },
+      "stem_cn": "最近一项研究发现了英国儿童的什么情况?",
+      "options_cn": {
+        "A": "他们学习数学的天赋很少。",
+        "B": "他们需要医疗帮助来应对数学焦虑。",
+        "C": "他们需要额外帮助才能在数学课上赶上进度。",
+        "D": "他们对数学有强烈的负面情绪。"
+      }
+    },
+    {
+      "num": 17,
+      "stem": "What is the widespread misunderstanding about math anxiety?",
+      "options": {
+        "A": "It will gradually pass away without teachers' help.",
+        "B": "It affects low performing children only.",
+        "C": "It is related to a child's low intelligence.",
+        "D": "It exists mostly among children from poor families."
+      },
+      "stem_cn": "关于数学焦虑的普遍误解是什么?",
+      "options_cn": {
+        "A": "它会在没有教师帮助的情况下逐渐消失。",
+        "B": "它只影响成绩差的儿童。",
+        "C": "它与儿童的低智商有关。",
+        "D": "它主要存在于来自贫困家庭的儿童中。"
+      }
+    },
+    {
+      "num": 18,
+      "stem": "What does the passage say about British students with math anxiety?",
+      "options": {
+        "A": "Most of them have average to strong math ability.",
+        "B": "Most of them get timely help from their teachers.",
+        "C": "They will regain confidence with counselling.",
+        "D": "They are mostly secondary school students."
+      },
+      "stem_cn": "文章关于有数学焦虑的英国学生说了什么?",
+      "options_cn": {
+        "A": "他们中的大多数具有中等到较强的数学能力。",
+        "B": "他们中的大多数从老师那里得到及时的帮助。",
+        "C": "他们通过咨询会重新获得信心。",
+        "D": "他们大多数是中学生。"
+      }
+    },
+    {
+      "num": 19,
+      "stem": "What conclusion has the World Health Organization come to recently?",
+      "options": {
+        "A": "Social media addiction is a threat to our health.",
+        "B": "Too many people are addicted to smartphones.",
+        "C": "Addiction to computer games is a disease.",
+        "D": "Computer games can be rather addictive."
+      },
+      "stem_cn": "世界卫生组织最近得出了什么结论?",
+      "options_cn": {
+        "A": "社交媒体成瘾是对我们健康的威胁。",
+        "B": "太多人对智能手机上瘾。",
+        "C": "电脑游戏成瘾是一种疾病。",
+        "D": "电脑游戏可能相当容易让人上瘾。"
+      }
+    },
+    {
+      "num": 20,
+      "stem": "What is said of people with addictive behavior?",
+      "options": {
+        "A": "They prioritize their favored activity over what they should do.",
+        "B": "They do their favored activity whenever and wherever possible.",
+        "C": "They are unaware of the damage their behavior is doing to them.",
+        "D": "They are unable to get rid of their addiction without professional help."
+      },
+      "stem_cn": "关于有成瘾行为的人,有什么说法?",
+      "options_cn": {
+        "A": "他们把自己喜欢的活动置于应该做的事情之上。",
+        "B": "他们随时随地尽可能从事自己喜欢的活动。",
+        "C": "他们没有意识到自己的行为对他们造成的伤害。",
+        "D": "他们无法在没有专业帮助的情况下摆脱成瘾。"
+      }
+    },
+    {
+      "num": 21,
+      "stem": "What do some behavior experts think of addiction to computer games?",
+      "options": {
+        "A": "It may be less damaging than previously believed.",
+        "B": "There will never be agreement on its harm to people.",
+        "C": "It may prove to be beneficial to developing creativity.",
+        "D": "There is not enough evidence to classify it as a disease."
+      },
+      "stem_cn": "一些行为专家如何看待电脑游戏成瘾?",
+      "options_cn": {
+        "A": "它的危害可能比之前认为的要小。",
+        "B": "人们永远不会就其危害达成一致。",
+        "C": "它可能被证明有益于培养创造力。",
+        "D": "没有足够的证据将其归类为一种疾病。"
+      }
+    },
+    {
+      "num": 22,
+      "stem": "What do we learn about most European passports?",
+      "options": {
+        "A": "They are relatively uniform in color and design.",
+        "B": "They appear more formal than other passports.",
+        "C": "They are a shade of red bordering on brown.",
+        "D": "They vary in color from country to country."
+      },
+      "stem_cn": "关于大多数欧洲护照我们了解到什么?",
+      "options_cn": {
+        "A": "它们在颜色和设计上相对统一。",
+        "B": "它们看起来比其他护照更正式。",
+        "C": "它们是一种近乎棕色的红色。",
+        "D": "它们的颜色因国家而异。"
+      }
+    },
+    {
+      "num": 23,
+      "stem": "What does the passage say about the design of passports?",
+      "options": {
+        "A": "They must endure wear and tear.",
+        "B": "They must be of the same size.",
+        "C": "They must be made from a rare material.",
+        "D": "They must follow some common standards."
+      },
+      "stem_cn": "文章关于护照的设计说了什么?",
+      "options_cn": {
+        "A": "它们必须经得起磨损。",
+        "B": "它们必须尺寸相同。",
+        "C": "它们必须由稀有材料制成。",
+        "D": "它们必须遵循一些共同标准。"
+      }
+    },
+    {
+      "num": 24,
+      "stem": "Why are dark colors chosen for passport covers?",
+      "options": {
+        "A": "They look more traditional.",
+        "B": "They look more official.",
+        "C": "They are favored by airlines.",
+        "D": "They are easily identifiable."
+      },
+      "stem_cn": "为什么护照封面选择深色?",
+      "options_cn": {
+        "A": "它们看起来更传统。",
+        "B": "它们看起来更正式。",
+        "C": "它们受到航空公司的青睐。",
+        "D": "它们容易识别。"
+      }
+    },
+    {
+      "num": 25,
+      "stem": "What is one special function of the images inside many passports?",
+      "options": {
+        "A": "For beauty.",
+        "B": "For variety.",
+        "C": "For visibility.",
+        "D": "For security."
+      },
+      "stem_cn": "许多护照内部的图像有什么特殊功能?",
+      "options_cn": {
+        "A": "为了美观。",
+        "B": "为了多样性。",
+        "C": "为了可见性。",
+        "D": "为了安全性。"
+      }
+    }
+  ],
+  "word_bank": {
+    "A": "abruptly",
+    "B": "appointments",
+    "C": "consequences",
+    "D": "debating",
+    "E": "dimensions",
+    "F": "friendly",
+    "G": "hindered",
+    "H": "idiom",
+    "I": "implication",
+    "J": "pushing",
+    "K": "severely",
+    "L": "sparked",
+    "M": "splitting",
+    "N": "survey",
+    "O": "touches"
+  },
+  "cloze_passage": "Social isolation poses more health risks than obesity or smoking 15 cigarettes a day, according to research published by Brigham Young University. The 26 is that loneliness is a huge, if silent, risk factor.\nLoneliness affects physical health in two ways. First, it produces stress hormones that can lead to many health problems. Second, people who live alone are less likely to go to doctor 27 , to exercise or to eat a healthy diet.\nPublic health experts in many countries are 28 how to address widespread loneliness in our society. Last year Britain even appointed a minister for loneliness. \"Loneliness 29 almost every one of us at some point,\" its minister for loneliness Baroness Barran said. \"It can lead to very serious health 30 for individuals who become isolated and disconnected.\"\nBarran started a \"Let's Talk Loneliness\" campaign that 31 difficult conversations across Britain. He is now supporting \" 32 benches,\" which are public seating areas where people are encouraged to go and chat with one another. The minister is also 33 to stop public transportation from being cut in ways that leave people isolated.\nMore than one-fifth of adults in both the United States and Britain said in a 2018 34 that they often or always feel lonely. More than half of American adults are unmarried, and researchers have found that even among those who are married, 30% of relationships are 35 strained. A quarter of Americans now live alone, and as the song says, one is the loneliest number.",
+  "long_reading_passage": "A) Numbers do not exist in all cultures. There are numberless hunter-gatherers in Amazonia, living along branches of the world's largest river tree. Instead of using words for precise quantities, these people rely exclusively on terms similar to \"a few\" or \"some.\" In contrast, our own lives are governed by numbers. As you read this, you are likely aware of what time it is, how old you are, your checking account balance, your weight and so on. The exact numbers we think with impact everything in our lives.\nB) But, in a historical sense, number-conscious people like us are the unusual ones. For the bulk of our species' approximately 200,000-year lifespan, we had no means of precisely representing quantities. What's more, the 7,000 or so languages that exist today vary dramatically in how they utilize numbers.\nC) Speakers of anumeric, or numberless, languages offer a window into how the invention of numbers reshaped the human experience. Cultures without numbers, or with only one or two precise numbers, include the Munduruku and Piraha in Amazonia. Researchers have also studied some adults in Nicaragua who were never taught number words. Without numbers, healthy human adults struggle to precisely distinguish and recall quantities as low as four. In an experiment, a researcher will place nuts into a can one at a time and then remove them one by one. The person watching is asked to signal when all the nuts have been removed. Responses suggest that anumeric people have some trouble keeping track of how many nuts remain in the can, even if there are only four or five in total.\nD) This and many other experiments have led to a simple conclusion: When people do not have number words, they struggle to make quantitative distinctions that probably seem natural to someone like you or me. While only a small portion of the world's languages are anumeric or nearly anumeric, they demonstrate that number words are not a human universal.\nE) It is worth stressing that these anumeric people are cognitively(在认知方面) normal, well-adapted to the surroundings they have dominated for centuries. As a child, I spent some time living with anumeric people, the Piraha who live along the banks of the black Maici River. Like other outsiders, I was continually impressed by their superior understanding of the ecology we shared. Yet numberless people struggle with tasks that require precise discrimination between quantities. Perhaps this should be unsurprising. After all, without counting, how can someone tell whether there are, say, seven or eight coconuts(椰子) in a tree? Such seemingly straightforward distinctions become blurry through numberless eyes.\nF) This conclusion is echoed by work with anumeric children in industrialized societies. Prior to being spoon-fed number words, children can only approximately discriminate quantities beyond three. We must be handed the cognitive tools of numbers before we can consistently and easily recognize higher quantities. In fact, acquiring the exact meaning of number words is a painstaking process that takes children years. Initially, kids learn numbers much like they learn letters. They recognize that numbers are organized sequentially, but have little awareness of what each individual number means. With time, they start to understand that a given number represents a quantity greater by one than the number coming before it. This \"successor principle\" is part of the foundation of our numerical(数字的) cognition, but requires extensive practice to understand.\nG) None of us, then, is really a \"numbers person.\" We are not born to handle quantitative distinctions skillfully. In the absence of the cultural traditions that fill our lives with numbers from infancy, we would all struggle with even basic quantitative distinctions. Number words and their written forms transform our quantitative reasoning as they are introduced into our cognitive experience by our parents, peers and school teachers. The process seems so normal that we sometimes think of it as a natural part of growing up, but it is not. Human brains come equipped with certain quantitative instincts that are refined with age, but these instincts are very limited.\nH) Compared with other mammals, our numerical instincts are not as remarkable as many assume. We even share some basic instinctual quantitative reasoning with distant non-mammalian relatives like birds. Indeed, work with some other species suggests they too can refine their quantitative thought if they are introduced to the cognitive power tools we call numbers.\nI) So, how did we ever invent \"unnatural\" numbers in the first place? The answer is, literally, at your fingertips. The bulk of the world's languages use base-10, base-20 or base-5 number systems. That is, these smaller numbers are the basis of larger numbers. English is a base-10 or decimal(十进制的) language, as evidenced by words like 14(\"four\" + \"10\") and 31 (\"three\" x \"10\" + \"one\"). We speak a decimal language because an ancestral tongue, proto-Indo-European, was decimally based. Proto-Indo-European was decimally oriented because, as in so many cultures, our ancestors' hands served as the gateway to the realization that \"five fingers on one hand is the same as five fingers on the other.\" Such momentary thoughts were represented in words and passed down across generations. This is why the word \"five\" in many languages is derived from the word for \"hand.\" Most number systems, then, are the by-product of two key factors: the human capacity for language and our inclination for focusing on our hands and fingers. This manual fixation—an indirect by-product of walking upright on two legs—has helped yield numbers in most cultures, but not all.\nJ) Cultures without numbers also offer insight into the cognitive influence of particular numeric traditions. Consider what time it is. Your day is ruled by minutes and seconds, but these concepts are not real in any physical sense and are nonexistent to numberless people. Minutes and seconds are the verbal and written representations of an uncommon base-60 number system used in ancient Mesopotamia. They reside in our minds, numerical artifacts(人工制品) that not all humans inherit conceptually.\nK) Research on the language of numbers shows, more and more, that one of our species' key characteristics is tremendous linguistic(语言的) and cognitive diversity. If we are to truly understand how much our cognitive lives differ cross-culturally, we must continually explore the depths of our species' linguistic diversity.",
+  "long_reading": [
+    {
+      "num": 36,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 37,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 38,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 39,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 40,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 41,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 42,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 43,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 44,
+      "stem": "",
+      "options": {}
+    },
+    {
+      "num": 45,
+      "stem": "",
+      "options": {}
+    }
+  ],
+  "reading_passage_1": "Sugar shocked. That describes the reaction of many Americans this week following revelations that, 50 years ago, the sugar industry paid Harvard scientists for research that shifted the focus away from sugar's role in heart disease—and put the spotlight(注意的中心) squarely on dietary fat.\nWhat might surprise consumers is just how many present-day nutrition studies are still funded by the food industry. Nutrition scholar Marion Nestle of New York University spent a year informally tracking industry-funded studies on food. \"Roughly 90% of nearly 170 studies favored the sponsor's interest,\" Nestle tells us. Other systematic reviews support her conclusions.\nFor instance, studies funded by Welch Foods—the brand behind Welch's 100% Grape Juice—found that drinking Concord grape juice daily may boost brain function. Another, funded by Quaker Oats, concluded, as a Daily Mail story put it, that \"hot oatmeal(燕麦粥) breakfast keeps you full for longer.\"\nLast year, The New York Times revealed how Coca-Cola was funding well-known scientists and organizations promoting a message that, in the battle against weight gain, people should pay more attention to exercise and less to what they eat and drink. Coca-Cola also released data detailing its funding of several medical institutions and associations between 2010 and 2015.\n\"It's certainly a problem that so much research in nutrition and health is funded by industry,\" says Bonnie Liebman, director of nutrition at the Center for Science in the Public Interest. \"When the food industry pays for research, it often gets what it pays for.\" And what it pays for is often a pro-industry finding.\nGiven this environment, consumers should be skeptical(怀疑的) when reading the latest finding in nutrition science and ignore the latest study that pops up on your news feed. \"Rely on health experts who've reviewed all the evidence,\" Liebman says, pointing to the official government Dietary Guidelines, which are based on reviews of hundreds of studies.\n\"And that expert advice remains pretty simple,\" says Nestle. \"We know what healthy diets are—lots of vegetables, not too much junk food, balanced calories. Everything else is really difficult to do experimentally.\"",
+  "reading_1": [
+    {
+      "num": 46,
+      "stem": "",
+      "options": {
+        "A": "They raised public awareness of the possible causes of heart disease.",
+        "B": "They turned public attention away from the health risks of sugar to fat.",
+        "C": "They placed the sugar industry in the spotlight with their new findings.",
+        "D": "They conducted large-scale research on the role of sugar in people's health."
+      }
+    },
+    {
+      "num": 47,
+      "stem": "",
+      "options": {
+        "A": "They took her a full year to track and analyze.",
+        "B": "Most of them are based on systematic reviews.",
+        "C": "They depend on funding from the food industries.",
+        "D": "Nearly all of them serve the purpose of the funders."
+      }
+    },
+    {
+      "num": 48,
+      "stem": "",
+      "options": {
+        "A": "Exercise is more important to good health than diet.",
+        "B": "Choosing what to eat and drink is key to weight control.",
+        "C": "Drinking Coca-Cola does not contribute to weight gain.",
+        "D": "The food industry plays a major role in fighting obesity."
+      }
+    },
+    {
+      "num": 49,
+      "stem": "",
+      "options": {
+        "A": "It simply focuses on nutrition and health.",
+        "B": "It causes confusion among consumers.",
+        "C": "It rarely results in objective findings.",
+        "D": "It runs counter to the public interest."
+      }
+    },
+    {
+      "num": 50,
+      "stem": "",
+      "options": {
+        "A": "Follow their intuition in deciding what to eat.",
+        "B": "Be doubtful of diet experts' recommendations.",
+        "C": "Ignore irrelevant information on their news feed.",
+        "D": "Think twice about new nutrition research findings."
+      }
+    }
+  ],
+  "reading_passage_2": "Success was once defined as being able to stay at a company for a long time and move up the corporate ladder. The goal was to reach the top, accumulate wealth and retire to a life of ease. My father is a successful senior executive. In 35 years, he worked for only three companies.\nWhen I started my career, things were already different. If you weren't changing companies every three or four years, you simply weren't getting ahead in your career. But back then, if you were a consultant or freelancer(自由职业者), people would wonder what was wrong with you. They would assume you had problems getting a job.\nToday, consulting or freelancing for five businesses at the same time is a badge of honor. It shows how valuable an individual is. Many companies now look to these \"ultimate professionals\" to solve problems their full-time teams can't. Or they save money by hiring \"top-tier(顶尖的) experts\" only for particular projects.\nWorking at home or in cafes, starting businesses of their own, and even launching business ventures that eventually may fail, all indicate \"initiative,\" \"creativity,\" and \"adaptability,\" which are desirable qualities in today's workplace. Most important, there is a growing recognition that people who balance work and play, and who work at what they are passionate about, are more focused and productive, delivering greater value to their clients.\nWho are these people? They are artists, writers, programmers, providers of office services and career advice. What's needed now is a marketplace platform specifically designed to bring freelancers and clients together. Such platforms then become a place to feature the most experienced, professional, and creative talent. This is where they conduct business, where a sense of community reinforces the culture and values of the gig economy(零工经济), and where success is rewarded with good reviews that encourage more business.\nSlowly but surely, these platforms create a bridge between traditional enterprises and this emerging economy. Perhaps more important, as the global economy continues to be disrupted by technology and other massive change, the gig economy will itself become an engine of economic and social transformation.",
+  "reading_2": [
+    {
+      "num": 51,
+      "stem": "",
+      "options": {
+        "A": "How long people took to reach the top of their career.",
+        "B": "How people accumulated wealth in his father's time.",
+        "C": "How people viewed success in his father's time.",
+        "D": "How long people usually stayed in a company."
+      }
+    },
+    {
+      "num": 52,
+      "stem": "",
+      "options": {
+        "A": "It was considered a fashion at that time.",
+        "B": "It was a way to advance in their career.",
+        "C": "It was a response to the changing job market.",
+        "D": "It was difficult to keep a job for long."
+      }
+    },
+    {
+      "num": 53,
+      "stem": "",
+      "options": {
+        "A": "They are often regarded as most treasured talents.",
+        "B": "They are able to bring their potential into fuller play.",
+        "C": "They have control over their life and work schedules.",
+        "D": "They feel proud of being outstanding problem solvers."
+      }
+    },
+    {
+      "num": 54,
+      "stem": "",
+      "options": {
+        "A": "Who is capable of solving problems with ease.",
+        "B": "How people can be more focused and productive.",
+        "C": "What kind of people can contribute more to them.",
+        "D": "Why some people are more passionate about work."
+      }
+    },
+    {
+      "num": 55,
+      "stem": "",
+      "options": {
+        "A": "It may force companies to reform their business practice.",
+        "B": "It may soon replace the traditional economic model.",
+        "C": "It will drive technological progress on a global scale.",
+        "D": "It will bring about radical economic and social changes."
+      }
+    }
+  ],
+  "translation": "Part IV Translation (30 minutes) 英语四级2021年6月·第2套真题 Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 普洱(Pur'er)茶深受中国人喜爱。最好的普洱茶产自云南的西双版纳(Xishuangbanna)，那里的气候和环境为普洱茶树的生长提供了最佳条件。普洱茶颜色较深,味道与其他许多茶截然不同。普洱茶泡(brew)的时间越长越有味道。许多爱喝茶的人尤其喜欢其独特的香味和口感。普洱茶含有多种有益健康的元素,常饮普洱茶有助于保护心脏和血管,还有减肥、消除疲劳和促进消化的功效。",
+  "answers": {
+    "1": "A",
+    "2": "D",
+    "3": "C",
+    "4": "A",
+    "5": "B",
+    "6": "B",
+    "7": "C",
+    "8": "A",
+    "9": "B",
+    "10": "C",
+    "11": "D",
+    "12": "B",
+    "13": "D",
+    "14": "C",
+    "15": "A",
+    "16": "D",
+    "17": "B",
+    "18": "A",
+    "19": "C",
+    "20": "A",
+    "21": "D",
+    "22": "C",
+    "23": "D",
+    "24": "B",
+    "25": "D",
+    "26": "I",
+    "27": "B",
+    "28": "D",
+    "29": "O",
+    "30": "C",
+    "31": "L",
+    "32": "F",
+    "33": "J",
+    "34": "N",
+    "35": "K",
+    "36": "C",
+    "37": "H",
+    "38": "E",
+    "39": "B",
+    "40": "K",
+    "41": "D",
+    "42": "G",
+    "43": "A",
+    "44": "I",
+    "45": "F",
+    "46": "B",
+    "47": "D",
+    "48": "A",
+    "49": "C",
+    "50": "D",
+    "51": "C",
+    "52": "B",
+    "53": "A",
+    "54": "C",
+    "55": "D"
+  },
+  "listening_script": {
+    "en": "An 81-year-old man ended up in Germany by accident after trying to get from Newcastle, Great Britain, to Rome, Italy.\nThe old age pensioner was on a mission to see the Pope, who is head of the Catholic Church, and decided to make his way there by car.\nHe was surprised when his GPS system told him he had arrived, although there were no signs of any of the famous buildings or architecture.\nThe man parked but didn't put on the handbrake of his car properly.\nHis car rolled backwards, and in a striking display of irony, hit a sign saying \"Rom\"—the small town in North Germany he had mistakenly plugged into the GPS system.\nPolice said that the car had come to a halt after hitting the sign, but did not appear to be seriously damaged, although an ambulance was called to check on the pensioner.\nThe man, who lives in the UK and is originally Italian, might have been confused by the fact that Rome is written \"Roma\" in Italian and \"Rom\" in German.\nGlasgow has pledged to become the first carbon neutral city in the UK. The city's council and ScottishPower have announced a range of strategies in an attempt to reduce carbon emissions ahead of the new national target of 2045.\nFirst Minister Nicola Sturgeon welcomed the pledge, and said: \"Today's announcement between ScottishPower and Glasgow City Council—to make Glasgow the UK's first net-zero city—is a very welcome step. Reaching our goals will need exactly this kind of partnership approach—with government, business, local authorities and citizens all playing their part.\"\nSpeaking ahead of the All Energy Conference being held in Glasgow, ScottishPower chief executive Keith Anderson said: \"We have a large supply of renewable energy on our doorstep and one of the only two low emission zones in action across the UK. Now, we need to invest in the technologies and programmes that transform the rest of Glasgow's economy and make us net zero before anyone else.\"\nA Japanese IT firm has officially introduced an \"office cat\" policy to combat the stressful environment of the workplace.\nA total of nine furry friends freely wander around in the office and do whatever their little hearts desire.\nHidenobu Fukuda, who heads the firm, introduced the pet policy, upon request from one of his employees, allowing staff to bring their own cats to work.\nEmployee Eri Ito is grateful for their animals' comforting ways. \"Cats are sleeping just beside us. It's healing.\" she said. Not only does Fukuda encourage bringing cats to the job, but he also encourages his employees to rescue cats from overpopulated shelters or streets. He gives 5,000 yen, about 45 US dollars a month to those who rescue a cat.\nWhile the positives are many, there are still some obstacles. \"Sometimes a cat will walk on a phone and cut off the call, or they shut down the computers by walking onto the off switch,\" Ito says.\nStill, cats in the workplace have been a tremendous success for the company. The policy has led to various other companies doing the same.\nM: Has Jimmy been coming in lately?\nW: No, I haven't seen him around. Why? Has he been causing any trouble?\nM: Not that I know of. But I need to see him, because my friends and I lent him some money last month. We haven't heard from him since. I heard he comes here a lot, so I thought I'd come in and check with you.\nW: Well, that's funny. Some other fellow came in asking for Jimmy just yesterday, a real nervous, pushy type of fellow, saying he needed Jimmy for some study project they were working on. But I can't quite remember what it was all about. Is this a lot of money we're talking about here?\nM: No, just 60 pounds between the three of us, but still a bit too much to just let go. He told us he'd got into an accident. Nothing serious, mind you, but he damaged someone's car and wanted to get some money together to make up for the damage he'd caused.\nW: Hmm, isn't that sort of thing usually covered by insurance? And then, if you still wanted to give money as some sort of apology or something, he probably shouldn't have to go around borrowing it from people.\nM: You think Jimmy's just making it all up? See, I did think it was a bit weird for him to be asking for money for that sort of thing. And his story was a bit vague to begin with. But I thought maybe he doesn't want his parents to know about what happened. So he'd rather come to us and keep things quiet. Anyway, Jimmy is a good guy. So we didn't make a fuss about it.\nW: Hi, Max. How are you? Listen. I wanted to ask you about ordering shopping online. I've never done it before and I know that you've been doing it for ages.\nM: Sure. I love getting my shopping delivered. It makes life so much simpler—no carrying heavy shopping bags in the rain, or trying to park the car on those huge supermarket car parks then not being able to find it again after you come out of the shops.\nW: But there must be some problems. I mean, how do you know that you won't get bad fruit, or that the eggs won't be broken?\nM: Oh, come on. The food is exactly the same as the stuff you buy in a conventional shop. They aren't going to deliver you food that is out of date. And if you get a broken egg, well, that could happen in a conventional shop, too. If anything is really wrong, you can just take photographs of the damage, and they will give you the money back or replace the item.\nW: How about delivery fees? Is it not more expensive to get everything delivered?\nM: I actually found that it was cheaper for me, as I live quite far away from my local supermarket. So with the deliveries, I'm actually saving on petrol.\nW: I've never thought of that. If you aren't driving your own car, then you are saving on fuel. Right, you've convinced me. I'm going to go on the computer now and give it a try. So, which supermarket do you think is the best to order from?\nM: Oh, no. That's definitely up to you. Otherwise, we'll be here all day.\nA recent study found that 10 percent of British children suffer from math anxiety. This means they have overwhelming negative emotions towards the subject, ranging from rage to despair. Other emotions triggered by math include feelings of \"tension and frustration\". Physical symptoms include a racing heart or struggling to catch breath.\nThe phenomenon of math anxiety is characterized as a general sense of feeling that the subject is hard compared with other subjects leading to a subsequent lack or loss of confidence.\nResearchers said they investigated individuals' attitudes towards mathematics because of what could be referred to as a mathematics crisis in the UK. There's a widespread misunderstanding that only low performing children suffer from math anxiety. People automatically assume children are anxious about math because they are poor achievers.\nIn fact, more than three quarters of children with high levels of math anxiety are normal to high achievers.\nProbably their math anxiety will go unnoticed because their performance is good. But in the long term their performance is negatively affected.\nSo the real danger here is that children who will be completely able to do math at a normal level may keep away from it because they feel anxious.\nMath anxiety can severely disrupt students' performance in the subject in both primary and secondary school. But importantly—and surprisingly—this new study suggests that the majority of students experiencing math anxiety have normal to high math ability.\nPeople spend a lot of time using phones and computers. Much of that time is devoted to text messages and social media. But many people choose to spend their time playing computer games.\nFor years, parents and teachers have worried that these games might be addictive. And now, the World Health Organization has recognized addiction to computer games as a disease. The organization explains that this decision reflects general agreement among experts around the world that some people have a problem with these games. They show a pattern of behavior characterized by a lack of control. Such people make computer games a priority over their responsibilities. They may play games instead of attending school, or work, or socializing.\nAccording to the World Health Organization experts, people's use of computer games is different from their use of the Internet, social media and online shopping. These experts claim there is not sufficient data to indicate that people's reliance on those other activities is an addiction. But they argue that playing computer games to access is different. This behavior can become a disorder. To meet the new definition for addiction, the behavior must damage a person's relationships or performance at school or work, and this must last for at least a year. Still not all behavior experts agree. Some argue that there's not enough research on the subject. Thus, they claim it is too early to call computer game addiction a disorder.\nMaybe you carry the most powerful passport in the world, or perhaps the rarest passport. Whatever the case, your passport will likely be one of four colors: red, blue, green or black, although there are slight variations. Switzerland's passport is dark red, for example, while most European countries prefer a shade of red. That's almost brown.\nThere are no official rules regarding passport colors, but countries follow a certain set of norms when designing them. The International Civil Aviation Organization, which works to define the principles of air travel, suggests that countries use a suitable type, size and style for official documents like passports.\nThere are also a few compulsory aspects of passports. They must be made from a material that bends. They should be able to be read by a machine at temperatures ranging from 10 degrees Celsius to 50 degrees Celsius, under the conditions where the air can be extremely dry or moist.\nDespite these existing recommendations, there is nothing regarding the cover color. Why? Simply put, countries stick to darker and more conservative colors because they appear more official. And they can also hide dirt and wear. While there's little innovation when it comes to passport cover color, the same cannot be said for the pages. The passports of many countries can take images of their well-known geographical features and wildlife, which also function as security features as some are only visible under a special light.",
+    "cn": "一位81岁的老人在试图从英国纽卡斯尔前往意大利罗马时意外到达了德国。\n这位领取养老金的老人此行是为了拜见天主教会领袖教皇,他决定驾车前往。\n当GPS系统告诉他已经到达目的地时,他感到很惊讶,因为周围没有任何著名建筑的迹象。\n老人停好车,但没有正确拉上手刹。\n他的车向后滑行,极具讽刺意味的是,撞上了一块写着\"Rom\"的标志牌——这是他误输入GPS系统的德国北部小镇的名字。\n警方表示,汽车撞上标志牌后停了下来,但似乎没有严重损坏,不过还是叫了救护车来检查这位老人的身体状况。\n这位生活在英国、原籍意大利的老人可能是因为罗马在意大利语中写作\"Roma\",而在德语中写作\"Rom\"而产生了混淆。\nGlasgow承诺成为英国首个碳中和城市。该市议会和ScottishPower宣布了一系列战略，试图在2045年这一新的国家目标之前减少碳排放。\n首席大臣Nicola Sturgeon对这一承诺表示欢迎，并说：\"今天ScottishPower与Glasgow市议会之间的宣布——使Glasgow成为英国首个净零排放城市——是非常值得欢迎的一步。实现我们的目标需要正是这种伙伴关系方式——政府、企业、地方当局和公民都发挥各自的作用。\"\n在Glasgow举行的全能源大会之前发言时,ScottishPower首席执行官Keith Anderson说：\"我们家门口有大量的可再生能源供应，并且拥有全英国仅有的两个低排放区之一。现在，我们需要投资于技术和项目，以转变Glasgow经济的其他部分，使我们比其他任何人都更早实现净零排放。\"\n一家日本IT公司正式推出了\"办公室猫\"政策,以应对压力重重的工作环境。\n共有九只毛茸茸的朋友在办公室里自由走动,做着它们内心想做的任何事情。\n公司负责人Hidenobu Fukuda应一位员工的要求推出了这项宠物政策,允许员工将自己的猫带到工作场所。\n员工Eri Ito对这些动物带来的慰藉心怀感激。她说:\"猫就睡在我们身边,这很治愈。\"Fukuda不仅鼓励员工带猫上班,还鼓励员工从过度拥挤的收容所或街头救助猫。他每月向救助猫的员工提供5000日元,约合45美元。\n虽然好处很多,但仍存在一些障碍。Ito说:\"有时猫会走到电话上挂断通话,或者它们走到关机开关上把电脑关掉。\"\n尽管如此,办公室里的猫对公司来说仍是一项巨大的成功。这项政策促使其他多家公司也采取了同样的做法。\nM: Jimmy 最近有来吗？\nW: 没有，我没见他在附近。怎么了？他惹什么麻烦了吗？\nM: 据我所知没有。但我需要见他，因为上个月我和朋友们借了他一些钱。从那以后就没他消息了。我听说他经常来这儿，所以想过来问问你。\nW: 嗯，这倒挺有意思。就在昨天还有个人来找 Jimmy，一个特别紧张、咄咄逼人的家伙，说他需要找 Jimmy 完成他们一起做的什么学习项目。但我记不太清具体是什么了。你们说的是一大笔钱吗？\nM: 不是，我们三个人一共就 60 英镑，但也不至于就这么算了。他告诉我们他出了个事故。不严重，你知道，但他撞坏了别人的车，想凑点钱赔偿他造成的损失。\nW: 嗯，这种事不是通常都有保险赔吗？而且就算你还想给钱作为某种道歉什么的，他也不应该到处找人借钱吧。\nM: 你觉得 Jimmy 是编出来的？你看，我当时确实觉得他为这种事要钱有点奇怪。而且他的说法一开始就挺含糊的。但我想也许他不想让父母知道发生了什么，所以宁愿来找我们，把事情压下来。不管怎样，Jimmy 是个好人，所以我们也没多计较。\nW: 嗨,Max。你好吗?听着,我想问你关于网上购物的事。我以前从来没试过,我知道你已经用了很久了。\nM: 当然。我很喜欢送货上门。这让生活简单多了——不用在雨天提着沉重的购物袋,也不用在那些超大的超市停车场停车,然后从商店出来后又找不到自己的车。\nW: 但肯定会有些问题吧。我是说,你怎么知道不会买到坏水果,或者鸡蛋不会破呢?\nM: 哦,别这样。食物和你在传统商店买的东西完全一样。他们不会给你送过期的食品。如果你收到破损的鸡蛋,这在传统商店也可能发生。如果真的有什么问题,你可以拍下损坏的照片,他们会退钱或者换货。\nW: 配送费怎么样?送货上门不是更贵吗?\nM: 实际上我发现对我来说更便宜,因为我住得离本地超市挺远的。所以有了配送服务,我实际上还节省了汽油费。\nW: 我从没想过这一点。如果你不开自己的车,那就省了油钱。好吧,你说服我了。我现在就去电脑上试试。那么,你觉得哪家超市最值得下单?\nM: 哦,不。那肯定要你自己决定。否则,我们得在这儿待一整天了。\n最近一项研究发现,10%的英国儿童患有数学焦虑症。这意味着他们对这门学科有压倒性的负面情绪,从愤怒到绝望不等。数学引发的其他情绪还包括\"紧张和挫败感\"。生理症状包括心跳加速或呼吸困难。\n数学焦虑现象的特征是一种普遍的感觉,即认为这门学科比其他学科更难,从而导致信心不足或丧失信心。\n研究人员表示,他们之所以调查个人对数学的态度,是因为英国可以称之为数学危机的现象。人们普遍误解只有成绩差的儿童才会患有数学焦虑症。人们自动认为儿童对数学感到焦虑是因为他们成绩不好。\n事实上,超过四分之三有高度数学焦虑的儿童是正常到高水平的成就者。\n他们的数学焦虑可能不会被注意到,因为他们的成绩很好。但从长远来看,他们的表现会受到负面影响。\n所以真正的危险在于,完全有能力达到正常水平做数学的儿童可能会远离它,因为他们感到焦虑。\n数学焦虑会严重扰乱学生在小学和中学阶段这门学科的表现。但重要的是——也令人惊讶的是——这项新研究表明,大多数经历数学焦虑的学生具有正常到较高的数学能力。\n人们花费大量时间使用手机和电脑。这些时间大部分用于发送短信和使用社交媒体。但许多人选择把时间花在玩电脑游戏上。\n多年来,家长和教师一直担心这些游戏可能会让人上瘾。现在,世界卫生组织已经将电脑游戏成瘾认定为一种疾病。该组织解释说,这一决定反映了全球专家的普遍共识,即有些人在这些游戏上存在问题。他们表现出以缺乏控制力为特征的行为模式。这些人将电脑游戏置于自己的责任之上。他们可能不去上学、不去工作或不参加社交活动,而是玩游戏。\n根据世界卫生组织专家的说法,人们对电脑游戏的使用不同于他们对互联网、社交媒体和网上购物的使用。这些专家声称,没有足够的数据表明人们对其他这些活动的依赖是一种成瘾。但他们认为,为了获取而玩电脑游戏是不同的。这种行为可能成为一种障碍。要符合成瘾的新定义,这种行为必须损害一个人的人际关系或在学校或工作中的表现,并且这种情况必须持续至少一年。但并非所有行为专家都同意这一观点。一些人认为关于这个主题的研究还不够充分。因此,他们声称现在将电脑游戏成瘾称为一种障碍还为时过早。\n也许你持有世界上最强大的护照,或者可能是最稀有的护照。无论如何,你的护照很可能是四种颜色之一:红色、蓝色、绿色或黑色,尽管存在细微的差异。例如,瑞士的护照是深红色,而大多数欧洲国家更喜欢红色的色调。那几乎是棕色的。\n关于护照颜色没有官方规定,但各国在设计护照时遵循一套特定的规范。国际民用航空组织致力于定义航空旅行的原则,建议各国为护照等官方文件使用合适的类型、尺寸和样式。\n护照还有一些强制性要求。护照必须由可弯曲的材料制成。它们应当能够在10摄氏度到50摄氏度的温度范围内被机器读取,在空气可能极度干燥或潮湿的条件下。\n尽管存在这些现行建议,但没有关于封面颜色的规定。为什么?简单来说,各国坚持使用更深、更保守的颜色,因为它们看起来更正式。而且它们还可以隐藏污垢和磨损。虽然在护照封面颜色方面几乎没有创新,但在内页方面却并非如此。许多国家的护照可以采用其著名地理特征和野生动物的图像,这些图像也具有安全功能,因为有些图像只有在特殊光线下才能看到。"
+  }
+}

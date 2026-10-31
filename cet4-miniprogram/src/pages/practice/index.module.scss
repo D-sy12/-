@@ -1,0 +1,336 @@
+@use '@/styles/variables.scss' as *;
+
+.page {
+  min-height: 100vh;
+  padding: 20rpx $page-padding 60rpx;
+}
+
+// ---------- 快捷入口 ----------
+.quickEntries {
+  display: flex;
+  gap: 16rpx;
+  margin-bottom: 20rpx;
+}
+
+.quickCard {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 88rpx;
+  background: $color-bg-card;
+  border-radius: $radius-md;
+  box-shadow: $shadow-card;
+  font-size: 27rpx;
+  color: $color-text-secondary;
+
+  &:active {
+    opacity: 0.8;
+    transform: scale(0.98);
+  }
+}
+
+.quickIcon {
+  margin-right: 10rpx;
+  font-size: 32rpx;
+}
+
+.quickName {
+  font-size: 26rpx;
+}
+
+// ---------- 模式 / 词源 ----------
+.modeBar {
+  display: flex;
+  gap: 16rpx;
+  margin-bottom: 16rpx;
+}
+
+.modeBtn {
+  flex: 1;
+  height: 76rpx;
+  border-radius: $radius-button;
+  background: $color-bg-card;
+  color: $color-text-secondary;
+  font-size: 27rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: $shadow-card;
+  white-space: nowrap;
+}
+
+.modeActive {
+  background: linear-gradient(135deg, $color-primary, $color-primary-dark);
+  color: #fff;
+  font-weight: $font-weight-semibold;
+}
+
+.sourceBar {
+  display: flex;
+  gap: 16rpx;
+  margin-bottom: 24rpx;
+}
+
+.sourceOpt {
+  padding: 0 32rpx;
+  height: 64rpx;
+  border-radius: $radius-button;
+  border: 2rpx solid $color-border;
+  background: $color-bg-card;
+  color: $color-text-tertiary;
+  font-size: 25rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+
+.sourceActive {
+  border-color: $color-primary;
+  color: $color-primary;
+  background: rgba(79, 124, 255, 0.08);
+  font-weight: $font-weight-semibold;
+}
+
+// ---------- 答题卡 ----------
+.practiceCard {
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  padding: 36rpx 32rpx 40rpx;
+}
+
+.progress {
+  font-size: 25rpx;
+  color: $color-text-tertiary;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.progressNum {
+  color: $color-primary;
+  font-weight: $font-weight-bold;
+  font-size: 30rpx;
+}
+
+.liveRate {
+  margin-left: auto;
+  font-size: 22rpx;
+}
+
+.prompt {
+  margin: 36rpx 0 32rpx;
+  min-height: 120rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.promptCn {
+  font-size: 36rpx;
+  font-weight: $font-weight-semibold;
+  color: $color-text-primary;
+  line-height: 1.5;
+}
+
+.promptEnWrap {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.promptEn {
+  font-size: 44rpx;
+  font-weight: $font-weight-bold;
+  color: $color-primary-dark;
+}
+
+.promptPhonetic {
+  margin-left: 16rpx;
+  font-size: 26rpx;
+  color: $color-text-tertiary;
+}
+
+.promptHint {
+  margin-top: 16rpx;
+  font-size: 23rpx;
+  color: $color-accent;
+}
+
+.answerInput {
+  width: 100%;
+  box-sizing: border-box;
+  height: 88rpx;
+  background: $color-bg-page;
+  border-radius: $radius-sm;
+  padding: 0 24rpx;
+  font-size: 29rpx;
+  margin-bottom: 28rpx;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 16rpx;
+}
+
+.actBtn {
+  @include button-reset;
+  height: $button-height-md;
+  border-radius: $radius-button;
+  font-size: 29rpx;
+  width: 100%;
+}
+
+.primaryBtn {
+  background: linear-gradient(135deg, $color-primary, $color-primary-dark);
+  color: #fff;
+  font-weight: $font-weight-semibold;
+}
+
+.actRow {
+  display: flex;
+  gap: 16rpx;
+}
+
+.ghostBtn {
+  flex: 1;
+  background: $color-bg-hover;
+  color: $color-text-secondary;
+}
+
+// ---------- 判分结果 ----------
+.resultBox {
+  margin-top: 28rpx;
+  border-radius: $radius-md;
+  padding: 24rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.resCorrect {
+  background: rgba(39, 174, 96, 0.08);
+  border: 1rpx solid rgba(39, 174, 96, 0.3);
+}
+
+.resWrong {
+  background: rgba(231, 76, 60, 0.07);
+  border: 1rpx solid rgba(231, 76, 60, 0.3);
+}
+
+.resShow {
+  background: $color-bg-hover;
+  border: 1rpx solid $color-border;
+}
+
+.resTitle {
+  font-size: 29rpx;
+  font-weight: $font-weight-semibold;
+  margin-bottom: 12rpx;
+}
+
+.resAnswer {
+  display: flex;
+  align-items: baseline;
+}
+
+.resWord {
+  font-size: 34rpx;
+  font-weight: $font-weight-bold;
+  color: $color-primary-dark;
+}
+
+.resPhonetic {
+  margin-left: 14rpx;
+  font-size: 24rpx;
+  color: $color-text-tertiary;
+}
+
+.resMeaning {
+  margin-top: 8rpx;
+  font-size: 26rpx;
+  color: $color-text-secondary;
+}
+
+.resFav {
+  margin-top: 10rpx;
+  font-size: 23rpx;
+  color: $color-accent;
+}
+
+// ---------- 总结 ----------
+.summaryCard {
+  margin-top: 40rpx;
+  background: $color-bg-card;
+  border-radius: $radius-lg;
+  box-shadow: $shadow-card;
+  padding: 56rpx 32rpx 48rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.summaryEmoji {
+  font-size: 88rpx;
+}
+
+.summaryTitle {
+  margin-top: 16rpx;
+  font-size: 36rpx;
+  font-weight: $font-weight-bold;
+}
+
+.summaryStats {
+  display: flex;
+  width: 100%;
+  margin: 40rpx 0 24rpx;
+}
+
+.sumItem {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sumNum {
+  font-size: 40rpx;
+  font-weight: $font-weight-bold;
+  color: $color-primary;
+}
+
+.good {
+  color: $color-success;
+}
+
+.bad {
+  color: $color-error;
+}
+
+.sumLabel {
+  margin-top: 8rpx;
+  font-size: 23rpx;
+  color: $color-text-tertiary;
+}
+
+.sumTip {
+  font-size: 23rpx;
+  color: $color-text-tertiary;
+  margin-bottom: 40rpx;
+}
+
+.againBtn {
+  @include button-reset;
+  width: 360rpx;
+  height: $button-height-md;
+  border-radius: $radius-button;
+  background: linear-gradient(135deg, $color-primary, $color-primary-dark);
+  color: #fff;
+  font-size: 29rpx;
+  font-weight: $font-weight-semibold;
+}
